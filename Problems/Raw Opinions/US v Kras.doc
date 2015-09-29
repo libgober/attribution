@@ -1,0 +1,3557 @@
+{\rtf1 \ansi 
+{\colortbl;
+\red0\green0\blue0;
+\red255\green255\blue255;
+\red255\green0\blue0;
+\red0\green255\blue0;
+\red0\green0\blue255;
+\red0\green255\blue255;
+\red255\green0\blue255;
+\red255\green255\blue0;
+\red0\green0\blue128;
+\red0\green128\blue128;
+\red0\green128\blue0;
+\red128\green0\blue128;
+\red128\green0\blue0;
+\red128\green128\blue0;
+\red128\green128\blue128;
+\red192\green192\blue192;
+\red170\green170\blue170;
+\red85\green85\blue85;
+\red37\green37\blue37;
+\red119\green119\blue119;
+\red182\green231\blue243;
+\red255\green255\blue174;
+\red203\green203\blue203;
+\red127\green127\blue127;
+\red20\green93\blue164;
+\red245\green245\blue245;
+\red254\green254\blue0;
+\red240\green248\blue255;
+\red229\green243\blue255;
+\red179\green218\blue255;
+\red247\green247\blue247;
+\red223\green223\blue223;
+\red239\green239\blue239;
+\red204\green204\blue204;
+\red236\green236\blue236;
+\red187\green187\blue187;
+\red190\green190\blue252;
+\red255\green255\blue102;
+\red255\green255\blue204;
+\red255\green204\blue0;
+\red227\green227\blue227;
+\red105\green105\blue105;
+\red71\green120\blue194;
+\red80\green80\blue80;
+\red58\green58\blue58;
+\red246\green246\blue246;
+\red120\green162\blue47;
+\red151\green151\blue151;
+\red183\green242\blue206;
+\red255\green194\blue211;
+\red102\green102\blue102;
+\red221\green195\blue236;
+\red153\green255\blue102;
+\red204\green255\blue255;
+}
+{\fonttbl {
+\f0 Arial;}{
+\f1 Symbol;}{
+\f2 Times New Roman;}{
+\f3 georgia;}{
+\f4 sans-serif;}{
+\f5 serif;}
+}
+{\*\generator Apache XML Graphics RTF Library;}
+\fet0 \ftnbj \paperw12240 \paperh15840 \margt1800 \margb1080 \margl1080 \margr1080 \headery720 \footery720 \itap0 \cols1 
+\sectd {\header {
+{\trowd \ltrrow \trleft0 
+\clpadb60 \clpadfb3 \clpadl400 \clpadfl3 \clbrdrt \clbrdrl \clbrdrr \trql \clvertalb \clwWidth9380 \cellx9380 
+\intbl 
+{\li0 \f0 \b0 \ri0 \fs18 \cf1 \qc \i0 
+{\f0 \strike0 \ul0 \b0 \fs18 \cf1 \i0 
+}
+{\f0 \b1 \fs18 \cf1 \i0 
+{\f0 \strike0 \ul0 \b1 \sa0 \sb0 \fs18 \cf1 \i0 
+Libgober, Brian
+}
+}
+{\f0 \strike0 \ul0 \b0 \sa0 \sb0 \fs18 \cf1 \i0 
+ 
+}
+{\f0 \b1 \fs18 \cf1 \i0 
+{\f0 \strike0 \ul0 \b1 \sa0 \sb0 \fs18 \cf1 \i0 
+7/14/2015
+}
+}
+{\f0 \strike0 \ul0 \b0 \fs18 \cf1 \i0 
+\par 
+}
+}
+{\li0 \f0 \b0 \ri0 \fs18 \cf1 \qc \i0 
+{\f0 \strike0 \ul0 \b0 \fs18 \cf1 \i0 
+}
+{\f0 \b1 \fs18 \cf1 \i0 
+{\f0 \strike0 \ul0 \b1 \sa0 \sb0 \fs18 \cf1 \i0 
+For Educational Use Only
+}
+}
+{\f0 \strike0 \ul0 \b0 \fs18 \cf1 \i0 
+}
+}\f0 \li0 \strike0 \ul0 \b0 \sa0 \sb0 \fs18 \ri0 \cf1 \i0 \qc \intbl \cell \row }
+{\trowd \ltrrow \trleft0 
+\clpadb60 \clpadfb3 \clpadl400 \clpadfl3 \clbrdrb \brdrw20 \brdrcf17 \brdrs \clbrdrl \trql \clvertalb \clwWidth9380 \cellx9380 
+\clpadb60 \clpadfb3 \clpadl400 \clpadfl3 \clbrdrb \brdrw20 \brdrcf17 \brdrs \clbrdrr \trql \clwWidth700 \cellx10080 
+\intbl 
+{\li0 \f0 \b0 \ql \ri0 \fs18 \cf1 \i0 
+{\f0 \strike0 \ul0 \b0 \fs18 \cf1 \i0 
+}
+{\f0 \b1 \fs18 \cf18 \i0 
+{\f0 \strike0 \ul0 \b1 \sa0 \sb0 \fs18 \cf18 \i0 
+U.S. v. Kras, 409 U.S. 434 (1973)
+}
+}
+{\f0 \strike0 \ul0 \b0 \fs18 \cf1 \i0 
+}
+}\f0 \li0 \strike0 \ul0 \b0 \sa0 \ql \sb0 \fs18 \ri0 \cf1 \i0 \intbl \cell \intbl 
+{\li0 \f0 \b0 \ri0 \fs18 \cf1 \qr \i0 
+}\f0 \li0 \b0 \fs18 \ri0 \cf1 \i0 \qr \intbl \cell \row }
+{\trowd \lastrow \trleft0 
+\clbrdrb \clbrdrl \trql \clwWidth10080 \cellx10080 
+\intbl 
+{\li0 \f0 \b0 \ql \ri0 \fs18 \cf1 \i0 
+{\f0 \strike0 \ul0 \b0 \sa0 \sb0 \fs18 \cf1 \i0 
+93 S.Ct. 631, 34 L.Ed.2d 626
+}
+}\f0 \li0 \strike0 \ul0 \b0 \sa0 \ql \sb0 \fs18 \ri0 \cf1 \i0 \intbl \cell \row }}\par }{\footer {
+{\trowd \lastrow \trleft0 
+\clpadl60 \clpadfl3 \clbrdrt \brdrw20 \brdrcf17 \brdrs \clbrdrb \clbrdrl \trql \clvertalb \clwWidth9300 \cellx9300 
+\clpadl60 \clpadfl3 \clbrdrt \brdrw20 \brdrcf17 \brdrs \clbrdrb \clbrdrr \trql \clwWidth700 \cellx10000 
+\intbl 
+{\li0 \f0 \b0 \ql \ri0 \fs20 \cf17 \i0 
+{\f0 \strike0 \ul0 \b0 \fs20 \cf17 \i0 
+}
+{\*\shppict {\pict \pngblip \picw78 \pich10 \picwgoal1170 \pichgoal150 89504e470d0a1a0a0000000d494844520000004e0000000a08030000002dbd985500000300504c5445fffffffffdfbfffcf9fdfdfdfafafafffffefffcf8f6f6f6f3f3f3fffdfae2e2e2fff5e8fffaf3fff7ecffa631bbbbbb7f7f7f7676766b6b6bffca849e9e9ef8f8f8ffbf6afffefdff9712fcfcfca4a4a4969696ff9202ffb452fff5e6ff970dfefefeffad41e1e1e1ffe9cd949494ffe6c5fff6e96f6f6fffe6c6ffebd0fff1e0d2d2d2ffd399ff950efff9f2ff9f26fff3e3fff9f0ffd092fff2e1ffb555ffe7c7fff3e4ff8500ffe0b8ffb6558b8b8bffce8dffebd1ff9408929292ffddb0ff9c19ff9811ffb95cfff8eeffecd3cccccc8e8e8effeed8ffa42d626262c9c9c9666666ffe2bcddddddfffbf7ffa32aff970eeaeaea686868dadadaffab3a9a9a9a6d6d6effe8c9878787e3e3e3ff9f20f5f5f5b7b7b7efefef868686ffc77cffe4c1ff9912ffc272ff93056c6c6cffeed7ffd296ffab3d818181ff930aff9e1effaf47fffbf5fff0dbff9100cfcfcfff930cffeacf7a7a7affcf90f7f7f7fbfbfbffa835ff9814ffa32effe9cc676767ffc67afff2e2ffb048ff9509ffdbade0e0e0ffa939ffe5c3dcdcdcffc170ffe8cab3b3b3ffb047f1f1f18c8c8cfffefeffecd4feedd7e8e8e8ffb656ffe2bbfff1df898989ff9b17ffcd8affefdac3c3c3bdbdbdffe1baffc06cffa431fff7edf9f9f9ecececffaf44fff0dd787878ff9919d9d9d9ff8f01ffd8a4727272737373e5e5e5ffe2bdffd9a7646464fffaf2ffdbab686b6effc172ffe9caffe3c0ffdcafffc374ffc477ff981dfffdf9f5f4f2ffb34efff3e2ffe4bfff9e22ffa227fefdfdffc578f1eae1ffeccf6a6a6bff9102ff9201ff9101fffcf775797e7c7c7cff9203dedede5d5d5d6b6c6dffbb60ffbc62707070ffa42bffd49bff9f29ffb04affefdcfff7ebf2f2f2ff950af6f2eeffdfb4696969ffd298ffddb2ff9916ffe1bcff9a0bffa128ffa329b0b0b0ff9d20ff9d23bfbfbfb4b4b4ffb24bff9409ffd49c727375ffa62fffe3bedbdbdbb9b9b96a6a6a6e72776e6e6effaa39ffa024ffa324fffefcfff4e5ff9c29ffb351ff9f2bffe3bc919191ff8d03ffa42eff8f02fffaf4fffaf5ff9000ffa22b9843d85d000000097048597300000b1300000b1301009a9c18000002f94944415478da633e95a6ba9b6145fce75b0c8c738f7e674000469effff94ef474d674003a271ebfb81141777f065646196999b9925be30c9143d6260ed71b36060d04fb444960f2b656160adb364c000f5698140d2396b2d8aa8583d83c63757e6edfd8f8eb05c2aaa5af07572e68975da33e57731743dc9f30b5e7f2aaa7a26b7d495df7e29d2e9b7dfae7b739fc159faf93fc67d39cf24d77b5c665067bcf487c39fe9d35fa5ee4d0ca52f1c623803b74ebdc4747dc56606dd4927eee9306cd1fb9af989e9ee62d68d2c3d812bf6b0787c946766906678f274bf5f95fb79a0cf1c1975189ce55e687e137eadc060f6eef732f9a267d9ecca65920c4bf74edc55a9323d7e373343cd8aaf5bb927685c78e2c7fd756b72b7c4cde52fc2d64e79bee2bfc8835d7c375efd4edefb60e7f4af6aff2eb19ee438d12a9075eff6f92d4a93e73a099c3c6a5d2078ad74b7a2dbe55b1322f53608b77e616066d065babd73d7fbfedddedf9cf75dfb15fa826d8d22efcb775ffe4c906afe23f6ebc7ef4382761ef2f14bbb27adcd79b8e0b7f6b1b2a2e2afcf56fdf35862567859239d71fe8be737ecfc03ff7dfcb2ea0b03d0b853bdc7f337ff3ac117579ba8f4496fd59f5b3c17aee60845ef7c789bf7a5e217e1b7d6cf04ef4f17b9bf76eb937ce5ab562a522553eefefcedf38d3175d3aa3dc5ff8b6fdcfdf76163ea7f063ed6770c20e3fe5b4a1dbef35754fe586ad4199949b3167e7ff8f6997d6c6f8cc67df19b7c4b767cf9a3b9e7c9ec2fa72e4eb812de7ff7cccf49cb3453b632dc15fac5cc7d67f12bf7947bffb9ae9b38ec6510fffe196cdcbfcf776c0e00d3c549a34de5ef3ebd60e4fb94f76fbe3aefde93fa4f1ff3eb1dac3a96bc6d91afec8c4dcbf62de08cb8f8f6595154ea4f86bffcb378a630fefc732cf2c674068b1ad675d3755245affe071ac7a0b1f5d01186af162577775c559338eb20bf37fba9e4b4036b3a6ae51edd3eb5a780e3fc5d0fd588fab5ea9783186456dc3c75fb8bc86d0686f7ed2b0e04293cb0d9df59fee5c45bd5363115a309e5071800dbb45cde95f0d3420000000049454e44ae426082}}
+{\f0 \strike0 \ul0 \b0 \sa0 \sb0 \fs20 \cf17 \i0 
+ \u169\'3f 2015 Thomson Reuters. No claim to original U.S. Government Works.
+}
+}\f0 \li0 \strike0 \ul0 \b0 \sa0 \ql \sb0 \fs20 \ri0 \cf17 \i0 \intbl \cell \intbl 
+{\li0 \f0 \b0 \ri0 \fs20 \cf17 \qr \i0 
+{\b0 \i0 \ul0 \fs20 \f0 \chpgn }
+}\f0 \li0 \strike0 \ul0 \b0 \fs20 \ri0 \cf17 \i0 \qr \intbl \cell \row }}\par }
+{\li0 \f2 \qj \b0 \ri0 \fs20 \par}\sect\sbknone\pgncont\cols1{ \cf1 \i0 
+{\*\bkmkstart co_document_1}{\*\bkmkend co_document_1}
+{\f2 \b0 \fs20 \cf1 \i0 
+{\*\bkmkstart I3ed2db609bf111d991d0cc6b54f12d4d_Target}{\*\bkmkend I3ed2db609bf111d991d0cc6b54f12d4d_Target}
+\par 
+}
+{\li0 \f3 \b0 \ri0 \fs20 \cf1 \qc \i0 
+{\f3 \strike0 \ul0 \b0 \sa0 \sb0 \fs20 \cf1 \i0 
+93 S.Ct. 631
+\par 
+}
+}
+{\li0 \f3 \b0 \ri0 \fs20 \cf1 \qc \i0 
+{\li0 \f3 \b0 \ri0 \fs20 \cf1 \qc \i0 
+{\f3 \strike0 \ul0 \b0 \sa0 \sb0 \fs20 \cf1 \i0 
+Supreme Court of the United States
+\par 
+}
+}
+}
+{\li100 \f3 \b0 \ri100 \fs20 \cf19 \qc \i0 
+{\li100 \f3 \b0 \ri100 \fs20 \cf19 \qc \i0 
+{\li100 \f3 \b0 \ri100 \fs20 \cf19 \qc \i0 
+{\f3 \strike0 \ul0 \b0 \sa0 \sb200 \fs20 \cf19 \i0 
+UNITED STATES, Appellant,
+\par 
+}
+}
+{\li100 \f3 \b0 \ri100 \fs20 \cf19 \qc \i0 
+{\f3 \strike0 \ul0 \b0 \sa0 \sb0 \fs20 \cf19 \i0 
+v.
+\par 
+}
+}
+{\li100 \f3 \b0 \ri100 \fs20 \cf19 \qc \i0 
+{\f3 \strike0 \ul0 \b0 \sa200 \sb0 \fs20 \cf19 \i0 
+Robert William KRAS.
+\par 
+}
+}
+}
+}
+{\li0 \f2 \b0 \ri0 \fs20 \cf1 \qc \i0 
+{\f2 \b0 \fs20 \cf1 \i0 
+{\f3 \b0 \fs20 \cf1 \i0 
+{\f3 \strike0 \ul0 \b0 \sa0 \sb0 \fs20 \cf1 \i0 
+No. 71\u8212\'3f749.
+}
+}
+}
+{\f3 \b0 \fs20 \cf1 \i0 
+{\f3 \b0 \fs20 \cf1 \i0 
+{\f3 \strike0 \ul0 \b0 \sa0 \sb0 \fs20 \cf1 \i0 
+ | 
+}
+}
+{\f3 \b0 \fs20 \cf1 \i0 
+{\f3 \strike0 \ul0 \b0 \sa0 \sb0 \fs20 \cf1 \i0 
+Argued Oct. 18, 1972.
+}
+}
+{\f3 \b0 \fs20 \cf1 \i0 
+{\f3 \strike0 \ul0 \b0 \sa0 \sb0 \fs20 \cf1 \i0 
+ | 
+}
+}
+{\f3 \b0 \fs20 \cf1 \i0 
+{\f3 \strike0 \ul0 \b0 \sa200 \sb0 \fs20 \cf1 \i0 
+Decided Jan. 10, 1973.
+\par 
+}
+}
+}
+}
+{\li0 \f2 \qj \b0 \ri0 \fs20 \cf1 \i0 
+{\li0 \f2 \qj \b0 \ri0 \fs20 \cf1 \i0 
+{\li0 \f2 \qj \b0 \ri0 \fs20 \cf1 \i0 
+{\f2 \strike0 \ul0 \b0 \sa0 \sb0 \fs20 \cf1 \i0 
+Petitioner filed petition for leave to file petition in bankruptcy without prepayment of filing fees. The Government intervened. The United States District Court for the Eastern District of New York, 
+}
+{\field {\*\fldinst HYPERLINK "http://www.westlaw.com/Link/Document/FullText?findType=Y&serNum=1971106625&pubNum=345&originatingDoc=I3ed2db609bf111d991d0cc6b54f12d4d&refType=RP&originationContext=document&vr=3.0&rs=cblt1.0&transitionType=DocumentItem&contextData=(sc.Search)" }{\fldrslt 
+{\f2 \strike0 \ul0 \b0 \sa0 \sb0 \fs20 \cf5 \i0 
+331 F.Supp. 1207,
+}}}
+{\f2 \strike0 \ul0 \b0 \sa0 \sb200 \fs20 \cf1 \i0 
+ granted the petition, and the Government appealed. The Supreme Court, Mr. Justice Blackmun, held that statutory requirement of payment of filing fees as condition precedent to obtaining discharge in bankruptcy has a rational basis and does not deny indigents equal protection of the laws.
+\par 
+}
+}
+}
+{\f2 \strike0 \ul0 \b0 \sa0 \sb0 \fs20 \cf1 \i0 
+\u160\'3f
+\par 
+}
+{\li0 \f2 \qj \b0 \ri0 \fs20 \cf1 \i0 
+{\li0 \f2 \qj \b0 \ri0 \fs20 \cf1 \i0 
+{\f2 \strike0 \ul0 \b0 \sa0 \sb0 \fs20 \cf1 \i0 
+Reversed.
+\par 
+}
+}
+}
+{\f2 \strike0 \ul0 \b0 \sa0 \sb0 \fs20 \cf1 \i0 
+\u160\'3f
+\par 
+}
+{\li0 \f2 \qj \b0 \ri0 \fs20 \cf1 \i0 
+{\li0 \f2 \qj \b0 \ri0 \fs20 \cf1 \i0 
+{\f2 \strike0 \ul0 \b0 \sa0 \sb0 \fs20 \cf1 \i0 
+Mr. Chief Justice Burger filed a concurring opinion.
+\par 
+}
+}
+}
+{\f2 \strike0 \ul0 \b0 \sa0 \sb0 \fs20 \cf1 \i0 
+\u160\'3f
+\par 
+}
+{\li0 \f2 \qj \b0 \ri0 \fs20 \cf1 \i0 
+{\li0 \f2 \qj \b0 \ri0 \fs20 \cf1 \i0 
+{\f2 \strike0 \ul0 \b0 \sa0 \sb0 \fs20 \cf1 \i0 
+Mr. Justice Douglas and Mr. Justice Brennan filed a dissenting opinion.
+\par 
+}
+}
+}
+{\f2 \strike0 \ul0 \b0 \sa0 \sb0 \fs20 \cf1 \i0 
+\u160\'3f
+\par 
+}
+{\li0 \f2 \qj \b0 \ri0 \fs20 \cf1 \i0 
+{\li0 \f2 \qj \b0 \ri0 \fs20 \cf1 \i0 
+{\f2 \strike0 \ul0 \b0 \sa0 \sb0 \fs20 \cf1 \i0 
+Mr. Justice Stewart filed a dissenting opinion in which Mr. Justice Douglas, Mr. Justice Brennan, and Mr. Justice Marshall joined.
+\par 
+}
+}
+}
+{\f2 \strike0 \ul0 \b0 \sa0 \sb0 \fs20 \cf1 \i0 
+\u160\'3f
+\par 
+}
+{\li0 \f2 \qj \b0 \ri0 \fs20 \cf1 \i0 
+{\li0 \f2 \qj \b0 \ri0 \fs20 \cf1 \i0 
+{\f2 \strike0 \ul0 \b0 \sa0 \sb0 \fs20 \cf1 \i0 
+Mr. Justice Marshall filed a dissenting opinion.
+\par 
+}
+}
+}
+{\f2 \strike0 \ul0 \b0 \sa0 \sb0 \fs20 \cf1 \i0 
+\u160\'3f
+\par 
+}
+}
+{\li0 \f2 \qj \b0 \ri0 \fs20 \cf1 \i0 
+{\li0 \f2 \qj \b0 \ri0 \fs20 \cf1 \i0 
+{\li0 \f2 \qj \b0 \ri0 \fs20 \cf1 \i0 
+{\f2 \strike0 \ul0 \b0 \fs20 \cf1 \i0 
+}
+{\f2 \b1 \fs20 \cf1 \i0 
+{\*\bkmkstart co_pp_sp_708_632_1}{\*\bkmkend co_pp_sp_708_632_1}
+{\f2 \strike0 \ul0 \b1 \sa0 \sb0 \fs20 \cf1 \i0 
+**632
+}
+}
+{\f2 \strike0 \ul0 \b0 \sa0 \sb0 \fs20 \cf1 \i0 
+ 
+}
+{\f2 \b1 \fs20 \cf1 \i0 
+{\*\bkmkstart co_pp_sp_780_434_1}{\*\bkmkend co_pp_sp_780_434_1}
+{\f2 \strike0 \ul0 \b1 \sa0 \sb0 \fs20 \cf1 \i0 
+*434
+}
+}
+{\f2 \strike0 \ul0 \b0 \sa0 \sb0 \fs20 \cf1 \i0 
+ Syllabus
+}
+{\f2 \b0 \fs16 \cf1 \i0 
+{\*\bkmkstart co_footnoteReference_B0011973126314_ID0E}{\*\bkmkend co_footnoteReference_B0011973126314_ID0E}
+{\field {\*\fldinst HYPERLINK "#co_footnote_B0011973126314_1" }{\fldrslt 
+{\super \f2 \strike0 \ul0 \b0 \sa0 \sb0 \fs16 \cf5 \i0 
+*
+}}}
+\par 
+}
+}
+}
+{\f2 \strike0 \ul0 \b0 \sa0 \sb0 \fs20 \cf1 \i0 
+\u160\'3f
+\par 
+}
+{\li0 \f2 \qj \b0 \ri0 \fs20 \cf1 \i0 {
+{\trowd \lastrow \trleft0 
+\clbrdrt \clbrdrb \clbrdrl \trql \clvertalt \clwWidth600 \cellx600 
+\clpadb90 \clpadfb3 \clpadl90 \clpadfl3 \clbrdrt \clbrdrb \clbrdrr \trql \clwWidth9480 \cellx10080 
+\intbl 
+{\li0 \ri0 
+{\li0 \f2 \b0 \ql \ri0 \fs20 \cf1 \i0 
+{\f2 \b0 \fs20 \cf1 \i0 
+{\*\bkmkstart co_footnote_B0011973126314_1}{\*\bkmkend co_footnote_B0011973126314_1}
+{\field {\*\fldinst HYPERLINK "#co_footnoteReference_B0011973126314_ID0E" }{\fldrslt 
+{\super \f2 \strike0 \ul0 \b0 \sa0 \sb0 \fs20 \cf5 \i0 
+*
+}\f2 \super \strike0 \ul0 \b0 \sa0 \sb0 \fs20 \cf5 \i0 }}
+\par 
+}
+}
+}\f2 \li0 \b0 \ql \fs20 \ri0 \cf1 \i0 \intbl \cell \intbl 
+{\li0 \ri0 
+{\li0 \f2 \qj \b0 \ri0 \fs18 \cf1 \i0 
+{\li0 \f2 \qj \b0 \ri0 \fs18 \cf1 \i0 
+{\li0 \f2 \qj \b0 \ri0 \fs18 \cf1 \i0 
+{\f2 \strike0 \ul0 \b0 \sa0 \sb0 \fs18 \cf1 \i0 
+The syllabus constitutes no part of the opinion of the Court but has been prepared by the Reporter of Decisions for the convenience of the reader. See 
+}
+{\field {\*\fldinst HYPERLINK "http://www.westlaw.com/Link/Document/FullText?findType=Y&serNum=1906101604&pubNum=708&originatingDoc=I3ed2db609bf111d991d0cc6b54f12d4d&refType=RP&fi=co_pp_sp_708_287&originationContext=document&vr=3.0&rs=cblt1.0&transitionType=DocumentItem&contextData=(sc.Search)#co_pp_sp_708_287" }{\fldrslt 
+{\f2 \strike0 \ul0 \b0 \sa0 \sb0 \fs18 \cf5 \i0 
+United States v. Detroit Timber & Lumber Co., 200 U.S. 321, 337, 26 S.Ct. 282, 287, 50 L.Ed. 499
+}\f2 \strike0 \ul0 \b0 \sa0 \sb0 \fs18 \cf5 \i0 }}
+{\f2 \strike0 \ul0 \b0 \sa0 \sb0 \fs18 \cf1 \i0 
+.
+\par 
+}
+}
+}
+}
+}\f2 \li0 \strike0 \ul0 \b0 \qj \sa0 \sb0 \fs18 \ri0 \cf1 \i0 \intbl \cell \row }}\par 
+}
+{\li0 \f2 \qj \b0 \ri0 \fs20 \cf1 \i0 
+{\li0 \f2 \qj \b0 \ri0 \fs20 \cf1 \i0 
+{\f2 \strike0 \ul0 \b0 \sa0 \sb0 \fs20 \cf1 \i0 
+Appellee, an indigent who filed a voluntary petition in bankruptcy, sought discharge without payment of the fees, aggregating no more than $50, that are a precondition to discharge in such a proceeding. The District Court, relying primarily on 
+}
+{\field {\*\fldinst HYPERLINK "http://www.westlaw.com/Link/Document/FullText?findType=Y&serNum=1971127020&pubNum=708&originatingDoc=I3ed2db609bf111d991d0cc6b54f12d4d&refType=RP&originationContext=document&vr=3.0&rs=cblt1.0&transitionType=DocumentItem&contextData=(sc.Search)" }{\fldrslt 
+{\f2 \strike0 \ul0 \b0 \sa0 \sb0 \fs20 \cf5 \i0 
+Boddie v. Connecticut, 401 U.S. 371, 91 S.Ct. 780, 28 L.Ed.2d 113
+}}}
+{\f2 \strike0 \ul0 \b0 \sa0 \sb0 \fs20 \cf1 \i0 
+ (where the Court held that a State could not consistently with due process and equal protection requirements, deny access to divorce courts to indigents unable to pay filing and other fees), held the bankruptcy fee provisions, as applied to appellee, an unconstitutional denial of Fifth Amendment rights of due process, including equal protection. Held: This case is not controlled by Boddie, supra, For here access to courts is not the only conceivable relief available to bankrupts; the filing-fee requyirement does not deny an indigent the equal protection of the laws, since there is no constitutional right to obtain a discharge of one\rquote s debts in bankruptcy; the right to a discharge in bankruptcy is not a \u8216\'3ffundamental\u8217\'3f right demanding a compelling governmental interest as a precondition to regulation; and there is a rational basis for the fee requirement. Pp. 637\u8212\'3f640.
+\par 
+}
+}
+}
+{\f2 \strike0 \ul0 \b0 \sa0 \sb0 \fs20 \cf1 \i0 
+\u160\'3f
+\par 
+}
+{\li0 \f2 \qj \b0 \ri0 \fs20 \cf1 \i0 
+{\li0 \f2 \qj \b0 \ri0 \fs20 \cf1 \i0 
+{\field {\*\fldinst HYPERLINK "http://www.westlaw.com/Link/Document/FullText?findType=Y&serNum=1971106625&pubNum=345&originatingDoc=I3ed2db609bf111d991d0cc6b54f12d4d&refType=RP&originationContext=document&vr=3.0&rs=cblt1.0&transitionType=DocumentItem&contextData=(sc.Search)" }{\fldrslt 
+{\f2 \strike0 \ul0 \b0 \sa0 \sb0 \fs20 \cf5 \i0 
+331 F.Supp. 1207,
+}}}
+{\f2 \strike0 \ul0 \b0 \sa0 \sb0 \fs20 \cf1 \i0 
+ reversed.
+\par 
+}
+}
+}
+{\f2 \strike0 \ul0 \b0 \sa0 \sb0 \fs20 \cf1 \i0 
+\u160\'3f
+\par 
+}
+}
+{\li0 \f2 \qj \b1 \ri0 \fs20 \cf19 \i0 
+{\*\bkmkstart co_attorneysAndLawFirms_1}{\*\bkmkend co_attorneysAndLawFirms_1}
+{\f2 \strike0 \ul0 \b1 \sa200 \sb200 \fs20 \cf19 \i0 
+Attorneys and Law Firms
+\par 
+}
+}
+{\li0 \f2 \qj \b0 \ri0 \fs20 \cf1 \i0 
+{\li0 \f2 \qj \b0 \ri0 \fs20 \cf1 \i0 
+{\f2 \strike0 \ul0 \b0 \fs20 \cf1 \i0 
+}
+{\f2 \b1 \fs20 \cf1 \i0 
+{\*\bkmkstart co_pp_sp_708_633_1}{\*\bkmkend co_pp_sp_708_633_1}
+{\f2 \strike0 \ul0 \b1 \sa0 \sb0 \fs20 \cf1 \i0 
+**633
+}
+}
+{\f2 \strike0 \ul0 \b0 \sa0 \sb0 \fs20 \cf1 \i0 
+ Edward R. Korman, New York City, for appellant.
+\par 
+}
+}
+{\li0 \f2 \qj \b0 \ri0 \fs20 \cf1 \i0 
+{\f2 \strike0 \ul0 \b0 \sa0 \sb200 \fs20 \cf1 \i0 
+Kalman Finkel, New York City, for appellee.
+\par 
+}
+}
+}
+{\li0 \f2 \qj \b0 \ri0 \fs20 \cf1 \i0 
+{\li0 \f2 \qj \b1 \ri0 \fs20 \cf19 \i0 
+{\*\bkmkstart co_opinion_1}{\*\bkmkend co_opinion_1}
+{\f2 \strike0 \ul0 \b1 \sa0 \sb200 \fs20 \cf19 \i0 
+Opinion
+\par 
+}
+}
+{\li0 \f2 \qj \b0 \ri0 \fs20 \cf1 \i0 
+{\li0 \f2 \qj \b0 \ri0 \fs20 \cf1 \i0 
+{\li0 \f2 \qj \b0 \ri0 \fs20 \cf1 \i0 
+{\li0 \f2 \qj \b0 \ri0 \fs20 \cf1 \i0 
+{\f2 \strike0 \ul0 \b0 \fs20 \cf1 \i0 
+}
+{\f2 \b1 \fs20 \cf1 \i0 
+{\*\bkmkstart co_pp_sp_780_435_1}{\*\bkmkend co_pp_sp_780_435_1}
+{\f2 \strike0 \ul0 \b1 \sa0 \sb0 \fs20 \cf1 \i0 
+*435
+}
+}
+{\f2 \strike0 \ul0 \b0 \sa200 \sb200 \fs20 \cf1 \i0 
+ Mr. Justice BLACKMUN delivered the opinion of the Court.
+\par 
+}
+}
+}
+{\li0 \f2 \qj \b0 \ri0 \fs20 \cf1 \i0 
+{\li0 \f2 \qj \b0 \ri0 \fs20 \cf1 \i0 
+{\*\bkmkstart co_anchor_I8c4829a70e1811e498db8b09b4f04}{\*\bkmkend co_anchor_I8c4829a70e1811e498db8b09b4f04}
+\par 
+{\li0 \f2 \qj \b0 \ri0 \fs20 \cf1 \i0 
+{\li0 \f2 \qj \b0 \ri0 \fs20 \cf1 \i0 
+{\f2 \strike0 \ul0 \b0 \sa0 \sb200 \fs20 \cf1 \i0 
+The Bankruptcy Act and one of this Court\rquote s complementary Orders in Bankruptcy impose fees and make the payment of those fees a condition to a discharge in voluntary bankruptcy.
+\par 
+}
+}
+}
+{\li0 \f2 \qj \b0 \ri0 \fs20 \cf1 \i0 
+{\li0 \f2 \qj \b0 \ri0 \fs20 \cf1 \i0 
+{\f2 \strike0 \ul0 \b0 \sa0 \sb0 \fs20 \cf1 \i0 
+Appellee Kras, an indigent petitioner in bankruptcy, challenged the fees on Fifth Amendment grounds. Upon receiving notice of the constitutional issue in the District Court, the Government moved to intervene as of right under 
+}
+{\field {\*\fldinst HYPERLINK "http://www.westlaw.com/Link/Document/FullText?findType=L&pubNum=1000546&cite=28USCAS2403&originatingDoc=I3ed2db609bf111d991d0cc6b54f12d4d&refType=LQ&originationContext=document&vr=3.0&rs=cblt1.0&transitionType=DocumentItem&contextData=(sc.Search)" }{\fldrslt 
+{\f2 \strike0 \ul0 \b0 \sa0 \sb0 \fs20 \cf5 \i0 
+28 U.S.C. s 2403
+}}}
+{\f2 \strike0 \ul0 \b0 \sa0 \sb0 \fs20 \cf1 \i0 
+ and 
+}
+{\field {\*\fldinst HYPERLINK "http://www.westlaw.com/Link/Document/FullText?findType=L&pubNum=1004365&cite=USFRCPR24&originatingDoc=I3ed2db609bf111d991d0cc6b54f12d4d&refType=LQ&originationContext=document&vr=3.0&rs=cblt1.0&transitionType=DocumentItem&contextData=(sc.Search)" }{\fldrslt 
+{\f2 \strike0 \ul0 \b0 \sa0 \sb0 \fs20 \cf5 \i0 
+Rule 24(a) of the Federal Rules of Civil Procedure
+}}}
+{\f2 \strike0 \ul0 \b0 \sa0 \sb0 \fs20 \cf1 \i0 
+. Leave to intervene was granted. The District Court held the fee provisions to be unconstitutional as applied to 
+}
+{\field {\*\fldinst HYPERLINK "http://www.westlaw.com/Link/Document/FullText?findType=Y&serNum=1971106625&pubNum=345&originatingDoc=I3ed2db609bf111d991d0cc6b54f12d4d&refType=RP&originationContext=document&vr=3.0&rs=cblt1.0&transitionType=DocumentItem&contextData=(sc.Search)" }{\fldrslt 
+{\f2 \strike0 \ul0 \b0 \sa0 \sb0 \fs20 \cf5 \i0 
+Kras. 331 F.Supp. 1207 (EDNY 1971)
+}}}
+{\f2 \strike0 \ul0 \b0 \sa0 \sb0 \fs20 \cf1 \i0 
+. It reached this conclusion in the face of an earlier contrary holding by a unanimous First Circuit. 
+}
+{\field {\*\fldinst HYPERLINK "http://www.westlaw.com/Link/Document/FullText?findType=Y&serNum=1970102192&pubNum=350&originatingDoc=I3ed2db609bf111d991d0cc6b54f12d4d&refType=RP&originationContext=document&vr=3.0&rs=cblt1.0&transitionType=DocumentItem&contextData=(sc.Search)" }{\fldrslt 
+{\f2 \strike0 \ul0 \b0 \sa0 \sb0 \fs20 \cf5 \i0 
+In re Garland, 428 F.2d 1185 (1 Cir. 1970)
+}}}
+{\f2 \strike0 \ul0 \b0 \sa0 \sb0 \fs20 \cf1 \i0 
+, cert. denied, 
+}
+{\field {\*\fldinst HYPERLINK "http://www.westlaw.com/Link/Document/FullText?findType=Y&serNum=1971242747&pubNum=708&originatingDoc=I3ed2db609bf111d991d0cc6b54f12d4d&refType=RP&originationContext=document&vr=3.0&rs=cblt1.0&transitionType=DocumentItem&contextData=(sc.Search)" }{\fldrslt 
+{\f2 \strike0 \ul0 \b0 \sa0 \sb0 \fs20 \cf5 \i0 
+402 U.S. 966, 91 S.Ct. 1624, 29 L.Ed.2d 130 (1971)
+}}}
+{\f2 \strike0 \ul0 \b0 \sa0 \sb0 \fs20 \cf1 \i0 
+. Pursuant to 
+}
+{\field {\*\fldinst HYPERLINK "http://www.westlaw.com/Link/Document/FullText?findType=L&pubNum=1000546&cite=28USCAS1252&originatingDoc=I3ed2db609bf111d991d0cc6b54f12d4d&refType=LQ&originationContext=document&vr=3.0&rs=cblt1.0&transitionType=DocumentItem&contextData=(sc.Search)" }{\fldrslt 
+{\f2 \strike0 \ul0 \b0 \sa0 \sb0 \fs20 \cf5 \i0 
+28 U.S.C. s 1252
+}}}
+{\f2 \strike0 \ul0 \b0 \sa0 \sb0 \fs20 \cf1 \i0 
+, the Government appealed. We noted probable jurisdiction. 
+}
+{\field {\*\fldinst HYPERLINK "http://www.westlaw.com/Link/Document/FullText?findType=Y&serNum=1972242086&pubNum=708&originatingDoc=I3ed2db609bf111d991d0cc6b54f12d4d&refType=RP&originationContext=document&vr=3.0&rs=cblt1.0&transitionType=DocumentItem&contextData=(sc.Search)" }{\fldrslt 
+{\f2 \strike0 \ul0 \b0 \sa0 \sb0 \fs20 \cf5 \i0 
+405 U.S. 915, 92 S.Ct. 955, 30 L.Ed.2d 784 (1972)
+}}}
+{\f2 \strike0 \ul0 \b0 \sa0 \sb200 \fs20 \cf1 \i0 
+.
+\par 
+}
+}
+}
+}
+{\li0 \f2 \qj \b0 \ri0 \fs20 \cf1 \i0 
+{\*\bkmkstart co_anchor_I8c4829a80e1811e498db8b09b4f04}{\*\bkmkend co_anchor_I8c4829a80e1811e498db8b09b4f04}
+\par 
+{\li0 \f2 \b1 \ri0 \fs20 \cf1 \qc \i0 
+{\f2 \b1 \fs20 \cf1 \i0 
+{\f2 \strike0 \ul0 \b1 \sa200 \sb400 \fs20 \cf1 \i0 
+I
+\par 
+}
+}
+}
+{\li0 \f2 \qj \b0 \ri0 \fs20 \cf1 \i0 
+{\li0 \f2 \qj \b0 \ri0 \fs20 \cf1 \i0 
+{\f2 \strike0 \ul0 \b0 \sa0 \sb0 \fs20 \cf1 \i0 
+Section 14(b)(2) of the Bankruptcy Act, 11 U.S.C. s 32(b)(2), provides that, upon the expiration of the time fixed by the court for filing of objections, \u8216\'3fthe court shall discharge the bankrupt if no objection has been filed and if the filing fees required to be paid by this title have been paid in full.\u8217\'3f Section 14(c), 11 U.S.C. s 32(c), similarly provides that the court \u8216\'3fshall grant the discharge unless satisfied that the bankrupt . . . (8) has failed to pay the filing fees required to be paid by this title in full.\u8217\'3f Section 59(g), 11 U.S.C. s 95(g), relates to the dismissal of a petition in bankruptcy and states that \u8216\'3fin the case of a dismissal for failure to pay the costs,\u8217\'3f notice to creditors shall not be required. Three separate sections of the 
+}
+{\f2 \b1 \fs20 \cf1 \i0 
+{\*\bkmkstart co_pp_sp_780_436_1}{\*\bkmkend co_pp_sp_780_436_1}
+{\f2 \strike0 \ul0 \b1 \sa0 \sb0 \fs20 \cf1 \i0 
+*436
+}
+}
+{\f2 \strike0 \ul0 \b0 \sa0 \sb200 \fs20 \cf1 \i0 
+ Act thus contemplate the imposition of fees and condition a discharge upon payment of those fees.
+\par 
+}
+}
+}
+{\li0 \f2 \qj \b0 \ri0 \fs20 \cf1 \i0 
+{\li0 \f2 \qj \b0 \ri0 \fs20 \cf1 \i0 
+{\f2 \strike0 \ul0 \b0 \sa0 \sb0 \fs20 \cf1 \i0 
+Three charges are imposed: $37 for the referee\rquote s salary and expense fund, $10 for compensation of the trustee,
+}
+{\f2 \b0 \fs16 \cf1 \i0 
+{\*\bkmkstart co_footnoteReference_B00211973126314_ID0}{\*\bkmkend co_footnoteReference_B00211973126314_ID0}
+{\field {\*\fldinst HYPERLINK "#co_footnote_B00211973126314_1" }{\fldrslt 
+{\super \f2 \strike0 \ul0 \b0 \sa0 \sb0 \fs16 \cf5 \i0 
+1
+}}}
+}
+{\f2 \strike0 \ul0 \b0 \sa0 \sb0 \fs20 \cf1 \i0 
+ and $3 for the clerk\rquote s services. ss 40(c) (1), 48(c), and 52(a), 11 U.S.C. ss 68(c)(1), 76(c), and 80(a). These total $50.
+}
+{\f2 \b0 \fs16 \cf1 \i0 
+{\*\bkmkstart co_footnoteReference_B00321973126314_ID0}{\*\bkmkend co_footnoteReference_B00321973126314_ID0}
+{\field {\*\fldinst HYPERLINK "#co_footnote_B00321973126314_1" }{\fldrslt 
+{\super \f2 \strike0 \ul0 \b0 \sa0 \sb0 \fs16 \cf5 \i0 
+2
+}}}
+}
+{\f2 \strike0 \ul0 \b0 \sa0 \sb200 \fs20 \cf1 \i0 
+ The fees are payable upon the filing of the petition. Section 40(c) (1), however, contains a proviso that in cases of voluntary bankruptcy, all the fees \u8216\'3fmay be paid in installments, if so authorized by General Order of the Supreme Court of the United States.\u8217\'3f
+\par 
+}
+}
+}
+{\li0 \f2 \qj \b0 \ri0 \fs20 \cf1 \i0 {
+{\trowd \lastrow \trleft0 
+\clbrdrt \clbrdrb \clbrdrl \trql \clvertalt \clwWidth600 \cellx600 
+\clpadb90 \clpadfb3 \clpadl90 \clpadfl3 \clbrdrt \clbrdrb \clbrdrr \trql \clwWidth9480 \cellx10080 
+\intbl 
+{\li0 \ri0 
+{\li0 \f2 \b0 \ql \ri0 \fs20 \cf1 \i0 
+{\f2 \b0 \fs20 \cf1 \i0 
+{\*\bkmkstart co_footnote_B00211973126314_1}{\*\bkmkend co_footnote_B00211973126314_1}
+{\field {\*\fldinst HYPERLINK "#co_footnoteReference_B00211973126314_ID0" }{\fldrslt 
+{\super \f2 \strike0 \ul0 \b0 \sa0 \sb0 \fs20 \cf5 \i0 
+1
+}\f2 \super \strike0 \ul0 \b0 \sa0 \sb0 \fs20 \cf5 \i0 }}
+\par 
+}
+}
+}\f2 \li0 \b0 \ql \fs20 \ri0 \cf1 \i0 \intbl \cell \intbl 
+{\li0 \ri0 
+{\li0 \f2 \qj \b0 \ri0 \fs18 \cf1 \i0 
+{\li0 \f2 \qj \b0 \ri0 \fs18 \cf1 \i0 
+{\li0 \f2 \qj \b0 \ri0 \fs18 \cf1 \i0 
+{\f2 \strike0 \ul0 \b0 \sa0 \sb0 \fs18 \cf1 \i0 
+Additional compensation to the trustee in an appropriate case is allowable under s 48(c), 11 U.S.C. s 76(c), but these provisions have no application for a noasset or fully exempt estate.
+\par 
+}
+}
+}
+}
+}\f2 \li0 \strike0 \ul0 \b0 \qj \sa0 \sb0 \fs18 \ri0 \cf1 \i0 \intbl \cell \row }}\par 
+}
+{\li0 \f2 \qj \b0 \ri0 \fs20 \cf1 \i0 {
+{\trowd \lastrow \trleft0 
+\clbrdrt \clbrdrb \clbrdrl \trql \clvertalt \clwWidth600 \cellx600 
+\clpadb90 \clpadfb3 \clpadl90 \clpadfl3 \clbrdrt \clbrdrb \clbrdrr \trql \clwWidth9480 \cellx10080 
+\intbl 
+{\li0 \ri0 
+{\li0 \f2 \b0 \ql \ri0 \fs20 \cf1 \i0 
+{\f2 \b0 \fs20 \cf1 \i0 
+{\*\bkmkstart co_footnote_B00321973126314_1}{\*\bkmkend co_footnote_B00321973126314_1}
+{\field {\*\fldinst HYPERLINK "#co_footnoteReference_B00321973126314_ID0" }{\fldrslt 
+{\super \f2 \strike0 \ul0 \b0 \sa0 \sb0 \fs20 \cf5 \i0 
+2
+}\f2 \super \strike0 \ul0 \b0 \sa0 \sb0 \fs20 \cf5 \i0 }}
+\par 
+}
+}
+}\f2 \li0 \b0 \ql \fs20 \ri0 \cf1 \i0 \intbl \cell \intbl 
+{\li0 \ri0 
+{\li0 \f2 \qj \b0 \ri0 \fs18 \cf1 \i0 
+{\li0 \f2 \qj \b0 \ri0 \fs18 \cf1 \i0 
+{\li0 \f2 \qj \b0 \ri0 \fs18 \cf1 \i0 
+{\f2 \strike0 \ul0 \b0 \sa0 \sb0 \fs18 \cf1 \i0 
+General Order in Bankruptcy No. 15, 
+}
+{\field {\*\fldinst HYPERLINK "http://www.westlaw.com/Link/Document/FullText?findType=Y&pubNum=780&cite=305US687&originatingDoc=I3ed2db609bf111d991d0cc6b54f12d4d&refType=RP&originationContext=document&vr=3.0&rs=cblt1.0&transitionType=DocumentItem&contextData=(sc.Search)" }{\fldrslt 
+{\f2 \strike0 \ul0 \b0 \sa0 \sb0 \fs18 \cf5 \i0 
+305 U.S. 687 (1939)
+}\f2 \strike0 \ul0 \b0 \sa0 \sb0 \fs18 \cf5 \i0 }}
+{\f2 \strike0 \ul0 \b0 \sa0 \sb0 \fs18 \cf1 \i0 
+, 11 U.S.C.App., p. 2203, provides that a trustee need not be appointed in a no-asset case. When a trustee is not appointed, the aggregate fees are $40.
+\par 
+}
+}
+}
+}
+}\f2 \li0 \strike0 \ul0 \b0 \qj \sa0 \sb0 \fs18 \ri0 \cf1 \i0 \intbl \cell \row }}\par 
+}
+{\li0 \f2 \qj \b0 \ri0 \fs20 \cf1 \i0 
+{\li0 \f2 \qj \b0 \ri0 \fs20 \cf1 \i0 
+{\f2 \strike0 \ul0 \b0 \sa0 \sb0 \fs20 \cf1 \i0 
+The Court\rquote s General Order in Bankruptcy No. 35(4), as amended June 23, 1947, 
+}
+{\field {\*\fldinst HYPERLINK "http://www.westlaw.com/Link/Document/FullText?findType=Y&pubNum=780&cite=331US873&originatingDoc=I3ed2db609bf111d991d0cc6b54f12d4d&refType=RP&fi=co_pp_sp_780_876&originationContext=document&vr=3.0&rs=cblt1.0&transitionType=DocumentItem&contextData=(sc.Search)#co_pp_sp_780_876" }{\fldrslt 
+{\f2 \strike0 \ul0 \b0 \sa0 \sb0 \fs20 \cf5 \i0 
+331 U.S. 873, 876\u8212\'3f877,
+}}}
+{\f2 \strike0 \ul0 \b0 \sa0 \sb200 \fs20 \cf1 \i0 
+ 11 U.S.C.App., p. 2210, complements s 40(c)(1) and provides that, upon a proper showing by the bankrupt, the fees may be paid in installments within a six-month period, which may be extended not to exceed three months.
+}
+{\f2 \b0 \fs16 \cf1 \i0 
+{\*\bkmkstart co_footnoteReference_B00431973126314_ID0}{\*\bkmkend co_footnoteReference_B00431973126314_ID0}
+{\field {\*\fldinst HYPERLINK "#co_footnote_B00431973126314_1" }{\fldrslt 
+{\super \f2 \strike0 \ul0 \b0 \sa0 \sb0 \fs16 \cf5 \i0 
+3
+}}}
+\par 
+}
+}
+}
+{\li0 \f2 \qj \b0 \ri0 \fs20 \cf1 \i0 {
+{\trowd \lastrow \trleft0 
+\clbrdrt \clbrdrb \clbrdrl \trql \clvertalt \clwWidth600 \cellx600 
+\clpadb90 \clpadfb3 \clpadl90 \clpadfl3 \clbrdrt \clbrdrb \clbrdrr \trql \clwWidth9480 \cellx10080 
+\intbl 
+{\li0 \ri0 
+{\li0 \f2 \b0 \ql \ri0 \fs20 \cf1 \i0 
+{\f2 \b0 \fs20 \cf1 \i0 
+{\*\bkmkstart co_footnote_B00431973126314_1}{\*\bkmkend co_footnote_B00431973126314_1}
+{\field {\*\fldinst HYPERLINK "#co_footnoteReference_B00431973126314_ID0" }{\fldrslt 
+{\super \f2 \strike0 \ul0 \b0 \sa0 \sb0 \fs20 \cf5 \i0 
+3
+}\f2 \super \strike0 \ul0 \b0 \sa0 \sb0 \fs20 \cf5 \i0 }}
+\par 
+}
+}
+}\f2 \li0 \b0 \ql \fs20 \ri0 \cf1 \i0 \intbl \cell \intbl 
+{\li0 \ri0 
+{\li0 \f2 \qj \b0 \ri0 \fs18 \cf1 \i0 
+{\li0 \f2 \qj \b0 \ri0 \fs18 \cf1 \i0 
+{\li0 \f2 \qj \b0 \ri0 \fs18 \cf1 \i0 
+{\f2 \strike0 \ul0 \b0 \sa0 \sb0 \fs18 \cf1 \i0 
+\u8216\'3f(4) The petition in a voluntary proceeding under Chapters I to VII . . . of the Act may be accepted for filing by the clerk if accompanied by a verified petition of the bankrupt . . . stating that the petitioner is without and cannot obtain the money with which to pay the filing fees in full at the time of filing. Such petition shall state the facts showing the necessity for the payment of the filing fees in installments and shall set forth the terms upon which the peitioner proposes to pay the filing fees.
+\par 
+}
+}
+{\li0 \f2 \qj \b0 \ri0 \fs18 \cf1 \i0 
+{\f2 \strike0 \ul0 \b0 \sa0 \sb0 \fs18 \cf1 \i0 
+\u8216\'3fa. At the first meeting of creditors or any adjournment thereof, the court . . . shall enter an order fixing the amount and date of payment of such installments. The final installment shall be payable not more than six months after the date of filing of the original petition; provided, however, that for cause shown the court may extend the time of payment of any installment for a period not to exceed three months.
+\par 
+}
+}
+{\li0 \f2 \qj \b0 \ri0 \fs18 \cf1 \i0 
+{\f2 \strike0 \ul0 \b0 \sa0 \sb0 \fs18 \cf1 \i0 
+\u8216\'3fb. Upon the failure of a bankrupt . . . to pay any installment as ordered, the court may dismiss the proceeding for failure to pay costs as provided in Section 59, sub. g. of the Act. . . .
+\par 
+}
+}
+{\li0 \f2 \qj \b0 \ri0 \fs18 \cf1 \i0 
+{\f2 \strike0 \ul0 \b0 \sa0 \sb0 \fs18 \cf1 \i0 
+\u8216\'3fc. No proceedings upon the discharge of a babkrupt . . . shall be instituted until the filing fees are paid in full.\u8217\'3f
+\par 
+}
+}
+}
+}
+}\f2 \li0 \strike0 \ul0 \b0 \qj \sa0 \sb0 \fs18 \ri0 \cf1 \i0 \intbl \cell \row }}\par 
+}
+}
+{\li0 \f2 \qj \b0 \ri0 \fs20 \cf1 \i0 
+{\*\bkmkstart co_anchor_I8c4829a90e1811e498db8b09b4f04}{\*\bkmkend co_anchor_I8c4829a90e1811e498db8b09b4f04}
+\par 
+{\li0 \f2 \b1 \ri0 \fs20 \cf1 \qc \i0 
+{\f2 \b1 \fs20 \cf1 \i0 
+{\f2 \strike0 \ul0 \b1 \fs20 \cf1 \i0 
+}
+{\f2 \b1 \fs20 \cf1 \i0 
+{\*\bkmkstart co_pp_sp_708_634_1}{\*\bkmkend co_pp_sp_708_634_1}
+{\f2 \strike0 \ul0 \b1 \sa0 \sb0 \fs20 \cf1 \i0 
+**634
+}
+}
+{\f2 \strike0 \ul0 \b1 \sa0 \sb0 \fs20 \cf1 \i0 
+ 
+}
+{\f2 \b1 \fs20 \cf1 \i0 
+{\*\bkmkstart co_pp_sp_780_437_1}{\*\bkmkend co_pp_sp_780_437_1}
+{\f2 \strike0 \ul0 \b1 \sa0 \sb0 \fs20 \cf1 \i0 
+*437
+}
+}
+{\f2 \strike0 \ul0 \b1 \sa200 \sb400 \fs20 \cf1 \i0 
+ II
+\par 
+}
+}
+}
+{\li0 \f2 \qj \b0 \ri0 \fs20 \cf1 \i0 
+{\li0 \f2 \qj \b0 \ri0 \fs20 \cf1 \i0 
+{\f2 \strike0 \ul0 \b0 \sa0 \sb200 \fs20 \cf1 \i0 
+Robert William Kras presented his voluntary petition in bankruptcy to the United States District Court for the Eastern District of New York on May 28, 1971. The petition was accompanied by Kras\rquote  motion for leave to file and proceed in bankruptcy without payment of any of the filing fees as a condition precedent to discharge. The motion was supported by Kras\rquote  affidavit containing the following allegations that have not been controverted by the Government:
+\par 
+}
+}
+}
+{\li0 \f2 \qj \b0 \ri0 \fs20 \cf1 \i0 
+{\li0 \f2 \qj \b0 \ri0 \fs20 \cf1 \i0 
+{\f2 \strike0 \ul0 \b0 \sa0 \sb0 \fs20 \cf1 \i0 
+1. Kras resides in a 2 1/2-room apartment with his wife, two children, ages 5 years and 8 months, his mother, and his mother\rquote s 6-year-old dauthter. His younger child suffers from 
+}
+{\field {\*\fldinst HYPERLINK "http://www.westlaw.com/Link/Document/FullText?entityType=disease&entityId=Ic2cd2209475411db9765f9243f53508a&originationContext=document&transitionType=DocumentItem&contextData=(sc.Default)&vr=3.0&rs=cblt1.0" }{\fldrslt 
+{\f2 \strike0 \ul0 \b0 \sa0 \sb0 \fs20 \cf5 \i0 
+cystic fibrosis
+}}}
+{\f2 \strike0 \ul0 \b0 \sa0 \sb200 \fs20 \cf1 \i0 
+ and is undergoing treatment in a medical center.
+\par 
+}
+}
+}
+{\li0 \f2 \qj \b0 \ri0 \fs20 \cf1 \i0 
+{\li0 \f2 \qj \b0 \ri0 \fs20 \cf1 \i0 
+{\f2 \strike0 \ul0 \b0 \sa0 \sb0 \fs20 \cf1 \i0 
+2. Kras has been unemployed since May 1969 except for odd jobs producing about $300 in 1969 and a like amount in 1970. His last steady job was as an insurance agent with Metropolitan Life Insurance Company. He was discharged by Metropolitan in 1969 when premiums he had collected were stolen from his home and he was unable to make up the amount to his employer. Metropolitan\rquote s claim against him has increased to over $1,000 and is one of the debts listed in his bankruptcy petition. He has diligently sought steady employment in New York City, but, because of unfavorable references from Metropolitan, he has been unsuccessful. Mrs. Kras was employed until March 1970, when she was 
+}
+{\f2 \b1 \fs20 \cf1 \i0 
+{\*\bkmkstart co_pp_sp_780_438_1}{\*\bkmkend co_pp_sp_780_438_1}
+{\f2 \strike0 \ul0 \b1 \sa0 \sb0 \fs20 \cf1 \i0 
+*438
+}
+}
+{\f2 \strike0 \ul0 \b0 \sa0 \sb200 \fs20 \cf1 \i0 
+ forced to stop because of pregnancy. All her attention now will be devoted to caring for the younger child who is coming out of the hospital soon.
+\par 
+}
+}
+}
+{\li0 \f2 \qj \b0 \ri0 \fs20 \cf1 \i0 
+{\li0 \f2 \qj \b0 \ri0 \fs20 \cf1 \i0 
+{\f2 \strike0 \ul0 \b0 \sa0 \sb0 \fs20 \cf1 \i0 
+3. The Kras household subsists entirely on $210 per month public assistance received for Kras\rquote  own family and $156 per month public assistance received for his mother and her daughter. These benefis are all expended for rent and day-to-day necessities. The rent is $102 per month. Kras owns no automobile and no asset that is non-exempt under the bankruptcy law. He receives no unemployment or disability benefit. His sole assets are wearing apparel and $50 worth of essential houselhold goods that are exempt under s 6 of the Act, 11 U.S.C. s 24, and under New York 
+}
+{\field {\*\fldinst HYPERLINK "http://www.westlaw.com/Link/Document/FullText?findType=L&pubNum=1000300&cite=NYCPS5205&originatingDoc=I3ed2db609bf111d991d0cc6b54f12d4d&refType=LQ&originationContext=document&vr=3.0&rs=cblt1.0&transitionType=DocumentItem&contextData=(sc.Search)" }{\fldrslt 
+{\f2 \strike0 \ul0 \b0 \sa0 \sb0 \fs20 \cf5 \i0 
+Civil Practice Laws and Rules s 5205 (1963)
+}}}
+{\f2 \strike0 \ul0 \b0 \sa0 \sb200 \fs20 \cf1 \i0 
+. He has a couch of negligible value in storage on which a $6 payment is due monthly.
+\par 
+}
+}
+}
+{\li0 \f2 \qj \b0 \ri0 \fs20 \cf1 \i0 
+{\li0 \f2 \qj \b0 \ri0 \fs20 \cf1 \i0 
+{\f2 \strike0 \ul0 \b0 \sa0 \sb200 \fs20 \cf1 \i0 
+4. Because of his poverty, Kras is wholly unable to pay or promise to pay the bankruptcy fees, even in small installments. He has been unable to borrow money. The New York City Department of Social Services refuses to allot money for payment of the fees. He has no prospect of immediate employment.
+\par 
+}
+}
+}
+{\li0 \f2 \qj \b0 \ri0 \fs20 \cf1 \i0 
+{\li0 \f2 \qj \b0 \ri0 \fs20 \cf1 \i0 
+{\f2 \strike0 \ul0 \b0 \sa0 \sb200 \fs20 \cf1 \i0 
+5. Kras seeks a discharge in bankruptcy of $6,428.69 in total indebtedness in order to relieve himself and his family of the distress of financial insolvency and creditor harassment and in order to make a new start in life. It is especially important that he obtain a discharge of his debt to Metropolitan soon \u8216\'3fbecause until that is cleared up Metropolitan will continue to falsely charge me with fraud and give me bad references which prevent my getting employment.\u8217\'3f
+\par 
+}
+}
+}
+{\li0 \f2 \qj \b0 \ri0 \fs20 \cf1 \i0 
+{\li0 \f2 \qj \b0 \ri0 \fs20 \cf1 \i0 
+{\f2 \strike0 \ul0 \b0 \sa0 \sb0 \fs20 \cf1 \i0 
+The District Court\rquote s opinion contains an order, 
+}
+{\field {\*\fldinst HYPERLINK "http://www.westlaw.com/Link/Document/FullText?findType=Y&serNum=1971106625&pubNum=345&originatingDoc=I3ed2db609bf111d991d0cc6b54f12d4d&refType=RP&fi=co_pp_sp_345_1215&originationContext=document&vr=3.0&rs=cblt1.0&transitionType=DocumentItem&contextData=(sc.Search)#co_pp_sp_345_1215" }{\fldrslt 
+{\f2 \strike0 \ul0 \b0 \sa0 \sb0 \fs20 \cf5 \i0 
+331 F.Supp., at 1215,
+}}}
+{\f2 \strike0 \ul0 \b0 \sa0 \sb0 \fs20 \cf1 \i0 
+ granting Kras\rquote  motion for leave to file his petition in bankruptcy without prepayment of fees. He was adjudged a bankrupt on September 13, 
+}
+{\f2 \b1 \fs20 \cf1 \i0 
+{\*\bkmkstart co_pp_sp_780_439_1}{\*\bkmkend co_pp_sp_780_439_1}
+{\f2 \strike0 \ul0 \b1 \sa0 \sb0 \fs20 \cf1 \i0 
+*439
+}
+}
+{\f2 \strike0 \ul0 \b0 \sa0 \sb0 \fs20 \cf1 \i0 
+ 1971. Later, the referee, upon consent of the parties, entered an 
+}
+{\f2 \b1 \fs20 \cf1 \i0 
+{\*\bkmkstart co_pp_sp_708_635_1}{\*\bkmkend co_pp_sp_708_635_1}
+{\f2 \strike0 \ul0 \b1 \sa0 \sb0 \fs20 \cf1 \i0 
+**635
+}
+}
+{\f2 \strike0 \ul0 \b0 \sa0 \sb200 \fs20 \cf1 \i0 
+ order allowing Kras to conduct all necessary proceedings in bankruptcy up to but not including discharge. The referee stayed the discharge pending disposition of this appeal.
+\par 
+}
+}
+}
+}
+{\li0 \f2 \qj \b0 \ri0 \fs20 \cf1 \i0 
+{\*\bkmkstart co_anchor_I8c4829aa0e1811e498db8b09b4f04}{\*\bkmkend co_anchor_I8c4829aa0e1811e498db8b09b4f04}
+\par 
+{\li0 \f2 \b1 \ri0 \fs20 \cf1 \qc \i0 
+{\f2 \b1 \fs20 \cf1 \i0 
+{\f2 \strike0 \ul0 \b1 \sa200 \sb400 \fs20 \cf1 \i0 
+III
+\par 
+}
+}
+}
+{\li0 \f2 \qj \b0 \ri0 \fs20 \cf1 \i0 
+{\li0 \f2 \qj \b0 \ri0 \fs20 \cf1 \i0 
+{\f2 \strike0 \ul0 \b0 \sa0 \sb0 \fs20 \cf1 \i0 
+In the District Court Kras first presented a statutory argument\u8212\'3fand, alternatively, one based in common law\u8212\'3fthat he was entitled to relief from payment of the bankruptcy charges because of the provisions of 
+}
+{\field {\*\fldinst HYPERLINK "http://www.westlaw.com/Link/Document/FullText?findType=L&pubNum=1000546&cite=28USCAS1915&originatingDoc=I3ed2db609bf111d991d0cc6b54f12d4d&refType=RB&originationContext=document&vr=3.0&rs=cblt1.0&transitionType=DocumentItem&contextData=(sc.Search)#co_pp_8b3b0000958a4" }{\fldrslt 
+{\f2 \strike0 \ul0 \b0 \sa0 \sb0 \fs20 \cf5 \i0 
+28 U.S.C. s 1915(a)
+}}}
+{\f2 \strike0 \ul0 \b0 \sa0 \sb0 \fs20 \cf1 \i0 
+.
+}
+{\f2 \b0 \fs16 \cf1 \i0 
+{\*\bkmkstart co_footnoteReference_B00541973126314_ID0}{\*\bkmkend co_footnoteReference_B00541973126314_ID0}
+{\field {\*\fldinst HYPERLINK "#co_footnote_B00541973126314_1" }{\fldrslt 
+{\super \f2 \strike0 \ul0 \b0 \sa0 \sb0 \fs16 \cf5 \i0 
+4
+}}}
+}
+{\f2 \strike0 \ul0 \b0 \sa0 \sb0 \fs20 \cf1 \i0 
+ This is the in forma pauperis statute that has its origin in the Act of July 20, 1892, c. 209, 27 Stat. 252. See also 
+}
+{\field {\*\fldinst HYPERLINK "http://www.westlaw.com/Link/Document/FullText?findType=L&pubNum=1000546&cite=28USCAS832&originatingDoc=I3ed2db609bf111d991d0cc6b54f12d4d&refType=LQ&originationContext=document&vr=3.0&rs=cblt1.0&transitionType=DocumentItem&contextData=(sc.Search)" }{\fldrslt 
+{\f2 \strike0 \ul0 \b0 \sa0 \sb0 \fs20 \cf5 \i0 
+28 U.S.C. ss 832
+}}}
+{\f2 \strike0 \ul0 \b0 \sa0 \sb200 \fs20 \cf1 \i0 
+\u8212\'3f836 (1940 ed.).
+\par 
+}
+}
+}
+{\li0 \f2 \qj \b0 \ri0 \fs20 \cf1 \i0 {
+{\trowd \lastrow \trleft0 
+\clbrdrt \clbrdrb \clbrdrl \trql \clvertalt \clwWidth600 \cellx600 
+\clpadb90 \clpadfb3 \clpadl90 \clpadfl3 \clbrdrt \clbrdrb \clbrdrr \trql \clwWidth9480 \cellx10080 
+\intbl 
+{\li0 \ri0 
+{\li0 \f2 \b0 \ql \ri0 \fs20 \cf1 \i0 
+{\f2 \b0 \fs20 \cf1 \i0 
+{\*\bkmkstart co_footnote_B00541973126314_1}{\*\bkmkend co_footnote_B00541973126314_1}
+{\field {\*\fldinst HYPERLINK "#co_footnoteReference_B00541973126314_ID0" }{\fldrslt 
+{\super \f2 \strike0 \ul0 \b0 \sa0 \sb0 \fs20 \cf5 \i0 
+4
+}\f2 \super \strike0 \ul0 \b0 \sa0 \sb0 \fs20 \cf5 \i0 }}
+\par 
+}
+}
+}\f2 \li0 \b0 \ql \fs20 \ri0 \cf1 \i0 \intbl \cell \intbl 
+{\li0 \ri0 
+{\li0 \f2 \qj \b0 \ri0 \fs18 \cf1 \i0 
+{\li0 \f2 \qj \b0 \ri0 \fs18 \cf1 \i0 
+{\li0 \f2 \qj \b0 \ri0 \fs18 \cf1 \i0 
+{\f2 \strike0 \ul0 \b0 \sa0 \sb0 \fs18 \cf1 \i0 
+\u8216\'3fAny court of the United States may authorize the commencement, prosecution or defense of any suit, action or proceeding, civil or criminal, or appeal therein, without prepayment of fees and costs or security therefor, by a person who makes affidavit that he is unable to pay such costs or give security therefor. Such affidavit shall state the nature of the action, defense or appeal and affiant\rquote s belief that he is entitled to redress.\u8217\'3f
+\par 
+}
+}
+}
+}
+}\f2 \li0 \strike0 \ul0 \b0 \qj \sa0 \sb0 \fs18 \ri0 \cf1 \i0 \intbl \cell \row }}\par 
+}
+{\li0 \f2 \qj \b0 \ri0 \fs20 \cf1 \i0 
+{\li0 \f2 \qj \b0 \ri0 \fs20 \cf1 \i0 
+{\f2 \strike0 \ul0 \b0 \sa0 \sb0 \fs20 \cf1 \i0 
+The District Court rejected the argument despite the seeming facial application of 
+}
+{\field {\*\fldinst HYPERLINK "http://www.westlaw.com/Link/Document/FullText?findType=L&pubNum=1000546&cite=28USCAS1915&originatingDoc=I3ed2db609bf111d991d0cc6b54f12d4d&refType=RB&originationContext=document&vr=3.0&rs=cblt1.0&transitionType=DocumentItem&contextData=(sc.Search)#co_pp_8b3b0000958a4" }{\fldrslt 
+{\f2 \strike0 \ul0 \b0 \sa0 \sb0 \fs20 \cf5 \i0 
+s 1915(a)
+}}}
+{\f2 \strike0 \ul0 \b0 \sa0 \sb0 \fs20 \cf1 \i0 
+ to a bankruptcy proceeding as well as to any other. It reached this result by noting that s 51(2) of the Bankruptcy Act, as originally adopted in 1898, 30 Stat. 558, had provided for a waiver of fees upon the filing of an affidavit of inability to pay; that by the passage of the Referees\rquote  Salary Bill in 1946, 60 Stat. 326, bankruptcy petitions in forma pauperis were abolished, H.R.Rep. No. 1037, 79th Cong., 1st Sess., 6 (1945); S.Rep. No. 959, 79th Cong., 2d Sess., 7 (1946); and that the 1946 statute, being later and having a positive and specific provision for postponement of fees in cases of indigency, overrode the earlier general provisions of 
+}
+{\field {\*\fldinst HYPERLINK "http://www.westlaw.com/Link/Document/FullText?findType=L&pubNum=1000546&cite=28USCAS1915&originatingDoc=I3ed2db609bf111d991d0cc6b54f12d4d&refType=RB&originationContext=document&vr=3.0&rs=cblt1.0&transitionType=DocumentItem&contextData=(sc.Search)#co_pp_8b3b0000958a4" }{\fldrslt 
+{\f2 \strike0 \ul0 \b0 \sa0 \sb0 \fs20 \cf5 \i0 
+s 1915(a)
+}}}
+{\f2 \strike0 \ul0 \b0 \sa0 \sb0 \fs20 \cf1 \i0 
+. 
+}
+{\field {\*\fldinst HYPERLINK "http://www.westlaw.com/Link/Document/FullText?findType=Y&serNum=1971106625&pubNum=345&originatingDoc=I3ed2db609bf111d991d0cc6b54f12d4d&refType=RP&fi=co_pp_sp_345_1209&originationContext=document&vr=3.0&rs=cblt1.0&transitionType=DocumentItem&contextData=(sc.Search)#co_pp_sp_345_1209" }{\fldrslt 
+{\f2 \strike0 \ul0 \b0 \sa0 \sb0 \fs20 \cf5 \i0 
+331 F.Supp., at 1209
+}}}
+{\f2 \strike0 \ul0 \b0 \sa0 \sb0 \fs20 \cf1 \i0 
+\u8212\'3fs1210. To the same effect are 
+}
+{\f2 \b1 \fs20 \cf1 \i0 
+{\*\bkmkstart co_pp_sp_780_440_1}{\*\bkmkend co_pp_sp_780_440_1}
+{\f2 \strike0 \ul0 \b1 \sa0 \sb0 \fs20 \cf1 \i0 
+*440
+}
+}
+{\f2 \strike0 \ul0 \b0 \sa0 \sb0 \fs20 \cf1 \i0 
+ 
+}
+{\field {\*\fldinst HYPERLINK "http://www.westlaw.com/Link/Document/FullText?findType=Y&serNum=1970102192&pubNum=350&originatingDoc=I3ed2db609bf111d991d0cc6b54f12d4d&refType=RP&fi=co_pp_sp_350_1186&originationContext=document&vr=3.0&rs=cblt1.0&transitionType=DocumentItem&contextData=(sc.Search)#co_pp_sp_350_1186" }{\fldrslt 
+{\f2 \strike0 \ul0 \b0 \sa0 \sb0 \fs20 \cf5 \i0 
+In re Garland, 428 F.2d, at 1186\u8212\'3f1187,
+}}}
+{\f2 \strike0 \ul0 \b0 \sa0 \sb0 \fs20 \cf1 \i0 
+ and 
+}
+{\field {\*\fldinst HYPERLINK "http://www.westlaw.com/Link/Document/FullText?findType=Y&serNum=1971104650&pubNum=345&originatingDoc=I3ed2db609bf111d991d0cc6b54f12d4d&refType=RP&fi=co_pp_sp_345_1084&originationContext=document&vr=3.0&rs=cblt1.0&transitionType=DocumentItem&contextData=(sc.Search)#co_pp_sp_345_1084" }{\fldrslt 
+{\f2 \strike0 \ul0 \b0 \sa0 \sb0 \fs20 \cf5 \i0 
+In re Smith, 323 F.Supp. 1082, 1084\u8212\'3f1085 (Colo.1971)
+}}}
+{\f2 \strike0 \ul0 \b0 \sa0 \sb0 \fs20 \cf1 \i0 
+, the reasoning of which the District Court adopted. So also is 
+}
+{\field {\*\fldinst HYPERLINK "http://www.westlaw.com/Link/Document/FullText?findType=Y&serNum=1972104933&pubNum=345&originatingDoc=I3ed2db609bf111d991d0cc6b54f12d4d&refType=RP&fi=co_pp_sp_345_1298&originationContext=document&vr=3.0&rs=cblt1.0&transitionType=DocumentItem&contextData=(sc.Search)#co_pp_sp_345_1298" }{\fldrslt 
+{\f2 \strike0 \ul0 \b0 \sa0 \sb0 \fs20 \cf5 \i0 
+In re Smith, 341 F.Supp. 1297, 1298 (ND Ill.1972)
+}}}
+{\f2 \strike0 \ul0 \b0 \sa0 \sb200 \fs20 \cf1 \i0 
+.
+\par 
+}
+}
+}
+{\li0 \f2 \qj \b0 \ri0 \fs20 \cf1 \i0 
+{\li0 \f2 \qj \b0 \ri0 \fs20 \cf1 \i0 
+{\field {\*\fldinst HYPERLINK "#co_anchor_F11973126314_1" }{\fldrslt 
+{\super \f2 \strike0 \ul0 \b1 \sa0 \sb0 \fs20 \cf19 \i0 
+[1]
+}}}
+{\f2 \b0 \fs20 \cf5 \i0 
+{\*\bkmkstart co_anchor_B11973126314_1}{\*\bkmkend co_anchor_B11973126314_1}
+}
+{\f2 \strike0 \ul0 \b0 \sa0 \sb0 \fs20 \cf1 \i0 
+ 
+}
+{\field {\*\fldinst HYPERLINK "#co_anchor_F21973126314_1" }{\fldrslt 
+{\super \f2 \strike0 \ul0 \b1 \sa0 \sb0 \fs20 \cf19 \i0 
+[2]
+}}}
+{\f2 \b0 \fs20 \cf5 \i0 
+{\*\bkmkstart co_anchor_B21973126314_1}{\*\bkmkend co_anchor_B21973126314_1}
+}
+{\f2 \strike0 \ul0 \b0 \sa0 \sb0 \fs20 \cf1 \i0 
+ The appellee may well have abandoned the argument on this appeal. Tr. of Oral Arg. 44\u8212\'3f45. In any event, we agree, for the reasons stated by the District Court and by the courts in Garland and in the two Smith cases, supra, that 
+}
+{\field {\*\fldinst HYPERLINK "http://www.westlaw.com/Link/Document/FullText?findType=L&pubNum=1000546&cite=28USCAS1915&originatingDoc=I3ed2db609bf111d991d0cc6b54f12d4d&refType=LQ&originationContext=document&vr=3.0&rs=cblt1.0&transitionType=DocumentItem&contextData=(sc.Search)" }{\fldrslt 
+{\f2 \strike0 \ul0 \b0 \sa0 \sb0 \fs20 \cf5 \i0 
+s 1915(a)
+}}}
+{\f2 \strike0 \ul0 \b0 \sa0 \sb0 \fs20 \cf1 \i0 
+ is not now available in bankruptcy. See 2 W. Collier, Bankruptcy 51.01, pp. 1873\u8212\'3f1874 (14th ed. 1971). Neither do we perceive any common-law right to proceed without payment of fees. Congress, of course, sometime might conclude that 
+}
+{\field {\*\fldinst HYPERLINK "http://www.westlaw.com/Link/Document/FullText?findType=L&pubNum=1000546&cite=28USCAS1915&originatingDoc=I3ed2db609bf111d991d0cc6b54f12d4d&refType=RB&originationContext=document&vr=3.0&rs=cblt1.0&transitionType=DocumentItem&contextData=(sc.Search)#co_pp_8b3b0000958a4" }{\fldrslt 
+{\f2 \strike0 \ul0 \b0 \sa0 \sb0 \fs20 \cf5 \i0 
+s 1915(a)
+}}}
+{\f2 \strike0 \ul0 \b0 \sa0 \sb0 \fs20 \cf1 \i0 
+ should be made applicable to bankruptcy and legislate accordingly.
+\par 
+}
+}
+}
+{\f2 \strike0 \ul0 \b0 \sa0 \sb0 \fs20 \cf1 \i0 
+\u160\'3f
+\par 
+}
+{\li0 \f2 \qj \b0 \ri0 \fs20 \cf1 \i0 
+{\li0 \f2 \qj \b0 \ri0 \fs20 \cf1 \i0 
+{\f2 \strike0 \ul0 \b0 \sa0 \sb0 \fs20 \cf1 \i0 
+The District Court went on to hold, however, 
+}
+{\field {\*\fldinst HYPERLINK "http://www.westlaw.com/Link/Document/FullText?findType=Y&serNum=1971106625&pubNum=345&originatingDoc=I3ed2db609bf111d991d0cc6b54f12d4d&refType=RP&fi=co_pp_sp_345_1210&originationContext=document&vr=3.0&rs=cblt1.0&transitionType=DocumentItem&contextData=(sc.Search)#co_pp_sp_345_1210" }{\fldrslt 
+{\f2 \strike0 \ul0 \b0 \sa0 \sb0 \fs20 \cf5 \i0 
+331 F.Supp., at 1210\u8212\'3f1215,
+}}}
+{\f2 \strike0 \ul0 \b0 \sa0 \sb0 \fs20 \cf1 \i0 
+ that the prescribed fees, payment of which was required as a condition precedent to discharge, served to deny Kras \u8216\'3fhis Fifth Amendment right of due process, including equal protection.\u8217\'3f 
+}
+{\field {\*\fldinst HYPERLINK "http://www.westlaw.com/Link/Document/FullText?findType=Y&serNum=1971106625&originatingDoc=I3ed2db609bf111d991d0cc6b54f12d4d&refType=RP&originationContext=document&vr=3.0&rs=cblt1.0&transitionType=DocumentItem&contextData=(sc.Search)" }{\fldrslt 
+{\f2 \strike0 \ul0 \b0 \sa0 \sb0 \fs20 \cf5 \i0 
+Id., at 1212
+}}}
+{\f2 \strike0 \ul0 \b0 \sa0 \sb0 \fs20 \cf1 \i0 
+. It held that a discharge in bankruptcy was a \u8216\'3ffundamental interest\u8217\'3f that could be denied only when a \u8216\'3fcompelling government interest\u8217\'3f was demonstrated. It noted, 
+}
+{\field {\*\fldinst HYPERLINK "http://www.westlaw.com/Link/Document/FullText?findType=Y&serNum=1971106625&originatingDoc=I3ed2db609bf111d991d0cc6b54f12d4d&refType=RP&originationContext=document&vr=3.0&rs=cblt1.0&transitionType=DocumentItem&contextData=(sc.Search)" }{\fldrslt 
+{\f2 \strike0 \ul0 \b0 \sa0 \sb0 \fs20 \cf5 \i0 
+id., at 1213
+}}}
+{\f2 \strike0 \ul0 \b0 \sa0 \sb0 \fs20 \cf1 \i0 
+, that provision should be made by the referee for the survival, beyond bankruptcy, of the bankrupt\rquote s obligation to pay the fees. The court rested its decision primarily upon 
+}
+{\field {\*\fldinst HYPERLINK "http://www.westlaw.com/Link/Document/FullText?findType=Y&serNum=1971127020&pubNum=708&originatingDoc=I3ed2db609bf111d991d0cc6b54f12d4d&refType=RP&originationContext=document&vr=3.0&rs=cblt1.0&transitionType=DocumentItem&contextData=(sc.Search)" }{\fldrslt 
+{\f2 \strike0 \ul0 \b0 \sa0 \sb0 \fs20 \cf5 \i0 
+Boddie v. Connecticut, 401 U.S. 371, 91 S.Ct. 780, 28 L.Ed.2d 113 (1971)
+}}}
+{\f2 \strike0 \ul0 \b0 \sa0 \sb200 \fs20 \cf1 \i0 
+, which came down after the First Circuit\rquote s decision in Garland, supra. A number of other district courts and bankruptcy referees have reached the same result.
+}
+{\f2 \b0 \fs16 \cf1 \i0 
+{\*\bkmkstart co_footnoteReference_B00651973126314_ID0}{\*\bkmkend co_footnoteReference_B00651973126314_ID0}
+{\field {\*\fldinst HYPERLINK "#co_footnote_B00651973126314_1" }{\fldrslt 
+{\super \f2 \strike0 \ul0 \b0 \sa0 \sb0 \fs16 \cf5 \i0 
+5
+}}}
+\par 
+}
+}
+}
+{\li0 \f2 \qj \b0 \ri0 \fs20 \cf1 \i0 {
+{\trowd \lastrow \trleft0 
+\clbrdrt \clbrdrb \clbrdrl \trql \clvertalt \clwWidth600 \cellx600 
+\clpadb90 \clpadfb3 \clpadl90 \clpadfl3 \clbrdrt \clbrdrb \clbrdrr \trql \clwWidth9480 \cellx10080 
+\intbl 
+{\li0 \ri0 
+{\li0 \f2 \b0 \ql \ri0 \fs20 \cf1 \i0 
+{\f2 \b0 \fs20 \cf1 \i0 
+{\*\bkmkstart co_footnote_B00651973126314_1}{\*\bkmkend co_footnote_B00651973126314_1}
+{\field {\*\fldinst HYPERLINK "#co_footnoteReference_B00651973126314_ID0" }{\fldrslt 
+{\super \f2 \strike0 \ul0 \b0 \sa0 \sb0 \fs20 \cf5 \i0 
+5
+}\f2 \super \strike0 \ul0 \b0 \sa0 \sb0 \fs20 \cf5 \i0 }}
+\par 
+}
+}
+}\f2 \li0 \b0 \ql \fs20 \ri0 \cf1 \i0 \intbl \cell \intbl 
+{\li0 \ri0 
+{\li0 \f2 \qj \b0 \ri0 \fs18 \cf1 \i0 
+{\li0 \f2 \qj \b0 \ri0 \fs18 \cf1 \i0 
+{\li0 \f2 \qj \b0 \ri0 \fs18 \cf1 \i0 
+{\field {\*\fldinst HYPERLINK "http://www.westlaw.com/Link/Document/FullText?findType=Y&serNum=1971104650&pubNum=345&originatingDoc=I3ed2db609bf111d991d0cc6b54f12d4d&refType=RP&originationContext=document&vr=3.0&rs=cblt1.0&transitionType=DocumentItem&contextData=(sc.Search)" }{\fldrslt 
+{\f2 \strike0 \ul0 \b0 \sa0 \sb0 \fs18 \cf5 \i0 
+In re Smith, 323 F.Supp. 1082 (Colo.1971)
+}\f2 \strike0 \ul0 \b0 \sa0 \sb0 \fs18 \cf5 \i0 }}
+{\f2 \strike0 \ul0 \b0 \sa0 \sb0 \fs18 \cf1 \i0 
+ (decided before Boddie); 
+}
+{\field {\*\fldinst HYPERLINK "http://www.westlaw.com/Link/Document/FullText?findType=Y&serNum=1971107388&pubNum=345&originatingDoc=I3ed2db609bf111d991d0cc6b54f12d4d&refType=RP&originationContext=document&vr=3.0&rs=cblt1.0&transitionType=DocumentItem&contextData=(sc.Search)" }{\fldrslt 
+{\f2 \strike0 \ul0 \b0 \sa0 \sb0 \fs18 \cf5 \i0 
+In re Naron, 334 F.Supp. 1150 (Or.1971)
+}\f2 \strike0 \ul0 \b0 \sa0 \sb0 \fs18 \cf5 \i0 }}
+{\f2 \strike0 \ul0 \b0 \sa0 \sb0 \fs18 \cf1 \i0 
+; 
+}
+{\field {\*\fldinst HYPERLINK "http://www.westlaw.com/Link/Document/FullText?findType=Y&serNum=1972103982&pubNum=345&originatingDoc=I3ed2db609bf111d991d0cc6b54f12d4d&refType=RP&originationContext=document&vr=3.0&rs=cblt1.0&transitionType=DocumentItem&contextData=(sc.Search)" }{\fldrslt 
+{\f2 \strike0 \ul0 \b0 \sa0 \sb0 \fs18 \cf5 \i0 
+In re Ottman, 336 F.Supp. 746 (ED Wis.1972)
+}\f2 \strike0 \ul0 \b0 \sa0 \sb0 \fs18 \cf5 \i0 }}
+{\f2 \strike0 \ul0 \b0 \sa0 \sb0 \fs18 \cf1 \i0 
+; 
+}
+{\field {\*\fldinst HYPERLINK "http://www.westlaw.com/Link/Document/FullText?findType=Y&serNum=1972104933&pubNum=345&originatingDoc=I3ed2db609bf111d991d0cc6b54f12d4d&refType=RP&originationContext=document&vr=3.0&rs=cblt1.0&transitionType=DocumentItem&contextData=(sc.Search)" }{\fldrslt 
+{\f2 \strike0 \ul0 \b0 \sa0 \sb0 \fs18 \cf5 \i0 
+In re Smith, 341 F.Supp. 1297 (ND Ill.1972)
+}\f2 \strike0 \ul0 \b0 \sa0 \sb0 \fs18 \cf5 \i0 }}
+{\f2 \strike0 \ul0 \b0 \sa0 \sb0 \fs18 \cf1 \i0 
+; In re Haddock and Beeman, Nos. 14810 and 14811 (Conn.1972); In re Passwater, Nos. IP70\u8212\'3fB\u8212\'3f3697 and IP70\u8212\'3fB\u8212\'3f3698 (SD Ind.1971); In re Ripley, .no. Bk 71\u8212\'3fo\u8212\'3f1003 (Neb.1972); In re Read, No. Bk 71\u8212\'3f826 (WDNY 1971). See 
+}
+{\field {\*\fldinst HYPERLINK "http://www.westlaw.com/Link/Document/FullText?findType=Y&serNum=1972104005&pubNum=345&originatingDoc=I3ed2db609bf111d991d0cc6b54f12d4d&refType=RP&originationContext=document&vr=3.0&rs=cblt1.0&transitionType=DocumentItem&contextData=(sc.Search)" }{\fldrslt 
+{\f2 \strike0 \ul0 \b0 \sa0 \sb0 \fs18 \cf5 \i0 
+O\rquote Brien v. Trevethan, 336 F.Supp. 1029 (Conn.1972)
+}\f2 \strike0 \ul0 \b0 \sa0 \sb0 \fs18 \cf5 \i0 }}
+{\f2 \strike0 \ul0 \b0 \sa0 \sb0 \fs18 \cf1 \i0 
+. But see In re Partilla, No. 71\u8212\'3fB\u8212\'3f380 (SDNY 1971); In re Malevich, No. Bk 29\u8212\'3f71 (NJ 1971).
+\par 
+}
+}
+}
+}
+}\f2 \li0 \strike0 \ul0 \b0 \qj \sa0 \sb0 \fs18 \ri0 \cf1 \i0 \intbl \cell \row }}\par 
+}
+{\li0 \f2 \qj \b0 \ri0 \fs20 \cf1 \i0 
+{\li0 \f2 \qj \b0 \ri0 \fs20 \cf1 \i0 
+{\f2 \strike0 \ul0 \b0 \fs20 \cf1 \i0 
+}
+{\f2 \b1 \fs20 \cf1 \i0 
+{\*\bkmkstart co_pp_sp_708_636_1}{\*\bkmkend co_pp_sp_708_636_1}
+{\f2 \strike0 \ul0 \b1 \sa0 \sb0 \fs20 \cf1 \i0 
+**636
+}
+}
+{\f2 \strike0 \ul0 \b0 \sa0 \sb0 \fs20 \cf1 \i0 
+ 
+}
+{\f2 \b1 \fs20 \cf1 \i0 
+{\*\bkmkstart co_pp_sp_780_441_1}{\*\bkmkend co_pp_sp_780_441_1}
+{\f2 \strike0 \ul0 \b1 \sa0 \sb0 \fs20 \cf1 \i0 
+*441
+}
+}
+{\f2 \strike0 \ul0 \b0 \sa0 \sb200 \fs20 \cf1 \i0 
+ Kras contends that his case falls squarely within Boddie. The Government, on the other hand, stresses the differences between divorce (with which Boddie was concerned) and bankruptcy, and claims that Boddie is not controlling and that the fee requirements constitute a reasonable exercise of Congress\rquote  plenary power over bankruptcy.
+\par 
+}
+}
+}
+}
+{\li0 \f2 \qj \b0 \ri0 \fs20 \cf1 \i0 
+{\*\bkmkstart co_anchor_I8c4829ab0e1811e498db8b09b4f04}{\*\bkmkend co_anchor_I8c4829ab0e1811e498db8b09b4f04}
+\par 
+{\li0 \f2 \b1 \ri0 \fs20 \cf1 \qc \i0 
+{\f2 \b1 \fs20 \cf1 \i0 
+{\f2 \strike0 \ul0 \b1 \sa200 \sb400 \fs20 \cf1 \i0 
+IV
+\par 
+}
+}
+}
+{\li0 \f2 \qj \b0 \ri0 \fs20 \cf1 \i0 
+{\li0 \f2 \qj \b0 \ri0 \fs20 \cf1 \i0 
+{\f2 \strike0 \ul0 \b0 \sa0 \sb0 \fs20 \cf1 \i0 
+Boddie was a challenge by welfare recipients to certain Connecticut procedures, including the payment of court fees and costs, that allegedly restricted their access to the courts for divorce. The plaintiffs, simply by reason of their indigency, were unable to bring their actions. The Court reversed a district court judgment that a State could limit access to its courts by fees \u8216\'3fwhich effectively bar persons on relief from commencing actions therein.\u8217\'3f 286 F.Supp. 986, 972. Mr. Justice Harlan, writing for the Court, stressed state monopolization of the means for legally dissolving marriage and identified the would-be indigent divorce plaintiff with any other action\rquote s impoverished defendant forced into court by the institution of a lawsuit against him. He declared that \u8216\'3fa meaningful opportunity to be heard\u8217\'3f was firmly imbedded in our due process jurisprudence, 
+}
+{\field {\*\fldinst HYPERLINK "http://www.westlaw.com/Link/Document/FullText?findType=Y&serNum=1971127020&pubNum=708&originatingDoc=I3ed2db609bf111d991d0cc6b54f12d4d&refType=RP&fi=co_pp_sp_708_785&originationContext=document&vr=3.0&rs=cblt1.0&transitionType=DocumentItem&contextData=(sc.Search)#co_pp_sp_708_785" }{\fldrslt 
+{\f2 \strike0 \ul0 \b0 \sa0 \sb0 \fs20 \cf5 \i0 
+401 U.S., at 377, 91 S.Ct., at 785,
+}}}
+{\f2 \strike0 \ul0 \b0 \sa0 \sb0 \fs20 \cf1 \i0 
+ and that this was to be protected against denial by laws that operate to jeopardize it for particular individuals, 
+}
+{\field {\*\fldinst HYPERLINK "http://www.westlaw.com/Link/Document/FullText?findType=Y&serNum=1971127020&pubNum=708&originatingDoc=I3ed2db609bf111d991d0cc6b54f12d4d&refType=RP&fi=co_pp_sp_708_786&originationContext=document&vr=3.0&rs=cblt1.0&transitionType=DocumentItem&contextData=(sc.Search)#co_pp_sp_708_786" }{\fldrslt 
+{\f2 \strike0 \ul0 \b0 \sa0 \sb0 \fs20 \cf5 \i0 
+id., at 379\u8212\'3f380, 91 S.Ct., at 786\u8212\'3f787.
+}}}
+{\f2 \strike0 \ul0 \b0 \sa0 \sb0 \fs20 \cf1 \i0 
+ The Court then concluded that Connecticut\rquote s refusal to admit these good-faith divorce plaintiffs to its courts equated with the denial of an opportunity to be heard and, in the absence of a sufficient 
+}
+{\f2 \b1 \fs20 \cf1 \i0 
+{\*\bkmkstart co_pp_sp_780_442_1}{\*\bkmkend co_pp_sp_780_442_1}
+{\f2 \strike0 \ul0 \b1 \sa0 \sb0 \fs20 \cf1 \i0 
+*442
+}
+}
+{\f2 \strike0 \ul0 \b0 \sa0 \sb200 \fs20 \cf1 \i0 
+ countervailing justification for the State\rquote s action, a denial of due process, 
+}
+{\field {\*\fldinst HYPERLINK "http://www.westlaw.com/Link/Document/FullText?findType=Y&serNum=1971127020&pubNum=708&originatingDoc=I3ed2db609bf111d991d0cc6b54f12d4d&refType=RP&fi=co_pp_sp_708_787&originationContext=document&vr=3.0&rs=cblt1.0&transitionType=DocumentItem&contextData=(sc.Search)#co_pp_sp_708_787" }{\fldrslt 
+{\f2 \strike0 \ul0 \b0 \sa0 \sb0 \fs20 \cf5 \i0 
+id., at 380\u8212\'3f381, 91 S.Ct., at 787
+}}}
+\par 
+}
+}
+{\li0 \f2 \qj \b0 \ri0 \fs20 \cf1 \i0 
+{\li0 \f2 \qj \b0 \ri0 \fs20 \cf1 \i0 
+{\f2 \strike0 \ul0 \b0 \sa0 \sb0 \fs20 \cf1 \i0 
+But the Court emphasized that \u8216\'3fwe go no further than necessary to dispose of the case before us.\u8217\'3f 
+}
+{\field {\*\fldinst HYPERLINK "http://www.westlaw.com/Link/Document/FullText?findType=Y&serNum=1971127020&pubNum=708&originatingDoc=I3ed2db609bf111d991d0cc6b54f12d4d&refType=RP&fi=co_pp_sp_708_788&originationContext=document&vr=3.0&rs=cblt1.0&transitionType=DocumentItem&contextData=(sc.Search)#co_pp_sp_708_788" }{\fldrslt 
+{\f2 \strike0 \ul0 \b0 \sa0 \sb0 \fs20 \cf5 \i0 
+Id., at 382, 91 S.Ct., at 788
+}}}
+{\f2 \strike0 \ul0 \b0 \sa0 \sb200 \fs20 \cf1 \i0 
+.
+\par 
+}
+}
+{\li0 \f2 \qj \b0 \ri0 \fs20 \cf1 \i0 
+{\li0 \f2 \qj \b0 \ri0 \fs20 \cf1 \i0 
+{\f2 \strike0 \ul0 \b0 \sa0 \sb0 \fs20 \cf1 \i0 
+\u8216\'3fWe do not decide that access for all individuals to the courts is a right that is, in all circumstances, guaranteed by the Due Process Clause of the Fourteenth Amendment so that its exercise may not be placed beyond the reach of any individual, for, as we have already noted, in the case before us this right is the exclusive precondition to the adjustment of a fundamental human relationship. The requirement that these appellants resort to the judicial process is entirely a state-created matter. Thus we hold only that a State may not, consistent with the obligations imposed on it by the Due Process Clause of the Fourteenth Amendment, pre-empt the right to dissolve this legal relationship without affording all citizens access to the means it has prescribed for doing so.\u8217\'3f 
+}
+{\field {\*\fldinst HYPERLINK "http://www.westlaw.com/Link/Document/FullText?findType=Y&serNum=1971127020&pubNum=708&originatingDoc=I3ed2db609bf111d991d0cc6b54f12d4d&refType=RP&fi=co_pp_sp_708_788&originationContext=document&vr=3.0&rs=cblt1.0&transitionType=DocumentItem&contextData=(sc.Search)#co_pp_sp_708_788" }{\fldrslt 
+{\f2 \strike0 \ul0 \b0 \sa0 \sb0 \fs20 \cf5 \i0 
+Id., at 382\u8212\'3f383, 91 S.Ct., at 788\u8212\'3f789
+}}}
+{\f2 \strike0 \ul0 \b0 \sa0 \sb0 \fs20 \cf1 \i0 
+.
+\par 
+}
+}
+}
+{\f2 \strike0 \ul0 \b0 \sa0 \sb0 \fs20 \cf1 \i0 
+\u160\'3f
+\par 
+}
+}
+{\li0 \f2 \qj \b0 \ri0 \fs20 \cf1 \i0 
+{\li0 \f2 \qj \b0 \ri0 \fs20 \cf1 \i0 
+{\f2 \strike0 \ul0 \b0 \sa0 \sb0 \fs20 \cf1 \i0 
+Mr. Justice Douglas, concurring in the result, rested his conclusion on equal protection rather than due process. \u8216\'3fI do not see the length of the road we must follow if we accept my Brother Harlan\rquote s invitation.\u8217\'3f 
+}
+{\field {\*\fldinst HYPERLINK "http://www.westlaw.com/Link/Document/FullText?findType=Y&serNum=1971127020&pubNum=708&originatingDoc=I3ed2db609bf111d991d0cc6b54f12d4d&refType=RP&fi=co_pp_sp_708_790&originationContext=document&vr=3.0&rs=cblt1.0&transitionType=DocumentItem&contextData=(sc.Search)#co_pp_sp_708_790" }{\fldrslt 
+{\f2 \strike0 \ul0 \b0 \sa0 \sb0 \fs20 \cf5 \i0 
+Id., at 383, 385, 91 S.Ct., at 790.
+}}}
+{\f2 \strike0 \ul0 \b0 \sa0 \sb0 \fs20 \cf1 \i0 
+ Mr. Justice Brennan concurred in part, for he discerned no distinction between divorce and \u8216\'3fany other right arising under federal or state law\u8217\'3f and he, also, found a denial of equal protection. 
+}
+{\field {\*\fldinst HYPERLINK "http://www.westlaw.com/Link/Document/FullText?findType=Y&serNum=1971127020&pubNum=708&originatingDoc=I3ed2db609bf111d991d0cc6b54f12d4d&refType=RP&fi=co_pp_sp_708_791&originationContext=document&vr=3.0&rs=cblt1.0&transitionType=DocumentItem&contextData=(sc.Search)#co_pp_sp_708_791" }{\fldrslt 
+{\f2 \strike0 \ul0 \b0 \sa0 \sb0 \fs20 \cf5 \i0 
+Id., at 386, 387, 91 S.Ct., at 791.
+}}}
+{\f2 \strike0 \ul0 \b0 \sa0 \sb0 \fs20 \cf1 \i0 
+ Mr. Justice Black dissented, 
+}
+{\field {\*\fldinst HYPERLINK "http://www.westlaw.com/Link/Document/FullText?findType=Y&serNum=1971127020&pubNum=708&originatingDoc=I3ed2db609bf111d991d0cc6b54f12d4d&refType=RP&fi=co_pp_sp_708_792&originationContext=document&vr=3.0&rs=cblt1.0&transitionType=DocumentItem&contextData=(sc.Search)#co_pp_sp_708_792" }{\fldrslt 
+{\f2 \strike0 \ul0 \b0 \sa0 \sb0 \fs20 \cf5 \i0 
+id., at 389, 91 S.Ct., at 792,
+}}}
+{\f2 \strike0 \ul0 \b0 \sa0 \sb200 \fs20 \cf1 \i0 
+ feeling that the Connecticut court costs were barred by neither the Due Process Clause nor the Equal Protection Clause of the Fourteenth Amendment.
+\par 
+}
+}
+}
+{\li0 \f2 \qj \b0 \ri0 \fs20 \cf1 \i0 
+{\li0 \f2 \qj \b0 \ri0 \fs20 \cf1 \i0 
+{\f2 \strike0 \ul0 \b0 \sa0 \sb0 \fs20 \cf1 \i0 
+Just two months after Boddie was decided, the Court denied certiorari in 
+}
+{\field {\*\fldinst HYPERLINK "http://www.westlaw.com/Link/Document/FullText?findType=Y&serNum=1971242747&pubNum=780&originatingDoc=I3ed2db609bf111d991d0cc6b54f12d4d&refType=RP&originationContext=document&vr=3.0&rs=cblt1.0&transitionType=DocumentItem&contextData=(sc.Search)" }{\fldrslt 
+{\f2 \strike0 \ul0 \b0 \sa0 \sb0 \fs20 \cf5 \i0 
+Garland. 402 U.S. 966,
+}}}
+{\f2 \strike0 \ul0 \b0 \sa0 \sb0 \fs20 \cf1 \i0 
+ 
+}
+{\field {\*\fldinst HYPERLINK "http://www.westlaw.com/Link/Document/FullText?findType=Y&serNum=1971242747&pubNum=708&originatingDoc=I3ed2db609bf111d991d0cc6b54f12d4d&refType=RP&originationContext=document&vr=3.0&rs=cblt1.0&transitionType=DocumentItem&contextData=(sc.Search)" }{\fldrslt 
+{\f2 \strike0 \ul0 \b0 \sa0 \sb0 \fs20 \cf5 \i0 
+91 S.Ct. 1624,
+}}}
+{\f2 \strike0 \ul0 \b0 \sa0 \sb0 \fs20 \cf1 \i0 
+ 
+}
+{\field {\*\fldinst HYPERLINK "http://www.westlaw.com/Link/Document/FullText?findType=Y&serNum=1971242747&pubNum=471&originatingDoc=I3ed2db609bf111d991d0cc6b54f12d4d&refType=RP&originationContext=document&vr=3.0&rs=cblt1.0&transitionType=DocumentItem&contextData=(sc.Search)" }{\fldrslt 
+{\f2 \strike0 \ul0 \b0 \sa0 \sb0 \fs20 \cf5 \i0 
+29 L.Ed.2d 130.
+}}}
+{\f2 \strike0 \ul0 \b0 \sa0 \sb0 \fs20 \cf1 \i0 
+ Mr. Justice 
+}
+{\f2 \b1 \fs20 \cf1 \i0 
+{\*\bkmkstart co_pp_sp_780_443_1}{\*\bkmkend co_pp_sp_780_443_1}
+{\f2 \strike0 \ul0 \b1 \sa0 \sb0 \fs20 \cf1 \i0 
+*443
+}
+}
+{\f2 \strike0 \ul0 \b0 \sa0 \sb0 \fs20 \cf1 \i0 
+ Brennan was of the opinion that certiorari should have been granted. Mr. Justice Black, in an opinion applicable to Garland and to seven other then-pending cases, 
+}
+{\field {\*\fldinst HYPERLINK "http://www.westlaw.com/Link/Document/FullText?findType=Y&serNum=1971242747&pubNum=708&originatingDoc=I3ed2db609bf111d991d0cc6b54f12d4d&refType=RP&originationContext=document&vr=3.0&rs=cblt1.0&transitionType=DocumentItem&contextData=(sc.Search)" }{\fldrslt 
+{\f2 \strike0 \ul0 \b0 \sa0 \sb0 \fs20 \cf5 \i0 
+402 U.S. 954, 91 S.Ct. 1624,
+}}}
+{\f2 \strike0 \ul0 \b0 \sa0 \sb0 \fs20 \cf1 \i0 
+ 29 L.Ed. 124, dissented and would have heard argument in all eight cases \u8216\'3for reverse them outright on the basis of the decision in Boddie.\u8217\'3f 
+}
+{\field {\*\fldinst HYPERLINK "http://www.westlaw.com/Link/Document/FullText?findType=Y&serNum=1971242747&pubNum=708&originatingDoc=I3ed2db609bf111d991d0cc6b54f12d4d&refType=RP&fi=co_pp_sp_708_1625&originationContext=document&vr=3.0&rs=cblt1.0&transitionType=DocumentItem&contextData=(sc.Search)#co_pp_sp_708_1625" }{\fldrslt 
+{\f2 \strike0 \ul0 \b0 \sa0 \sb0 \fs20 \cf5 \i0 
+Id., at 955, 91 S.Ct., at 1625.
+}}}
+{\f2 \strike0 \ul0 \b0 \sa0 \sb0 \fs20 \cf1 \i0 
+ 
+}
+{\f2 \b1 \fs20 \cf1 \i0 
+{\*\bkmkstart co_pp_sp_708_637_1}{\*\bkmkend co_pp_sp_708_637_1}
+{\f2 \strike0 \ul0 \b1 \sa0 \sb0 \fs20 \cf1 \i0 
+**637
+}
+}
+{\f2 \strike0 \ul0 \b0 \sa0 \sb0 \fs20 \cf1 \i0 
+ For him \u8216\'3fthe need . . . to file for a discharge in bankruptcy seem(ed) . . . more \u8216\'3ffundamental\u8217\'3f than a person\rquote s right to seek a divorce.\rquote  
+}
+{\field {\*\fldinst HYPERLINK "http://www.westlaw.com/Link/Document/FullText?findType=Y&serNum=1971242747&pubNum=708&originatingDoc=I3ed2db609bf111d991d0cc6b54f12d4d&refType=RP&fi=co_pp_sp_708_1626&originationContext=document&vr=3.0&rs=cblt1.0&transitionType=DocumentItem&contextData=(sc.Search)#co_pp_sp_708_1626" }{\fldrslt 
+{\f2 \strike0 \ul0 \b0 \sa0 \sb0 \fs20 \cf5 \i0 
+Id., at 958, 91 S.Ct., at 1626.
+}}}
+{\f2 \strike0 \ul0 \b0 \sa0 \sb0 \fs20 \cf1 \i0 
+ And Mr. Justice Douglas similarly dissented from the denial of certiorari in Garland and in four other cases because \u8216\'3fobtaining a fresh start in life through bankruptcy proceedings . . . (seemingly come(s) within) the Equal Protection Clause.\u8217\'3f 
+}
+{\field {\*\fldinst HYPERLINK "http://www.westlaw.com/Link/Document/FullText?findType=Y&serNum=1971242747&pubNum=708&originatingDoc=I3ed2db609bf111d991d0cc6b54f12d4d&refType=RP&originationContext=document&vr=3.0&rs=cblt1.0&transitionType=DocumentItem&contextData=(sc.Search)" }{\fldrslt 
+{\f2 \strike0 \ul0 \b0 \sa0 \sb0 \fs20 \cf5 \i0 
+402 U.S. 960, 961, 91 S.Ct. 1627
+}}}
+{\f2 \strike0 \ul0 \b0 \sa0 \sb200 \fs20 \cf1 \i0 
+.
+\par 
+}
+}
+}
+{\li0 \f2 \qj \b0 \ri0 \fs20 \cf1 \i0 
+{\li0 \f2 \qj \b0 \ri0 \fs20 \cf1 \i0 
+{\field {\*\fldinst HYPERLINK "#co_anchor_F31973126314_1" }{\fldrslt 
+{\super \f2 \strike0 \ul0 \b1 \sa0 \sb0 \fs20 \cf19 \i0 
+[3]
+}}}
+{\f2 \b0 \fs20 \cf5 \i0 
+{\*\bkmkstart co_anchor_B31973126314_1}{\*\bkmkend co_anchor_B31973126314_1}
+}
+{\f2 \strike0 \ul0 \b0 \sa0 \sb0 \fs20 \cf1 \i0 
+ Thus, although a denial of certiorari normally carries no implication or inference, 
+}
+{\field {\*\fldinst HYPERLINK "http://www.westlaw.com/Link/Document/FullText?findType=Y&serNum=1957120387&pubNum=708&originatingDoc=I3ed2db609bf111d991d0cc6b54f12d4d&refType=RP&fi=co_pp_sp_708_1131&originationContext=document&vr=3.0&rs=cblt1.0&transitionType=DocumentItem&contextData=(sc.Search)#co_pp_sp_708_1131" }{\fldrslt 
+{\f2 \strike0 \ul0 \b0 \sa0 \sb0 \fs20 \cf5 \i0 
+Chessman v. Teets, 354 U.S. 156, 164 n. 13, 77 S.Ct. 1127, 1131, 1 L.Ed.2d 1253 (1957)
+}}}
+{\f2 \strike0 \ul0 \b0 \sa0 \sb0 \fs20 \cf1 \i0 
+; 
+}
+{\field {\*\fldinst HYPERLINK "http://www.westlaw.com/Link/Document/FullText?findType=Y&serNum=1953116771&pubNum=708&originatingDoc=I3ed2db609bf111d991d0cc6b54f12d4d&refType=RP&originationContext=document&vr=3.0&rs=cblt1.0&transitionType=DocumentItem&contextData=(sc.Search)" }{\fldrslt 
+{\f2 \strike0 \ul0 \b0 \sa0 \sb0 \fs20 \cf5 \i0 
+Brown v. Allen, 344 U.S. 443, 73 S.Ct. 397, 97 L.Ed. 469 (1953)
+}}}
+{\f2 \strike0 \ul0 \b0 \sa0 \sb0 \fs20 \cf1 \i0 
+, the pointed dissents of Mr. Justice Black and Mr. Justice Douglas to the denial in Garland so soon after Boddie, and Mr. Justice Harlan\rquote s failure to join the dissenters, surely are not without some significance as to their and the Court\rquote s attitude about the application of the Boddie principle to bankruptcy fees.
+\par 
+}
+}
+}
+{\f2 \strike0 \ul0 \b0 \sa0 \sb0 \fs20 \cf1 \i0 
+\u160\'3f
+\par 
+}
+}
+{\li0 \f2 \qj \b0 \ri0 \fs20 \cf1 \i0 
+{\*\bkmkstart co_anchor_I8c4829ac0e1811e498db8b09b4f04}{\*\bkmkend co_anchor_I8c4829ac0e1811e498db8b09b4f04}
+\par 
+{\li0 \f2 \b1 \ri0 \fs20 \cf1 \qc \i0 
+{\f2 \b1 \fs20 \cf1 \i0 
+{\f2 \strike0 \ul0 \b1 \sa200 \sb400 \fs20 \cf1 \i0 
+V
+\par 
+}
+}
+}
+{\li0 \f2 \qj \b0 \ri0 \fs20 \cf1 \i0 
+{\li0 \f2 \qj \b0 \ri0 \fs20 \cf1 \i0 
+{\field {\*\fldinst HYPERLINK "#co_anchor_F41973126314_1" }{\fldrslt 
+{\super \f2 \strike0 \ul0 \b1 \sa0 \sb0 \fs20 \cf19 \i0 
+[4]
+}}}
+{\f2 \b0 \fs20 \cf5 \i0 
+{\*\bkmkstart co_anchor_B41973126314_1}{\*\bkmkend co_anchor_B41973126314_1}
+}
+{\f2 \strike0 \ul0 \b0 \sa0 \sb0 \fs20 \cf1 \i0 
+ We agree with the Government that our decision in Boddie does not control the disposition of this case and that the District Court\rquote s reliance upon Boddie is misplaced.
+\par 
+}
+}
+}
+{\f2 \strike0 \ul0 \b0 \sa0 \sb0 \fs20 \cf1 \i0 
+\u160\'3f
+\par 
+}
+{\li0 \f2 \qj \b0 \ri0 \fs20 \cf1 \i0 
+{\li0 \f2 \qj \b0 \ri0 \fs20 \cf1 \i0 
+{\f2 \strike0 \ul0 \b0 \sa0 \sb0 \fs20 \cf1 \i0 
+A. Boddie was based on the notion that a State cannot deny access, simply because of one\rquote s poverty, to a \u8216\'3fjudicial proceeding (that is) the only effective means of resolving the dispute at hand.\u8217\'3f 
+}
+{\field {\*\fldinst HYPERLINK "http://www.westlaw.com/Link/Document/FullText?findType=Y&serNum=1971127020&pubNum=708&originatingDoc=I3ed2db609bf111d991d0cc6b54f12d4d&refType=RP&fi=co_pp_sp_708_785&originationContext=document&vr=3.0&rs=cblt1.0&transitionType=DocumentItem&contextData=(sc.Search)#co_pp_sp_708_785" }{\fldrslt 
+{\f2 \strike0 \ul0 \b0 \sa0 \sb0 \fs20 \cf5 \i0 
+401 U.S., at 376, 91 S.Ct., at 785.
+}}}
+{\f2 \strike0 \ul0 \b0 \sa0 \sb0 \fs20 \cf1 \i0 
+ Throughout the opinion there is constant and recurring reference to Connecicut\rquote s exclusive control over the establishment, enforcement, and dissolution of the marital 
+}
+{\f2 \b1 \fs20 \cf1 \i0 
+{\*\bkmkstart co_pp_sp_780_444_1}{\*\bkmkend co_pp_sp_780_444_1}
+{\f2 \strike0 \ul0 \b1 \sa0 \sb0 \fs20 \cf1 \i0 
+*444
+}
+}
+{\f2 \strike0 \ul0 \b0 \sa0 \sb0 \fs20 \cf1 \i0 
+ relationship. The Court emphasized that \u8216\'3fmarriage involves interests of basic importance in our society,\u8217\'3f ibid., and spoke of \u8216\'3fstate monopolization of the means for legally dissolving this relationship,\u8217\'3f 
+}
+{\field {\*\fldinst HYPERLINK "http://www.westlaw.com/Link/Document/FullText?findType=Y&serNum=1971127020&pubNum=708&originatingDoc=I3ed2db609bf111d991d0cc6b54f12d4d&refType=RP&fi=co_pp_sp_708_784&originationContext=document&vr=3.0&rs=cblt1.0&transitionType=DocumentItem&contextData=(sc.Search)#co_pp_sp_708_784" }{\fldrslt 
+{\f2 \strike0 \ul0 \b0 \sa0 \sb0 \fs20 \cf5 \i0 
+id., at 374, 91 S.Ct., at 784.
+}}}
+{\f2 \strike0 \ul0 \b0 \sa0 \sb0 \fs20 \cf1 \i0 
+ \u8216\'3f(R)esort to the state courts (was) the only avenue to dissolution of . . . marriages,\u8217\'3f 
+}
+{\field {\*\fldinst HYPERLINK "http://www.westlaw.com/Link/Document/FullText?findType=Y&serNum=1971127020&pubNum=708&originatingDoc=I3ed2db609bf111d991d0cc6b54f12d4d&refType=RP&fi=co_pp_sp_708_785&originationContext=document&vr=3.0&rs=cblt1.0&transitionType=DocumentItem&contextData=(sc.Search)#co_pp_sp_708_785" }{\fldrslt 
+{\f2 \strike0 \ul0 \b0 \sa0 \sb0 \fs20 \cf5 \i0 
+id., at 376, 91 S.Ct., at 785,
+}}}
+{\f2 \strike0 \ul0 \b0 \sa0 \sb0 \fs20 \cf1 \i0 
+ which was \u8216\'3fnot only the paramount dispute-settlement technique, but, in fact, the only available one,\u8217\'3f 
+}
+{\field {\*\fldinst HYPERLINK "http://www.westlaw.com/Link/Document/FullText?findType=Y&serNum=1971127020&pubNum=708&originatingDoc=I3ed2db609bf111d991d0cc6b54f12d4d&refType=RP&fi=co_pp_sp_708_785&originationContext=document&vr=3.0&rs=cblt1.0&transitionType=DocumentItem&contextData=(sc.Search)#co_pp_sp_708_785" }{\fldrslt 
+{\f2 \strike0 \ul0 \b0 \sa0 \sb0 \fs20 \cf5 \i0 
+id., at 377, 91 S.Ct., at 785.
+}}}
+{\f2 \strike0 \ul0 \b0 \sa0 \sb0 \fs20 \cf1 \i0 
+ The Court achknowledged that it knew \u8216\'3fof no instance where two consenting adults may divorce and mutually liberate themselves from the constraints of legal obligations that go with marriage, and more fundamentally the prohibition against remarriage, without invoking the State\rquote s judicial machinery,\u8217\'3f 
+}
+{\field {\*\fldinst HYPERLINK "http://www.westlaw.com/Link/Document/FullText?findType=Y&serNum=1971127020&pubNum=708&originatingDoc=I3ed2db609bf111d991d0cc6b54f12d4d&refType=RP&fi=co_pp_sp_708_785&originationContext=document&vr=3.0&rs=cblt1.0&transitionType=DocumentItem&contextData=(sc.Search)#co_pp_sp_708_785" }{\fldrslt 
+{\f2 \strike0 \ul0 \b0 \sa0 \sb0 \fs20 \cf5 \i0 
+id., at 376, 91 S.Ct., at 785.
+}}}
+{\f2 \strike0 \ul0 \b0 \sa0 \sb0 \fs20 \cf1 \i0 
+ In the light of all this, we concluded that resort to the judicial process was \u8216\'3fno more voluntary in a realistic sense than that of the defendant called upon to defend his interests in court\u8217\'3f and we resolved the case \u8216\'3fin light of the principles enunciated in our due process decisions that delimit rights of defendants compelled to litigate their differences in the judicial forum,\u8217\'3f 
+}
+{\field {\*\fldinst HYPERLINK "http://www.westlaw.com/Link/Document/FullText?findType=Y&serNum=1971127020&pubNum=708&originatingDoc=I3ed2db609bf111d991d0cc6b54f12d4d&refType=RP&fi=co_pp_sp_708_785&originationContext=document&vr=3.0&rs=cblt1.0&transitionType=DocumentItem&contextData=(sc.Search)#co_pp_sp_708_785" }{\fldrslt 
+{\f2 \strike0 \ul0 \b0 \sa0 \sb0 \fs20 \cf5 \i0 
+id., at 376\u8212\'3f377, 91 S.Ct., at 785
+}}}
+{\f2 \strike0 \ul0 \b0 \sa0 \sb200 \fs20 \cf1 \i0 
+.
+\par 
+}
+}
+}
+{\li0 \f2 \qj \b0 \ri0 \fs20 \cf1 \i0 
+{\li0 \f2 \qj \b0 \ri0 \fs20 \cf1 \i0 
+{\f2 \strike0 \ul0 \b0 \sa0 \sb0 \fs20 \cf1 \i0 
+B. The appellants in Boddie, on the one hand, and Robert Kras, on the other, stand in materially different postures. The denial of access to the judicial forum in Boddie touched directly, as has been noted, on the marital relationship and on the associational interests that surround the establishment and dissolution of that relationship. On many occasions we have recognized the fundamental importance of these interests under our Constitution. See, for example, 
+}
+{\field {\*\fldinst HYPERLINK "http://www.westlaw.com/Link/Document/FullText?findType=Y&serNum=1967129542&pubNum=708&originatingDoc=I3ed2db609bf111d991d0cc6b54f12d4d&refType=RP&originationContext=document&vr=3.0&rs=cblt1.0&transitionType=DocumentItem&contextData=(sc.Search)" }{\fldrslt 
+{\f2 \strike0 \ul0 \b0 \sa0 \sb0 \fs20 \cf5 \i0 
+Loving v. Virginia, 388 U.S. 1, 87 S.Ct. 1817, 18 L.Ed.2d 1010 (1967)
+}}}
+{\f2 \strike0 \ul0 \b0 \sa0 \sb0 \fs20 \cf1 \i0 
+; 
+}
+{\field {\*\fldinst HYPERLINK "http://www.westlaw.com/Link/Document/FullText?findType=Y&serNum=1942122820&pubNum=708&originatingDoc=I3ed2db609bf111d991d0cc6b54f12d4d&refType=RP&originationContext=document&vr=3.0&rs=cblt1.0&transitionType=DocumentItem&contextData=(sc.Search)" }{\fldrslt 
+{\f2 \strike0 \ul0 \b0 \sa0 \sb0 \fs20 \cf5 \i0 
+Skinner v. Oklahoma, 316 U.S. 535, 62 S.Ct. 1110, 86 L.Ed. 1655 (1942)
+}}}
+{\f2 \strike0 \ul0 \b0 \sa0 \sb0 \fs20 \cf1 \i0 
+; 
+}
+{\field {\*\fldinst HYPERLINK "http://www.westlaw.com/Link/Document/FullText?findType=Y&serNum=1965125098&pubNum=708&originatingDoc=I3ed2db609bf111d991d0cc6b54f12d4d&refType=RP&originationContext=document&vr=3.0&rs=cblt1.0&transitionType=DocumentItem&contextData=(sc.Search)" }{\fldrslt 
+{\f2 \strike0 \ul0 \b0 \sa0 \sb0 \fs20 \cf5 \i0 
+Griswold v. Connecticut, 381 U.S. 479, 85 S.Ct. 1678, 14 L.Ed.2d 510 (1965)
+}}}
+{\f2 \strike0 \ul0 \b0 \sa0 \sb0 \fs20 \cf1 \i0 
+; 
+}
+{\field {\*\fldinst HYPERLINK "http://www.westlaw.com/Link/Document/FullText?findType=Y&serNum=1972127089&pubNum=708&originatingDoc=I3ed2db609bf111d991d0cc6b54f12d4d&refType=RP&originationContext=document&vr=3.0&rs=cblt1.0&transitionType=DocumentItem&contextData=(sc.Search)" }{\fldrslt 
+{\f2 \strike0 \ul0 \b0 \sa0 \sb0 \fs20 \cf5 \i0 
+Eisenstadt v. Baird, 405 U.S. 438, 92 S.Ct. 1029, 31 L.Ed.2d 349 (1972)
+}}}
+{\f2 \strike0 \ul0 \b0 \sa0 \sb0 \fs20 \cf1 \i0 
+; 
+}
+{\field {\*\fldinst HYPERLINK "http://www.westlaw.com/Link/Document/FullText?findType=Y&serNum=1923120440&pubNum=708&originatingDoc=I3ed2db609bf111d991d0cc6b54f12d4d&refType=RP&originationContext=document&vr=3.0&rs=cblt1.0&transitionType=DocumentItem&contextData=(sc.Search)" }{\fldrslt 
+{\f2 \strike0 \ul0 \b0 \sa0 \sb0 \fs20 \cf5 \i0 
+Meyer v. Nebraska, 262 U.S. 390, 43 S.Ct. 625, 67 L.Ed. 1042 (1923)
+}}}
+{\f2 \strike0 \ul0 \b0 \sa0 \sb0 \fs20 \cf1 \i0 
+. The Boddie appellants\rquote  inability to dissolve their marriages seriously impaired their freedom to pursue other protected associational 
+}
+{\f2 \b1 \fs20 \cf1 \i0 
+{\*\bkmkstart co_pp_sp_780_445_1}{\*\bkmkend co_pp_sp_780_445_1}
+{\f2 \strike0 \ul0 \b1 \sa0 \sb0 \fs20 \cf1 \i0 
+*445
+}
+}
+{\f2 \strike0 \ul0 \b0 \sa0 \sb0 \fs20 \cf1 \i0 
+ activities. Kras\rquote  alleged interest in the elimination of his debt burden, and in obtaining his desired new start in life, although important and 
+}
+{\f2 \b1 \fs20 \cf1 \i0 
+{\*\bkmkstart co_pp_sp_708_638_1}{\*\bkmkend co_pp_sp_708_638_1}
+{\f2 \strike0 \ul0 \b1 \sa0 \sb0 \fs20 \cf1 \i0 
+**638
+}
+}
+{\f2 \strike0 \ul0 \b0 \sa0 \sb0 \fs20 \cf1 \i0 
+ so recognized by the enactment of the Bankruptcy Act, does not rise to the same constitutional level. See 
+}
+{\field {\*\fldinst HYPERLINK "http://www.westlaw.com/Link/Document/FullText?findType=Y&serNum=1970134206&pubNum=708&originatingDoc=I3ed2db609bf111d991d0cc6b54f12d4d&refType=RP&originationContext=document&vr=3.0&rs=cblt1.0&transitionType=DocumentItem&contextData=(sc.Search)" }{\fldrslt 
+{\f2 \strike0 \ul0 \b0 \sa0 \sb0 \fs20 \cf5 \i0 
+Dandridge v. Williams, 397 U.S. 471, 90 S.Ct. 1153, 25 L.Ed.2d 491 (1970)
+}}}
+{\f2 \strike0 \ul0 \b0 \sa0 \sb0 \fs20 \cf1 \i0 
+; 
+}
+{\field {\*\fldinst HYPERLINK "http://www.westlaw.com/Link/Document/FullText?findType=Y&serNum=1971127136&pubNum=708&originatingDoc=I3ed2db609bf111d991d0cc6b54f12d4d&refType=RP&originationContext=document&vr=3.0&rs=cblt1.0&transitionType=DocumentItem&contextData=(sc.Search)" }{\fldrslt 
+{\f2 \strike0 \ul0 \b0 \sa0 \sb0 \fs20 \cf5 \i0 
+Richardson v. Belcher, 404 U.S. 78, 92 S.Ct. 254, 30 L.Ed.2d 231 (1971)
+}}}
+{\f2 \strike0 \ul0 \b0 \sa0 \sb0 \fs20 \cf1 \i0 
+. If Kras is not discharged in bankruptcy, his position will not be materially altered in any constitutional sense. Gaining or not gaining a discharge will effect no change with respect to basic necessities.
+}
+{\f2 \b0 \fs16 \cf1 \i0 
+{\*\bkmkstart co_footnoteReference_B00761973126314_ID0}{\*\bkmkend co_footnoteReference_B00761973126314_ID0}
+{\field {\*\fldinst HYPERLINK "#co_footnote_B00761973126314_1" }{\fldrslt 
+{\super \f2 \strike0 \ul0 \b0 \sa0 \sb0 \fs16 \cf5 \i0 
+6
+}}}
+}
+{\f2 \strike0 \ul0 \b0 \sa0 \sb200 \fs20 \cf1 \i0 
+ We see no fundamental interest that is gained or lost depending on the availability of a discharge in bankruptcy.
+\par 
+}
+}
+}
+{\li0 \f2 \qj \b0 \ri0 \fs20 \cf1 \i0 {
+{\trowd \lastrow \trleft0 
+\clbrdrt \clbrdrb \clbrdrl \trql \clvertalt \clwWidth600 \cellx600 
+\clpadb90 \clpadfb3 \clpadl90 \clpadfl3 \clbrdrt \clbrdrb \clbrdrr \trql \clwWidth9480 \cellx10080 
+\intbl 
+{\li0 \ri0 
+{\li0 \f2 \b0 \ql \ri0 \fs20 \cf1 \i0 
+{\f2 \b0 \fs20 \cf1 \i0 
+{\*\bkmkstart co_footnote_B00761973126314_1}{\*\bkmkend co_footnote_B00761973126314_1}
+{\field {\*\fldinst HYPERLINK "#co_footnoteReference_B00761973126314_ID0" }{\fldrslt 
+{\super \f2 \strike0 \ul0 \b0 \sa0 \sb0 \fs20 \cf5 \i0 
+6
+}\f2 \super \strike0 \ul0 \b0 \sa0 \sb0 \fs20 \cf5 \i0 }}
+\par 
+}
+}
+}\f2 \li0 \b0 \ql \fs20 \ri0 \cf1 \i0 \intbl \cell \intbl 
+{\li0 \ri0 
+{\li0 \f2 \qj \b0 \ri0 \fs18 \cf1 \i0 
+{\li0 \f2 \qj \b0 \ri0 \fs18 \cf1 \i0 
+{\li0 \f2 \qj \b0 \ri0 \fs18 \cf1 \i0 
+{\f2 \strike0 \ul0 \b0 \sa0 \sb0 \fs18 \cf1 \i0 
+See N.Y. 
+}
+{\field {\*\fldinst HYPERLINK "http://www.westlaw.com/Link/Document/FullText?findType=L&pubNum=1000300&cite=NYCPS5205&originatingDoc=I3ed2db609bf111d991d0cc6b54f12d4d&refType=LQ&originationContext=document&vr=3.0&rs=cblt1.0&transitionType=DocumentItem&contextData=(sc.Search)" }{\fldrslt 
+{\f2 \strike0 \ul0 \b0 \sa0 \sb0 \fs18 \cf5 \i0 
+CPLR s 5205 (1963)
+}\f2 \strike0 \ul0 \b0 \sa0 \sb0 \fs18 \cf5 \i0 }}
+{\f2 \strike0 \ul0 \b0 \sa0 \sb0 \fs18 \cf1 \i0 
+; N.Y. 
+}
+{\field {\*\fldinst HYPERLINK "http://www.westlaw.com/Link/Document/FullText?findType=L&pubNum=1000300&cite=NYLBS595&originatingDoc=I3ed2db609bf111d991d0cc6b54f12d4d&refType=LQ&originationContext=document&vr=3.0&rs=cblt1.0&transitionType=DocumentItem&contextData=(sc.Search)" }{\fldrslt 
+{\f2 \strike0 \ul0 \b0 \sa0 \sb0 \fs18 \cf5 \i0 
+Labor Law s 595 (1965)
+}\f2 \strike0 \ul0 \b0 \sa0 \sb0 \fs18 \cf5 \i0 }}
+{\f2 \strike0 \ul0 \b0 \sa0 \sb0 \fs18 \cf1 \i0 
+; N.Y. Social Welfare Law s 137 (1966), and s 137\u8212\'3fa (Supp.1972\u8212\'3f1973).
+\par 
+}
+}
+}
+}
+}\f2 \li0 \strike0 \ul0 \b0 \qj \sa0 \sb0 \fs18 \ri0 \cf1 \i0 \intbl \cell \row }}\par 
+}
+{\li0 \f2 \qj \b0 \ri0 \fs20 \cf1 \i0 
+{\li0 \f2 \qj \b0 \ri0 \fs20 \cf1 \i0 
+{\f2 \strike0 \ul0 \b0 \sa0 \sb0 \fs20 \cf1 \i0 
+C. Nor is the Government\rquote s control over the establishment, enforcement, or dissolution of debts nearly so exclusive as Connecticut\rquote s control over the marriage relationship in Boddie. In contrast with divorce, bankruptcy is not the only method available to a debtor for the adjustment of his legal relationship with his creditors. The utter exclusiveness of court access and court remedy, as has been noted, was a potent factor in Boddie. But \u8216\'3f(w)ithout a prior judicial imprimatur, individuals may freely enter into and rescind commercial contracts . . ..\u8217\'3f 
+}
+{\field {\*\fldinst HYPERLINK "http://www.westlaw.com/Link/Document/FullText?findType=Y&serNum=1971127020&pubNum=708&originatingDoc=I3ed2db609bf111d991d0cc6b54f12d4d&refType=RP&fi=co_pp_sp_708_785&originationContext=document&vr=3.0&rs=cblt1.0&transitionType=DocumentItem&contextData=(sc.Search)#co_pp_sp_708_785" }{\fldrslt 
+{\f2 \strike0 \ul0 \b0 \sa0 \sb0 \fs20 \cf5 \i0 
+401 U.S., at 376, 91 S.Ct., at 785
+}}}
+{\f2 \strike0 \ul0 \b0 \sa0 \sb200 \fs20 \cf1 \i0 
+.
+\par 
+}
+}
+}
+{\li0 \f2 \qj \b0 \ri0 \fs20 \cf1 \i0 
+{\li0 \f2 \qj \b0 \ri0 \fs20 \cf1 \i0 
+{\f2 \strike0 \ul0 \b0 \sa0 \sb0 \fs20 \cf1 \i0 
+However unrealistic the remedy may be in a particular situation, a debtor, in theory, and often in actuality, may adjust his debts by negotiated agreement with his creditors. At times the happy passage of the applicable limitation period, or other acceptable creditor arrangement, will provide the answer. Government\rquote s role with respect to the private commercial relationship is qualitatively and quantitatively different from its 
+}
+{\f2 \b1 \fs20 \cf1 \i0 
+{\*\bkmkstart co_pp_sp_780_446_1}{\*\bkmkend co_pp_sp_780_446_1}
+{\f2 \strike0 \ul0 \b1 \sa0 \sb0 \fs20 \cf1 \i0 
+*446
+}
+}
+{\f2 \strike0 \ul0 \b0 \sa0 \sb200 \fs20 \cf1 \i0 
+ role in the establishment, enforcement, and dissolution of marriage.
+\par 
+}
+}
+}
+{\li0 \f2 \qj \b0 \ri0 \fs20 \cf1 \i0 
+{\li0 \f2 \qj \b0 \ri0 \fs20 \cf1 \i0 
+{\f2 \strike0 \ul0 \b0 \sa0 \sb0 \fs20 \cf1 \i0 
+Resort to the court, therefore, is not Kras\rquote  sole path to relief. Boddie\rquote s emphasis on exclusivity finds no counterpart in the bankupt\rquote s situation. See 
+}
+{\field {\*\fldinst HYPERLINK "http://www.westlaw.com/Link/Document/FullText?findType=Y&serNum=1949116439&pubNum=708&originatingDoc=I3ed2db609bf111d991d0cc6b54f12d4d&refType=RP&fi=co_pp_sp_708_1226&originationContext=document&vr=3.0&rs=cblt1.0&transitionType=DocumentItem&contextData=(sc.Search)#co_pp_sp_708_1226" }{\fldrslt 
+{\f2 \strike0 \ul0 \b0 \sa0 \sb0 \fs20 \cf5 \i0 
+Cohen v. Beneficial Industrial Loan Corp., 337 U.S. 541, 547\u8212\'3f555, 69 S.Ct. 1221, 1226\u8212\'3f1229, 93 L.Ed. 1528 (1949)
+}}}
+{\f2 \strike0 \ul0 \b0 \sa0 \sb200 \fs20 \cf1 \i0 
+.
+\par 
+}
+}
+}
+{\li0 \f2 \qj \b0 \ri0 \fs20 \cf1 \i0 
+{\li0 \f2 \qj \b0 \ri0 \fs20 \cf1 \i0 
+{\field {\*\fldinst HYPERLINK "#co_anchor_F51973126314_1" }{\fldrslt 
+{\super \f2 \strike0 \ul0 \b1 \sa0 \sb0 \fs20 \cf19 \i0 
+[5]
+}}}
+{\f2 \b0 \fs20 \cf5 \i0 
+{\*\bkmkstart co_anchor_B51973126314_1}{\*\bkmkend co_anchor_B51973126314_1}
+}
+{\f2 \strike0 \ul0 \b0 \sa0 \sb0 \fs20 \cf1 \i0 
+ D. We are also of the opinion that the filing fee requirement does not deny Kras the equal protection of the laws. Bankruptcy is hardly akin to free speech or marriage or to those other rights, so many of which are imbedded in the First Amendment, that the Court has come to regard as fundamental and that demand the lofty requirement of a compelling governmental interest before they may be significantly regulated. See 
+}
+{\field {\*\fldinst HYPERLINK "http://www.westlaw.com/Link/Document/FullText?findType=Y&serNum=1969132967&pubNum=708&originatingDoc=I3ed2db609bf111d991d0cc6b54f12d4d&refType=RP&fi=co_pp_sp_708_1333&originationContext=document&vr=3.0&rs=cblt1.0&transitionType=DocumentItem&contextData=(sc.Search)#co_pp_sp_708_1333" }{\fldrslt 
+{\f2 \strike0 \ul0 \b0 \sa0 \sb0 \fs20 \cf5 \i0 
+Shapiro v. Thompson, 394 U.S. 618, 638, 89 S.Ct. 1322, 1333, 22 L.Ed.2d 600 (1969)
+}}}
+{\f2 \strike0 \ul0 \b0 \sa0 \sb0 \fs20 \cf1 \i0 
+. Neither does it touch upon what have been said to be the suspect criteria of race, nationality, or alienage. 
+}
+{\field {\*\fldinst HYPERLINK "http://www.westlaw.com/Link/Document/FullText?findType=Y&serNum=1971127095&pubNum=708&originatingDoc=I3ed2db609bf111d991d0cc6b54f12d4d&refType=RP&fi=co_pp_sp_708_1853&originationContext=document&vr=3.0&rs=cblt1.0&transitionType=DocumentItem&contextData=(sc.Search)#co_pp_sp_708_1853" }{\fldrslt 
+{\f2 \strike0 \ul0 \b0 \sa0 \sb0 \fs20 \cf5 \i0 
+Graham v. Richardson, 403 U.S. 365, 375, 91 S.Ct. 1848, 1853, 29 L.Ed.2d 534 (1971)
+}}}
+{\f2 \strike0 \ul0 \b0 \sa0 \sb0 \fs20 \cf1 \i0 
+. Instead, bankruptcy legislation is in the area of economics and social welfare. See 
+}
+{\field {\*\fldinst HYPERLINK "http://www.westlaw.com/Link/Document/FullText?findType=Y&serNum=1970134206&pubNum=708&originatingDoc=I3ed2db609bf111d991d0cc6b54f12d4d&refType=RP&fi=co_pp_sp_708_1161&originationContext=document&vr=3.0&rs=cblt1.0&transitionType=DocumentItem&contextData=(sc.Search)#co_pp_sp_708_1161" }{\fldrslt 
+{\f2 \strike0 \ul0 \b0 \sa0 \sb0 \fs20 \cf5 \i0 
+Dandridge v. Williams, 397 U.S., at 484\u8212\'3f485, 90 S.Ct., at 1161;
+}}}
+{\f2 \strike0 \ul0 \b0 \sa0 \sb0 \fs20 \cf1 \i0 
+ 
+}
+{\field {\*\fldinst HYPERLINK "http://www.westlaw.com/Link/Document/FullText?findType=Y&serNum=1971127136&pubNum=708&originatingDoc=I3ed2db609bf111d991d0cc6b54f12d4d&refType=RP&fi=co_pp_sp_708_256&originationContext=document&vr=3.0&rs=cblt1.0&transitionType=DocumentItem&contextData=(sc.Search)#co_pp_sp_708_256" }{\fldrslt 
+{\f2 \strike0 \ul0 \b0 \sa0 \sb0 \fs20 \cf5 \i0 
+Richardson v. Belcher, 404 U.S., at 81, 92 S.Ct., at 256;
+}}}
+{\f2 \strike0 \ul0 \b0 \sa0 \sb0 \fs20 \cf1 \i0 
+ 
+}
+{\field {\*\fldinst HYPERLINK "http://www.westlaw.com/Link/Document/FullText?findType=Y&serNum=1972127081&pubNum=708&originatingDoc=I3ed2db609bf111d991d0cc6b54f12d4d&refType=RP&fi=co_pp_sp_708_874&originationContext=document&vr=3.0&rs=cblt1.0&transitionType=DocumentItem&contextData=(sc.Search)#co_pp_sp_708_874" }{\fldrslt 
+{\f2 \strike0 \ul0 \b0 \sa0 \sb0 \fs20 \cf5 \i0 
+Lindsey v. Normet, 405 U.S. 56, 74, 92 S.Ct. 862, 874, 31 L.Ed.2d 36 (1972)
+}}}
+{\f2 \strike0 \ul0 \b0 \sa0 \sb0 \fs20 \cf1 \i0 
+; 
+}
+{\field {\*\fldinst HYPERLINK "http://www.westlaw.com/Link/Document/FullText?findType=Y&serNum=1972127131&pubNum=708&originatingDoc=I3ed2db609bf111d991d0cc6b54f12d4d&refType=RP&fi=co_pp_sp_708_1731&originationContext=document&vr=3.0&rs=cblt1.0&transitionType=DocumentItem&contextData=(sc.Search)#co_pp_sp_708_1731" }{\fldrslt 
+{\f2 \strike0 \ul0 \b0 \sa0 \sb0 \fs20 \cf5 \i0 
+Jefferson v. Hackney, 406 U.S. 535, 546, 92 S.Ct. 1724, 1731, 32 L.Ed.2d 285 (1972)
+}}}
+{\f2 \strike0 \ul0 \b0 \sa0 \sb0 \fs20 \cf1 \i0 
+. This being so, the applicable standard, in measuring the propriety of Congress\rquote  classification, is that of rational justification. 
+}
+{\field {\*\fldinst HYPERLINK "http://www.westlaw.com/Link/Document/FullText?findType=Y&serNum=1960122550&pubNum=708&originatingDoc=I3ed2db609bf111d991d0cc6b54f12d4d&refType=RP&fi=co_pp_sp_708_1372&originationContext=document&vr=3.0&rs=cblt1.0&transitionType=DocumentItem&contextData=(sc.Search)#co_pp_sp_708_1372" }{\fldrslt 
+{\f2 \strike0 \ul0 \b0 \sa0 \sb0 \fs20 \cf5 \i0 
+Flemming v. Nestor, 363 U.S. 603, 611\u8212\'3f612, 80 S.Ct. 1367, 1372\u8212\'3f1373, 4 L.Ed.2d 1435 (1960)
+}}}
+{\f2 \strike0 \ul0 \b0 \sa0 \sb0 \fs20 \cf1 \i0 
+; 
+}
+{\field {\*\fldinst HYPERLINK "http://www.westlaw.com/Link/Document/FullText?findType=Y&serNum=1970134206&pubNum=708&originatingDoc=I3ed2db609bf111d991d0cc6b54f12d4d&refType=RP&fi=co_pp_sp_708_1161&originationContext=document&vr=3.0&rs=cblt1.0&transitionType=DocumentItem&contextData=(sc.Search)#co_pp_sp_708_1161" }{\fldrslt 
+{\f2 \strike0 \ul0 \b0 \sa0 \sb0 \fs20 \cf5 \i0 
+Dandridge v. Williams, 397 U.S., at 485\u8212\'3f486, 90 S.Ct., at 1161, 1162;
+}}}
+{\f2 \strike0 \ul0 \b0 \sa0 \sb0 \fs20 \cf1 \i0 
+ 
+}
+{\field {\*\fldinst HYPERLINK "http://www.westlaw.com/Link/Document/FullText?findType=Y&serNum=1971127136&pubNum=708&originatingDoc=I3ed2db609bf111d991d0cc6b54f12d4d&refType=RP&fi=co_pp_sp_708_256&originationContext=document&vr=3.0&rs=cblt1.0&transitionType=DocumentItem&contextData=(sc.Search)#co_pp_sp_708_256" }{\fldrslt 
+{\f2 \strike0 \ul0 \b0 \sa0 \sb0 \fs20 \cf5 \i0 
+Richardson v. Belcher, 404 U.S., at 81, 92 S.Ct., at 256
+}}}
+{\f2 \strike0 \ul0 \b0 \sa0 \sb0 \fs20 \cf1 \i0 
+.
+\par 
+}
+}
+}
+{\f2 \strike0 \ul0 \b0 \sa0 \sb0 \fs20 \cf1 \i0 
+\u160\'3f
+\par 
+}
+{\li0 \f2 \qj \b0 \ri0 \fs20 \cf1 \i0 
+{\li0 \f2 \qj \b0 \ri0 \fs20 \cf1 \i0 
+{\field {\*\fldinst HYPERLINK "#co_anchor_F61973126314_1" }{\fldrslt 
+{\super \f2 \strike0 \ul0 \b1 \sa0 \sb0 \fs20 \cf19 \i0 
+[6]
+}}}
+{\f2 \b0 \fs20 \cf5 \i0 
+{\*\bkmkstart co_anchor_B61973126314_1}{\*\bkmkend co_anchor_B61973126314_1}
+}
+{\f2 \strike0 \ul0 \b0 \sa0 \sb0 \fs20 \cf1 \i0 
+ 
+}
+{\field {\*\fldinst HYPERLINK "#co_anchor_F71973126314_1" }{\fldrslt 
+{\super \f2 \strike0 \ul0 \b1 \sa0 \sb0 \fs20 \cf19 \i0 
+[7]
+}}}
+{\f2 \b0 \fs20 \cf5 \i0 
+{\*\bkmkstart co_anchor_B71973126314_1}{\*\bkmkend co_anchor_B71973126314_1}
+}
+{\f2 \strike0 \ul0 \b0 \sa0 \sb0 \fs20 \cf1 \i0 
+ E. There is no constitutional right to obtain a discharge of one\rquote s debts in bankruptcy. The Constitution, Art. I, s 8, cl. 4, merely authorizes the Congress to \u8216\'3festablish . . . uniform Laws on the subject of Bankruptcies throughout the United States.\u8217\'3f Although the first bankruptcy law in England was enacted in 1542, 34 & 
+}
+{\field {\*\fldinst HYPERLINK "http://www.westlaw.com/Link/Document/FullText?findType=Y&pubNum=3666&cite=35HEN8&originatingDoc=I3ed2db609bf111d991d0cc6b54f12d4d&refType=IC&originationContext=document&vr=3.0&rs=cblt1.0&transitionType=DocumentItem&contextData=(sc.Search)" }{\fldrslt 
+{\f2 \strike0 \ul0 \b0 \sa0 \sb0 \fs20 \cf5 \i0 
+35 Hen. 8,
+}}}
+{\f2 \strike0 \ul0 \b0 \sa0 \sb0 \fs20 \cf1 \i0 
+ c. 4, and a discharge provision first appeared 
+}
+{\f2 \b1 \fs20 \cf1 \i0 
+{\*\bkmkstart co_pp_sp_780_447_1}{\*\bkmkend co_pp_sp_780_447_1}
+{\f2 \strike0 \ul0 \b1 \sa0 \sb0 \fs20 \cf1 \i0 
+*447
+}
+}
+{\f2 \strike0 \ul0 \b0 \sa0 \sb0 \fs20 \cf1 \i0 
+ in 
+}
+{\f2 \b1 \fs20 \cf1 \i0 
+{\*\bkmkstart co_pp_sp_708_639_1}{\*\bkmkend co_pp_sp_708_639_1}
+{\f2 \strike0 \ul0 \b1 \sa0 \sb0 \fs20 \cf1 \i0 
+**639
+}
+}
+{\f2 \strike0 \ul0 \b0 \sa0 \sb0 \fs20 \cf1 \i0 
+ 1705, 4 Anne, c. 17, primarily as a reward for cooperating debtors, J. MacLachlan, Bankruptcy 20\u8212\'3f21 (1956), voluntary bankruptcy was not known in this country at the adoption of the Constitution. Indeed, for the entire period prior to the present Act of 1898, the Nation was without a federal bankruptcy law except for three short periods aggregating about 15 1/2 years. The first statute was the Act of April 4, 1800, c. 19, 2 Stat. 19, and it was repealed by the Act of December 19, 1803, c. 6, 2 Stat. 248. The second was the Act of August 19, 1841, c. 9, 5 Stat. 440, repealed less than two years later by the Act of March 3, 1843, c. 82, 5 Stat. 614. The third was the Act of March 2, 1867, c. 176, 14 Stat. 517; it was repealed by the Act of June 7, 1878, c. 160, 20 Stat. 99. Voluntary petitions were permitted under the 1841 and 1867 Acts. See 1 W. Collier, Bankruptcy 0.03\u8212\'3f0.05, pp. 6\u8212\'3f9 (14th ed. 1971). Professor MacLachlan has said that the development of the discharge \u8216\'3frepresents an independent . . . public policy in favor of extricating an insolvent debtor from what would otherwise be a financial impasse.\u8217\'3f J. MacLachlan, Bankruptcy 88 (footnote omitted). But this obviously is a legislatively created benefit, not a constitutional one, and, as noted, it was a benefit withheld, save for three short periods, during the first 110 years of the Nation\rquote s life. The mere fact that Congress has delegated to the District Court supervision over the proceedings by which a petition for discharge is processed does not convert a statutory benefit into a constitutional right of access to a court. Then, too, Congress might have delegated the responsibility to an administrative agency.
+\par 
+}
+}
+}
+{\f2 \strike0 \ul0 \b0 \sa0 \sb0 \fs20 \cf1 \i0 
+\u160\'3f
+\par 
+}
+{\li0 \f2 \qj \b0 \ri0 \fs20 \cf1 \i0 
+{\li0 \f2 \qj \b0 \ri0 \fs20 \cf1 \i0 
+{\field {\*\fldinst HYPERLINK "#co_anchor_F81973126314_1" }{\fldrslt 
+{\super \f2 \strike0 \ul0 \b1 \sa0 \sb0 \fs20 \cf19 \i0 
+[8]
+}}}
+{\f2 \b0 \fs20 \cf5 \i0 
+{\*\bkmkstart co_anchor_B81973126314_1}{\*\bkmkend co_anchor_B81973126314_1}
+}
+{\f2 \strike0 \ul0 \b0 \sa0 \sb0 \fs20 \cf1 \i0 
+ F. The rational basis for the fee requirement is readily apparent. Congressional power over bankruptcy, of course, is plenary and exclusive. 
+}
+{\field {\*\fldinst HYPERLINK "http://www.westlaw.com/Link/Document/FullText?findType=Y&serNum=1940122308&pubNum=708&originatingDoc=I3ed2db609bf111d991d0cc6b54f12d4d&refType=RP&fi=co_pp_sp_708_345&originationContext=document&vr=3.0&rs=cblt1.0&transitionType=DocumentItem&contextData=(sc.Search)#co_pp_sp_708_345" }{\fldrslt 
+{\f2 \strike0 \ul0 \b0 \sa0 \sb0 \fs20 \cf5 \i0 
+Kalb v. Feuerstein, 308 U.S. 433, 438\u8212\'3f439, 60 S.Ct. 343, 345\u8212\'3f346, 84 L.Ed. 370 (1940)
+}}}
+{\f2 \strike0 \ul0 \b0 \sa0 \sb0 \fs20 \cf1 \i0 
+. By the 1946 Amendment, 60 Stat. 326, Congress, as has been noted, abolished the 
+}
+{\f2 \b1 \fs20 \cf1 \i0 
+{\*\bkmkstart co_pp_sp_780_448_1}{\*\bkmkend co_pp_sp_780_448_1}
+{\f2 \strike0 \ul0 \b1 \sa0 \sb0 \fs20 \cf1 \i0 
+*448
+}
+}
+{\f2 \strike0 \ul0 \b0 \sa0 \sb0 \fs20 \cf1 \i0 
+ theretofore existing practices of the pauper petition and of compensating the referee from the fees he collected. It replaced that system with one for salaried referees and for fixed fees for every petition filed and a specified percentage of distributable assets. It sought to make the system self-sustaining and paid for by those who use it rather than by tax revenues drawn from the public at large. H.R.Rep. No. 1037, 79th Cong., 1st Sess., 4\u8212\'3f6 (1945); S.Rep. No. 959, 79th Cong., 2d Sess., 2, 5\u8212\'3f6 (1946).
+}
+{\f2 \b0 \fs16 \cf1 \i0 
+{\*\bkmkstart co_footnoteReference_B00871973126314_ID0}{\*\bkmkend co_footnoteReference_B00871973126314_ID0}
+{\field {\*\fldinst HYPERLINK "#co_footnote_B00871973126314_1" }{\fldrslt 
+{\super \f2 \strike0 \ul0 \b0 \sa0 \sb0 \fs16 \cf5 \i0 
+7
+}}}
+}
+{\f2 \strike0 \ul0 \b0 \sa0 \sb0 \fs20 \cf1 \i0 
+ The propriety of the requirement that the fees be paid ultimately has been recognized even by those district courts that have held the payment of the fee as a precondition to a discharge to be unconstitutional, for those courts would make the payments survive the bankruptcy as a continuing obligation of the bankrupt. 
+}
+{\field {\*\fldinst HYPERLINK "http://www.westlaw.com/Link/Document/FullText?findType=Y&serNum=1971104650&pubNum=345&originatingDoc=I3ed2db609bf111d991d0cc6b54f12d4d&refType=RP&fi=co_pp_sp_345_1093&originationContext=document&vr=3.0&rs=cblt1.0&transitionType=DocumentItem&contextData=(sc.Search)#co_pp_sp_345_1093" }{\fldrslt 
+{\f2 \strike0 \ul0 \b0 \sa0 \sb0 \fs20 \cf5 \i0 
+In re Smith, 323 F.Supp., at 1093;
+}}}
+{\f2 \strike0 \ul0 \b0 \sa0 \sb0 \fs20 \cf1 \i0 
+ 
+}
+{\field {\*\fldinst HYPERLINK "http://www.westlaw.com/Link/Document/FullText?findType=Y&serNum=1972103982&pubNum=345&originatingDoc=I3ed2db609bf111d991d0cc6b54f12d4d&refType=RP&fi=co_pp_sp_345_748&originationContext=document&vr=3.0&rs=cblt1.0&transitionType=DocumentItem&contextData=(sc.Search)#co_pp_sp_345_748" }{\fldrslt 
+{\f2 \strike0 \ul0 \b0 \sa0 \sb0 \fs20 \cf5 \i0 
+In re Ottman, 336 F.Supp. 746, 748 (E.D.Wis.1972)
+}}}
+{\f2 \strike0 \ul0 \b0 \sa0 \sb0 \fs20 \cf1 \i0 
+; see 
+}
+{\field {\*\fldinst HYPERLINK "http://www.westlaw.com/Link/Document/FullText?findType=Y&serNum=1972104005&pubNum=345&originatingDoc=I3ed2db609bf111d991d0cc6b54f12d4d&refType=RP&fi=co_pp_sp_345_1034&originationContext=document&vr=3.0&rs=cblt1.0&transitionType=DocumentItem&contextData=(sc.Search)#co_pp_sp_345_1034" }{\fldrslt 
+{\f2 \strike0 \ul0 \b0 \sa0 \sb0 \fs20 \cf5 \i0 
+O\rquote Brien v. Trevethan, 336 F.Supp. 1029, 1034 (Conn.1972)
+}}}
+{\f2 \strike0 \ul0 \b0 \sa0 \sb0 \fs20 \cf1 \i0 
+.
+\par 
+}
+}
+}
+{\f2 \strike0 \ul0 \b0 \sa0 \sb0 \fs20 \cf1 \i0 
+\u160\'3f
+\par 
+}
+{\li0 \f2 \qj \b0 \ri0 \fs20 \cf1 \i0 {
+{\trowd \lastrow \trleft0 
+\clbrdrt \clbrdrb \clbrdrl \trql \clvertalt \clwWidth600 \cellx600 
+\clpadb90 \clpadfb3 \clpadl90 \clpadfl3 \clbrdrt \clbrdrb \clbrdrr \trql \clwWidth9480 \cellx10080 
+\intbl 
+{\li0 \ri0 
+{\li0 \f2 \b0 \ql \ri0 \fs20 \cf1 \i0 
+{\f2 \b0 \fs20 \cf1 \i0 
+{\*\bkmkstart co_footnote_B00871973126314_1}{\*\bkmkend co_footnote_B00871973126314_1}
+{\field {\*\fldinst HYPERLINK "#co_footnoteReference_B00871973126314_ID0" }{\fldrslt 
+{\super \f2 \strike0 \ul0 \b0 \sa0 \sb0 \fs20 \cf5 \i0 
+7
+}\f2 \super \strike0 \ul0 \b0 \sa0 \sb0 \fs20 \cf5 \i0 }}
+\par 
+}
+}
+}\f2 \li0 \b0 \ql \fs20 \ri0 \cf1 \i0 \intbl \cell \intbl 
+{\li0 \ri0 
+{\li0 \f2 \qj \b0 \ri0 \fs18 \cf1 \i0 
+{\li0 \f2 \qj \b0 \ri0 \fs18 \cf1 \i0 
+{\li0 \f2 \qj \b0 \ri0 \fs18 \cf1 \i0 
+{\f2 \strike0 \ul0 \b0 \sa0 \sb0 \fs18 \cf1 \i0 
+For the decade ended June 30, 1959, the Referee\rquote s Salary and Expense Fund showed surpluses for the first five fiscal years and deficits for the last five. For fiscal 1969, 107,481 no-asset cases were terminated (as compared with 169,500 nonbusiness cases filed). Administrative Office of the United States Courts, Tables of Bankruptcy Statistics for Fiscal Year Ending June 30, 1969, pp. 5, 10 (1971). This means, of course, that the fees were paid in those terminated no-asset cases. Undue hardship and denial of access to the courts are not apparent from this record of achievement.
+\par 
+}
+}
+}
+}
+}\f2 \li0 \strike0 \ul0 \b0 \qj \sa0 \sb0 \fs18 \ri0 \cf1 \i0 \intbl \cell \row }}\par 
+}
+{\li0 \f2 \qj \b0 \ri0 \fs20 \cf1 \i0 
+{\li0 \f2 \qj \b0 \ri0 \fs20 \cf1 \i0 
+{\f2 \strike0 \ul0 \b0 \sa0 \sb0 \fs20 \cf1 \i0 
+Further, the reasonableness of the structure Congress produced, and congressional concern for the debtor, are apparent from the provisions permitting the debtor to file his petition without payment of any fee, with consequent freedom of subsequent earnings and of after-acquired assets (with the rare exception specified in s 70(a) of the Act, 
+}
+{\field {\*\fldinst HYPERLINK "http://www.westlaw.com/Link/Document/FullText?findType=L&pubNum=1000546&cite=11USCAS110&originatingDoc=I3ed2db609bf111d991d0cc6b54f12d4d&refType=RB&originationContext=document&vr=3.0&rs=cblt1.0&transitionType=DocumentItem&contextData=(sc.Search)#co_pp_8b3b0000958a4" }{\fldrslt 
+{\f2 \strike0 \ul0 \b0 \sa0 \sb0 \fs20 \cf5 \i0 
+11 U.S.C. s 110(a)
+}}}
+{\f2 \strike0 \ul0 \b0 \sa0 \sb0 \fs20 \cf1 \i0 
+) from the claims of then-existing obligations. These provisions, coupled with the bankrupt\rquote s ability to obtain a stay of all debt enforcement actions pending at the filing 
+}
+{\f2 \b1 \fs20 \cf1 \i0 
+{\*\bkmkstart co_pp_sp_708_640_1}{\*\bkmkend co_pp_sp_708_640_1}
+{\f2 \strike0 \ul0 \b1 \sa0 \sb0 \fs20 \cf1 \i0 
+**640
+}
+}
+{\f2 \strike0 \ul0 \b0 \sa0 \sb0 \fs20 \cf1 \i0 
+ of the petition or thereafter 
+}
+{\f2 \b1 \fs20 \cf1 \i0 
+{\*\bkmkstart co_pp_sp_780_449_1}{\*\bkmkend co_pp_sp_780_449_1}
+{\f2 \strike0 \ul0 \b1 \sa0 \sb0 \fs20 \cf1 \i0 
+*449
+}
+}
+{\f2 \strike0 \ul0 \b0 \sa0 \sb0 \fs20 \cf1 \i0 
+ commenced, ss 11(a) and 2(a)(15), 11 U.S.C. ss 29(a) and 11(a)(15); 1A W. Collier, Bankruptcy 11.03 (14th ed. 1972); 1 id., 2.62(4) (14th ed. 1971), enable a bankrupt to terminate his harassment by creditors, to protect his future earnings and property, and to have his new start with a minimum of effort and financial obligation. They serve also, as an incidental effect, to promote and not to defeat the purpose of making the bankruptcy system financially self-sufficient. Cf. 
+}
+{\field {\*\fldinst HYPERLINK "http://www.westlaw.com/Link/Document/FullText?findType=Y&serNum=1972127081&pubNum=708&originatingDoc=I3ed2db609bf111d991d0cc6b54f12d4d&refType=RP&fi=co_pp_sp_708_874&originationContext=document&vr=3.0&rs=cblt1.0&transitionType=DocumentItem&contextData=(sc.Search)#co_pp_sp_708_874" }{\fldrslt 
+{\f2 \strike0 \ul0 \b0 \sa0 \sb0 \fs20 \cf5 \i0 
+Lindsey v. Normet, 405 U.S., at 74\u8212\'3f79, 92 S.Ct., at 874\u8212\'3f877
+}}}
+{\f2 \strike0 \ul0 \b0 \sa0 \sb200 \fs20 \cf1 \i0 
+.
+\par 
+}
+}
+}
+{\li0 \f2 \qj \b0 \ri0 \fs20 \cf1 \i0 
+{\li0 \f2 \qj \b0 \ri0 \fs20 \cf1 \i0 
+{\f2 \strike0 \ul0 \b0 \sa0 \sb0 \fs20 \cf1 \i0 
+G. If the $50 filing fees are paid in installments over six months as General Order No. 35 (4) permits on a proper showing, the required average weekly payment is $1.92. If the payment period is extended for the additional three months as the Order permits, the average weekly payment is lowered to $1.28.
+}
+{\f2 \b0 \fs16 \cf1 \i0 
+{\*\bkmkstart co_footnoteReference_B00981973126314_ID0}{\*\bkmkend co_footnoteReference_B00981973126314_ID0}
+{\field {\*\fldinst HYPERLINK "#co_footnote_B00981973126314_1" }{\fldrslt 
+{\super \f2 \strike0 \ul0 \b0 \sa0 \sb0 \fs16 \cf5 \i0 
+8
+}}}
+}
+{\f2 \strike0 \ul0 \b0 \sa0 \sb0 \fs20 \cf1 \i0 
+ This is a sum less than the payments Kras makes on his couch of negligible value in storage, and less than the price of a movie and little more than the cost of a pack or two of cigarettes. If, as Kras alleges in his affidavit, a discharge in bankruptcy will afford him that new start he so desires, and the Metropolitan then no longer will charge him with fraud and give him bad references,
+}
+{\f2 \b0 \fs16 \cf1 \i0 
+{\*\bkmkstart co_footnoteReference_B01091973126314_ID0}{\*\bkmkend co_footnoteReference_B01091973126314_ID0}
+{\field {\*\fldinst HYPERLINK "#co_footnote_B01091973126314_1" }{\fldrslt 
+{\super \f2 \strike0 \ul0 \b0 \sa0 \sb0 \fs16 \cf5 \i0 
+9
+}}}
+}
+{\f2 \strike0 \ul0 \b0 \sa0 \sb200 \fs20 \cf1 \i0 
+ and if he really needs and desires that discharge, this much available revenue should be within his able-bodied reach when the adjudication in bankruptcy has stayed collection and has brought to a halt whatever harassment, if any, he may have sustained from creditors.
+\par 
+}
+}
+}
+{\li0 \f2 \qj \b0 \ri0 \fs20 \cf1 \i0 {
+{\trowd \lastrow \trleft0 
+\clbrdrt \clbrdrb \clbrdrl \trql \clvertalt \clwWidth600 \cellx600 
+\clpadb90 \clpadfb3 \clpadl90 \clpadfl3 \clbrdrt \clbrdrb \clbrdrr \trql \clwWidth9480 \cellx10080 
+\intbl 
+{\li0 \ri0 
+{\li0 \f2 \b0 \ql \ri0 \fs20 \cf1 \i0 
+{\f2 \b0 \fs20 \cf1 \i0 
+{\*\bkmkstart co_footnote_B00981973126314_1}{\*\bkmkend co_footnote_B00981973126314_1}
+{\field {\*\fldinst HYPERLINK "#co_footnoteReference_B00981973126314_ID0" }{\fldrslt 
+{\super \f2 \strike0 \ul0 \b0 \sa0 \sb0 \fs20 \cf5 \i0 
+8
+}\f2 \super \strike0 \ul0 \b0 \sa0 \sb0 \fs20 \cf5 \i0 }}
+\par 
+}
+}
+}\f2 \li0 \b0 \ql \fs20 \ri0 \cf1 \i0 \intbl \cell \intbl 
+{\li0 \ri0 
+{\li0 \f2 \qj \b0 \ri0 \fs18 \cf1 \i0 
+{\li0 \f2 \qj \b0 \ri0 \fs18 \cf1 \i0 
+{\li0 \f2 \qj \b0 \ri0 \fs18 \cf1 \i0 
+{\f2 \strike0 \ul0 \b0 \sa0 \sb0 \fs18 \cf1 \i0 
+If the fees total $40, as they may under General Order No. 15, 
+}
+{\field {\*\fldinst HYPERLINK "http://www.westlaw.com/Link/Document/FullText?findType=Y&pubNum=780&cite=305US687&originatingDoc=I3ed2db609bf111d991d0cc6b54f12d4d&refType=RP&originationContext=document&vr=3.0&rs=cblt1.0&transitionType=DocumentItem&contextData=(sc.Search)" }{\fldrslt 
+{\f2 \strike0 \ul0 \b0 \sa0 \sb0 \fs18 \cf5 \i0 
+305 U.S. 687 (1939)
+}\f2 \strike0 \ul0 \b0 \sa0 \sb0 \fs18 \cf5 \i0 }}
+{\f2 \strike0 \ul0 \b0 \sa0 \sb0 \fs18 \cf1 \i0 
+, 11 U.S.C.App., p. 2203, these average weekly figures are reduced to $1.54 and $1.03 respectively.
+\par 
+}
+}
+}
+}
+}\f2 \li0 \strike0 \ul0 \b0 \qj \sa0 \sb0 \fs18 \ri0 \cf1 \i0 \intbl \cell \row }}\par 
+}
+{\li0 \f2 \qj \b0 \ri0 \fs20 \cf1 \i0 {
+{\trowd \lastrow \trleft0 
+\clbrdrt \clbrdrb \clbrdrl \trql \clvertalt \clwWidth600 \cellx600 
+\clpadb90 \clpadfb3 \clpadl90 \clpadfl3 \clbrdrt \clbrdrb \clbrdrr \trql \clwWidth9480 \cellx10080 
+\intbl 
+{\li0 \ri0 
+{\li0 \f2 \b0 \ql \ri0 \fs20 \cf1 \i0 
+{\f2 \b0 \fs20 \cf1 \i0 
+{\*\bkmkstart co_footnote_B01091973126314_1}{\*\bkmkend co_footnote_B01091973126314_1}
+{\field {\*\fldinst HYPERLINK "#co_footnoteReference_B01091973126314_ID0" }{\fldrslt 
+{\super \f2 \strike0 \ul0 \b0 \sa0 \sb0 \fs20 \cf5 \i0 
+9
+}\f2 \super \strike0 \ul0 \b0 \sa0 \sb0 \fs20 \cf5 \i0 }}
+\par 
+}
+}
+}\f2 \li0 \b0 \ql \fs20 \ri0 \cf1 \i0 \intbl \cell \intbl 
+{\li0 \ri0 
+{\li0 \f2 \qj \b0 \ri0 \fs18 \cf1 \i0 
+{\li0 \f2 \qj \b0 \ri0 \fs18 \cf1 \i0 
+{\li0 \f2 \qj \b0 \ri0 \fs18 \cf1 \i0 
+{\f2 \strike0 \ul0 \b0 \sa0 \sb0 \fs18 \cf1 \i0 
+We fail to see how a discharge in bankruptcy in itself will prevent the Metropolitan from issuing an unfavorable reference letter about Kras.
+\par 
+}
+}
+}
+}
+}\f2 \li0 \strike0 \ul0 \b0 \qj \sa0 \sb0 \fs18 \ri0 \cf1 \i0 \intbl \cell \row }}\par 
+}
+}
+{\li0 \f2 \qj \b0 \ri0 \fs20 \cf1 \i0 
+{\*\bkmkstart co_anchor_I8c4829ad0e1811e498db8b09b4f04}{\*\bkmkend co_anchor_I8c4829ad0e1811e498db8b09b4f04}
+\par 
+{\li0 \f2 \b1 \ri0 \fs20 \cf1 \qc \i0 
+{\f2 \b1 \fs20 \cf1 \i0 
+{\f2 \strike0 \ul0 \b1 \sa200 \sb400 \fs20 \cf1 \i0 
+VI
+\par 
+}
+}
+}
+{\li0 \f2 \qj \b0 \ri0 \fs20 \cf1 \i0 
+{\li0 \f2 \qj \b0 \ri0 \fs20 \cf1 \i0 
+{\f2 \strike0 \ul0 \b0 \sa0 \sb0 \fs20 \cf1 \i0 
+Mr. Justice Harlan, in his opinion for the Court in Boddie, meticulously pointed out, as we have noted 
+}
+{\f2 \b1 \fs20 \cf1 \i0 
+{\*\bkmkstart co_pp_sp_780_450_1}{\*\bkmkend co_pp_sp_780_450_1}
+{\f2 \strike0 \ul0 \b1 \sa0 \sb0 \fs20 \cf1 \i0 
+*450
+}
+}
+{\f2 \strike0 \ul0 \b0 \sa0 \sb0 \fs20 \cf1 \i0 
+ above, that the Court went \u8216\'3fno further than necessary to dispose of the case before us\rquote  and did \u8216\'3fnot decide that access for all individuals to the courts is a right that is, in all circumstances, guaranteed by the Due Process Clause of the Fourteenth Amendment so that its exercise may not be placed beyond the reach of any individual.\u8217\'3f 
+}
+{\field {\*\fldinst HYPERLINK "http://www.westlaw.com/Link/Document/FullText?findType=Y&serNum=1971127020&pubNum=708&originatingDoc=I3ed2db609bf111d991d0cc6b54f12d4d&refType=RP&fi=co_pp_sp_708_788&originationContext=document&vr=3.0&rs=cblt1.0&transitionType=DocumentItem&contextData=(sc.Search)#co_pp_sp_708_788" }{\fldrslt 
+{\f2 \strike0 \ul0 \b0 \sa0 \sb0 \fs20 \cf5 \i0 
+401 U.S., at 382\u8212\'3f383, 91 S.Ct., at 788.
+}}}
+{\f2 \strike0 \ul0 \b0 \sa0 \sb200 \fs20 \cf1 \i0 
+ The Court obviously stopped short of an unlimited rule that an indigent at all times and in all cases has the right to relief without the payment of fees.
+\par 
+}
+}
+}
+{\li0 \f2 \qj \b0 \ri0 \fs20 \cf1 \i0 
+{\li0 \f2 \qj \b0 \ri0 \fs20 \cf1 \i0 
+{\f2 \strike0 \ul0 \b0 \sa0 \sb200 \fs20 \cf1 \i0 
+We decline to extend the principle of Boddie to the no-asset bankruptcy proceeding. That relief, if it is to be forthcoming, should originate with Congress. See Shaeffer, Proceedings in Bankruptcy In Forma Pauperis, 69 Col.L.Rev. 1203 (1969).
+\par 
+}
+}
+}
+{\li0 \f2 \qj \b0 \ri0 \fs20 \cf1 \i0 
+{\li0 \f2 \qj \b0 \ri0 \fs20 \cf1 \i0 
+{\f2 \strike0 \ul0 \b0 \sa0 \sb200 \fs20 \cf1 \i0 
+Reversed.
+\par 
+}
+}
+}
+}
+}
+}
+}
+}
+{\li0 \f2 \qj \b0 \ri0 \fs20 \cf1 \i0 
+{\li0 \f2 \qj \b1 \ri0 \fs20 \cf19 \i0 
+{\*\bkmkstart co_concurrance_opinion_1}{\*\bkmkend co_concurrance_opinion_1}
+\par 
+}
+{\li0 \f2 \qj \b0 \ri0 \fs20 \cf1 \i0 
+{\li0 \f2 \qj \b0 \ri0 \fs20 \cf1 \i0 
+{\li0 \f2 \qj \b0 \ri0 \fs20 \cf1 \i0 
+{\li0 \f2 \qj \b0 \ri0 \fs20 \cf1 \i0 
+{\f2 \strike0 \ul0 \b0 \sa0 \sb200 \fs20 \cf1 \i0 
+Mr. Chief Justice BURGER, concurring.
+\par 
+}
+}
+}
+{\li0 \f2 \qj \b0 \ri0 \fs20 \cf1 \i0 
+{\li0 \f2 \qj \b0 \ri0 \fs20 \cf1 \i0 
+{\*\bkmkstart co_anchor_I8c4829b20e1811e498db8b09b4f04}{\*\bkmkend co_anchor_I8c4829b20e1811e498db8b09b4f04}
+\par 
+{\li0 \f2 \qj \b0 \ri0 \fs20 \cf1 \i0 
+{\li0 \f2 \qj \b0 \ri0 \fs20 \cf1 \i0 
+{\f2 \strike0 \ul0 \b0 \sa0 \sb0 \fs20 \cf1 \i0 
+I concur fully in the Court\rquote s opinion. The painstaking and precise delineation by Mr. Justice Harlan of the interests involved in 
+}
+{\field {\*\fldinst HYPERLINK "http://www.westlaw.com/Link/Document/FullText?findType=Y&serNum=1971127020&pubNum=708&originatingDoc=I3ed2db609bf111d991d0cc6b54f12d4d&refType=RP&originationContext=document&vr=3.0&rs=cblt1.0&transitionType=DocumentItem&contextData=(sc.Search)" }{\fldrslt 
+{\f2 \strike0 \ul0 \b0 \sa0 \sb0 \fs20 \cf5 \i0 
+Boddie v. Connecticut, 401 U.S. 371, 91 S.Ct. 780, 28 L.Ed.2d 113 (1971)
+}}}
+{\f2 \strike0 \ul0 \b0 \sa0 \sb200 \fs20 \cf1 \i0 
+, ought not to be ignored as the dissenting opinions would do. Moreover, the exclusivity of a State\rquote s control of marriage and divorce is a far cry from the degree of government control over relations between debtor and creditor, as Mr. Justice BLACKMUN has pointed out. In a bankruptcy proceeding the government, through the court, is no more than the overseer and the administrator of the process; it is not the absolute and exclusive controller as with the dissolution of marriage. Like the descent and distribution of property for which all States have provided statutes and probate courts, the bankruptcy court is but one mode of orderly adjustment with creditors; it is not the only one since many debtors work out binding private adjustments with creditors.
+\par 
+}
+}
+}
+{\li0 \f2 \qj \b0 \ri0 \fs20 \cf1 \i0 
+{\li0 \f2 \qj \b0 \ri0 \fs20 \cf1 \i0 
+{\f2 \strike0 \ul0 \b0 \fs20 \cf1 \i0 
+}
+{\f2 \b1 \fs20 \cf1 \i0 
+{\*\bkmkstart co_pp_sp_708_641_1}{\*\bkmkend co_pp_sp_708_641_1}
+{\f2 \strike0 \ul0 \b1 \sa0 \sb0 \fs20 \cf1 \i0 
+**641
+}
+}
+{\f2 \strike0 \ul0 \b0 \sa0 \sb0 \fs20 \cf1 \i0 
+ 
+}
+{\f2 \b1 \fs20 \cf1 \i0 
+{\*\bkmkstart co_pp_sp_780_451_1}{\*\bkmkend co_pp_sp_780_451_1}
+{\f2 \strike0 \ul0 \b1 \sa0 \sb0 \fs20 \cf1 \i0 
+*451
+}
+}
+{\f2 \strike0 \ul0 \b0 \sa0 \sb0 \fs20 \cf1 \i0 
+ Surely there are strong arguments, as a matter of policy, for the result the dissenting view asserts. But Congress has not yet seen fit to declare the policy that the dissenters now find in the Constitution. In 1970 Congress authorized a tripartite commission to review the bankruptcy laws.
+}
+{\f2 \b0 \fs16 \cf1 \i0 
+{\*\bkmkstart co_footnoteReference_B0111973126314_ID0E}{\*\bkmkend co_footnoteReference_B0111973126314_ID0E}
+{\field {\*\fldinst HYPERLINK "#co_footnote_B0111973126314_1" }{\fldrslt 
+{\super \f2 \strike0 \ul0 \b0 \sa0 \sb0 \fs16 \cf5 \i0 
+*
+}}}
+}
+{\f2 \strike0 \ul0 \b0 \sa0 \sb0 \fs20 \cf1 \i0 
+ The commission has been engaged in its task for more than two years and it is hardly likely that this problem will escape its consideration.
+}
+{\f2 \b0 \fs16 \cf1 \i0 
+{\*\bkmkstart co_footnoteReference_B0121973126314_ID0E}{\*\bkmkend co_footnoteReference_B0121973126314_ID0E}
+{\field {\*\fldinst HYPERLINK "#co_footnote_B0121973126314_1" }{\fldrslt 
+{\super \f2 \strike0 \ul0 \b0 \sa0 \sb0 \fs16 \cf5 \i0 
+**
+}}}
+}
+{\f2 \strike0 \ul0 \b0 \sa0 \sb200 \fs20 \cf1 \i0 
+ The Constitution is not the exclusive source of law reform, even needed reform, in our system.
+\par 
+}
+}
+}
+{\li0 \f2 \qj \b0 \ri0 \fs20 \cf1 \i0 {
+{\trowd \lastrow \trleft0 
+\clbrdrt \clbrdrb \clbrdrl \trql \clvertalt \clwWidth600 \cellx600 
+\clpadb90 \clpadfb3 \clpadl90 \clpadfl3 \clbrdrt \clbrdrb \clbrdrr \trql \clwWidth9480 \cellx10080 
+\intbl 
+{\li0 \ri0 
+{\li0 \f2 \b0 \ql \ri0 \fs20 \cf1 \i0 
+{\f2 \b0 \fs20 \cf1 \i0 
+{\*\bkmkstart co_footnote_B0111973126314_1}{\*\bkmkend co_footnote_B0111973126314_1}
+{\field {\*\fldinst HYPERLINK "#co_footnoteReference_B0111973126314_ID0E" }{\fldrslt 
+{\super \f2 \strike0 \ul0 \b0 \sa0 \sb0 \fs20 \cf5 \i0 
+*
+}\f2 \super \strike0 \ul0 \b0 \sa0 \sb0 \fs20 \cf5 \i0 }}
+\par 
+}
+}
+}\f2 \li0 \b0 \ql \fs20 \ri0 \cf1 \i0 \intbl \cell \intbl 
+{\li0 \ri0 
+{\li0 \f2 \qj \b0 \ri0 \fs18 \cf1 \i0 
+{\li0 \f2 \qj \b0 \ri0 \fs18 \cf1 \i0 
+{\li0 \f2 \qj \b0 \ri0 \fs18 \cf1 \i0 
+{\f2 \strike0 \ul0 \b0 \sa0 \sb0 \fs18 \cf1 \i0 
+Pub.L. 91\u8212\'3f354, 84 Stat. 468.
+\par 
+}
+}
+}
+}
+}\f2 \li0 \strike0 \ul0 \b0 \qj \sa0 \sb0 \fs18 \ri0 \cf1 \i0 \intbl \cell \row }}\par 
+}
+{\li0 \f2 \qj \b0 \ri0 \fs20 \cf1 \i0 {
+{\trowd \lastrow \trleft0 
+\clbrdrt \clbrdrb \clbrdrl \trql \clvertalt \clwWidth600 \cellx600 
+\clpadb90 \clpadfb3 \clpadl90 \clpadfl3 \clbrdrt \clbrdrb \clbrdrr \trql \clwWidth9480 \cellx10080 
+\intbl 
+{\li0 \ri0 
+{\li0 \f2 \b0 \ql \ri0 \fs20 \cf1 \i0 
+{\f2 \b0 \fs20 \cf1 \i0 
+{\*\bkmkstart co_footnote_B0121973126314_1}{\*\bkmkend co_footnote_B0121973126314_1}
+{\field {\*\fldinst HYPERLINK "#co_footnoteReference_B0121973126314_ID0E" }{\fldrslt 
+{\super \f2 \strike0 \ul0 \b0 \sa0 \sb0 \fs20 \cf5 \i0 
+**
+}\f2 \super \strike0 \ul0 \b0 \sa0 \sb0 \fs20 \cf5 \i0 }}
+\par 
+}
+}
+}\f2 \li0 \b0 \ql \fs20 \ri0 \cf1 \i0 \intbl \cell \intbl 
+{\li0 \ri0 
+{\li0 \f2 \qj \b0 \ri0 \fs18 \cf1 \i0 
+{\li0 \f2 \qj \b0 \ri0 \fs18 \cf1 \i0 
+{\li0 \f2 \qj \b0 \ri0 \fs18 \cf1 \i0 
+{\f2 \strike0 \ul0 \b0 \sa0 \sb0 \fs18 \cf1 \i0 
+The commission\rquote s mandate requires it to \u8216\'3fstudy, analyze, evaluate, and recommend changes\rquote  in the Bankruptcy Act \u8216\'3fin order for such Act to reflect and adequately meet the demands of present technical, financial, and commercial activities. The commission\rquote s study . . . shall include a consideration of the basic philosophy of bankruptcy, the causes of bankruptcy, the possible alternatives to the present system of bankruptcy administration, the applicability of advanced management techniques to achieve economies in the administration of the Act, and all other matters which the Commission shall deem relevant.\u8217\'3f Of particular relevance is the preamble to the Act creating the commission, which recites in part that \u8216\'3fthe technical aspects of the Bankruptcy Act are interwoven with the rapid expansion of credit which has reached proportions far beyond anything previously experienced by the citizens of the United States.\u8217\'3f
+\par 
+}
+}
+{\li0 \f2 \qj \b0 \ri0 \fs18 \cf1 \i0 
+{\f2 \strike0 \ul0 \b0 \sa0 \sb0 \fs18 \cf1 \i0 
+The report of the commission is to be submitted prior to June 30, 1973. Pub.L. 92\u8212\'3f251, 86 Stat. 63.
+\par 
+}
+}
+}
+}
+}\f2 \li0 \strike0 \ul0 \b0 \qj \sa0 \sb0 \fs18 \ri0 \cf1 \i0 \intbl \cell \row }}\par 
+}
+}
+}
+}
+}
+}
+{\li0 \f2 \qj \b0 \ri0 \fs20 \cf1 \i0 
+{\li0 \f2 \qj \b1 \ri0 \fs20 \cf19 \i0 
+{\*\bkmkstart co_dissent_opinion_1}{\*\bkmkend co_dissent_opinion_1}
+\par 
+}
+{\li0 \f2 \qj \b0 \ri0 \fs20 \cf1 \i0 
+{\li0 \f2 \qj \b0 \ri0 \fs20 \cf1 \i0 
+{\li0 \f2 \qj \b0 \ri0 \fs20 \cf1 \i0 
+{\li0 \f2 \qj \b0 \ri0 \fs20 \cf1 \i0 
+{\f2 \strike0 \ul0 \b0 \sa0 \sb200 \fs20 \cf1 \i0 
+Mr. Justice STEWART, with whom Mr. Justice DOUGLAS, Mr. Justice BRENNAN, and Mr. Justice MARSHALL join, dissenting.
+\par 
+}
+}
+}
+{\li0 \f2 \qj \b0 \ri0 \fs20 \cf1 \i0 
+{\li0 \f2 \qj \b0 \ri0 \fs20 \cf1 \i0 
+{\*\bkmkstart co_anchor_I8c4829b70e1811e498db8b09b4f04}{\*\bkmkend co_anchor_I8c4829b70e1811e498db8b09b4f04}
+\par 
+{\li0 \f2 \qj \b0 \ri0 \fs20 \cf1 \i0 
+{\li0 \f2 \qj \b0 \ri0 \fs20 \cf1 \i0 
+{\f2 \strike0 \ul0 \b0 \sa0 \sb0 \fs20 \cf1 \i0 
+On May 28, 1971, Robert Kras, the appellee, sought to file a voluntary petition in bankruptcy. In an accompanying affidavit, he described his economic plight. He resided in a 2 1/2-room apartment with his wife, his two young children, his mother, and her child. His eight-month-old son had 
+}
+{\field {\*\fldinst HYPERLINK "http://www.westlaw.com/Link/Document/FullText?entityType=disease&entityId=Ic2cd2209475411db9765f9243f53508a&originationContext=document&transitionType=DocumentItem&contextData=(sc.Default)&vr=3.0&rs=cblt1.0" }{\fldrslt 
+{\f2 \strike0 \ul0 \b0 \sa0 \sb0 \fs20 \cf5 \i0 
+cystic fibrosis
+}}}
+{\f2 \strike0 \ul0 \b0 \sa0 \sb0 \fs20 \cf1 \i0 
+ and at the time of the 
+}
+{\f2 \b1 \fs20 \cf1 \i0 
+{\*\bkmkstart co_pp_sp_780_452_1}{\*\bkmkend co_pp_sp_780_452_1}
+{\f2 \strike0 \ul0 \b1 \sa0 \sb0 \fs20 \cf1 \i0 
+*452
+}
+}
+{\f2 \strike0 \ul0 \b0 \sa0 \sb200 \fs20 \cf1 \i0 
+ affidavit was undergoing hospital treatment. Unemployed since May 1969, except for odd jobs, he supported his household on a total public assistance allotment of $366 per month\u8212\'3fall of which was consumed on rent and the most basic necessities of life. His sole assets consisted of $50 worth of clothing and essential household goods.
+}
+{\f2 \b0 \fs16 \cf1 \i0 
+{\*\bkmkstart co_footnoteReference_B01311973126314_ID0}{\*\bkmkend co_footnoteReference_B01311973126314_ID0}
+{\field {\*\fldinst HYPERLINK "#co_footnote_B01311973126314_1" }{\fldrslt 
+{\super \f2 \strike0 \ul0 \b0 \sa0 \sb0 \fs16 \cf5 \i0 
+1
+}}}
+\par 
+}
+}
+}
+{\li0 \f2 \qj \b0 \ri0 \fs20 \cf1 \i0 {
+{\trowd \lastrow \trleft0 
+\clbrdrt \clbrdrb \clbrdrl \trql \clvertalt \clwWidth600 \cellx600 
+\clpadb90 \clpadfb3 \clpadl90 \clpadfl3 \clbrdrt \clbrdrb \clbrdrr \trql \clwWidth9480 \cellx10080 
+\intbl 
+{\li0 \ri0 
+{\li0 \f2 \b0 \ql \ri0 \fs20 \cf1 \i0 
+{\f2 \b0 \fs20 \cf1 \i0 
+{\*\bkmkstart co_footnote_B01311973126314_1}{\*\bkmkend co_footnote_B01311973126314_1}
+{\field {\*\fldinst HYPERLINK "#co_footnoteReference_B01311973126314_ID0" }{\fldrslt 
+{\super \f2 \strike0 \ul0 \b0 \sa0 \sb0 \fs20 \cf5 \i0 
+1
+}\f2 \super \strike0 \ul0 \b0 \sa0 \sb0 \fs20 \cf5 \i0 }}
+\par 
+}
+}
+}\f2 \li0 \b0 \ql \fs20 \ri0 \cf1 \i0 \intbl \cell \intbl 
+{\li0 \ri0 
+{\li0 \f2 \qj \b0 \ri0 \fs18 \cf1 \i0 
+{\li0 \f2 \qj \b0 \ri0 \fs18 \cf1 \i0 
+{\li0 \f2 \qj \b0 \ri0 \fs18 \cf1 \i0 
+{\f2 \strike0 \ul0 \b0 \sa0 \sb0 \fs18 \cf1 \i0 
+These items are exempt from distribution in bankruptcy pursuant to 11 U.S.C. s 24 and N.Y. 
+}
+{\field {\*\fldinst HYPERLINK "http://www.westlaw.com/Link/Document/FullText?findType=L&pubNum=1000300&cite=NYCPS5205&originatingDoc=I3ed2db609bf111d991d0cc6b54f12d4d&refType=LQ&originationContext=document&vr=3.0&rs=cblt1.0&transitionType=DocumentItem&contextData=(sc.Search)" }{\fldrslt 
+{\f2 \strike0 \ul0 \b0 \sa0 \sb0 \fs18 \cf5 \i0 
+CPLR s 5205 (1963)
+}\f2 \strike0 \ul0 \b0 \sa0 \sb0 \fs18 \cf5 \i0 }}
+{\f2 \strike0 \ul0 \b0 \sa0 \sb0 \fs18 \cf1 \i0 
+.
+\par 
+}
+}
+}
+}
+}\f2 \li0 \strike0 \ul0 \b0 \qj \sa0 \sb0 \fs18 \ri0 \cf1 \i0 \intbl \cell \row }}\par 
+}
+{\li0 \f2 \qj \b0 \ri0 \fs20 \cf1 \i0 
+{\li0 \f2 \qj \b0 \ri0 \fs20 \cf1 \i0 
+{\f2 \strike0 \ul0 \b0 \sa0 \sb200 \fs20 \cf1 \i0 
+He sought a discharge from over $6,000 in debts, particularly his indebtedness to a former employer that he contended hampered his present efforts to find a permanent job: \u8216\'3fI earnestly seek a discharge in bankruptcy . . . in order to relieve myself and my family of the distress of financial insolvency and creditor harassment and in order to make a new start in life. . . . When I do get a job I want to be able to spend my wages for the support of myself and my family and for the medical care of my son, instead of paying them to my creditors and forcing my family to remain dependent on welfare.\u8217\'3f
+\par 
+}
+}
+}
+{\li0 \f2 \qj \b0 \ri0 \fs20 \cf1 \i0 
+{\li0 \f2 \qj \b0 \ri0 \fs20 \cf1 \i0 
+{\f2 \strike0 \ul0 \b0 \sa0 \sb0 \fs20 \cf1 \i0 
+He indicated that he was unable to pay the $50 bankruptcy filing fee in a lump sum,
+}
+{\f2 \b0 \fs16 \cf1 \i0 
+{\*\bkmkstart co_footnoteReference_B01421973126314_ID0}{\*\bkmkend co_footnoteReference_B01421973126314_ID0}
+{\field {\*\fldinst HYPERLINK "#co_footnote_B01421973126314_1" }{\fldrslt 
+{\super \f2 \strike0 \ul0 \b0 \sa0 \sb0 \fs16 \cf5 \i0 
+2
+}}}
+}
+{\f2 \strike0 \ul0 \b0 \sa0 \sb0 \fs20 \cf1 \i0 
+ and could not promise to pay it in installments, as required before the petition could be filed.
+}
+{\f2 \b0 \fs16 \cf1 \i0 
+{\*\bkmkstart co_footnoteReference_B01531973126314_ID0}{\*\bkmkend co_footnoteReference_B01531973126314_ID0}
+{\field {\*\fldinst HYPERLINK "#co_footnote_B01531973126314_1" }{\fldrslt 
+{\super \f2 \strike0 \ul0 \b0 \sa0 \sb0 \fs16 \cf5 \i0 
+3
+}}}
+}
+{\f2 \strike0 \ul0 \b0 \sa0 \sb0 \fs20 \cf1 \i0 
+ He contended 
+}
+{\f2 \b1 \fs20 \cf1 \i0 
+{\*\bkmkstart co_pp_sp_708_642_1}{\*\bkmkend co_pp_sp_708_642_1}
+{\f2 \strike0 \ul0 \b1 \sa0 \sb0 \fs20 \cf1 \i0 
+**642
+}
+}
+{\f2 \strike0 \ul0 \b0 \sa0 \sb0 \fs20 \cf1 \i0 
+ that the fee requirement 
+}
+{\f2 \b1 \fs20 \cf1 \i0 
+{\*\bkmkstart co_pp_sp_780_453_1}{\*\bkmkend co_pp_sp_780_453_1}
+{\f2 \strike0 \ul0 \b1 \sa0 \sb0 \fs20 \cf1 \i0 
+*453
+}
+}
+{\f2 \strike0 \ul0 \b0 \sa0 \sb0 \fs20 \cf1 \i0 
+ was unconstitutional as applied to him,
+}
+{\f2 \b0 \fs16 \cf1 \i0 
+{\*\bkmkstart co_footnoteReference_B01641973126314_ID0}{\*\bkmkend co_footnoteReference_B01641973126314_ID0}
+{\field {\*\fldinst HYPERLINK "#co_footnote_B01641973126314_1" }{\fldrslt 
+{\super \f2 \strike0 \ul0 \b0 \sa0 \sb0 \fs16 \cf5 \i0 
+4
+}}}
+}
+{\f2 \strike0 \ul0 \b0 \sa0 \sb200 \fs20 \cf1 \i0 
+ and moved for leave to proceed without paying the fee.
+\par 
+}
+}
+}
+{\li0 \f2 \qj \b0 \ri0 \fs20 \cf1 \i0 {
+{\trowd \lastrow \trleft0 
+\clbrdrt \clbrdrb \clbrdrl \trql \clvertalt \clwWidth600 \cellx600 
+\clpadb90 \clpadfb3 \clpadl90 \clpadfl3 \clbrdrt \clbrdrb \clbrdrr \trql \clwWidth9480 \cellx10080 
+\intbl 
+{\li0 \ri0 
+{\li0 \f2 \b0 \ql \ri0 \fs20 \cf1 \i0 
+{\f2 \b0 \fs20 \cf1 \i0 
+{\*\bkmkstart co_footnote_B01421973126314_1}{\*\bkmkend co_footnote_B01421973126314_1}
+{\field {\*\fldinst HYPERLINK "#co_footnoteReference_B01421973126314_ID0" }{\fldrslt 
+{\super \f2 \strike0 \ul0 \b0 \sa0 \sb0 \fs20 \cf5 \i0 
+2
+}\f2 \super \strike0 \ul0 \b0 \sa0 \sb0 \fs20 \cf5 \i0 }}
+\par 
+}
+}
+}\f2 \li0 \b0 \ql \fs20 \ri0 \cf1 \i0 \intbl \cell \intbl 
+{\li0 \ri0 
+{\li0 \f2 \qj \b0 \ri0 \fs18 \cf1 \i0 
+{\li0 \f2 \qj \b0 \ri0 \fs18 \cf1 \i0 
+{\li0 \f2 \qj \b0 \ri0 \fs18 \cf1 \i0 
+{\f2 \strike0 \ul0 \b0 \sa0 \sb0 \fs18 \cf1 \i0 
+The fee consists of $37 for the referees\rquote  salary and expense fund, $10 compensation for the trustees, and $3 to the clerk as a filing fee. 11 U.S.C. ss 68(c)(1), 76(c), 80(a).
+\par 
+}
+}
+}
+}
+}\f2 \li0 \strike0 \ul0 \b0 \qj \sa0 \sb0 \fs18 \ri0 \cf1 \i0 \intbl \cell \row }}\par 
+}
+{\li0 \f2 \qj \b0 \ri0 \fs20 \cf1 \i0 {
+{\trowd \lastrow \trleft0 
+\clbrdrt \clbrdrb \clbrdrl \trql \clvertalt \clwWidth600 \cellx600 
+\clpadb90 \clpadfb3 \clpadl90 \clpadfl3 \clbrdrt \clbrdrb \clbrdrr \trql \clwWidth9480 \cellx10080 
+\intbl 
+{\li0 \ri0 
+{\li0 \f2 \b0 \ql \ri0 \fs20 \cf1 \i0 
+{\f2 \b0 \fs20 \cf1 \i0 
+{\*\bkmkstart co_footnote_B01531973126314_1}{\*\bkmkend co_footnote_B01531973126314_1}
+{\field {\*\fldinst HYPERLINK "#co_footnoteReference_B01531973126314_ID0" }{\fldrslt 
+{\super \f2 \strike0 \ul0 \b0 \sa0 \sb0 \fs20 \cf5 \i0 
+3
+}\f2 \super \strike0 \ul0 \b0 \sa0 \sb0 \fs20 \cf5 \i0 }}
+\par 
+}
+}
+}\f2 \li0 \b0 \ql \fs20 \ri0 \cf1 \i0 \intbl \cell \intbl 
+{\li0 \ri0 
+{\li0 \f2 \qj \b0 \ri0 \fs18 \cf1 \i0 
+{\li0 \f2 \qj \b0 \ri0 \fs18 \cf1 \i0 
+{\li0 \f2 \qj \b0 \ri0 \fs18 \cf1 \i0 
+{\f2 \strike0 \ul0 \b0 \sa0 \sb0 \fs18 \cf1 \i0 
+This Court\rquote s General Order in Bankruptcy No. 35(4), authorized by 11 U.S.C. s 68(c)(1), permits fees to be paid in installments over a six-month period, amounting to $1.92 a week; and, for cause, this period may be extended for an additional three months, so that the debtor would only be required to pay $1.28 per week. But before the bankruptcy petition can be filed, the petitioner must both indicate that he is without, and cannot obtain, money with which to pay the fee in advance, and set forth the terms upon which he proposes to make installment payments.
+\par 
+}
+}
+}
+}
+}\f2 \li0 \strike0 \ul0 \b0 \qj \sa0 \sb0 \fs18 \ri0 \cf1 \i0 \intbl \cell \row }}\par 
+}
+{\li0 \f2 \qj \b0 \ri0 \fs20 \cf1 \i0 {
+{\trowd \lastrow \trleft0 
+\clbrdrt \clbrdrb \clbrdrl \trql \clvertalt \clwWidth600 \cellx600 
+\clpadb90 \clpadfb3 \clpadl90 \clpadfl3 \clbrdrt \clbrdrb \clbrdrr \trql \clwWidth9480 \cellx10080 
+\intbl 
+{\li0 \ri0 
+{\li0 \f2 \b0 \ql \ri0 \fs20 \cf1 \i0 
+{\f2 \b0 \fs20 \cf1 \i0 
+{\*\bkmkstart co_footnote_B01641973126314_1}{\*\bkmkend co_footnote_B01641973126314_1}
+{\field {\*\fldinst HYPERLINK "#co_footnoteReference_B01641973126314_ID0" }{\fldrslt 
+{\super \f2 \strike0 \ul0 \b0 \sa0 \sb0 \fs20 \cf5 \i0 
+4
+}\f2 \super \strike0 \ul0 \b0 \sa0 \sb0 \fs20 \cf5 \i0 }}
+\par 
+}
+}
+}\f2 \li0 \b0 \ql \fs20 \ri0 \cf1 \i0 \intbl \cell \intbl 
+{\li0 \ri0 
+{\li0 \f2 \qj \b0 \ri0 \fs18 \cf1 \i0 
+{\li0 \f2 \qj \b0 \ri0 \fs18 \cf1 \i0 
+{\li0 \f2 \qj \b0 \ri0 \fs18 \cf1 \i0 
+{\f2 \strike0 \ul0 \b0 \sa0 \sb0 \fs18 \cf1 \i0 
+The appellee also contended that the filing fee should be waived under the general federal in forma pauperis statute, 
+}
+{\field {\*\fldinst HYPERLINK "http://www.westlaw.com/Link/Document/FullText?findType=L&pubNum=1000546&cite=28USCAS1915&originatingDoc=I3ed2db609bf111d991d0cc6b54f12d4d&refType=RB&originationContext=document&vr=3.0&rs=cblt1.0&transitionType=DocumentItem&contextData=(sc.Search)#co_pp_8b3b0000958a4" }{\fldrslt 
+{\f2 \strike0 \ul0 \b0 \sa0 \sb0 \fs18 \cf5 \i0 
+28 U.S.C. s 1915(a)
+}\f2 \strike0 \ul0 \b0 \sa0 \sb0 \fs18 \cf5 \i0 }}
+{\f2 \strike0 \ul0 \b0 \sa0 \sb0 \fs18 \cf1 \i0 
+. That contention was rejected by the District Court on the grounds that, in 1946, Congress expressly eliminated bankruptcy petitions in forma pauperis, and substituted installment payments. 11 U.S.C. s 68(c). In light of the clear congressional intent to eliminate pauper petitions, the court concluded, Congress did not intend to allow bankrupts to proceed under the general in forma pauperis statute. See also 
+}
+{\field {\*\fldinst HYPERLINK "http://www.westlaw.com/Link/Document/FullText?findType=Y&serNum=1970102192&pubNum=350&originatingDoc=I3ed2db609bf111d991d0cc6b54f12d4d&refType=RP&fi=co_pp_sp_350_1186&originationContext=document&vr=3.0&rs=cblt1.0&transitionType=DocumentItem&contextData=(sc.Search)#co_pp_sp_350_1186" }{\fldrslt 
+{\f2 \strike0 \ul0 \b0 \sa0 \sb0 \fs18 \cf5 \i0 
+In re Garland, (1 Cir.) 428 F.2d 1185, 1186\u8212\'3f1187;
+}\f2 \strike0 \ul0 \b0 \sa0 \sb0 \fs18 \cf5 \i0 }}
+{\f2 \strike0 \ul0 \b0 \sa0 \sb0 \fs18 \cf1 \i0 
+ 
+}
+{\field {\*\fldinst HYPERLINK "http://www.westlaw.com/Link/Document/FullText?findType=Y&serNum=1971104650&pubNum=345&originatingDoc=I3ed2db609bf111d991d0cc6b54f12d4d&refType=RP&fi=co_pp_sp_345_1084&originationContext=document&vr=3.0&rs=cblt1.0&transitionType=DocumentItem&contextData=(sc.Search)#co_pp_sp_345_1084" }{\fldrslt 
+{\f2 \strike0 \ul0 \b0 \sa0 \sb0 \fs18 \cf5 \i0 
+In re Smith, 323 F.Supp. 1082, 1084\u8212\'3f1085.
+}\f2 \strike0 \ul0 \b0 \sa0 \sb0 \fs18 \cf5 \i0 }}
+{\f2 \strike0 \ul0 \b0 \sa0 \sb0 \fs18 \cf1 \i0 
+ The appellee does not queston that conclusion here.
+\par 
+}
+}
+}
+}
+}\f2 \li0 \strike0 \ul0 \b0 \qj \sa0 \sb0 \fs18 \ri0 \cf1 \i0 \intbl \cell \row }}\par 
+}
+{\li0 \f2 \qj \b0 \ri0 \fs20 \cf1 \i0 
+{\li0 \f2 \qj \b0 \ri0 \fs20 \cf1 \i0 
+{\f2 \strike0 \ul0 \b0 \sa0 \sb0 \fs20 \cf1 \i0 
+The District Court held that under the doctrine of 
+}
+{\field {\*\fldinst HYPERLINK "http://www.westlaw.com/Link/Document/FullText?findType=Y&serNum=1971127020&pubNum=708&originatingDoc=I3ed2db609bf111d991d0cc6b54f12d4d&refType=RP&originationContext=document&vr=3.0&rs=cblt1.0&transitionType=DocumentItem&contextData=(sc.Search)" }{\fldrslt 
+{\f2 \strike0 \ul0 \b0 \sa0 \sb0 \fs20 \cf5 \i0 
+Boddie v. Connecticut, 401 U.S. 371, 91 S.Ct. 780, 28 L.Ed.2d 113,
+}}}
+{\f2 \strike0 \ul0 \b0 \sa0 \sb0 \fs20 \cf1 \i0 
+ the statutory requirement of a prepaid bankruptcy filing fee would violate Kras\rquote  Fifth Amendment right to due process of law. 
+}
+{\field {\*\fldinst HYPERLINK "http://www.westlaw.com/Link/Document/FullText?findType=Y&serNum=1971106625&pubNum=345&originatingDoc=I3ed2db609bf111d991d0cc6b54f12d4d&refType=RP&fi=co_pp_sp_345_1212&originationContext=document&vr=3.0&rs=cblt1.0&transitionType=DocumentItem&contextData=(sc.Search)#co_pp_sp_345_1212" }{\fldrslt 
+{\f2 \strike0 \ul0 \b0 \sa0 \sb0 \fs20 \cf5 \i0 
+331 F.Supp. 1207, 1212.
+}}}
+{\f2 \b0 \fs16 \cf1 \i0 
+{\*\bkmkstart co_footnoteReference_B01751973126314_ID0}{\*\bkmkend co_footnoteReference_B01751973126314_ID0}
+{\field {\*\fldinst HYPERLINK "#co_footnote_B01751973126314_1" }{\fldrslt 
+{\super \f2 \strike0 \ul0 \b0 \sa0 \sb0 \fs16 \cf5 \i0 
+5
+}}}
+}
+{\f2 \strike0 \ul0 \b0 \sa0 \sb0 \fs20 \cf1 \i0 
+ The court ordered the petition filed and directed the referee in bankruptcy to make provision for the survival of the appellee\rquote s obligation to pay the filing fee. We noted probable jurisdiction of the Government\rquote s appeal. 
+}
+{\field {\*\fldinst HYPERLINK "http://www.westlaw.com/Link/Document/FullText?findType=Y&serNum=1972242086&pubNum=708&originatingDoc=I3ed2db609bf111d991d0cc6b54f12d4d&refType=RP&originationContext=document&vr=3.0&rs=cblt1.0&transitionType=DocumentItem&contextData=(sc.Search)" }{\fldrslt 
+{\f2 \strike0 \ul0 \b0 \sa0 \sb0 \fs20 \cf5 \i0 
+405 U.S. 915, 92 S.Ct. 955,
+}}}
+{\f2 \strike0 \ul0 \b0 \sa0 \sb200 \fs20 \cf1 \i0 
+ 30 L.Ed.2d 130. I agree with the District Court and would, therefore, affirm its judgment.
+\par 
+}
+}
+}
+{\li0 \f2 \qj \b0 \ri0 \fs20 \cf1 \i0 {
+{\trowd \lastrow \trleft0 
+\clbrdrt \clbrdrb \clbrdrl \trql \clvertalt \clwWidth600 \cellx600 
+\clpadb90 \clpadfb3 \clpadl90 \clpadfl3 \clbrdrt \clbrdrb \clbrdrr \trql \clwWidth9480 \cellx10080 
+\intbl 
+{\li0 \ri0 
+{\li0 \f2 \b0 \ql \ri0 \fs20 \cf1 \i0 
+{\f2 \b0 \fs20 \cf1 \i0 
+{\*\bkmkstart co_footnote_B01751973126314_1}{\*\bkmkend co_footnote_B01751973126314_1}
+{\field {\*\fldinst HYPERLINK "#co_footnoteReference_B01751973126314_ID0" }{\fldrslt 
+{\super \f2 \strike0 \ul0 \b0 \sa0 \sb0 \fs20 \cf5 \i0 
+5
+}\f2 \super \strike0 \ul0 \b0 \sa0 \sb0 \fs20 \cf5 \i0 }}
+\par 
+}
+}
+}\f2 \li0 \b0 \ql \fs20 \ri0 \cf1 \i0 \intbl \cell \intbl 
+{\li0 \ri0 
+{\li0 \f2 \qj \b0 \ri0 \fs18 \cf1 \i0 
+{\li0 \f2 \qj \b0 \ri0 \fs18 \cf1 \i0 
+{\li0 \f2 \qj \b0 \ri0 \fs18 \cf1 \i0 
+{\f2 \strike0 \ul0 \b0 \sa0 \sb0 \fs18 \cf1 \i0 
+Other federal courts have reached the same conclusion. See In re Haddock, No. 14810 (Conn., May 22, 1972); In re Smith, 341 S.Supp. 1297; In re Ripley, No. Bk 71\u8212\'3fo\u8212\'3f1003 (Neb., Apr. 28, 1972); 
+}
+{\field {\*\fldinst HYPERLINK "http://www.westlaw.com/Link/Document/FullText?findType=Y&serNum=1972103982&pubNum=345&originatingDoc=I3ed2db609bf111d991d0cc6b54f12d4d&refType=RP&originationContext=document&vr=3.0&rs=cblt1.0&transitionType=DocumentItem&contextData=(sc.Search)" }{\fldrslt 
+{\f2 \strike0 \ul0 \b0 \sa0 \sb0 \fs18 \cf5 \i0 
+In re Ottman, 336 F.Supp. 746;
+}\f2 \strike0 \ul0 \b0 \sa0 \sb0 \fs18 \cf5 \i0 }}
+{\f2 \strike0 \ul0 \b0 \sa0 \sb0 \fs18 \cf1 \i0 
+ 
+}
+{\field {\*\fldinst HYPERLINK "http://www.westlaw.com/Link/Document/FullText?findType=Y&serNum=1971107388&pubNum=345&originatingDoc=I3ed2db609bf111d991d0cc6b54f12d4d&refType=RP&originationContext=document&vr=3.0&rs=cblt1.0&transitionType=DocumentItem&contextData=(sc.Search)" }{\fldrslt 
+{\f2 \strike0 \ul0 \b0 \sa0 \sb0 \fs18 \cf5 \i0 
+In re Naron, 334 F.Supp. 1150;
+}\f2 \strike0 \ul0 \b0 \sa0 \sb0 \fs18 \cf5 \i0 }}
+{\f2 \strike0 \ul0 \b0 \sa0 \sb0 \fs18 \cf1 \i0 
+ In re Read, No. Bk 71\u8212\'3f826 (WDNY, Oct. 19, 1971). See also In re Shropshire (ND Ia., Mar. 28, 1972); In re Passwater, Nos. IP70\u8212\'3fB\u8212\'3f3697 and IP70\u8212\'3fB\u8212\'3f3698 (SD Ind. 1971). But see In re Partilla, No. 71\u8212\'3fB\u8212\'3f380 (SDNY Oct. 15, 1971); In re Malevich, No. Bk 29\u8212\'3f71 (NJ 1971). In re Garland, supra, upon which the Government relies, was decided before our decision in Boddie.
+\par 
+}
+}
+}
+}
+}\f2 \li0 \strike0 \ul0 \b0 \qj \sa0 \sb0 \fs18 \ri0 \cf1 \i0 \intbl \cell \row }}\par 
+}
+{\li0 \f2 \qj \b0 \ri0 \fs20 \cf1 \i0 
+{\li0 \f2 \qj \b0 \ri0 \fs20 \cf1 \i0 
+{\f2 \strike0 \ul0 \b0 \sa0 \sb0 \fs20 \cf1 \i0 
+Boddie held that a Connecticut statute requiring the payment of an average $60 fee as a prerequisite to a divorce action was unconstitutional under the Due Process 
+}
+{\f2 \b1 \fs20 \cf1 \i0 
+{\*\bkmkstart co_pp_sp_780_454_1}{\*\bkmkend co_pp_sp_780_454_1}
+{\f2 \strike0 \ul0 \b1 \sa0 \sb0 \fs20 \cf1 \i0 
+*454
+}
+}
+{\f2 \strike0 \ul0 \b0 \sa0 \sb0 \fs20 \cf1 \i0 
+ Clause of the Fourteenth Amendment, as applied to indigents unable to pay the fee. The Court reasoned that due process protections are traditionally viewed as safeguards for a defendant, because at the point when a plaintiff invokes the governmental power of a court, the judicial proceeding is \u8216\'3fthe only effective means of resolving the dispute at hand and denial of a defendant\rquote s full access to that process raises grave problems for its legitimacy.\u8217\'3f 
+}
+{\field {\*\fldinst HYPERLINK "http://www.westlaw.com/Link/Document/FullText?findType=Y&serNum=1971127020&pubNum=708&originatingDoc=I3ed2db609bf111d991d0cc6b54f12d4d&refType=RP&fi=co_pp_sp_708_785&originationContext=document&vr=3.0&rs=cblt1.0&transitionType=DocumentItem&contextData=(sc.Search)#co_pp_sp_708_785" }{\fldrslt 
+{\f2 \strike0 \ul0 \b0 \sa0 \sb0 \fs20 \cf5 \i0 
+401 U.S., at 376, 91 S.Ct., at 785.
+}}}
+{\f2 \strike0 \ul0 \b0 \sa0 \sb200 \fs20 \cf1 \i0 
+ But a party to a marriage remains under serious and continuing obligation imposed by the State, which cannot be removed except by judicial dissolution of the marital bond. Thus, we concluded that:
+\par 
+}
+}
+{\li0 \f2 \qj \b0 \ri0 \fs20 \cf1 \i0 
+{\li0 \f2 \qj \b0 \ri0 \fs20 \cf1 \i0 
+{\f2 \strike0 \ul0 \b0 \sa0 \sb0 \fs20 \cf1 \i0 
+\u8216\'3f(A)lthough they assert here due process rights as would-be plaintiffs, we think appellants\rquote  plight, because resort to the state courts is the only avenue to dissolution of their marriages, is akin to that of defendants faced with exclusion from the only forum effectively empowered to settle their disputes. Resort to the judicial process by these plaintiffs is no more voluntary in a realistic sense than that of the defendants called upon to defend his interests in court. For both groups this process is not only the paramount dispute-settlement technique, but, in fact, the only available one.\u8217\'3f 
+}
+{\field {\*\fldinst HYPERLINK "http://www.westlaw.com/Link/Document/FullText?findType=Y&serNum=1971127020&pubNum=708&originatingDoc=I3ed2db609bf111d991d0cc6b54f12d4d&refType=RP&fi=co_pp_sp_708_785&originationContext=document&vr=3.0&rs=cblt1.0&transitionType=DocumentItem&contextData=(sc.Search)#co_pp_sp_708_785" }{\fldrslt 
+{\f2 \strike0 \ul0 \b0 \sa0 \sb0 \fs20 \cf5 \i0 
+Id., at 376\u8212\'3f377, 91 S.Ct., at 785
+}}}
+{\f2 \strike0 \ul0 \b0 \sa0 \sb0 \fs20 \cf1 \i0 
+.
+\par 
+}
+}
+}
+{\f2 \strike0 \ul0 \b0 \sa0 \sb0 \fs20 \cf1 \i0 
+\u160\'3f
+\par 
+}
+}
+{\li0 \f2 \qj \b0 \ri0 \fs20 \cf1 \i0 
+{\li0 \f2 \qj \b0 \ri0 \fs20 \cf1 \i0 
+{\f2 \strike0 \ul0 \b0 \sa0 \sb0 \fs20 \cf1 \i0 
+The violation of due process seems to me equally clear in the present case. It is undisputed that Kras is making a good-faith attempt to obtain a discharge in bankruptcy, and that he is in fact indigent. As was true in Boddie, the \u8216\'3fwelfare income . . . barely suffices to meet the costs of the daily essentials of life and includes no allotment that could be budgeted for the expense to gain 
+}
+{\f2 \b1 \fs20 \cf1 \i0 
+{\*\bkmkstart co_pp_sp_708_643_1}{\*\bkmkend co_pp_sp_708_643_1}
+{\f2 \strike0 \ul0 \b1 \sa0 \sb0 \fs20 \cf1 \i0 
+**643
+}
+}
+{\f2 \strike0 \ul0 \b0 \sa0 \sb200 \fs20 \cf1 \i0 
+ access to the courts . . ..\u8217\'3f 
+}
+{\field {\*\fldinst HYPERLINK "http://www.westlaw.com/Link/Document/FullText?findType=Y&serNum=1971127020&pubNum=708&originatingDoc=I3ed2db609bf111d991d0cc6b54f12d4d&refType=RP&fi=co_pp_sp_708_783&originationContext=document&vr=3.0&rs=cblt1.0&transitionType=DocumentItem&contextData=(sc.Search)#co_pp_sp_708_783" }{\fldrslt 
+{\f2 \strike0 \ul0 \b0 \sa0 \sb0 \fs20 \cf5 \i0 
+Id., at 372\u8212\'3f373, 91 S.Ct., at 783.
+}}}
+{\f2 \b0 \fs16 \cf1 \i0 
+{\*\bkmkstart co_footnoteReference_B01861973126314_ID0}{\*\bkmkend co_footnoteReference_B01861973126314_ID0}
+{\field {\*\fldinst HYPERLINK "#co_footnote_B01861973126314_1" }{\fldrslt 
+{\super \f2 \strike0 \ul0 \b0 \sa0 \sb0 \fs16 \cf5 \i0 
+6
+}}}
+\par 
+}
+}
+}
+{\li0 \f2 \qj \b0 \ri0 \fs20 \cf1 \i0 {
+{\trowd \lastrow \trleft0 
+\clbrdrt \clbrdrb \clbrdrl \trql \clvertalt \clwWidth600 \cellx600 
+\clpadb90 \clpadfb3 \clpadl90 \clpadfl3 \clbrdrt \clbrdrb \clbrdrr \trql \clwWidth9480 \cellx10080 
+\intbl 
+{\li0 \ri0 
+{\li0 \f2 \b0 \ql \ri0 \fs20 \cf1 \i0 
+{\f2 \b0 \fs20 \cf1 \i0 
+{\*\bkmkstart co_footnote_B01861973126314_1}{\*\bkmkend co_footnote_B01861973126314_1}
+{\field {\*\fldinst HYPERLINK "#co_footnoteReference_B01861973126314_ID0" }{\fldrslt 
+{\super \f2 \strike0 \ul0 \b0 \sa0 \sb0 \fs20 \cf5 \i0 
+6
+}\f2 \super \strike0 \ul0 \b0 \sa0 \sb0 \fs20 \cf5 \i0 }}
+\par 
+}
+}
+}\f2 \li0 \b0 \ql \fs20 \ri0 \cf1 \i0 \intbl \cell \intbl 
+{\li0 \ri0 
+{\li0 \f2 \qj \b0 \ri0 \fs18 \cf1 \i0 
+{\li0 \f2 \qj \b0 \ri0 \fs18 \cf1 \i0 
+{\li0 \f2 \qj \b0 \ri0 \fs18 \cf1 \i0 
+{\f2 \strike0 \ul0 \b0 \sa0 \sb0 \fs18 \cf1 \i0 
+The appellee indicated in the affidavit submitted with his petition:
+\par 
+}
+}
+{\li0 \f2 \qj \b0 \ri0 \fs18 \cf1 \i0 
+{\f2 \strike0 \ul0 \b0 \sa0 \sb0 \fs18 \cf1 \i0 
+\u8216\'3fBecause of my poverty, I am wholly unable to pay or promise to pay the filing fees, even in small installments, as a condition precedent to discharge and also provide myself and my dependents with day-to-day necessities. I have been unable to borrow money from my family, relatives, or friends. One of the debts of which I seek a discharge in bankruptcy is a loan from my wife\rquote s grandmother. The New York City Department of Social Services refuses to allot money for payment of the bankruptcy filing fees. I have no prospect of immediate employment.\u8217\'3f
+\par 
+}
+}
+}
+}
+}\f2 \li0 \strike0 \ul0 \b0 \qj \sa0 \sb0 \fs18 \ri0 \cf1 \i0 \intbl \cell \row }}\par 
+}
+{\li0 \f2 \qj \b0 \ri0 \fs20 \cf1 \i0 
+{\li0 \f2 \qj \b0 \ri0 \fs20 \cf1 \i0 
+{\f2 \strike0 \ul0 \b0 \fs20 \cf1 \i0 
+}
+{\f2 \b1 \fs20 \cf1 \i0 
+{\*\bkmkstart co_pp_sp_780_455_1}{\*\bkmkend co_pp_sp_780_455_1}
+{\f2 \strike0 \ul0 \b1 \sa0 \sb0 \fs20 \cf1 \i0 
+*455
+}
+}
+{\f2 \strike0 \ul0 \b0 \sa0 \sb200 \fs20 \cf1 \i0 
+ Similarly, the debtor, like the married plaintiffs in Biddie, originally entered into his contract freely and voluntarily. But it is the Government nevertheless that continues to enforce that obligation, and under our \u8216\'3flegal system\u8217\'3f that debt is effective only because the judicial machinery is there to collect it. The bankrupt is bankrupt precisely for the reason that the State stands ready to exact all of his debts through garnishment, attachment, and the panoply of other creditor remedies. The appellee can be pursued and harassed by his creditors since they hold his legally enforceable debts.
+\par 
+}
+}
+}
+{\li0 \f2 \qj \b0 \ri0 \fs20 \cf1 \i0 
+{\li0 \f2 \qj \b0 \ri0 \fs20 \cf1 \i0 
+{\f2 \strike0 \ul0 \b0 \sa0 \sb0 \fs20 \cf1 \i0 
+And in the unique situation of the indigent bankrupt, the Government provides the only effective means of his ever being free of these Government-imposed obligations. As in Boddie, there are no \u8216\'3frecognized, effective alternatives,\u8217\'3f 
+}
+{\field {\*\fldinst HYPERLINK "http://www.westlaw.com/Link/Document/FullText?findType=Y&serNum=1971127020&pubNum=708&originatingDoc=I3ed2db609bf111d991d0cc6b54f12d4d&refType=RP&fi=co_pp_sp_708_785&originationContext=document&vr=3.0&rs=cblt1.0&transitionType=DocumentItem&contextData=(sc.Search)#co_pp_sp_708_785" }{\fldrslt 
+{\f2 \strike0 \ul0 \b0 \sa0 \sb0 \fs20 \cf5 \i0 
+id., at 376, 91 S.Ct., at 785.
+}}}
+{\f2 \strike0 \ul0 \b0 \sa0 \sb0 \fs20 \cf1 \i0 
+ While the creditors of a bankrupt with assets might well desire to reach a compromise settlement, that possibility is foreclosed to the truly indigent bankrupt. With no funds and not even a sufficient prospect of income to be able to promise the payment of a $50 fee in weekly installments of $1.28, the assetless bankrupt has absolutely nothing to offer his creditors. And his creditors have nothing to gain by allowing him to escape or reduce his debts; their only hope is that eventually he might make enough income for them to attach. Unless the Government provides him access to the bankruptcy court, Kras will remain in the totally hopeless situation he now finds himself. The Government has thus truly pre-empted the only means for the 
+}
+{\f2 \b1 \fs20 \cf1 \i0 
+{\*\bkmkstart co_pp_sp_780_456_1}{\*\bkmkend co_pp_sp_780_456_1}
+{\f2 \strike0 \ul0 \b1 \sa0 \sb0 \fs20 \cf1 \i0 
+*456
+}
+}
+{\f2 \strike0 \ul0 \b0 \sa0 \sb200 \fs20 \cf1 \i0 
+ indigent bankrupt to get out from under a lifetime burden of debt.
+}
+{\f2 \b0 \fs16 \cf1 \i0 
+{\*\bkmkstart co_footnoteReference_B01971973126314_ID0}{\*\bkmkend co_footnoteReference_B01971973126314_ID0}
+{\field {\*\fldinst HYPERLINK "#co_footnote_B01971973126314_1" }{\fldrslt 
+{\super \f2 \strike0 \ul0 \b0 \sa0 \sb0 \fs16 \cf5 \i0 
+7
+}}}
+\par 
+}
+}
+}
+{\li0 \f2 \qj \b0 \ri0 \fs20 \cf1 \i0 {
+{\trowd \lastrow \trleft0 
+\clbrdrt \clbrdrb \clbrdrl \trql \clvertalt \clwWidth600 \cellx600 
+\clpadb90 \clpadfb3 \clpadl90 \clpadfl3 \clbrdrt \clbrdrb \clbrdrr \trql \clwWidth9480 \cellx10080 
+\intbl 
+{\li0 \ri0 
+{\li0 \f2 \b0 \ql \ri0 \fs20 \cf1 \i0 
+{\f2 \b0 \fs20 \cf1 \i0 
+{\*\bkmkstart co_footnote_B01971973126314_1}{\*\bkmkend co_footnote_B01971973126314_1}
+{\field {\*\fldinst HYPERLINK "#co_footnoteReference_B01971973126314_ID0" }{\fldrslt 
+{\super \f2 \strike0 \ul0 \b0 \sa0 \sb0 \fs20 \cf5 \i0 
+7
+}\f2 \super \strike0 \ul0 \b0 \sa0 \sb0 \fs20 \cf5 \i0 }}
+\par 
+}
+}
+}\f2 \li0 \b0 \ql \fs20 \ri0 \cf1 \i0 \intbl \cell \intbl 
+{\li0 \ri0 
+{\li0 \f2 \qj \b0 \ri0 \fs18 \cf1 \i0 
+{\li0 \f2 \qj \b0 \ri0 \fs18 \cf1 \i0 
+{\li0 \f2 \qj \b0 \ri0 \fs18 \cf1 \i0 
+{\f2 \strike0 \ul0 \b0 \sa0 \sb0 \fs18 \cf1 \i0 
+In Boddie, the Court recognized that marriage was a \u8216\'3ffundamental human relationship,\u8217\'3f 
+}
+{\field {\*\fldinst HYPERLINK "http://www.westlaw.com/Link/Document/FullText?findType=Y&serNum=1971127020&pubNum=708&originatingDoc=I3ed2db609bf111d991d0cc6b54f12d4d&refType=RP&fi=co_pp_sp_708_788&originationContext=document&vr=3.0&rs=cblt1.0&transitionType=DocumentItem&contextData=(sc.Search)#co_pp_sp_708_788" }{\fldrslt 
+{\f2 \strike0 \ul0 \b0 \sa0 \sb0 \fs18 \cf5 \i0 
+401 U.S., at 383, 91 S.Ct., at 788,
+}\f2 \strike0 \ul0 \b0 \sa0 \sb0 \fs18 \cf5 \i0 }}
+{\f2 \strike0 \ul0 \b0 \sa0 \sb0 \fs18 \cf1 \i0 
+ which involved interests \u8216\'3fof basic importance in our society.\u8217\'3f 
+}
+{\field {\*\fldinst HYPERLINK "http://www.westlaw.com/Link/Document/FullText?findType=Y&serNum=1971127020&pubNum=708&originatingDoc=I3ed2db609bf111d991d0cc6b54f12d4d&refType=RP&fi=co_pp_sp_708_785&originationContext=document&vr=3.0&rs=cblt1.0&transitionType=DocumentItem&contextData=(sc.Search)#co_pp_sp_708_785" }{\fldrslt 
+{\f2 \strike0 \ul0 \b0 \sa0 \sb0 \fs18 \cf5 \i0 
+Id., at 376, 91 S.Ct., at 785.
+}\f2 \strike0 \ul0 \b0 \sa0 \sb0 \fs18 \cf5 \i0 }}
+{\f2 \strike0 \ul0 \b0 \sa0 \sb0 \fs18 \cf1 \i0 
+ But it was not any subjective conception of the \u8216\'3ffundamentality\u8217\'3f of marriage, or divorce for that matter, that led the Court to find a due process violation in Boddie; rather, the significant factor about marriage was that \u8216\'3f(w)ithout a prior judicial imprimatur, individuals may freely enter into and rescind commercial contracts, for example, but we are unaware of any jurisdiction where private citizens may covenant for or dissolve marriages without state approval.\u8217\'3f 
+}
+{\field {\*\fldinst HYPERLINK "http://www.westlaw.com/Link/Document/FullText?findType=Y&serNum=1971127020&pubNum=708&originatingDoc=I3ed2db609bf111d991d0cc6b54f12d4d&refType=RP&fi=co_pp_sp_708_785&originationContext=document&vr=3.0&rs=cblt1.0&transitionType=DocumentItem&contextData=(sc.Search)#co_pp_sp_708_785" }{\fldrslt 
+{\f2 \strike0 \ul0 \b0 \sa0 \sb0 \fs18 \cf5 \i0 
+Id., at 376, 91 S.Ct., at 785.
+}\f2 \strike0 \ul0 \b0 \sa0 \sb0 \fs18 \cf5 \i0 }}
+{\f2 \strike0 \ul0 \b0 \sa0 \sb0 \fs18 \cf1 \i0 
+ It is the existence of judicially enforced obligations coupled with monopolization of the means of dissolution that similarly besets the indigent bankrupt.
+\par 
+}
+}
+}
+}
+}\f2 \li0 \strike0 \ul0 \b0 \qj \sa0 \sb0 \fs18 \ri0 \cf1 \i0 \intbl \cell \row }}\par 
+}
+{\li0 \f2 \qj \b0 \ri0 \fs20 \cf1 \i0 
+{\li0 \f2 \qj \b0 \ri0 \fs20 \cf1 \i0 
+{\f2 \strike0 \ul0 \b0 \sa0 \sb0 \fs20 \cf1 \i0 
+The Government contends that the filing fee is justified by the congressional decision to make the bankruptcy system self-supporting.
+}
+{\f2 \b0 \fs16 \cf1 \i0 
+{\*\bkmkstart co_footnoteReference_B02081973126314_ID0}{\*\bkmkend co_footnoteReference_B02081973126314_ID0}
+{\field {\*\fldinst HYPERLINK "#co_footnote_B02081973126314_1" }{\fldrslt 
+{\super \f2 \strike0 \ul0 \b0 \sa0 \sb0 \fs16 \cf5 \i0 
+8
+}}}
+}
+{\f2 \strike0 \ul0 \b0 \sa0 \sb0 \fs20 \cf1 \i0 
+ But in Boddie we rejected this same \u8216\'3fpay as you go\u8217\'3f argument, finding it an insufficient justification for excluding the poor from the only available process to dissolve a marriage. 
+}
+{\field {\*\fldinst HYPERLINK "http://www.westlaw.com/Link/Document/FullText?findType=Y&serNum=1971127020&pubNum=708&originatingDoc=I3ed2db609bf111d991d0cc6b54f12d4d&refType=RP&fi=co_pp_sp_708_788&originationContext=document&vr=3.0&rs=cblt1.0&transitionType=DocumentItem&contextData=(sc.Search)#co_pp_sp_708_788" }{\fldrslt 
+{\f2 \strike0 \ul0 \b0 \sa0 \sb0 \fs20 \cf5 \i0 
+401 U.S., at 382, 91 S.Ct., at 788.
+}}}
+{\f2 \strike0 \ul0 \b0 \sa0 \sb0 \fs20 \cf1 \i0 
+ The argument is no more persuasive here. The Constitution cannot tolerate achievement of the goal of self-support for a 
+}
+{\f2 \b1 \fs20 \cf1 \i0 
+{\*\bkmkstart co_pp_sp_708_644_1}{\*\bkmkend co_pp_sp_708_644_1}
+{\f2 \strike0 \ul0 \b1 \sa0 \sb0 \fs20 \cf1 \i0 
+**644
+}
+}
+{\f2 \strike0 \ul0 \b0 \sa0 \sb0 \fs20 \cf1 \i0 
+ bankruptcy system, any more than for a domestic relations court, at the price of denying due process of law to the poor. 
+}
+{\field {\*\fldinst HYPERLINK "http://www.westlaw.com/Link/Document/FullText?findType=Y&serNum=1971107388&pubNum=345&originatingDoc=I3ed2db609bf111d991d0cc6b54f12d4d&refType=RP&fi=co_pp_sp_345_1151&originationContext=document&vr=3.0&rs=cblt1.0&transitionType=DocumentItem&contextData=(sc.Search)#co_pp_sp_345_1151" }{\fldrslt 
+{\f2 \strike0 \ul0 \b0 \sa0 \sb0 \fs20 \cf5 \i0 
+In re Naron, 334 F.Supp. 1150, 1151;
+}}}
+{\f2 \strike0 \ul0 \b0 \sa0 \sb200 \fs20 \cf1 \i0 
+ 
+}
+{\field {\*\fldinst HYPERLINK "http://www.westlaw.com/Link/Document/FullText?findType=Y&serNum=1971104650&pubNum=345&originatingDoc=I3ed2db609bf111d991d0cc6b54f12d4d&refType=RP&fi=co_pp_sp_345_1088&originationContext=document&vr=3.0&rs=cblt1.0&transitionType=DocumentItem&contextData=(sc.Search)#co_pp_sp_345_1088" }{\fldrslt 
+{\f2 \strike0 \ul0 \b0 \sa0 \sb0 \fs20 \cf5 \i0 
+In re Smith, 323 F.Supp. 1082, 1088.
+}}}
+{\f2 \b0 \fs16 \cf1 \i0 
+{\*\bkmkstart co_footnoteReference_B02191973126314_ID0}{\*\bkmkend co_footnoteReference_B02191973126314_ID0}
+{\field {\*\fldinst HYPERLINK "#co_footnote_B02191973126314_1" }{\fldrslt 
+{\super \f2 \strike0 \ul0 \b0 \sa0 \sb0 \fs16 \cf5 \i0 
+9
+}}}
+\par 
+}
+}
+}
+{\li0 \f2 \qj \b0 \ri0 \fs20 \cf1 \i0 {
+{\trowd \lastrow \trleft0 
+\clbrdrt \clbrdrb \clbrdrl \trql \clvertalt \clwWidth600 \cellx600 
+\clpadb90 \clpadfb3 \clpadl90 \clpadfl3 \clbrdrt \clbrdrb \clbrdrr \trql \clwWidth9480 \cellx10080 
+\intbl 
+{\li0 \ri0 
+{\li0 \f2 \b0 \ql \ri0 \fs20 \cf1 \i0 
+{\f2 \b0 \fs20 \cf1 \i0 
+{\*\bkmkstart co_footnote_B02081973126314_1}{\*\bkmkend co_footnote_B02081973126314_1}
+{\field {\*\fldinst HYPERLINK "#co_footnoteReference_B02081973126314_ID0" }{\fldrslt 
+{\super \f2 \strike0 \ul0 \b0 \sa0 \sb0 \fs20 \cf5 \i0 
+8
+}\f2 \super \strike0 \ul0 \b0 \sa0 \sb0 \fs20 \cf5 \i0 }}
+\par 
+}
+}
+}\f2 \li0 \b0 \ql \fs20 \ri0 \cf1 \i0 \intbl \cell \intbl 
+{\li0 \ri0 
+{\li0 \f2 \qj \b0 \ri0 \fs18 \cf1 \i0 
+{\li0 \f2 \qj \b0 \ri0 \fs18 \cf1 \i0 
+{\li0 \f2 \qj \b0 \ri0 \fs18 \cf1 \i0 
+{\f2 \strike0 \ul0 \b0 \sa0 \sb0 \fs18 \cf1 \i0 
+Prior to 1946, while pauper petitioners were accepted without payment of fees, the referees whose compensation depended on fees, often demanded payment before granting a discharge. S.Rep.No.959, 79th Cong., 2d Sess., 6\u8212\'3f7 (1946); H.R.Rep.No.1037, 79th Cong., 1st Sess., 6 (1945). The 1946 Amendments to the Bankruptcy Act eliminated pauper petitions and provided for the payment of fixed fees for every petition filed, and the payment of a fixed percentage of all distributable assets. See 
+}
+{\field {\*\fldinst HYPERLINK "http://www.westlaw.com/Link/Document/FullText?findType=Y&serNum=1967129542&originatingDoc=I3ed2db609bf111d991d0cc6b54f12d4d&refType=RP&originationContext=document&vr=3.0&rs=cblt1.0&transitionType=DocumentItem&contextData=(sc.Search)" }{\fldrslt 
+{\f2 \strike0 \ul0 \b0 \sa0 \sb0 \fs18 \cf5 \i0 
+H.R.Rep.No.1037, supra, at 4, 5\u8212\'3f6
+}\f2 \strike0 \ul0 \b0 \sa0 \sb0 \fs18 \cf5 \i0 }}
+{\f2 \strike0 \ul0 \b0 \sa0 \sb0 \fs18 \cf1 \i0 
+.
+\par 
+}
+}
+}
+}
+}\f2 \li0 \strike0 \ul0 \b0 \qj \sa0 \sb0 \fs18 \ri0 \cf1 \i0 \intbl \cell \row }}\par 
+}
+{\li0 \f2 \qj \b0 \ri0 \fs20 \cf1 \i0 {
+{\trowd \lastrow \trleft0 
+\clbrdrt \clbrdrb \clbrdrl \trql \clvertalt \clwWidth600 \cellx600 
+\clpadb90 \clpadfb3 \clpadl90 \clpadfl3 \clbrdrt \clbrdrb \clbrdrr \trql \clwWidth9480 \cellx10080 
+\intbl 
+{\li0 \ri0 
+{\li0 \f2 \b0 \ql \ri0 \fs20 \cf1 \i0 
+{\f2 \b0 \fs20 \cf1 \i0 
+{\*\bkmkstart co_footnote_B02191973126314_1}{\*\bkmkend co_footnote_B02191973126314_1}
+{\field {\*\fldinst HYPERLINK "#co_footnoteReference_B02191973126314_ID0" }{\fldrslt 
+{\super \f2 \strike0 \ul0 \b0 \sa0 \sb0 \fs20 \cf5 \i0 
+9
+}\f2 \super \strike0 \ul0 \b0 \sa0 \sb0 \fs20 \cf5 \i0 }}
+\par 
+}
+}
+}\f2 \li0 \b0 \ql \fs20 \ri0 \cf1 \i0 \intbl \cell \intbl 
+{\li0 \ri0 
+{\li0 \f2 \qj \b0 \ri0 \fs18 \cf1 \i0 
+{\li0 \f2 \qj \b0 \ri0 \fs18 \cf1 \i0 
+{\li0 \f2 \qj \b0 \ri0 \fs18 \cf1 \i0 
+{\f2 \strike0 \ul0 \b0 \sa0 \sb0 \fs18 \cf1 \i0 
+See 
+}
+{\field {\*\fldinst HYPERLINK "http://www.westlaw.com/Link/Document/FullText?findType=Y&serNum=1972127151&pubNum=708&originatingDoc=I3ed2db609bf111d991d0cc6b54f12d4d&refType=RP&fi=co_pp_sp_708_1999&originationContext=document&vr=3.0&rs=cblt1.0&transitionType=DocumentItem&contextData=(sc.Search)#co_pp_sp_708_1999" }{\fldrslt 
+{\f2 \strike0 \ul0 \b0 \sa0 \sb0 \fs18 \cf5 \i0 
+Fuentes v. Shevin, 407 U.S. 67, 90 n. 22, 92 S.Ct. 1983, 1999, 32 L.Ed.2d 556;
+}\f2 \strike0 \ul0 \b0 \sa0 \sb0 \fs18 \cf5 \i0 }}
+{\f2 \strike0 \ul0 \b0 \sa0 \sb0 \fs18 \cf1 \i0 
+ 
+}
+{\field {\*\fldinst HYPERLINK "http://www.westlaw.com/Link/Document/FullText?findType=Y&serNum=1971127072&pubNum=708&originatingDoc=I3ed2db609bf111d991d0cc6b54f12d4d&refType=RP&fi=co_pp_sp_708_1589&originationContext=document&vr=3.0&rs=cblt1.0&transitionType=DocumentItem&contextData=(sc.Search)#co_pp_sp_708_1589" }{\fldrslt 
+{\f2 \strike0 \ul0 \b0 \sa0 \sb0 \fs18 \cf5 \i0 
+Bell v. Burson, 402 U.S. 535, 540\u8212\'3f541, 91 S.Ct. 1586, 1589\u8212\'3f1590, 29 L.Ed.2d 90;
+}\f2 \strike0 \ul0 \b0 \sa0 \sb0 \fs18 \cf5 \i0 }}
+{\f2 \strike0 \ul0 \b0 \sa0 \sb0 \fs18 \cf1 \i0 
+ 
+}
+{\field {\*\fldinst HYPERLINK "http://www.westlaw.com/Link/Document/FullText?findType=Y&serNum=1970134198&pubNum=708&originatingDoc=I3ed2db609bf111d991d0cc6b54f12d4d&refType=RP&fi=co_pp_sp_708_1016&originationContext=document&vr=3.0&rs=cblt1.0&transitionType=DocumentItem&contextData=(sc.Search)#co_pp_sp_708_1016" }{\fldrslt 
+{\f2 \strike0 \ul0 \b0 \sa0 \sb0 \fs18 \cf5 \i0 
+Goldberg v. Kelly, 397 U.S. 254, 261, 90 S.Ct. 1011, 1016, 25 L.Ed.2d 287;
+}\f2 \strike0 \ul0 \b0 \sa0 \sb0 \fs18 \cf5 \i0 }}
+{\f2 \strike0 \ul0 \b0 \sa0 \sb0 \fs18 \cf1 \i0 
+ Cf. 
+}
+{\field {\*\fldinst HYPERLINK "http://www.westlaw.com/Link/Document/FullText?findType=Y&serNum=1956124983&pubNum=708&originatingDoc=I3ed2db609bf111d991d0cc6b54f12d4d&refType=RP&originationContext=document&vr=3.0&rs=cblt1.0&transitionType=DocumentItem&contextData=(sc.Search)" }{\fldrslt 
+{\f2 \strike0 \ul0 \b0 \sa0 \sb0 \fs18 \cf5 \i0 
+Griffin v. Illinois, 351 U.S. 12, 76 S.Ct. 585, 100 L.Ed. 891
+}\f2 \strike0 \ul0 \b0 \sa0 \sb0 \fs18 \cf5 \i0 }}
+{\f2 \strike0 \ul0 \b0 \sa0 \sb0 \fs18 \cf1 \i0 
+.
+\par 
+}
+}
+{\li0 \f2 \qj \b0 \ri0 \fs18 \cf1 \i0 
+{\f2 \strike0 \ul0 \b0 \sa0 \sb0 \fs18 \cf1 \i0 
+Moreover, there is no evidence that a substantial amount of revenue would be lost by allowing assetless indigents with no present prospects of paying the fee to file without prepayment. Any loss in fees that did result could be partly recouped by allowing the filing-fee debt to survive bankruptcy.
+\par 
+}
+}
+}
+}
+}\f2 \li0 \strike0 \ul0 \b0 \qj \sa0 \sb0 \fs18 \ri0 \cf1 \i0 \intbl \cell \row }}\par 
+}
+{\li0 \f2 \qj \b0 \ri0 \fs20 \cf1 \i0 
+{\li0 \f2 \qj \b0 \ri0 \fs20 \cf1 \i0 
+{\f2 \strike0 \ul0 \b0 \fs20 \cf1 \i0 
+}
+{\f2 \b1 \fs20 \cf1 \i0 
+{\*\bkmkstart co_pp_sp_780_457_1}{\*\bkmkend co_pp_sp_780_457_1}
+{\f2 \strike0 \ul0 \b1 \sa0 \sb0 \fs20 \cf1 \i0 
+*457
+}
+}
+{\f2 \strike0 \ul0 \b0 \sa0 \sb0 \fs20 \cf1 \i0 
+ In my view, this case, like Boddie, does not require us to decide \u8216\'3fthat access for all individuals to the courts is a right that is, in all circumstances, guaranteed by the Due Process Clause . . . so that its exercise may not be placed beyond the reach of any individual . . ..\u8217\'3f 
+}
+{\field {\*\fldinst HYPERLINK "http://www.westlaw.com/Link/Document/FullText?findType=Y&serNum=1971127020&pubNum=708&originatingDoc=I3ed2db609bf111d991d0cc6b54f12d4d&refType=RP&fi=co_pp_sp_708_788&originationContext=document&vr=3.0&rs=cblt1.0&transitionType=DocumentItem&contextData=(sc.Search)#co_pp_sp_708_788" }{\fldrslt 
+{\f2 \strike0 \ul0 \b0 \sa0 \sb0 \fs20 \cf5 \i0 
+401 U.S., at 382\u8212\'3f383, 91 S.Ct., at 788.
+}}}
+{\f2 \strike0 \ul0 \b0 \sa0 \sb0 \fs20 \cf1 \i0 
+ It is sufficient to hold, as Boddie did, that \u8216\'3fa State may not, consistent with the obligations imposed on it by the Due Process Clause . . ., pre-empt the right to dissolve this legal relationship without affording all citizens access to the means it has prescribed for doing so.\u8217\'3f 
+}
+{\field {\*\fldinst HYPERLINK "http://www.westlaw.com/Link/Document/FullText?findType=Y&serNum=1971127020&pubNum=708&originatingDoc=I3ed2db609bf111d991d0cc6b54f12d4d&refType=RP&fi=co_pp_sp_708_789&originationContext=document&vr=3.0&rs=cblt1.0&transitionType=DocumentItem&contextData=(sc.Search)#co_pp_sp_708_789" }{\fldrslt 
+{\f2 \strike0 \ul0 \b0 \sa0 \sb0 \fs20 \cf5 \i0 
+Id., at 383, 91 S.Ct., at 789
+}}}
+{\f2 \strike0 \ul0 \b0 \sa0 \sb200 \fs20 \cf1 \i0 
+.
+\par 
+}
+}
+}
+{\li0 \f2 \qj \b0 \ri0 \fs20 \cf1 \i0 
+{\li0 \f2 \qj \b0 \ri0 \fs20 \cf1 \i0 
+{\f2 \strike0 \ul0 \b0 \sa0 \sb0 \fs20 \cf1 \i0 
+The Bankruptcy Act relieves \u8216\'3fthe honest debtor from the weight of oppressive indebtedness, and (permits) him to start afresh free from the obligations and responsibilities consequent upon business misfortunes,\u8217\'3f 
+}
+{\field {\*\fldinst HYPERLINK "http://www.westlaw.com/Link/Document/FullText?findType=Y&serNum=1915100580&pubNum=708&originatingDoc=I3ed2db609bf111d991d0cc6b54f12d4d&refType=RP&fi=co_pp_sp_708_290&originationContext=document&vr=3.0&rs=cblt1.0&transitionType=DocumentItem&contextData=(sc.Search)#co_pp_sp_708_290" }{\fldrslt 
+{\f2 \strike0 \ul0 \b0 \sa0 \sb0 \fs20 \cf5 \i0 
+Williams v. United States Fidelity & Guaranty Co., 236 U.S. 549, 554\u8212\'3f555, 35 S.Ct. 289, 290, 59 L.Ed. 713.
+}}}
+{\f2 \strike0 \ul0 \b0 \sa0 \sb0 \fs20 \cf1 \i0 
+ It holds out a promise to the debtor of \u8216\'3fa new opportunity in life and a clear field for future effort, unhampered by the pressure and discouragement of pre-existing debt.\u8217\'3f 
+}
+{\field {\*\fldinst HYPERLINK "http://www.westlaw.com/Link/Document/FullText?findType=Y&serNum=1934124223&pubNum=708&originatingDoc=I3ed2db609bf111d991d0cc6b54f12d4d&refType=RP&fi=co_pp_sp_708_699&originationContext=document&vr=3.0&rs=cblt1.0&transitionType=DocumentItem&contextData=(sc.Search)#co_pp_sp_708_699" }{\fldrslt 
+{\f2 \strike0 \ul0 \b0 \sa0 \sb0 \fs20 \cf5 \i0 
+Local Loan Co. v. Hunt, 292 U.S. 234, 244, 54 S.Ct. 695, 699, 78 L.Ed. 1230.
+}}}
+{\f2 \strike0 \ul0 \b0 \sa0 \sb200 \fs20 \cf1 \i0 
+ Yet the Court today denies that promise to those who need it most, to those who every day must live face-to-face with abject poverty\u8212\'3fwho cannot spare even $1.28 a week.
+\par 
+}
+}
+}
+{\li0 \f2 \qj \b0 \ri0 \fs20 \cf1 \i0 
+{\li0 \f2 \qj \b0 \ri0 \fs20 \cf1 \i0 
+{\f2 \strike0 \ul0 \b0 \sa0 \sb200 \fs20 \cf1 \i0 
+The Court today holds that Congress may say that some of the poor are too poor even to go bankrupt. I cannot agree.
+\par 
+}
+}
+}
+}
+{\li0 \f2 \qj \b0 \ri0 \fs20 \cf1 \i0 
+{\*\bkmkstart co_anchor_I8c4829b80e1811e498db8b09b4f04}{\*\bkmkend co_anchor_I8c4829b80e1811e498db8b09b4f04}
+\par 
+{\li0 \f2 \qj \b0 \ri0 \fs20 \cf1 \i0 
+{\li0 \f2 \qj \b0 \ri0 \fs20 \cf1 \i0 
+{\f2 \strike0 \ul0 \b0 \sa0 \sb200 \fs20 \cf1 \i0 
+Mr. Justice DOUGLAS and Mr. Justice BRENNAN, dissenting.
+\par 
+}
+}
+}
+{\li0 \f2 \qj \b0 \ri0 \fs20 \cf1 \i0 
+{\li0 \f2 \qj \b0 \ri0 \fs20 \cf1 \i0 
+{\f2 \strike0 \ul0 \b0 \sa0 \sb0 \fs20 \cf1 \i0 
+While we join Mr. Justice STEWART\rquote S dissenting opinion we do so with this explicit statement of reasons. We said in 
+}
+{\field {\*\fldinst HYPERLINK "http://www.westlaw.com/Link/Document/FullText?findType=Y&serNum=1954117300&pubNum=708&originatingDoc=I3ed2db609bf111d991d0cc6b54f12d4d&refType=RP&fi=co_pp_sp_708_694&originationContext=document&vr=3.0&rs=cblt1.0&transitionType=DocumentItem&contextData=(sc.Search)#co_pp_sp_708_694" }{\fldrslt 
+{\f2 \strike0 \ul0 \b0 \sa0 \sb0 \fs20 \cf5 \i0 
+Bolling v. Sharpe, 347 U.S. 497, 499, 74 S.Ct. 693, 694, 98 L.Ed. 884,
+}}}
+{\f2 \strike0 \ul0 \b0 \sa0 \sb0 \fs20 \cf1 \i0 
+ when holding 
+}
+{\f2 \b1 \fs20 \cf1 \i0 
+{\*\bkmkstart co_pp_sp_780_458_1}{\*\bkmkend co_pp_sp_780_458_1}
+{\f2 \strike0 \ul0 \b1 \sa0 \sb0 \fs20 \cf1 \i0 
+*458
+}
+}
+{\f2 \strike0 \ul0 \b0 \sa0 \sb200 \fs20 \cf1 \i0 
+ that segregation of students in the District of Columbia violated the Due Process Clause of the Fifth Amendment:
+\par 
+}
+}
+{\li0 \f2 \qj \b0 \ri0 \fs20 \cf1 \i0 
+{\li0 \f2 \qj \b0 \ri0 \fs20 \cf1 \i0 
+{\li800 \f2 \qj \b0 \ri800 \fs20 \cf1 \i0 
+{\li800 \f2 \qj \b0 \ri800 \fs20 \cf1 \i0 
+{\f2 \strike0 \ul0 \b0 \sa50 \sb50 \fs20 \cf1 \i0 
+\u8216\'3fThe Fifth Amendment, which is applicable in the District of Columbia, does not contain an equal protection clause as does the Fourteenth Amendment which applies only to the states. But the concepts of equal protection and due process, both stemming from our American ideal of fairness, are not mutually exclusive. The \u8216\'3fequal protection of the laws\rquote  is a more explicit safeguard of prohibited unfairness than \u8216\'3fdue process of law,\u8217\'3f and, therefore, we do not imply that the two are always interchangeable phrases. But, as this Court has recognized, discrimination may be so unjustifiable as to be violative of due process.\rquote 
+\par 
+}
+}
+}
+}
+}
+{\f2 \strike0 \ul0 \b0 \sa0 \sb0 \fs20 \cf1 \i0 
+\u160\'3f
+\par 
+}
+}
+{\li0 \f2 \qj \b0 \ri0 \fs20 \cf1 \i0 
+{\li0 \f2 \qj \b0 \ri0 \fs20 \cf1 \i0 
+{\f2 \strike0 \ul0 \b0 \sa0 \sb200 \fs20 \cf1 \i0 
+The invidious discrimination in the present case is a denial of due process because it denies equal protection within our decisions which make particularly \u8216\'3finvidious\rquote  discrimination based on wealth or race.
+\par 
+}
+}
+}
+}
+{\li0 \f2 \qj \b0 \ri0 \fs20 \cf1 \i0 
+{\*\bkmkstart co_anchor_I8c4829b90e1811e498db8b09b4f04}{\*\bkmkend co_anchor_I8c4829b90e1811e498db8b09b4f04}
+\par 
+{\li0 \f2 \qj \b0 \ri0 \fs20 \cf1 \i0 
+{\li0 \f2 \qj \b0 \ri0 \fs20 \cf1 \i0 
+{\f2 \strike0 \ul0 \b0 \sa0 \sb200 \fs20 \cf1 \i0 
+Mr. Justice MARSHALL, dissenting.
+\par 
+}
+}
+}
+{\li0 \f2 \qj \b0 \ri0 \fs20 \cf1 \i0 
+{\li0 \f2 \qj \b0 \ri0 \fs20 \cf1 \i0 
+{\f2 \strike0 \ul0 \b0 \sa0 \sb0 \fs20 \cf1 \i0 
+The dissent of Mr. Justice STEWART, in which I have joined, makes clear the majority\rquote s failure to distinguish this case from 
+}
+{\field {\*\fldinst HYPERLINK "http://www.westlaw.com/Link/Document/FullText?findType=Y&serNum=1971127020&pubNum=708&originatingDoc=I3ed2db609bf111d991d0cc6b54f12d4d&refType=RP&originationContext=document&vr=3.0&rs=cblt1.0&transitionType=DocumentItem&contextData=(sc.Search)" }{\fldrslt 
+{\f2 \strike0 \ul0 \b0 \sa0 \sb0 \fs20 \cf5 \i0 
+Boddie v. Connecticut, 401 U.S. 371, 91 S.Ct. 780, 28 L.Ed.2d 113 (1971)
+}}}
+{\f2 \strike0 \ul0 \b0 \sa0 \sb0 \fs20 \cf1 \i0 
+. 
+}
+{\f2 \b1 \fs20 \cf1 \i0 
+{\*\bkmkstart co_pp_sp_708_645_1}{\*\bkmkend co_pp_sp_708_645_1}
+{\f2 \strike0 \ul0 \b1 \sa0 \sb0 \fs20 \cf1 \i0 
+**645
+}
+}
+{\f2 \strike0 \ul0 \b0 \sa0 \sb200 \fs20 \cf1 \i0 
+ I add only some comments on the extraordinary route by which the majority reaches its conclusion.
+\par 
+}
+}
+}
+{\li0 \f2 \qj \b0 \ri0 \fs20 \cf1 \i0 
+{\li0 \f2 \qj \b0 \ri0 \fs20 \cf1 \i0 
+{\f2 \strike0 \ul0 \b0 \sa0 \sb200 \fs20 \cf1 \i0 
+A. The majority notes that the minimum amount that appellee Kras must pay each week if he is permitted to pay the filing fees in installments is only $1.28. It says that \u8216\'3fthis much available revenue should be within his able-bodied reach.\u8217\'3f Ante, at 640.
+\par 
+}
+}
+}
+{\li0 \f2 \qj \b0 \ri0 \fs20 \cf1 \i0 
+{\li0 \f2 \qj \b0 \ri0 \fs20 \cf1 \i0 
+{\f2 \strike0 \ul0 \b0 \sa0 \sb0 \fs20 \cf1 \i0 
+Appellee submitted an affidavit in which he claimed that he was \u8216\'3funable to pay or promise to pay the filing fees, even in small installments.\u8217\'3f App. 5. This claim was supported by detailed statements of his financial condition. 
+}
+{\f2 \b1 \fs20 \cf1 \i0 
+{\*\bkmkstart co_pp_sp_780_459_1}{\*\bkmkend co_pp_sp_780_459_1}
+{\f2 \strike0 \ul0 \b1 \sa0 \sb0 \fs20 \cf1 \i0 
+*459
+}
+}
+{\f2 \strike0 \ul0 \b0 \sa0 \sb0 \fs20 \cf1 \i0 
+ The affidavit was unchallenged below, but the majority does challenge it. The District Judge properly accepted the factual allegations as true. See e.g., 
+}
+{\field {\*\fldinst HYPERLINK "http://www.westlaw.com/Link/Document/FullText?findType=Y&serNum=1962127567&pubNum=708&originatingDoc=I3ed2db609bf111d991d0cc6b54f12d4d&refType=RP&originationContext=document&vr=3.0&rs=cblt1.0&transitionType=DocumentItem&contextData=(sc.Search)" }{\fldrslt 
+{\f2 \strike0 \ul0 \b0 \sa0 \sb0 \fs20 \cf5 \i0 
+Poller v. Columbia Broadcasting System, 368 U.S. 464, 82 S.Ct. 486, 7 L.Ed.2d 458 (1962)
+}}}
+{\f2 \strike0 \ul0 \b0 \sa0 \sb0 \fs20 \cf1 \i0 
+; 
+}
+{\field {\*\fldinst HYPERLINK "http://www.westlaw.com/Link/Document/FullText?findType=Y&serNum=1968131190&pubNum=708&originatingDoc=I3ed2db609bf111d991d0cc6b54f12d4d&refType=RP&originationContext=document&vr=3.0&rs=cblt1.0&transitionType=DocumentItem&contextData=(sc.Search)" }{\fldrslt 
+{\f2 \strike0 \ul0 \b0 \sa0 \sb0 \fs20 \cf5 \i0 
+First National Bank of Arizona v. Cities Service Co., 391 U.S. 253, 88 S.Ct. 1575, 20 L.Ed.2d 569 (1968)
+}}}
+{\f2 \strike0 \ul0 \b0 \sa0 \sb200 \fs20 \cf1 \i0 
+; 35B C.J.S. Federal Civil Procedure s 1197 n. 4 (1960). The majority seems to believe that it is not restrained by the traditional notion that judges must accept unchallenged, credible affidavits as true, for it disregards the factual allegations and the inferences that necessarily follow from them. I cannot treat that notion so cavalierly.
+}
+{\f2 \b0 \fs16 \cf1 \i0 
+{\*\bkmkstart co_footnoteReference_B02211973126314_ID0}{\*\bkmkend co_footnoteReference_B02211973126314_ID0}
+{\field {\*\fldinst HYPERLINK "#co_footnote_B02211973126314_1" }{\fldrslt 
+{\super \f2 \strike0 \ul0 \b0 \sa0 \sb0 \fs16 \cf5 \i0 
+1
+}}}
+\par 
+}
+}
+}
+{\li0 \f2 \qj \b0 \ri0 \fs20 \cf1 \i0 {
+{\trowd \lastrow \trleft0 
+\clbrdrt \clbrdrb \clbrdrl \trql \clvertalt \clwWidth600 \cellx600 
+\clpadb90 \clpadfb3 \clpadl90 \clpadfl3 \clbrdrt \clbrdrb \clbrdrr \trql \clwWidth9480 \cellx10080 
+\intbl 
+{\li0 \ri0 
+{\li0 \f2 \b0 \ql \ri0 \fs20 \cf1 \i0 
+{\f2 \b0 \fs20 \cf1 \i0 
+{\*\bkmkstart co_footnote_B02211973126314_1}{\*\bkmkend co_footnote_B02211973126314_1}
+{\field {\*\fldinst HYPERLINK "#co_footnoteReference_B02211973126314_ID0" }{\fldrslt 
+{\super \f2 \strike0 \ul0 \b0 \sa0 \sb0 \fs20 \cf5 \i0 
+1
+}\f2 \super \strike0 \ul0 \b0 \sa0 \sb0 \fs20 \cf5 \i0 }}
+\par 
+}
+}
+}\f2 \li0 \b0 \ql \fs20 \ri0 \cf1 \i0 \intbl \cell \intbl 
+{\li0 \ri0 
+{\li0 \f2 \qj \b0 \ri0 \fs18 \cf1 \i0 
+{\li0 \f2 \qj \b0 \ri0 \fs18 \cf1 \i0 
+{\li0 \f2 \qj \b0 \ri0 \fs18 \cf1 \i0 
+{\f2 \strike0 \ul0 \b0 \sa0 \sb0 \fs18 \cf1 \i0 
+The majority also misrepresents appellee\rquote s financial condition. It says that $1.28 \u8216\'3fis a sum less than the payments Kras makes on his couch of negligible value in storage.\u8217\'3f Ante, at 640. Nowhere in the slender record of this case can I find any statement that appellee is actually paying anything for the storage of the couch. He said only that he \u8216\'3fowed payments of $6 per mouth\u8217\'3f for storage. App. 5 (emphasis added). He also stated that he owed $6,428.69, but I would hardly read that to mean that he was paying that much to anyone.
+\par 
+}
+}
+}
+}
+}\f2 \li0 \strike0 \ul0 \b0 \qj \sa0 \sb0 \fs18 \ri0 \cf1 \i0 \intbl \cell \row }}\par 
+}
+{\li0 \f2 \qj \b0 \ri0 \fs20 \cf1 \i0 
+{\li0 \f2 \qj \b0 \ri0 \fs20 \cf1 \i0 
+{\f2 \strike0 \ul0 \b0 \sa0 \sb200 \fs20 \cf1 \i0 
+Even if Kras\rquote  statement that he was unable to pay the fees was an honest mistake, surely he cannot have been mistaken in saying that he could not promise to pay the fees. The majority does not directly impugn his good faith in making that statement. Yet if he cannot promise to pay the fees, he cannot get the interim relief from creditor harassment that, the majority says, may enable him to pay the fees.
+\par 
+}
+}
+}
+{\li0 \f2 \qj \b0 \ri0 \fs20 \cf1 \i0 
+{\li0 \f2 \qj \b0 \ri0 \fs20 \cf1 \i0 
+{\f2 \strike0 \ul0 \b0 \sa0 \sb0 \fs20 \cf1 \i0 
+But beyond all this, I cannot agree with the majority that it is so easy for the desperately poor to save $1.92 each week over the course of six months. The 1970 Census found that over 800,000 families in the Nation had annual incomes of less than $1,000 or $19.23 a week. U.S. Bureau of Census, Current Population Reports, series P\u8212\'3f60, No. 80; U.S. Bureau of Census, Statistical 
+}
+{\f2 \b1 \fs20 \cf1 \i0 
+{\*\bkmkstart co_pp_sp_780_460_1}{\*\bkmkend co_pp_sp_780_460_1}
+{\f2 \strike0 \ul0 \b1 \sa0 \sb0 \fs20 \cf1 \i0 
+*460
+}
+}
+{\f2 \strike0 \ul0 \b0 \sa0 \sb200 \fs20 \cf1 \i0 
+ Abstract of the United States 1972, p. 323. I see no reason to require that families in such straits sacrifice over 5% of their annual income as a prerequisite to getting a discharge in bankruptcy.
+}
+{\f2 \b0 \fs16 \cf1 \i0 
+{\*\bkmkstart co_footnoteReference_B02321973126314_ID0}{\*\bkmkend co_footnoteReference_B02321973126314_ID0}
+{\field {\*\fldinst HYPERLINK "#co_footnote_B02321973126314_1" }{\fldrslt 
+{\super \f2 \strike0 \ul0 \b0 \sa0 \sb0 \fs16 \cf5 \i0 
+2
+}}}
+\par 
+}
+}
+}
+{\li0 \f2 \qj \b0 \ri0 \fs20 \cf1 \i0 {
+{\trowd \lastrow \trleft0 
+\clbrdrt \clbrdrb \clbrdrl \trql \clvertalt \clwWidth600 \cellx600 
+\clpadb90 \clpadfb3 \clpadl90 \clpadfl3 \clbrdrt \clbrdrb \clbrdrr \trql \clwWidth9480 \cellx10080 
+\intbl 
+{\li0 \ri0 
+{\li0 \f2 \b0 \ql \ri0 \fs20 \cf1 \i0 
+{\f2 \b0 \fs20 \cf1 \i0 
+{\*\bkmkstart co_footnote_B02321973126314_1}{\*\bkmkend co_footnote_B02321973126314_1}
+{\field {\*\fldinst HYPERLINK "#co_footnoteReference_B02321973126314_ID0" }{\fldrslt 
+{\super \f2 \strike0 \ul0 \b0 \sa0 \sb0 \fs20 \cf5 \i0 
+2
+}\f2 \super \strike0 \ul0 \b0 \sa0 \sb0 \fs20 \cf5 \i0 }}
+\par 
+}
+}
+}\f2 \li0 \b0 \ql \fs20 \ri0 \cf1 \i0 \intbl \cell \intbl 
+{\li0 \ri0 
+{\li0 \f2 \qj \b0 \ri0 \fs18 \cf1 \i0 
+{\li0 \f2 \qj \b0 \ri0 \fs18 \cf1 \i0 
+{\li0 \f2 \qj \b0 \ri0 \fs18 \cf1 \i0 
+{\f2 \strike0 \ul0 \b0 \sa0 \sb0 \fs18 \cf1 \i0 
+The majority, in citing the \u8216\'3frecord of achievement\u8217\'3f of the bankruptcy system in terminating 107,481 no-asset cases in the fiscal year 1969, ante, at 639 n. 7, relies on spectral evidence. Because the filing fees bar relief through the bankruptcy system, statistics showing how many people got relief through that system are unenlightening on the question of how many people could not use the system because they were too poor. I do not know how many people cannot afford to pay a $50 fee in installments. But I find nothing in the majority\rquote s opinion to convince me that due process is afforded a person who cannot receive a discharge in bankruptcy because he is too poor. Even if only one person is affected by the filing fees, he is denied due process.
+\par 
+}
+}
+}
+}
+}\f2 \li0 \strike0 \ul0 \b0 \qj \sa0 \sb0 \fs18 \ri0 \cf1 \i0 \intbl \cell \row }}\par 
+}
+{\li0 \f2 \qj \b0 \ri0 \fs20 \cf1 \i0 
+{\li0 \f2 \qj \b0 \ri0 \fs20 \cf1 \i0 
+{\f2 \strike0 \ul0 \b0 \sa0 \sb0 \fs20 \cf1 \i0 
+It may be easy for some people to think that weekly savings of less than $2 are no burden. But no one who has had close contact with poor people can fail to understand how close to the margin of survival many of them are. A sudden illness, for example, may destroy whatever savings they may have accumulated, and by eliminating a sense of security may destroy the incentive to save in the future. A pack or two of cigarettes may be, for them, not a routine purchase but a luxury indulged in only rarely. The desperately poor almost never go to see a movie, which the majority seems to believe is an almost weekly activity. They have more important things to do with what little 
+}
+{\f2 \b1 \fs20 \cf1 \i0 
+{\*\bkmkstart co_pp_sp_708_646_1}{\*\bkmkend co_pp_sp_708_646_1}
+{\f2 \strike0 \ul0 \b1 \sa0 \sb0 \fs20 \cf1 \i0 
+**646
+}
+}
+{\f2 \strike0 \ul0 \b0 \sa0 \sb200 \fs20 \cf1 \i0 
+ money they have\u8212\'3flike attempting to provide some comforts for a gravely ill child, as Kras must do.
+\par 
+}
+}
+}
+{\li0 \f2 \qj \b0 \ri0 \fs20 \cf1 \i0 
+{\li0 \f2 \qj \b0 \ri0 \fs20 \cf1 \i0 
+{\f2 \strike0 \ul0 \b0 \sa0 \sb200 \fs20 \cf1 \i0 
+It is perfectly proper for judges to disagree about what the Constitution requires. But it is disgraceful for an interpretation of the Constitution to be premised upon unfounded assumptions about how people live.
+\par 
+}
+}
+}
+{\li0 \f2 \qj \b0 \ri0 \fs20 \cf1 \i0 
+{\li0 \f2 \qj \b0 \ri0 \fs20 \cf1 \i0 
+{\f2 \strike0 \ul0 \b0 \sa0 \sb0 \fs20 \cf1 \i0 
+B. The majority derives some solace from the denial of certiorari in 
+}
+{\field {\*\fldinst HYPERLINK "http://www.westlaw.com/Link/Document/FullText?findType=Y&serNum=1971242747&pubNum=780&originatingDoc=I3ed2db609bf111d991d0cc6b54f12d4d&refType=RP&originationContext=document&vr=3.0&rs=cblt1.0&transitionType=DocumentItem&contextData=(sc.Search)" }{\fldrslt 
+{\f2 \strike0 \ul0 \b0 \sa0 \sb0 \fs20 \cf5 \i0 
+In re Garland, 402 U.S. 966,
+}}}
+{\f2 \strike0 \ul0 \b0 \sa0 \sb0 \fs20 \cf1 \i0 
+ 
+}
+{\field {\*\fldinst HYPERLINK "http://www.westlaw.com/Link/Document/FullText?findType=Y&serNum=1971242747&pubNum=708&originatingDoc=I3ed2db609bf111d991d0cc6b54f12d4d&refType=RP&originationContext=document&vr=3.0&rs=cblt1.0&transitionType=DocumentItem&contextData=(sc.Search)" }{\fldrslt 
+{\f2 \strike0 \ul0 \b0 \sa0 \sb0 \fs20 \cf5 \i0 
+91 S.Ct. 1624,
+}}}
+{\f2 \strike0 \ul0 \b0 \sa0 \sb0 \fs20 \cf1 \i0 
+ 
+}
+{\field {\*\fldinst HYPERLINK "http://www.westlaw.com/Link/Document/FullText?findType=Y&serNum=1971242747&pubNum=471&originatingDoc=I3ed2db609bf111d991d0cc6b54f12d4d&refType=RP&originationContext=document&vr=3.0&rs=cblt1.0&transitionType=DocumentItem&contextData=(sc.Search)" }{\fldrslt 
+{\f2 \strike0 \ul0 \b0 \sa0 \sb0 \fs20 \cf5 \i0 
+29 L.Ed.2d 130 (1971)
+}}}
+{\f2 \strike0 \ul0 \b0 \sa0 \sb0 \fs20 \cf1 \i0 
+. Reliance 
+}
+{\f2 \b1 \fs20 \cf1 \i0 
+{\*\bkmkstart co_pp_sp_780_461_1}{\*\bkmkend co_pp_sp_780_461_1}
+{\f2 \strike0 \ul0 \b1 \sa0 \sb0 \fs20 \cf1 \i0 
+*461
+}
+}
+{\f2 \strike0 \ul0 \b0 \sa0 \sb0 \fs20 \cf1 \i0 
+ on denial of certiorari for any proposition impairs the vitality of the discretion we exercise in controlling the cases we hear. See 
+}
+{\field {\*\fldinst HYPERLINK "http://www.westlaw.com/Link/Document/FullText?findType=Y&serNum=1953116771&pubNum=708&originatingDoc=I3ed2db609bf111d991d0cc6b54f12d4d&refType=RP&fi=co_pp_sp_708_438&originationContext=document&vr=3.0&rs=cblt1.0&transitionType=DocumentItem&contextData=(sc.Search)#co_pp_sp_708_438" }{\fldrslt 
+{\f2 \strike0 \ul0 \b0 \sa0 \sb0 \fs20 \cf5 \i0 
+Brown v. Allen, 344 U.S. 443, 491\u8212\'3f492, 73 S.Ct. 397, 438\u8212\'3f439,
+}}}
+{\f2 \strike0 \ul0 \b0 \sa0 \sb0 \fs20 \cf1 \i0 
+ 
+}
+{\field {\*\fldinst HYPERLINK "http://www.westlaw.com/Link/Document/FullText?findType=Y&serNum=1953116771&pubNum=470&originatingDoc=I3ed2db609bf111d991d0cc6b54f12d4d&refType=RP&originationContext=document&vr=3.0&rs=cblt1.0&transitionType=DocumentItem&contextData=(sc.Search)" }{\fldrslt 
+{\f2 \strike0 \ul0 \b0 \sa0 \sb0 \fs20 \cf5 \i0 
+97 L.Ed. 469 (1953)
+}}}
+{\f2 \strike0 \ul0 \b0 \sa0 \sb0 \fs20 \cf1 \i0 
+ (opinion of Frankfurter, J.). For all that the legal community knows, Mr. Justice Harlan did not join the dissent from denial of certiorari in that case for reasons different from those that the majority uses to distinguish this case from Boddie. Perhaps he believed that lower courts should have some time to consider the implications of Boddie. Most of the lower courts have refused to follow the First Circuit\rquote s decision 
+}
+{\field {\*\fldinst HYPERLINK "http://www.westlaw.com/Link/Document/FullText?findType=Y&serNum=1970102192&pubNum=350&originatingDoc=I3ed2db609bf111d991d0cc6b54f12d4d&refType=RP&originationContext=document&vr=3.0&rs=cblt1.0&transitionType=DocumentItem&contextData=(sc.Search)" }{\fldrslt 
+{\f2 \strike0 \ul0 \b0 \sa0 \sb0 \fs20 \cf5 \i0 
+in Garland, 428 F.2d 1185.
+}}}
+{\f2 \strike0 \ul0 \b0 \sa0 \sb200 \fs20 \cf1 \i0 
+ See ante, at 642 n. 5 (STEWART, J., dissenting). Perhaps he thought that the record in that case made inappropriate any attempt to determine the scope of Boddie in that particular case. Or perhaps he had some other reason.
+\par 
+}
+}
+}
+{\li0 \f2 \qj \b0 \ri0 \fs20 \cf1 \i0 
+{\li0 \f2 \qj \b0 \ri0 \fs20 \cf1 \i0 
+{\f2 \strike0 \ul0 \b0 \sa0 \sb200 \fs20 \cf1 \i0 
+The point of our use of a discretionary writ is precisely to prohibit that kind of speculation. When we deny dertiorari, no one, not even ourselves, should think that the denial indicates a view on the merits of the case. It ill serves judges of the courts throughout the country to tell them, as the majority does today, that in attempting to determine what the law is, they must read, not only the opinions of this Court, but also the thousands of cases in which we annually deny certiorari.
+}
+{\f2 \b0 \fs16 \cf1 \i0 
+{\*\bkmkstart co_footnoteReference_B02431973126314_ID0}{\*\bkmkend co_footnoteReference_B02431973126314_ID0}
+{\field {\*\fldinst HYPERLINK "#co_footnote_B02431973126314_1" }{\fldrslt 
+{\super \f2 \strike0 \ul0 \b0 \sa0 \sb0 \fs16 \cf5 \i0 
+3
+}}}
+\par 
+}
+}
+}
+{\li0 \f2 \qj \b0 \ri0 \fs20 \cf1 \i0 {
+{\trowd \lastrow \trleft0 
+\clbrdrt \clbrdrb \clbrdrl \trql \clvertalt \clwWidth600 \cellx600 
+\clpadb90 \clpadfb3 \clpadl90 \clpadfl3 \clbrdrt \clbrdrb \clbrdrr \trql \clwWidth9480 \cellx10080 
+\intbl 
+{\li0 \ri0 
+{\li0 \f2 \b0 \ql \ri0 \fs20 \cf1 \i0 
+{\f2 \b0 \fs20 \cf1 \i0 
+{\*\bkmkstart co_footnote_B02431973126314_1}{\*\bkmkend co_footnote_B02431973126314_1}
+{\field {\*\fldinst HYPERLINK "#co_footnoteReference_B02431973126314_ID0" }{\fldrslt 
+{\super \f2 \strike0 \ul0 \b0 \sa0 \sb0 \fs20 \cf5 \i0 
+3
+}\f2 \super \strike0 \ul0 \b0 \sa0 \sb0 \fs20 \cf5 \i0 }}
+\par 
+}
+}
+}\f2 \li0 \b0 \ql \fs20 \ri0 \cf1 \i0 \intbl \cell \intbl 
+{\li0 \ri0 
+{\li0 \f2 \qj \b0 \ri0 \fs18 \cf1 \i0 
+{\li0 \f2 \qj \b0 \ri0 \fs18 \cf1 \i0 
+{\li0 \f2 \qj \b0 \ri0 \fs18 \cf1 \i0 
+{\f2 \strike0 \ul0 \b0 \sa0 \sb0 \fs18 \cf1 \i0 
+That one of us undertook to write a dissent, even a \u8216\'3fpointed dissent,\u8217\'3f from the denial of certiorari should suggest, again, nothing at all about the views of any other Members of the Court on the merits of the petition. Surely each of us has seen many cases in which a colleague\rquote s dissent from the denial of certiorari pointed to an issue of great concern that we thought should be decided by this Court, but in which we did not join because we did not consider the case to be an appropriate vehicle for determination of that issue.
+\par 
+}
+}
+}
+}
+}\f2 \li0 \strike0 \ul0 \b0 \qj \sa0 \sb0 \fs18 \ri0 \cf1 \i0 \intbl \cell \row }}\par 
+}
+{\li0 \f2 \qj \b0 \ri0 \fs20 \cf1 \i0 
+{\li0 \f2 \qj \b0 \ri0 \fs20 \cf1 \i0 
+{\f2 \strike0 \ul0 \b0 \sa0 \sb0 \fs20 \cf1 \i0 
+C. The majority says that \u8216\'3f(t)he denial of access to the judicial forum in Boddie touched directly . . . on the marital relationship.\u8217\'3f It sees \u8216\'3fno fundamental interest 
+}
+{\f2 \b1 \fs20 \cf1 \i0 
+{\*\bkmkstart co_pp_sp_780_462_1}{\*\bkmkend co_pp_sp_780_462_1}
+{\f2 \strike0 \ul0 \b1 \sa0 \sb0 \fs20 \cf1 \i0 
+*462
+}
+}
+{\f2 \strike0 \ul0 \b0 \sa0 \sb0 \fs20 \cf1 \i0 
+ that is gained or lost depending on the availability of a discharge in bankruptcy.\u8217\'3f Ante, at 637, 638. If the case is to turn on distinctions between the role of courts in divorce cases and their role in bankruptcy cases,
+}
+{\f2 \b0 \fs16 \cf1 \i0 
+{\*\bkmkstart co_footnoteReference_B02541973126314_ID0}{\*\bkmkend co_footnoteReference_B02541973126314_ID0}
+{\field {\*\fldinst HYPERLINK "#co_footnote_B02541973126314_1" }{\fldrslt 
+{\super \f2 \strike0 \ul0 \b0 \sa0 \sb0 \fs16 \cf5 \i0 
+4
+}}}
+}
+{\f2 \strike0 \ul0 \b0 \sa0 \sb200 \fs20 \cf1 \i0 
+ I agree with Mr. Justice STEWART that this case and Boddie cannot be distinguished; the role of the Government in standing ready to enforce an otherwise continuing obligation is the same.
+\par 
+}
+}
+}
+{\li0 \f2 \qj \b0 \ri0 \fs20 \cf1 \i0 {
+{\trowd \lastrow \trleft0 
+\clbrdrt \clbrdrb \clbrdrl \trql \clvertalt \clwWidth600 \cellx600 
+\clpadb90 \clpadfb3 \clpadl90 \clpadfl3 \clbrdrt \clbrdrb \clbrdrr \trql \clwWidth9480 \cellx10080 
+\intbl 
+{\li0 \ri0 
+{\li0 \f2 \b0 \ql \ri0 \fs20 \cf1 \i0 
+{\f2 \b0 \fs20 \cf1 \i0 
+{\*\bkmkstart co_footnote_B02541973126314_1}{\*\bkmkend co_footnote_B02541973126314_1}
+{\field {\*\fldinst HYPERLINK "#co_footnoteReference_B02541973126314_ID0" }{\fldrslt 
+{\super \f2 \strike0 \ul0 \b0 \sa0 \sb0 \fs20 \cf5 \i0 
+4
+}\f2 \super \strike0 \ul0 \b0 \sa0 \sb0 \fs20 \cf5 \i0 }}
+\par 
+}
+}
+}\f2 \li0 \b0 \ql \fs20 \ri0 \cf1 \i0 \intbl \cell \intbl 
+{\li0 \ri0 
+{\li0 \f2 \qj \b0 \ri0 \fs18 \cf1 \i0 
+{\li0 \f2 \qj \b0 \ri0 \fs18 \cf1 \i0 
+{\li0 \f2 \qj \b0 \ri0 \fs18 \cf1 \i0 
+{\f2 \strike0 \ul0 \b0 \sa0 \sb0 \fs18 \cf1 \i0 
+I am intrigued by the majority\rquote s suggestion that, because the granting of a divorce impinges on \u8216\'3fassociational interests,\u8217\'3f the right to a divorce is constitutionally protected. Are we to require that state divorce laws serve compelling state interests? For example, if a State chooses to allow divorces only when one party is shown to have committed adultery, must its refusal to allow them when the parties claim irreconcilable differences be justified by some compelling state interest? I raise these questions only to suggest that the majority\rquote s focus on the relative importance in the constitutional scheme of divorce and bankruptcy is misplaced. What is involved is the importance of access to the courts, either to remove an obligation that other branches of the government stand ready to enforce, as Mr. Justice STEWART sees it, or to determine claims of right, as I see it.
+\par 
+}
+}
+}
+}
+}\f2 \li0 \strike0 \ul0 \b0 \qj \sa0 \sb0 \fs18 \ri0 \cf1 \i0 \intbl \cell \row }}\par 
+}
+{\li0 \f2 \qj \b0 \ri0 \fs20 \cf1 \i0 
+{\li0 \f2 \qj \b0 \ri0 \fs20 \cf1 \i0 
+{\f2 \strike0 \ul0 \b0 \sa0 \sb0 \fs20 \cf1 \i0 
+However, I would go further than Mr. Justice STEWART. I view the case as involving the right of access to the courts, the opportunity to be heard when one claims a legal right, and not just the right to a discharge in bankruptcy.
+}
+{\f2 \b0 \fs16 \cf1 \i0 
+{\*\bkmkstart co_footnoteReference_B02651973126314_ID0}{\*\bkmkend co_footnoteReference_B02651973126314_ID0}
+{\field {\*\fldinst HYPERLINK "#co_footnote_B02651973126314_1" }{\fldrslt 
+{\super \f2 \strike0 \ul0 \b0 \sa0 \sb0 \fs16 \cf5 \i0 
+5
+}}}
+}
+{\f2 \strike0 \ul0 \b0 \sa0 \sb0 \fs20 \cf1 \i0 
+ 
+}
+{\f2 \b1 \fs20 \cf1 \i0 
+{\*\bkmkstart co_pp_sp_708_647_1}{\*\bkmkend co_pp_sp_708_647_1}
+{\f2 \strike0 \ul0 \b1 \sa0 \sb0 \fs20 \cf1 \i0 
+**647
+}
+}
+{\f2 \strike0 \ul0 \b0 \sa0 \sb0 \fs20 \cf1 \i0 
+ When a person raises a claim of right or entitlement under the laws, the only forum in our legal system empowered to determine that claim is a court. 
+}
+{\f2 \b1 \fs20 \cf1 \i0 
+{\*\bkmkstart co_pp_sp_780_463_1}{\*\bkmkend co_pp_sp_780_463_1}
+{\f2 \strike0 \ul0 \b1 \sa0 \sb0 \fs20 \cf1 \i0 
+*463
+}
+}
+{\f2 \strike0 \ul0 \b0 \sa0 \sb0 \fs20 \cf1 \i0 
+ Kras, for example, claims that he has a right under the Bankruptcy Act to be free of any duty to pay his creditors. There is no way to determine whether he has such a right except by adjudicating his claim.
+}
+{\f2 \b0 \fs16 \cf1 \i0 
+{\*\bkmkstart co_footnoteReference_B02761973126314_ID0}{\*\bkmkend co_footnoteReference_B02761973126314_ID0}
+{\field {\*\fldinst HYPERLINK "#co_footnote_B02761973126314_1" }{\fldrslt 
+{\super \f2 \strike0 \ul0 \b0 \sa0 \sb0 \fs16 \cf5 \i0 
+6
+}}}
+}
+{\f2 \strike0 \ul0 \b0 \sa0 \sb200 \fs20 \cf1 \i0 
+ Failure to do so denies him access to the courts.
+\par 
+}
+}
+}
+{\li0 \f2 \qj \b0 \ri0 \fs20 \cf1 \i0 {
+{\trowd \lastrow \trleft0 
+\clbrdrt \clbrdrb \clbrdrl \trql \clvertalt \clwWidth600 \cellx600 
+\clpadb90 \clpadfb3 \clpadl90 \clpadfl3 \clbrdrt \clbrdrb \clbrdrr \trql \clwWidth9480 \cellx10080 
+\intbl 
+{\li0 \ri0 
+{\li0 \f2 \b0 \ql \ri0 \fs20 \cf1 \i0 
+{\f2 \b0 \fs20 \cf1 \i0 
+{\*\bkmkstart co_footnote_B02651973126314_1}{\*\bkmkend co_footnote_B02651973126314_1}
+{\field {\*\fldinst HYPERLINK "#co_footnoteReference_B02651973126314_ID0" }{\fldrslt 
+{\super \f2 \strike0 \ul0 \b0 \sa0 \sb0 \fs20 \cf5 \i0 
+5
+}\f2 \super \strike0 \ul0 \b0 \sa0 \sb0 \fs20 \cf5 \i0 }}
+\par 
+}
+}
+}\f2 \li0 \b0 \ql \fs20 \ri0 \cf1 \i0 \intbl \cell \intbl 
+{\li0 \ri0 
+{\li0 \f2 \qj \b0 \ri0 \fs18 \cf1 \i0 
+{\li0 \f2 \qj \b0 \ri0 \fs18 \cf1 \i0 
+{\li0 \f2 \qj \b0 \ri0 \fs18 \cf1 \i0 
+{\f2 \strike0 \ul0 \b0 \sa0 \sb0 \fs18 \cf1 \i0 
+The majority suggests that no such right is involved, because Congress could have committed the administration of the Bankruptcy Act to a nonjudicial agency. Ante, at 639. I have some doubt about the proposition that a statutorily created right can be finally determined by an agency, with no method for a disappointed claimant to secure judicial review. But I have no doubt that Congress could not provide that only the well-off had the right to present their claims to the agency. As should be clear, the question is one of access to the forum empowered to determine the claim of right; it is only shorthand to call this a question of access to the courts.
+\par 
+}
+}
+}
+}
+}\f2 \li0 \strike0 \ul0 \b0 \qj \sa0 \sb0 \fs18 \ri0 \cf1 \i0 \intbl \cell \row }}\par 
+}
+{\li0 \f2 \qj \b0 \ri0 \fs20 \cf1 \i0 {
+{\trowd \lastrow \trleft0 
+\clbrdrt \clbrdrb \clbrdrl \trql \clvertalt \clwWidth600 \cellx600 
+\clpadb90 \clpadfb3 \clpadl90 \clpadfl3 \clbrdrt \clbrdrb \clbrdrr \trql \clwWidth9480 \cellx10080 
+\intbl 
+{\li0 \ri0 
+{\li0 \f2 \b0 \ql \ri0 \fs20 \cf1 \i0 
+{\f2 \b0 \fs20 \cf1 \i0 
+{\*\bkmkstart co_footnote_B02761973126314_1}{\*\bkmkend co_footnote_B02761973126314_1}
+{\field {\*\fldinst HYPERLINK "#co_footnoteReference_B02761973126314_ID0" }{\fldrslt 
+{\super \f2 \strike0 \ul0 \b0 \sa0 \sb0 \fs20 \cf5 \i0 
+6
+}\f2 \super \strike0 \ul0 \b0 \sa0 \sb0 \fs20 \cf5 \i0 }}
+\par 
+}
+}
+}\f2 \li0 \b0 \ql \fs20 \ri0 \cf1 \i0 \intbl \cell \intbl 
+{\li0 \ri0 
+{\li0 \f2 \qj \b0 \ri0 \fs18 \cf1 \i0 
+{\li0 \f2 \qj \b0 \ri0 \fs18 \cf1 \i0 
+{\li0 \f2 \qj \b0 \ri0 \fs18 \cf1 \i0 
+{\f2 \strike0 \ul0 \b0 \sa0 \sb0 \fs18 \cf1 \i0 
+It might be said that the right he claims does not come into play until he has fulfilled a condition precedent by paying the filing fees. But the distinction between procedure and substance is not unknown in the law and can be drawn on to counter that argument.
+\par 
+}
+}
+}
+}
+}\f2 \li0 \strike0 \ul0 \b0 \qj \sa0 \sb0 \fs18 \ri0 \cf1 \i0 \intbl \cell \row }}\par 
+}
+{\li0 \f2 \qj \b0 \ri0 \fs20 \cf1 \i0 
+{\li0 \f2 \qj \b0 \ri0 \fs20 \cf1 \i0 
+{\f2 \strike0 \ul0 \b0 \sa0 \sb200 \fs20 \cf1 \i0 
+The legal system is, of course, not so pervasive as to preclude private resolution of disputes. But private settlements do not determine the validity of claims of right. Such questions can be authoritatively resolved only in courts. It is in that sense, I believe, that we should consider the emphasis in Boddie on the exclusiveness of the judicial forum\u8212\'3fand give Kras his day in court.
+\par 
+}
+}
+}
+}
+}
+}
+}
+}
+{\li0 \f2 \qj \b0 \ri0 \fs20 \cf1 \i0 
+{\li0 \f2 \qj \b1 \ri0 \fs20 \cf19 \i0 
+{\*\bkmkstart co_allCitations_1}{\*\bkmkend co_allCitations_1}
+{\f2 \strike0 \ul0 \b1 \sa200 \sb400 \fs20 \cf19 \i0 
+All Citations
+\par 
+}
+}
+{\f2 \strike0 \ul0 \b0 \sa0 \sb0 \fs20 \cf1 \i0 
+409 U.S. 434, 93 S.Ct. 631, 34 L.Ed.2d 626
+\par 
+}
+}
+{\li0 \f2 \qj \b0 \ri0 \fs20 \cf1 \i0 {
+{\trowd \lastrow \trleft0 
+\clpadt24 \clpadft3 \clpadl100 \clpadfl3 \clpadr24 \clpadfr3 \clbrdrt \brdrw10 \brdrcf20 \brdrs \clbrdrb \clbrdrl \trql \clwWidth4320 \cellx4320 
+\clpadt24 \clpadft3 \clpadl100 \clpadfl3 \clpadr24 \clpadfr3 \clbrdrt \brdrw10 \brdrcf20 \brdrs \clbrdrb \clbrdrr \trql \clwWidth5760 \cellx10080 
+\intbl 
+{\li24 \ri24 
+{\li24 \f2 \b1 \ql \ri24 \fs16 \cf20 \i0 
+{\f2 \strike0 \ul0 \b1 \sa0 \sb0 \fs16 \cf20 \i0 
+End of Document
+\par 
+}
+}
+}\f2 \li24 \strike0 \ul0 \b1 \sa0 \ql \sb0 \fs16 \ri24 \cf20 \i0 \intbl \cell \intbl 
+{\li24 \ri24 
+{\li24 \f2 \b0 \ri24 \fs16 \cf20 \qr \i0 
+{\f2 \strike0 \ul0 \b0 \sa0 \sb0 \fs16 \cf20 \i0 
+\u169\'3f 2015 Thomson Reuters. No claim to original U.S. Government Works.
+\par 
+}
+}
+}\f2 \li24 \strike0 \ul0 \b0 \sa0 \sb0 \fs16 \ri24 \cf20 \i0 \qr \intbl \cell \row }}\par 
+}
+}\sect }

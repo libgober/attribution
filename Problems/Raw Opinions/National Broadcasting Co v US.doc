@@ -1,0 +1,2942 @@
+{\rtf1 \ansi 
+{\colortbl;
+\red0\green0\blue0;
+\red255\green255\blue255;
+\red255\green0\blue0;
+\red0\green255\blue0;
+\red0\green0\blue255;
+\red0\green255\blue255;
+\red255\green0\blue255;
+\red255\green255\blue0;
+\red0\green0\blue128;
+\red0\green128\blue128;
+\red0\green128\blue0;
+\red128\green0\blue128;
+\red128\green0\blue0;
+\red128\green128\blue0;
+\red128\green128\blue128;
+\red192\green192\blue192;
+\red170\green170\blue170;
+\red85\green85\blue85;
+\red37\green37\blue37;
+\red119\green119\blue119;
+\red204\green204\blue204;
+\red254\green254\blue0;
+\red182\green231\blue243;
+\red221\green195\blue236;
+\red255\green255\blue204;
+\red255\green204\blue0;
+\red203\green203\blue203;
+\red245\green245\blue245;
+\red229\green243\blue255;
+\red179\green218\blue255;
+\red247\green247\blue247;
+\red80\green80\blue80;
+\red58\green58\blue58;
+\red120\green162\blue47;
+\red102\green102\blue102;
+\red240\green248\blue255;
+\red127\green127\blue127;
+\red151\green151\blue151;
+\red255\green255\blue174;
+\red255\green194\blue211;
+\red190\green190\blue252;
+\red223\green223\blue223;
+\red239\green239\blue239;
+\red236\green236\blue236;
+\red187\green187\blue187;
+\red20\green93\blue164;
+\red105\green105\blue105;
+\red246\green246\blue246;
+\red227\green227\blue227;
+\red183\green242\blue206;
+\red153\green255\blue102;
+\red71\green120\blue194;
+\red51\green51\blue51;
+\red238\green238\blue238;
+\red204\green255\blue255;
+\red153\green153\blue153;
+\red68\green68\blue68;
+\red255\green210\blue183;
+\red243\green243\blue243;
+\red102\green0\blue102;
+}
+{\fonttbl {
+\f0 Arial;}{
+\f1 Symbol;}{
+\f2 Times New Roman;}{
+\f3 georgia;}{
+\f4 sans-serif;}{
+\f5 serif;}{
+\f6 Courier New;}
+}
+{\*\generator Apache XML Graphics RTF Library;}
+\fet0 \ftnbj \paperw12240 \paperh15840 \margt1800 \margb1080 \margl1080 \margr1080 \headery720 \footery720 \itap0 \cols1 
+\sectd {\header {
+{\trowd \ltrrow \trleft0 
+\clpadb60 \clpadfb3 \clpadl400 \clpadfl3 \clbrdrt \clbrdrl \clbrdrr \trql \clvertalb \clwWidth9380 \cellx9380 
+\intbl 
+{\li0 \f0 \b0 \ri0 \fs18 \cf1 \qc \i0 
+{\f0 \strike0 \ul0 \b0 \fs18 \cf1 \i0 
+}
+{\f0 \b1 \fs18 \cf1 \i0 
+{\f0 \strike0 \ul0 \b1 \sa0 \sb0 \fs18 \cf1 \i0 
+Libgober, Brian
+}
+}
+{\f0 \strike0 \ul0 \b0 \sa0 \sb0 \fs18 \cf1 \i0 
+ 
+}
+{\f0 \b1 \fs18 \cf1 \i0 
+{\f0 \strike0 \ul0 \b1 \sa0 \sb0 \fs18 \cf1 \i0 
+7/2/2015
+}
+}
+{\f0 \strike0 \ul0 \b0 \fs18 \cf1 \i0 
+\par 
+}
+}
+{\li0 \f0 \b0 \ri0 \fs18 \cf1 \qc \i0 
+{\f0 \strike0 \ul0 \b0 \fs18 \cf1 \i0 
+}
+{\f0 \b1 \fs18 \cf1 \i0 
+{\f0 \strike0 \ul0 \b1 \sa0 \sb0 \fs18 \cf1 \i0 
+For Educational Use Only
+}
+}
+{\f0 \strike0 \ul0 \b0 \fs18 \cf1 \i0 
+}
+}\f0 \li0 \strike0 \ul0 \b0 \sa0 \sb0 \fs18 \ri0 \cf1 \i0 \qc \intbl \cell \row }
+{\trowd \ltrrow \trleft0 
+\clpadb60 \clpadfb3 \clpadl400 \clpadfl3 \clbrdrb \brdrw20 \brdrcf17 \brdrs \clbrdrl \trql \clvertalb \clwWidth9380 \cellx9380 
+\clpadb60 \clpadfb3 \clpadl400 \clpadfl3 \clbrdrb \brdrw20 \brdrcf17 \brdrs \clbrdrr \trql \clwWidth700 \cellx10080 
+\intbl 
+{\li0 \f0 \b0 \ql \ri0 \fs18 \cf1 \i0 
+{\f0 \strike0 \ul0 \b0 \fs18 \cf1 \i0 
+}
+{\f0 \b1 \fs18 \cf18 \i0 
+{\f0 \strike0 \ul0 \b1 \sa0 \sb0 \fs18 \cf18 \i0 
+National Broadcasting Co. v. U.S., 319 U.S. 190 (1943)
+}
+}
+{\f0 \strike0 \ul0 \b0 \fs18 \cf1 \i0 
+}
+}\f0 \li0 \strike0 \ul0 \b0 \sa0 \ql \sb0 \fs18 \ri0 \cf1 \i0 \intbl \cell \intbl 
+{\li0 \f0 \b0 \ri0 \fs18 \cf1 \qr \i0 
+}\f0 \li0 \b0 \fs18 \ri0 \cf1 \i0 \qr \intbl \cell \row }
+{\trowd \lastrow \trleft0 
+\clbrdrb \clbrdrl \trql \clwWidth10080 \cellx10080 
+\intbl 
+{\li0 \f0 \b0 \ql \ri0 \fs18 \cf1 \i0 
+{\f0 \strike0 \ul0 \b0 \sa0 \sb0 \fs18 \cf1 \i0 
+63 S.Ct. 997, 87 L.Ed. 1344, 1 Media L. Rep. 1965
+}
+}\f0 \li0 \strike0 \ul0 \b0 \sa0 \ql \sb0 \fs18 \ri0 \cf1 \i0 \intbl \cell \row }}\par }{\footer {
+{\trowd \lastrow \trleft0 
+\clpadl60 \clpadfl3 \clbrdrt \brdrw20 \brdrcf17 \brdrs \clbrdrb \clbrdrl \trql \clvertalb \clwWidth9300 \cellx9300 
+\clpadl60 \clpadfl3 \clbrdrt \brdrw20 \brdrcf17 \brdrs \clbrdrb \clbrdrr \trql \clwWidth700 \cellx10000 
+\intbl 
+{\li0 \f0 \b0 \ql \ri0 \fs20 \cf17 \i0 
+{\f0 \strike0 \ul0 \b0 \fs20 \cf17 \i0 
+}
+{\*\shppict {\pict \pngblip \picw78 \pich10 \picwgoal1170 \pichgoal150 89504e470d0a1a0a0000000d494844520000004e0000000a08030000002dbd985500000300504c5445fffffffffdfbfffcf9fdfdfdfafafafffffefffcf8f6f6f6f3f3f3fffdfae2e2e2fff5e8fffaf3fff7ecffa631bbbbbb7f7f7f7676766b6b6bffca849e9e9ef8f8f8ffbf6afffefdff9712fcfcfca4a4a4969696ff9202ffb452fff5e6ff970dfefefeffad41e1e1e1ffe9cd949494ffe6c5fff6e96f6f6fffe6c6ffebd0fff1e0d2d2d2ffd399ff950efff9f2ff9f26fff3e3fff9f0ffd092fff2e1ffb555ffe7c7fff3e4ff8500ffe0b8ffb6558b8b8bffce8dffebd1ff9408929292ffddb0ff9c19ff9811ffb95cfff8eeffecd3cccccc8e8e8effeed8ffa42d626262c9c9c9666666ffe2bcddddddfffbf7ffa32aff970eeaeaea686868dadadaffab3a9a9a9a6d6d6effe8c9878787e3e3e3ff9f20f5f5f5b7b7b7efefef868686ffc77cffe4c1ff9912ffc272ff93056c6c6cffeed7ffd296ffab3d818181ff930aff9e1effaf47fffbf5fff0dbff9100cfcfcfff930cffeacf7a7a7affcf90f7f7f7fbfbfbffa835ff9814ffa32effe9cc676767ffc67afff2e2ffb048ff9509ffdbade0e0e0ffa939ffe5c3dcdcdcffc170ffe8cab3b3b3ffb047f1f1f18c8c8cfffefeffecd4feedd7e8e8e8ffb656ffe2bbfff1df898989ff9b17ffcd8affefdac3c3c3bdbdbdffe1baffc06cffa431fff7edf9f9f9ecececffaf44fff0dd787878ff9919d9d9d9ff8f01ffd8a4727272737373e5e5e5ffe2bdffd9a7646464fffaf2ffdbab686b6effc172ffe9caffe3c0ffdcafffc374ffc477ff981dfffdf9f5f4f2ffb34efff3e2ffe4bfff9e22ffa227fefdfdffc578f1eae1ffeccf6a6a6bff9102ff9201ff9101fffcf775797e7c7c7cff9203dedede5d5d5d6b6c6dffbb60ffbc62707070ffa42bffd49bff9f29ffb04affefdcfff7ebf2f2f2ff950af6f2eeffdfb4696969ffd298ffddb2ff9916ffe1bcff9a0bffa128ffa329b0b0b0ff9d20ff9d23bfbfbfb4b4b4ffb24bff9409ffd49c727375ffa62fffe3bedbdbdbb9b9b96a6a6a6e72776e6e6effaa39ffa024ffa324fffefcfff4e5ff9c29ffb351ff9f2bffe3bc919191ff8d03ffa42eff8f02fffaf4fffaf5ff9000ffa22b9843d85d000000097048597300000b1300000b1301009a9c18000002f94944415478da633e95a6ba9b6145fce75b0c8c738f7e674000469effff94ef474d674003a271ebfb81141777f065646196999b9925be30c9143d6260ed71b36060d04fb444960f2b656160adb364c000f5698140d2396b2d8aa8583d83c63757e6edfd8f8eb05c2aaa5af07572e68975da33e57731743dc9f30b5e7f2aaa7a26b7d495df7e29d2e9b7dfae7b739fc159faf93fc67d39cf24d77b5c665067bcf487c39fe9d35fa5ee4d0ca52f1c623803b74ebdc4747dc56606dd4927eee9306cd1fb9af989e9ee62d68d2c3d812bf6b0787c946766906678f274bf5f95fb79a0cf1c1975189ce55e687e137eadc060f6eef732f9a267d9ecca65920c4bf74edc55a9323d7e373343cd8aaf5bb927685c78e2c7fd756b72b7c4cde52fc2d64e79bee2bfc8835d7c375efd4edefb60e7f4af6aff2eb19ee438d12a9075eff6f92d4a93e73a099c3c6a5d2078ad74b7a2dbe55b1322f53608b77e616066d065babd73d7fbfedddedf9cf75dfb15fa826d8d22efcb775ffe4c906afe23f6ebc7ef4382761ef2f14bbb27adcd79b8e0b7f6b1b2a2e2afcf56fdf35862567859239d71fe8be737ecfc03ff7dfcb2ea0b03d0b853bdc7f337ff3ac117579ba8f4496fd59f5b3c17aee60845ef7c789bf7a5e217e1b7d6cf04ef4f17b9bf76eb937ce5ab562a522553eefefcedf38d3175d3aa3dc5ff8b6fdcfdf76163ea7f063ed6770c20e3fe5b4a1dbef35754fe586ad4199949b3167e7ff8f6997d6c6f8cc67df19b7c4b767cf9a3b9e7c9ec2fa72e4eb812de7ff7cccf49cb3453b632dc15fac5cc7d67f12bf7947bffb9ae9b38ec6510fffe196cdcbfcf776c0e00d3c549a34de5ef3ebd60e4fb94f76fbe3aefde93fa4f1ff3eb1dac3a96bc6d91afec8c4dcbf62de08cb8f8f6595154ea4f86bffcb378a630fefc732cf2c674068b1ad675d3755245affe071ac7a0b1f5d01186af162577775c559338eb20bf37fba9e4b4036b3a6ae51edd3eb5a780e3fc5d0fd588fab5ea9783186456dc3c75fb8bc86d0686f7ed2b0e04293cb0d9df59fee5c45bd5363115a309e5071800dbb45cde95f0d3420000000049454e44ae426082}}
+{\f0 \strike0 \ul0 \b0 \sa0 \sb0 \fs20 \cf17 \i0 
+ \u169\'3f 2015 Thomson Reuters. No claim to original U.S. Government Works.
+}
+}\f0 \li0 \strike0 \ul0 \b0 \sa0 \ql \sb0 \fs20 \ri0 \cf17 \i0 \intbl \cell \intbl 
+{\li0 \f0 \b0 \ri0 \fs20 \cf17 \qr \i0 
+{\b0 \i0 \ul0 \fs20 \f0 \chpgn }
+}\f0 \li0 \strike0 \ul0 \b0 \fs20 \ri0 \cf17 \i0 \qr \intbl \cell \row }}\par }
+{\li0 \f2 \qj \b0 \ri0 \fs20 \par}\sect\sbknone\pgncont\cols1{ \cf1 \i0 
+{\*\bkmkstart co_document_1}{\*\bkmkend co_document_1}
+{\f2 \b0 \fs20 \cf1 \i0 
+{\*\bkmkstart I091076d89cc311d991d0cc6b54f12d4d_Target}{\*\bkmkend I091076d89cc311d991d0cc6b54f12d4d_Target}
+\par 
+}
+{\li0 \f3 \b0 \ri0 \fs20 \cf1 \qc \i0 
+{\f3 \strike0 \ul0 \b0 \sa0 \sb0 \fs20 \cf1 \i0 
+63 S.Ct. 997
+\par 
+}
+}
+{\li0 \f3 \b0 \ri0 \fs20 \cf1 \qc \i0 
+{\li0 \f3 \b0 \ri0 \fs20 \cf1 \qc \i0 
+{\f3 \strike0 \ul0 \b0 \sa0 \sb0 \fs20 \cf1 \i0 
+Supreme Court of the United States.
+\par 
+}
+}
+}
+{\li0 \f3 \b0 \ri0 \fs20 \cf1 \qc \i0 
+}
+{\li100 \f3 \b0 \ri100 \fs20 \cf19 \qc \i0 
+{\li100 \f3 \b0 \ri100 \fs20 \cf19 \qc \i0 
+{\li100 \f3 \b0 \ri100 \fs20 \cf19 \qc \i0 
+{\f3 \strike0 \ul0 \b0 \sa0 \sb200 \fs20 \cf19 \i0 
+NATIONAL BROADCASTING CO., Inc., et al.
+\par 
+}
+}
+{\li100 \f3 \b0 \ri100 \fs20 \cf19 \qc \i0 
+{\f3 \strike0 \ul0 \b0 \sa0 \sb0 \fs20 \cf19 \i0 
+v.
+\par 
+}
+}
+{\li100 \f3 \b0 \ri100 \fs20 \cf19 \qc \i0 
+{\f3 \strike0 \ul0 \b0 \sa0 \sb0 \fs20 \cf19 \i0 
+UNITED STATES et al.
+\par 
+}
+}
+}
+{\li100 \f3 \b0 \ri100 \fs20 \cf19 \qc \i0 
+{\li100 \f3 \b0 \ri100 \fs20 \cf19 \qc \i0 
+{\f3 \strike0 \ul0 \b0 \sa0 \sb0 \fs20 \cf19 \i0 
+COLUMBIA BROADCASTING SYSTEM, Inc.,
+\par 
+}
+}
+{\li100 \f3 \b0 \ri100 \fs20 \cf19 \qc \i0 
+{\f3 \strike0 \ul0 \b0 \sa0 \sb0 \fs20 \cf19 \i0 
+v.
+\par 
+}
+}
+{\li100 \f3 \b0 \ri100 \fs20 \cf19 \qc \i0 
+{\f3 \strike0 \ul0 \b0 \sa200 \sb0 \fs20 \cf19 \i0 
+SAME.
+\par 
+}
+}
+}
+}
+{\li0 \f2 \b0 \ri0 \fs20 \cf1 \qc \i0 
+{\f2 \b0 \fs20 \cf1 \i0 
+{\f3 \b0 \fs20 \cf1 \i0 
+{\f3 \strike0 \ul0 \b0 \sa0 \sb0 \fs20 \cf1 \i0 
+Nos. 554, 555.
+}
+}
+}
+{\f3 \b0 \fs20 \cf1 \i0 
+{\f3 \b0 \fs20 \cf1 \i0 
+{\f3 \strike0 \ul0 \b0 \sa0 \sb0 \fs20 \cf1 \i0 
+ | 
+}
+}
+{\f3 \b0 \fs20 \cf1 \i0 
+{\f3 \strike0 \ul0 \b0 \sa0 \sb0 \fs20 \cf1 \i0 
+Argued and Submitted Feb. 10, 11, 1943.
+}
+}
+{\f3 \b0 \fs20 \cf1 \i0 
+{\f3 \strike0 \ul0 \b0 \sa0 \sb0 \fs20 \cf1 \i0 
+ | 
+}
+}
+{\f3 \b0 \fs20 \cf1 \i0 
+{\f3 \strike0 \ul0 \b0 \sa200 \sb0 \fs20 \cf1 \i0 
+Decided May 10, 1943.
+\par 
+}
+}
+}
+}
+{\li0 \f2 \qj \b0 \ri0 \fs20 \cf1 \i0 
+{\li0 \f2 \qj \b0 \ri0 \fs20 \cf1 \i0 
+{\li0 \f2 \qj \b0 \ri0 \fs20 \cf1 \i0 
+{\f2 \strike0 \ul0 \b0 \sa0 \sb0 \fs20 \cf1 \i0 
+Suit by the National Broadcasting Company, Incorporated, and another and by the Columbia Broadcasting System, Incorporated, against the United States of America and others to enjoin the enforcement of certain chain broadcasting regulations promulgated by the Federal Communications Commission. From judgments dismissing the complaint, 
+}
+{\field {\*\fldinst HYPERLINK "http://www.westlaw.com/Link/Document/FullText?findType=Y&serNum=1943118420&pubNum=345&originatingDoc=I091076d89cc311d991d0cc6b54f12d4d&refType=RP&originationContext=document&vr=3.0&rs=cblt1.0&transitionType=DocumentItem&contextData=(sc.Search)" }{\fldrslt 
+{\f2 \strike0 \ul0 \b0 \sa0 \sb0 \fs20 \cf5 \i0 
+47 F.Supp. 940,
+}}}
+{\f2 \strike0 \ul0 \b0 \sa0 \sb200 \fs20 \cf1 \i0 
+ the plaintiffs appeal.
+\par 
+}
+}
+}
+{\f2 \strike0 \ul0 \b0 \sa0 \sb0 \fs20 \cf1 \i0 
+\u160\'3f
+\par 
+}
+{\li0 \f2 \qj \b0 \ri0 \fs20 \cf1 \i0 
+{\li0 \f2 \qj \b0 \ri0 \fs20 \cf1 \i0 
+{\f2 \strike0 \ul0 \b0 \sa0 \sb0 \fs20 \cf1 \i0 
+Affirmed.
+\par 
+}
+}
+}
+{\f2 \strike0 \ul0 \b0 \sa0 \sb0 \fs20 \cf1 \i0 
+\u160\'3f
+\par 
+}
+{\li0 \f2 \qj \b0 \ri0 \fs20 \cf1 \i0 
+{\li0 \f2 \qj \b0 \ri0 \fs20 \cf1 \i0 
+{\f2 \strike0 \ul0 \b0 \sa0 \sb0 \fs20 \cf1 \i0 
+Mr. Justice MURPHY and Mr. Justice ROBERTS dissenting.
+\par 
+}
+}
+}
+{\f2 \strike0 \ul0 \b0 \sa0 \sb0 \fs20 \cf1 \i0 
+\u160\'3f
+\par 
+}
+}
+{\li0 \f2 \qj \b0 \ri0 \fs20 \cf1 \i0 
+{\li0 \f2 \qj \b0 \ri0 \fs20 \cf1 \i0 
+{\f2 \strike0 \ul0 \b0 \fs20 \cf1 \i0 
+}
+{\f2 \b1 \fs20 \cf1 \i0 
+{\*\bkmkstart co_pp_sp_708_999_1}{\*\bkmkend co_pp_sp_708_999_1}
+{\f2 \strike0 \ul0 \b1 \sa0 \sb0 \fs20 \cf1 \i0 
+**999
+}
+}
+{\f2 \strike0 \ul0 \b0 \sa0 \sb0 \fs20 \cf1 \i0 
+ 
+}
+{\f2 \b1 \fs20 \cf1 \i0 
+{\*\bkmkstart co_pp_sp_780_190_1}{\*\bkmkend co_pp_sp_780_190_1}
+{\f2 \strike0 \ul0 \b1 \sa0 \sb0 \fs20 \cf1 \i0 
+*190
+}
+}
+{\f2 \strike0 \ul0 \b0 \sa0 \sb200 \fs20 \cf1 \i0 
+ Appeals from the District Court of the United States for the Southern District of New York.
+\par 
+}
+}
+}
+{\li0 \f2 \qj \b1 \ri0 \fs20 \cf19 \i0 
+{\*\bkmkstart co_attorneysAndLawFirms_1}{\*\bkmkend co_attorneysAndLawFirms_1}
+{\f2 \strike0 \ul0 \b1 \sa200 \sb200 \fs20 \cf19 \i0 
+Attorneys and Law Firms
+\par 
+}
+}
+{\li0 \f2 \qj \b0 \ri0 \fs20 \cf1 \i0 
+{\li0 \f2 \qj \b0 \ri0 \fs20 \cf1 \i0 
+{\f2 \strike0 \ul0 \b0 \fs20 \cf1 \i0 
+}
+{\f2 \b1 \fs20 \cf1 \i0 
+{\*\bkmkstart co_pp_sp_780_192_1}{\*\bkmkend co_pp_sp_780_192_1}
+{\f2 \strike0 \ul0 \b1 \sa0 \sb0 \fs20 \cf1 \i0 
+*192
+}
+}
+{\f2 \strike0 \ul0 \b0 \sa0 \sb0 \fs20 \cf1 \i0 
+ Mr. John T. Cahill, of New York City, for appellant National broadcasting co.
+\par 
+}
+}
+{\li0 \f2 \qj \b0 \ri0 \fs20 \cf1 \i0 
+{\f2 \strike0 \ul0 \b0 \sa0 \sb200 \fs20 \cf1 \i0 
+Mr. E. Willoughby Middleton, of Rochester, N.Y., for appellant Stromberg-Carlson Telephone Mfg. Co.
+\par 
+}
+}
+{\li0 \f2 \qj \b0 \ri0 \fs20 \cf1 \i0 
+{\f2 \strike0 \ul0 \b0 \sa0 \sb200 \fs20 \cf1 \i0 
+Mr. Charles E. Hughes, Jr., of New York City, for appellant Columbia Broadcasting System.
+\par 
+}
+}
+{\li0 \f2 \qj \b0 \ri0 \fs20 \cf1 \i0 
+{\f2 \strike0 \ul0 \b0 \sa0 \sb200 \fs20 \cf1 \i0 
+Mr. Charles Fahy, Sol. Gen., of Washington, D.C., for appellees United States and Federal Communications Commission.
+\par 
+}
+}
+{\li0 \f2 \qj \b0 \ri0 \fs20 \cf1 \i0 
+{\f2 \strike0 \ul0 \b0 \sa0 \sb200 \fs20 \cf1 \i0 
+Mr. Louis G. Caldwell, of Washington, D.C., for appellee Mutual Broadcasting System, Inc.
+\par 
+}
+}
+{\li0 \f2 \qj \b0 \ri0 \fs20 \cf1 \i0 
+{\f2 \strike0 \ul0 \b0 \fs20 \cf1 \i0 
+}
+{\f2 \b1 \fs20 \cf1 \i0 
+{\*\bkmkstart co_pp_sp_780_193_1}{\*\bkmkend co_pp_sp_780_193_1}
+{\f2 \strike0 \ul0 \b1 \sa0 \sb0 \fs20 \cf1 \i0 
+*193
+}
+}
+{\f2 \strike0 \ul0 \b0 \sa0 \sb200 \fs20 \cf1 \i0 
+ Mr. George Link, Jr., of New York City, for American Ass\rquote n of Advertising Agencies, amicus curiae.
+\par 
+}
+}
+}
+{\li0 \f2 \qj \b0 \ri0 \fs20 \cf1 \i0 
+{\li0 \f2 \qj \b1 \ri0 \fs20 \cf19 \i0 
+{\*\bkmkstart co_opinion_1}{\*\bkmkend co_opinion_1}
+{\f2 \strike0 \ul0 \b1 \sa0 \sb200 \fs20 \cf19 \i0 
+Opinion
+\par 
+}
+}
+{\li0 \f2 \qj \b0 \ri0 \fs20 \cf1 \i0 
+{\li0 \f2 \qj \b0 \ri0 \fs20 \cf1 \i0 
+{\li0 \f2 \qj \b0 \ri0 \fs20 \cf1 \i0 
+{\li0 \f2 \qj \b0 \ri0 \fs20 \cf1 \i0 
+{\f2 \strike0 \ul0 \b0 \sa200 \sb200 \fs20 \cf1 \i0 
+Mr. Justice FRANKFURTER delivered the opinion of the Court.
+\par 
+}
+}
+}
+{\li0 \f2 \qj \b0 \ri0 \fs20 \cf1 \i0 
+{\li0 \f2 \qj \b0 \ri0 \fs20 \cf1 \i0 
+{\*\bkmkstart co_anchor_Icb315d44c93f11e498db8b09b4f04}{\*\bkmkend co_anchor_Icb315d44c93f11e498db8b09b4f04}
+\par 
+{\li0 \f2 \qj \b0 \ri0 \fs20 \cf1 \i0 
+{\li0 \f2 \qj \b0 \ri0 \fs20 \cf1 \i0 
+{\f2 \strike0 \ul0 \b0 \sa0 \sb200 \fs20 \cf1 \i0 
+In view of our dependence upon regulated private enterprise in discharging the far-reaching role which radio plays in our society, a somewhat detailed exposition of the history of the present controversy and the issues which it raises is appropriate.
+\par 
+}
+}
+}
+{\li0 \f2 \qj \b0 \ri0 \fs20 \cf1 \i0 
+{\li0 \f2 \qj \b0 \ri0 \fs20 \cf1 \i0 
+{\f2 \strike0 \ul0 \b0 \sa0 \sb0 \fs20 \cf1 \i0 
+These suits were brought on October 30, 1941, to enjoin the enforcement of the Chain Broadcasting Regulations promulgated by the Federal Communications Commission on May 2, 1941, and amended on October 11, 1941. We held last Term in 
+}
+{\field {\*\fldinst HYPERLINK "http://www.westlaw.com/Link/Document/FullText?findType=Y&serNum=1942118202&pubNum=708&originatingDoc=I091076d89cc311d991d0cc6b54f12d4d&refType=RP&originationContext=document&vr=3.0&rs=cblt1.0&transitionType=DocumentItem&contextData=(sc.Search)" }{\fldrslt 
+{\f2 \strike0 \ul0 \b0 \sa0 \sb0 \fs20 \cf5 \i0 
+Columbia Broadcasting System v. United States, 316 U.S. 407, 62 S.Ct. 1194, 86 L.Ed. 1563,
+}}}
+{\f2 \strike0 \ul0 \b0 \sa0 \sb0 \fs20 \cf1 \i0 
+ and 
+}
+{\field {\*\fldinst HYPERLINK "http://www.westlaw.com/Link/Document/FullText?findType=Y&serNum=1942120053&pubNum=708&originatingDoc=I091076d89cc311d991d0cc6b54f12d4d&refType=RP&originationContext=document&vr=3.0&rs=cblt1.0&transitionType=DocumentItem&contextData=(sc.Search)" }{\fldrslt 
+{\f2 \strike0 \ul0 \b0 \sa0 \sb0 \fs20 \cf5 \i0 
+Nat. Broadcasting Co. v. United States, 316 U.S. 447, 62 S.Ct. 1214, 86 L.Ed. 1586,
+}}}
+{\f2 \strike0 \ul0 \b0 \sa0 \sb0 \fs20 \cf1 \i0 
+ that the suits could be maintained under 
+}
+{\field {\*\fldinst HYPERLINK "http://www.westlaw.com/Link/Document/FullText?findType=L&pubNum=1000546&cite=47USCAS402&originatingDoc=I091076d89cc311d991d0cc6b54f12d4d&refType=LQ&originationContext=document&vr=3.0&rs=cblt1.0&transitionType=DocumentItem&contextData=(sc.Search)" }{\fldrslt 
+{\f2 \strike0 \ul0 \b0 \sa0 \sb0 \fs20 \cf5 \i0 
+s 402(a)
+}}}
+{\f2 \strike0 \ul0 \b0 \sa0 \sb0 \fs20 \cf1 \i0 
+ of the Communications Act of 1934, 48 Stat. 1093, 
+}
+{\field {\*\fldinst HYPERLINK "http://www.westlaw.com/Link/Document/FullText?findType=L&pubNum=1000546&cite=47USCAS402&originatingDoc=I091076d89cc311d991d0cc6b54f12d4d&refType=LQ&originationContext=document&vr=3.0&rs=cblt1.0&transitionType=DocumentItem&contextData=(sc.Search)" }{\fldrslt 
+{\f2 \strike0 \ul0 \b0 \sa0 \sb0 \fs20 \cf5 \i0 
+47 U.S.C. s 402(a)
+}}}
+{\f2 \strike0 \ul0 \b0 \sa0 \sb0 \fs20 \cf1 \i0 
+, 
+}
+{\field {\*\fldinst HYPERLINK "http://www.westlaw.com/Link/Document/FullText?findType=L&pubNum=1000546&cite=47USCAS402&originatingDoc=I091076d89cc311d991d0cc6b54f12d4d&refType=LQ&originationContext=document&vr=3.0&rs=cblt1.0&transitionType=DocumentItem&contextData=(sc.Search)" }{\fldrslt 
+{\f2 \strike0 \ul0 \b0 \sa0 \sb0 \fs20 \cf5 \i0 
+47 U.S.C.A. s 402(a)
+}}}
+{\f2 \strike0 \ul0 \b0 \sa0 \sb0 \fs20 \cf1 \i0 
+ (incorporating by reference the Urgent Deficiencies Act of October 22, 1913, 38 Stat. 219, 
+}
+{\field {\*\fldinst HYPERLINK "http://www.westlaw.com/Link/Document/FullText?findType=L&pubNum=1000546&cite=28USCAS47&originatingDoc=I091076d89cc311d991d0cc6b54f12d4d&refType=LQ&originationContext=document&vr=3.0&rs=cblt1.0&transitionType=DocumentItem&contextData=(sc.Search)" }{\fldrslt 
+{\f2 \strike0 \ul0 \b0 \sa0 \sb0 \fs20 \cf5 \i0 
+28 U.S.C. s 47
+}}}
+{\f2 \strike0 \ul0 \b0 \sa0 \sb0 \fs20 \cf1 \i0 
+, 
+}
+{\field {\*\fldinst HYPERLINK "http://www.westlaw.com/Link/Document/FullText?findType=L&pubNum=1000546&cite=28USCAS47&originatingDoc=I091076d89cc311d991d0cc6b54f12d4d&refType=LQ&originationContext=document&vr=3.0&rs=cblt1.0&transitionType=DocumentItem&contextData=(sc.Search)" }{\fldrslt 
+{\f2 \strike0 \ul0 \b0 \sa0 \sb0 \fs20 \cf5 \i0 
+28 U.S.C.A. s 47
+}}}
+{\f2 \strike0 \ul0 \b0 \sa0 \sb0 \fs20 \cf1 \i0 
+), and that the decrees of the District Court dismissing the suits for want of jurisdiction should therefore be reversed. On remand the District Court granted the Government\rquote s motions for summary judgment and dismissed the suits on the merits. 
+}
+{\field {\*\fldinst HYPERLINK "http://www.westlaw.com/Link/Document/FullText?findType=Y&serNum=1943118420&pubNum=345&originatingDoc=I091076d89cc311d991d0cc6b54f12d4d&refType=RP&originationContext=document&vr=3.0&rs=cblt1.0&transitionType=DocumentItem&contextData=(sc.Search)" }{\fldrslt 
+{\f2 \strike0 \ul0 \b0 \sa0 \sb0 \fs20 \cf5 \i0 
+47 F.Supp. 940.
+}}}
+{\f2 \strike0 \ul0 \b0 \sa0 \sb0 \fs20 \cf1 \i0 
+ The cases are now here on appeal. 
+}
+{\field {\*\fldinst HYPERLINK "http://www.westlaw.com/Link/Document/FullText?findType=L&pubNum=1000546&cite=28USCAS47&originatingDoc=I091076d89cc311d991d0cc6b54f12d4d&refType=LQ&originationContext=document&vr=3.0&rs=cblt1.0&transitionType=DocumentItem&contextData=(sc.Search)" }{\fldrslt 
+{\f2 \strike0 \ul0 \b0 \sa0 \sb0 \fs20 \cf5 \i0 
+28 U.S.C. s 47
+}}}
+{\f2 \strike0 \ul0 \b0 \sa0 \sb0 \fs20 \cf1 \i0 
+, 
+}
+{\field {\*\fldinst HYPERLINK "http://www.westlaw.com/Link/Document/FullText?findType=L&pubNum=1000546&cite=28USCAS47&originatingDoc=I091076d89cc311d991d0cc6b54f12d4d&refType=LQ&originationContext=document&vr=3.0&rs=cblt1.0&transitionType=DocumentItem&contextData=(sc.Search)" }{\fldrslt 
+{\f2 \strike0 \ul0 \b0 \sa0 \sb0 \fs20 \cf5 \i0 
+28 U.S.C.A. s 47
+}}}
+{\f2 \strike0 \ul0 \b0 \sa0 \sb200 \fs20 \cf1 \i0 
+. Since they raise substantially the same issues and were argued together, we shall deal with both cases in a single opinion.
+\par 
+}
+}
+}
+{\li0 \f2 \qj \b0 \ri0 \fs20 \cf1 \i0 
+{\li0 \f2 \qj \b0 \ri0 \fs20 \cf1 \i0 
+{\f2 \strike0 \ul0 \b0 \sa0 \sb0 \fs20 \cf1 \i0 
+On March 18, 1938, the Commission undertook a comprehensive investigation to determine whether special regulations applicable to radio stations engaged in chain 
+}
+{\f2 \b1 \fs20 \cf1 \i0 
+{\*\bkmkstart co_pp_sp_780_194_1}{\*\bkmkend co_pp_sp_780_194_1}
+{\f2 \strike0 \ul0 \b1 \sa0 \sb0 \fs20 \cf1 \i0 
+*194
+}
+}
+{\f2 \strike0 \ul0 \b0 \sa0 \sb0 \fs20 \cf1 \i0 
+ broadcasting
+}
+{\f2 \b0 \fs16 \cf1 \i0 
+{\*\bkmkstart co_footnoteReference_B00111943120664_ID0}{\*\bkmkend co_footnoteReference_B00111943120664_ID0}
+{\field {\*\fldinst HYPERLINK "#co_footnote_B00111943120664_1" }{\fldrslt 
+{\super \f2 \strike0 \ul0 \b0 \sa0 \sb0 \fs16 \cf5 \i0 
+1
+}}}
+}
+{\f2 \strike0 \ul0 \b0 \sa0 \sb0 \fs20 \cf1 \i0 
+ were required in the \u8216\'3fpublic interest, convenience, or necessity\u8217\'3f. The Commission\rquote s order directed that inquiry be made, inter alia, in the following specific matters: the number of stations licensed to or affiliated with networks, and the amount of station time used or controlled by networks; the contractual rights and obligations of stations under their agreements with networks; the scope of network agreements containing exclusive affiliation provisions and restricting the network from affiliating with other stations in the same area; the rights and obligations of stations with respect to network advertisers;
+}
+{\f2 \strike0 \ul0 \b0 \sa0 \sb0 \fs20 \cf1 \i0 
+ 
+}
+{\f2 \b1 \fs20 \cf1 \i0 
+{\*\bkmkstart co_pp_sp_708_1000_1}{\*\bkmkend co_pp_sp_708_1000_1}
+{\f2 \strike0 \ul0 \b1 \sa0 \sb0 \fs20 \cf1 \i0 
+**1000
+}
+}
+{\f2 \strike0 \ul0 \b0 \sa0 \sb200 \fs20 \cf1 \i0 
+ the nature of the program service rendered by stations licensed to networks; the policies of networks with respect to character of programs, diversification, and accommodation to the particular requirements of the areas served by the affiliated stations; the extent to which affiliated stations exercise control over programs, advertising contracts, and related matters; the nature and extent of network program duplication by stations serving the same area; the extent to which particular networks have exclusive coverage in some areas; the competitive practices of stations engaged in chain broadcasting; the effect of chain broadcasting upon stations not licensed to or affiliated with networks; practices or agreements in restraint of trade, or in furtherance of monopoly, in connection with chain broadcasting; and the scope of concentration of control over stations, locally, regionally, or nationally, through contracts, common ownership, or other means.
+\par 
+}
+}
+}
+{\li0 \f2 \qj \b0 \ri0 \fs20 \cf1 \i0 
+{\li0 \f2 \qj \b0 \ri0 \fs20 \cf1 \i0 
+{\f2 \strike0 \ul0 \b0 \sa0 \sb0 \fs20 \cf1 \i0 
+On April 6, 1938, a committee of three Commissioners was designated to hold hearings and make recommendations 
+}
+{\f2 \b1 \fs20 \cf1 \i0 
+{\*\bkmkstart co_pp_sp_780_195_1}{\*\bkmkend co_pp_sp_780_195_1}
+{\f2 \strike0 \ul0 \b1 \sa0 \sb0 \fs20 \cf1 \i0 
+*195
+}
+}
+{\f2 \strike0 \ul0 \b0 \sa0 \sb0 \fs20 \cf1 \i0 
+ to the full Commission. This committee held public hearings for 73 days over a period of six months, from November 14, 1938, to May 19, 1939. Order No. 37, announcing the investigation and specifying the particular matters which would be explored at the hearings, was published in the Federal Register, 
+}
+{\field {\*\fldinst HYPERLINK "http://www.westlaw.com/Link/Document/FullText?findType=Y&pubNum=1037&cite=3FR637&originatingDoc=I091076d89cc311d991d0cc6b54f12d4d&refType=NA&originationContext=document&vr=3.0&rs=cblt1.0&transitionType=DocumentItem&contextData=(sc.Search)" }{\fldrslt 
+{\f2 \strike0 \ul0 \b0 \sa0 \sb0 \fs20 \cf5 \i0 
+3 Fed.Reg. 637,
+}}}
+{\f2 \strike0 \ul0 \b0 \sa0 \sb200 \fs20 \cf1 \i0 
+ and copies were sent to every station licensee and network organization. Notices of the hearings were also sent to these parties. Station licensees, national and regional networks, and transcription and recording companies were invited to appear and give evidence. Other persons who sought to appear were afforded an opportunity to testify. 96 witnesses were heard by the committee, 45 of whom were called by the national networks. The evidence covers 27 volumes, including over 8,000 pages of transcript and more than 700 exhibits. The testimony of the witnesses called by the national networks fills more than 6,000 pages, the equivalent of 46 hearing days.
+\par 
+}
+}
+}
+{\li0 \f2 \qj \b0 \ri0 \fs20 \cf1 \i0 
+{\li0 \f2 \qj \b0 \ri0 \fs20 \cf1 \i0 
+{\f2 \strike0 \ul0 \b0 \sa0 \sb200 \fs20 \cf1 \i0 
+The committee submitted a report to the Commission on June 12, 1940, stating its findings and recommendations. Thereafter, briefs on behalf of the networks and other interested parties were filed before the full Commission, and on November 28, 1940, the Commission issued proposed regulations which the parties were requested to consider in the oral arguments held on December 2 and 3, 1940. These proposed regulations dealt with the same matters as those covered by the regulations eventually adopted by the Commission. On January 2, 1941, each of the national networks filed a supplementary brief discussing at length the questions raised by the committee report and the proposed regulations.
+\par 
+}
+}
+}
+{\li0 \f2 \qj \b0 \ri0 \fs20 \cf1 \i0 
+{\li0 \f2 \qj \b0 \ri0 \fs20 \cf1 \i0 
+{\f2 \strike0 \ul0 \b0 \sa0 \sb0 \fs20 \cf1 \i0 
+On May 2, 1941, the Commission issued its Report on Chain Broadcasting, setting forth its findings and conclusions upon the matters explored in the investigation, together with an order adopting the Regulations here assailed. Two of the seven members of the Commission dissented 
+}
+{\f2 \b1 \fs20 \cf1 \i0 
+{\*\bkmkstart co_pp_sp_780_196_1}{\*\bkmkend co_pp_sp_780_196_1}
+{\f2 \strike0 \ul0 \b1 \sa0 \sb0 \fs20 \cf1 \i0 
+*196
+}
+}
+{\f2 \strike0 \ul0 \b0 \sa0 \sb0 \fs20 \cf1 \i0 
+ from this action. The effective date of the Regulations was deferred for 90 days with respect to existing contracts and arrangements of network-operated stations, and subsequently the effective date was thrice again postponed. On August 14, 1941, the Mutual Broadcasting Company petitioned the Commission to amend two of the Regulations. In considering this petition the Commission invited interested parties to submit their views. Briefs were filed on behalf of all of the national networks, and oral argument was had before the Commission on September 12, 1941. 
+}
+{\f2 \strike0 \ul0 \b0 \sa0 \sb200 \fs20 \cf1 \i0 
+And on October 11, 1941, the Commission (again with two members dissenting) issued a Supplemental Report, together with an order amending three Regulations. Simultaneously, the effective date of the Regulations was postponed until November 15, 1941, and provision was made for further postponements from time to time if necessary to permit the orderly adjustment of existing arrangements. Since October 30, 1941, when the present suits were filed, the enforcement of the Regulations has been stayed either voluntarily by the Commission or by order of court.
+\par 
+}
+}
+}
+{\li0 \f2 \qj \b0 \ri0 \fs20 \cf1 \i0 
+{\li0 \f2 \qj \b0 \ri0 \fs20 \cf1 \i0 
+{\f2 \strike0 \ul0 \b0 \sa0 \sb0 \fs20 \cf1 \i0 
+Such is the history of the Chain Broadcasting Regulations. We turn now to the Regulations themselves, illumined by the practices in the radio industry disclosed by the Commission\rquote s investigation. The Regulations, which the Commission characterized in its Report as \u8216\'3fthe expression of the general policy we will follow in exercising our licensing power\u8217\'3f, are addressed in terms to station licensees and applicants 
+}
+{\f2 \b1 \fs20 \cf1 \i0 
+{\*\bkmkstart co_pp_sp_708_1001_1}{\*\bkmkend co_pp_sp_708_1001_1}
+{\f2 \strike0 \ul0 \b1 \sa0 \sb0 \fs20 \cf1 \i0 
+**1001
+}
+}
+{\f2 \strike0 \ul0 \b0 \sa0 \sb0 \fs20 \cf1 \i0 
+ for station licenses. They provide, in general, that no licenses shall be granted to stations or applicants having specified relationships with networks. Each Regulation is directed at a particular practice found by the Commission to be detrimental to the \u8216\'3fpublic interest\u8217\'3f, and we shall consider them seriatim. In doing so, however, we do not overlook the admonition of the Commission that the Regulations as well as the network practices 
+}
+{\f2 \b1 \fs20 \cf1 \i0 
+{\*\bkmkstart co_pp_sp_780_197_1}{\*\bkmkend co_pp_sp_780_197_1}
+{\f2 \strike0 \ul0 \b1 \sa0 \sb0 \fs20 \cf1 \i0 
+*197
+}
+}
+{\f2 \strike0 \ul0 \b0 \sa0 \sb200 \fs20 \cf1 \i0 
+ at which they are aimed are interrelated: \u8216\'3fIn considering above the network practices which necessitate the regulations we are adopting, we have taken each practice singly, and have shown that even in isolation each warrants the regulation addressed to it. But the various practices we have considered do not operate in isolation; they form a compact bundle or pattern, and the effect of their joint impact upon licensees necessitates the regulations even more urgently than the effect of each taken singly.\u8217\'3f (Report, p. 75.)
+\par 
+}
+}
+}
+{\li0 \f2 \qj \b0 \ri0 \fs20 \cf1 \i0 
+{\li0 \f2 \qj \b0 \ri0 \fs20 \cf1 \i0 
+{\f2 \strike0 \ul0 \b0 \sa0 \sb0 \fs20 \cf1 \i0 
+The Commission found that at the end of 1938 there were 660 commercial stations in the United States, and that 341 of these were affiliated with national networks. 135 stations were affiliated exclusively with the National Broadcasting Company, Inc., known in the industry as NBC, which operated two national networks, the \u8216\'3fRed\u8217\'3f and the \u8216\'3fBlue\u8217\'3f. NBC was also the licensee of 10 stations, including 7 which operated on so-called clear channels with the maximum power available, 50 kilowatts; in addition, NBC operated 5 other stations, 4 of which had power of 50 kilowatts, under management contracts with their licensees. 102 stations were affiliated exclusively with the Columbia Broadcasting System, Inc., which was also the licensee of 8 stations, 7 of which were clear-channel stations operating with power of 50 kilowatts. 74 stations were under exclusive affiliation with the Mutual Broadcasting System, Inc. In addition, 25 stations were affiliated with both NBC and Mutual, and 5 with both CBS and Mutual. These figures, the Commission noted, did not accurately reflect the relative prominence of the three companies, since the stations affiliated with Mutual were, generally speaking, less desirable in frequency, power, and coverage. It pointed out that the stations affiliated with the national networks utilized more than 97% of the total night-time broadcasting power of all the 
+}
+{\f2 \b1 \fs20 \cf1 \i0 
+{\*\bkmkstart co_pp_sp_780_198_1}{\*\bkmkend co_pp_sp_780_198_1}
+{\f2 \strike0 \ul0 \b1 \sa0 \sb0 \fs20 \cf1 \i0 
+*198
+}
+}
+{\f2 \strike0 \ul0 \b0 \sa0 \sb200 \fs20 \cf1 \i0 
+ stations in the country. NBC and CBS together controlled more than 85% of the total night-time wattage, and the broadcast business of the three national network companies amounted to almost half of the total business of all stations in the United States.
+\par 
+}
+}
+}
+{\li0 \f2 \qj \b0 \ri0 \fs20 \cf1 \i0 
+{\li0 \f2 \qj \b0 \ri0 \fs20 \cf1 \i0 
+{\f2 \strike0 \ul0 \b0 \sa0 \sb0 \fs20 \cf1 \i0 
+The Commission recognized that network broadcasting had played and was continuing to play an important part in the development of radio. \u8216\'3fThe growth and development of chain broadcasting\u8217\'3f, it stated, \u8216\'3ffound its impetus in the desire to give widespread coverage to programs which otherwise would not be heard beyond the reception area of a single station. Chain broadcasting makes possible a wider reception for expensive entertainment and cultural programs and also for programs of national or regional significance which would otherwise have coverage only in the locality of origin. Furthermore, the access to greatly enlarged audiences made possible by chain broadcasting has been a strong incentive to advertisers to finance the production of expensive programs. * * * But the fact that the chain broadcasting method brings benefits and advantages to both the listening public and to broadcast station licensees does not mean that the prevailing practices and policies of the networks and their outlets are sound in all respects, or that they should not be altered. The Commission\rquote s duty under the Communications Act of 1934, 
+}
+{\field {\*\fldinst HYPERLINK "http://www.westlaw.com/Link/Document/FullText?findType=L&pubNum=1000546&cite=47USCAS151&originatingDoc=I091076d89cc311d991d0cc6b54f12d4d&refType=LQ&originationContext=document&vr=3.0&rs=cblt1.0&transitionType=DocumentItem&contextData=(sc.Search)" }{\fldrslt 
+{\f2 \strike0 \ul0 \b0 \sa0 \sb0 \fs20 \cf5 \i0 
+47 U.S.C.A. s 151
+}}}
+{\f2 \strike0 \ul0 \b0 \sa0 \sb200 \fs20 \cf1 \i0 
+ et seq., is not only to see that the public receives the advantages and benefits of chain broadcasting, but also, so far as its powers enable it, to see that practices which adversely affect the ability of licensees to operate in the public interest are eliminated.\u8217\'3f (Report, p. 4.)
+\par 
+}
+}
+}
+{\li0 \f2 \qj \b0 \ri0 \fs20 \cf1 \i0 
+{\li0 \f2 \qj \b0 \ri0 \fs20 \cf1 \i0 
+{\f2 \strike0 \ul0 \b0 \sa0 \sb200 \fs20 \cf1 \i0 
+The Commission found that eight network abuses were amenable to correction within the powers granted it by Congress:
+\par 
+}
+}
+}
+{\li0 \f2 \qj \b0 \ri0 \fs20 \cf1 \i0 
+{\li0 \f2 \qj \b0 \ri0 \fs20 \cf1 \i0 
+{\f2 \strike0 \ul0 \b0 \sa0 \sb0 \fs20 \cf1 \i0 
+Regulation 3.101\u8212\'3fExclusive affiliation of station. The Commission found that the network affiliation agreements of NBC and CBS customarily contained a provision which 
+}
+{\f2 \b1 \fs20 \cf1 \i0 
+{\*\bkmkstart co_pp_sp_780_199_1}{\*\bkmkend co_pp_sp_780_199_1}
+{\f2 \strike0 \ul0 \b1 \sa0 \sb0 \fs20 \cf1 \i0 
+*199
+}
+}
+{\f2 \strike0 \ul0 \b0 \sa0 \sb0 \fs20 \cf1 \i0 
+ prevented the station from broadcasting the programs of any other network. The effect of this provision was to hinder the growth of new networks, to deprive the listening public in many areas of service to which they were entitled, and to prevent 
+}
+{\f2 \b1 \fs20 \cf1 \i0 
+{\*\bkmkstart co_pp_sp_708_1002_1}{\*\bkmkend co_pp_sp_708_1002_1}
+{\f2 \strike0 \ul0 \b1 \sa0 \sb0 \fs20 \cf1 \i0 
+**1002
+}
+}
+{\f2 \strike0 \ul0 \b0 \sa0 \sb200 \fs20 \cf1 \i0 
+ station licensees from exercising their statutory duty of determining which programs would best serve the needs of their community. The Commission observed that in areas where all the stations were under exclusive contract to either NBC or CBS, the public was deprived of the opportunity to hear programs presented by Mutual. To take a case cited in the Report: In the fall of 1939 Mutual obtained the exclusive right to broadcast the World Series baseball games. It offered this program of outstanding national interest to stations throughout the country, including NBC and CBS affiliates in communities having no other stations. CBS and NBC immediately invoked the \u8216\'3fexclusive affiliation\u8217\'3f clauses of their agreements with these stations, and as a result thousands of persons in many sections of the country were unable to hear the broadcasts of the games.
+\par 
+}
+}
+}
+{\li0 \f2 \qj \b0 \ri0 \fs20 \cf1 \i0 
+{\li0 \f2 \qj \b0 \ri0 \fs20 \cf1 \i0 
+{\f2 \strike0 \ul0 \b0 \sa0 \sb0 \fs20 \cf1 \i0 
+\u8216\'3fRestraints having this effect\u8217\'3f, the Commission observed, \u8216\'3fare to be condemned as contrary to the public interest irrespective of whether it be assumed that Mutual programs are of equal, superior, or inferior quality. The important consideration is that station licensees are denied freedom to choose the programs which they believe best suited to their needs; in this manner the duty of a station licensee to operate in the public interest is defeated. * * * Our conclusion is that the disadvantages resulting from these exclusive arrangements far outweigh any advantages. A licensee station does not operate in the public interest when it enters into exclusive arrangements which prevent it from giving the public the best service of which it is capable, and which, by closing the door of opportunity in the network field, adversely affect the program structure of the entire industry.\u8217\'3f
+}
+{\f2 \strike0 \ul0 \b0 \sa0 \sb0 \fs20 \cf1 \i0 
+ (Report, pp. 52, 57.) Accordingly, 
+}
+{\f2 \b1 \fs20 \cf1 \i0 
+{\*\bkmkstart co_pp_sp_780_200_1}{\*\bkmkend co_pp_sp_780_200_1}
+{\f2 \strike0 \ul0 \b1 \sa0 \sb0 \fs20 \cf1 \i0 
+*200
+}
+}
+{\f2 \strike0 \ul0 \b0 \sa0 \sb200 \fs20 \cf1 \i0 
+ the Commission adopted Regulation 3.101, providing as follows: \u8216\'3fNo license shall be granted to a standard broadcast station having any contract, arrangement, or understanding, express or implied, with a network organization under which the station is prevented or hindered from, or penalized for, broadcasting the programs of any other network organization.\u8217\'3f
+\par 
+}
+}
+}
+{\li0 \f2 \qj \b0 \ri0 \fs20 \cf1 \i0 
+{\li0 \f2 \qj \b0 \ri0 \fs20 \cf1 \i0 
+{\f2 \strike0 \ul0 \b0 \sa0 \sb200 \fs20 \cf1 \i0 
+Regulation 3.102\u8212\'3fTerritorial exclusivity. The Commission found another type of \u8216\'3fexclusivity\u8217\'3f provision in network affiliation agreements whereby the network bound itself not to sell programs to any other station in the same area. The effect of this provision, designed to protect the affiliate from the competition of other stations serving the same territory, was to deprive the listening public of many programs that might otherwise be available. If an affiliated station rejected a network program, the \u8216\'3fterritorial exclusivity\u8217\'3f clause of its affiliation agreement prevented the network from offering the program to other stations in the area. For example, Mutual presented a popular program, known as \u8216\'3fThe American Forum of the Air\u8217\'3f, in which prominent persons discussed topics of general interest. None of the Mutual stations in the Buffalo area decided to carry the program, and a Buffalo station not affiliated with Mutual attempted to obtain the program for its listeners. These efforts failed, however, on account of the \u8216\'3fterritorial exclusivity\u8217\'3f provision in Mutual\rquote s agreements with its outlets. The result was that this program was not available to the people of Buffalo.
+\par 
+}
+}
+}
+{\li0 \f2 \qj \b0 \ri0 \fs20 \cf1 \i0 
+{\li0 \f2 \qj \b0 \ri0 \fs20 \cf1 \i0 
+{\f2 \strike0 \ul0 \b0 \sa0 \sb0 \fs20 \cf1 \i0 
+The Commission concluded that \u8216\'3fIt is not in the public interest for the listening audience in an area to be deprived of network programs not carried by one station where other stations in that area are ready and willing to broadcast the programs. It is as much against the public interest for a network affiliate to enter into a contractual arrangement which prevents another station from carrying 
+}
+{\f2 \b1 \fs20 \cf1 \i0 
+{\*\bkmkstart co_pp_sp_780_201_1}{\*\bkmkend co_pp_sp_780_201_1}
+{\f2 \strike0 \ul0 \b1 \sa0 \sb0 \fs20 \cf1 \i0 
+*201
+}
+}
+{\f2 \strike0 \ul0 \b0 \sa0 \sb200 \fs20 \cf1 \i0 
+ a network program as it would be for it to drown out that program by electrical interference.\u8217\'3f (Report, p. 59.)
+\par 
+}
+}
+}
+{\li0 \f2 \qj \b0 \ri0 \fs20 \cf1 \i0 
+{\li0 \f2 \qj \b0 \ri0 \fs20 \cf1 \i0 
+{\f2 \strike0 \ul0 \b0 \sa0 \sb0 \fs20 \cf1 \i0 
+Recognizing that the \u8216\'3fterritorial exclusivity\u8217\'3f clause was unobjectionable in so far as it sought to prevent duplication of programs in the same area, the Commission limited itself to the situations in which the clause impaired the ability of the licensee to broadcast available programs. Regulation 3.102, promulgated to remedy this particular evil, provides as follows: \u8216\'3fNo license shall be granted to a standard broadcast station having any contract, arrangement, or understanding, express or implied, with a network organization which prevents or hinders another station serving substantially the same area from broadcasting the network\rquote s programs not taken by the former station, or which prevents or 
+}
+{\f2 \b1 \fs20 \cf1 \i0 
+{\*\bkmkstart co_pp_sp_708_1003_1}{\*\bkmkend co_pp_sp_708_1003_1}
+{\f2 \strike0 \ul0 \b1 \sa0 \sb0 \fs20 \cf1 \i0 
+**1003
+}
+}
+{\f2 \strike0 \ul0 \b0 \sa0 \sb200 \fs20 \cf1 \i0 
+ hinders another station serving a substantially different area from broadcasting any program of the network organization. This regulation shall not be construed to prohibit any contract, arrangement, or understanding between a station and a network organization pursuant to which the station is granted the first call in its primary service area upon the programs of the network organization.\u8217\'3f
+\par 
+}
+}
+}
+{\li0 \f2 \qj \b0 \ri0 \fs20 \cf1 \i0 
+{\li0 \f2 \qj \b0 \ri0 \fs20 \cf1 \i0 
+{\f2 \strike0 \ul0 \b0 \sa0 \sb0 \fs20 \cf1 \i0 
+Regulation 3.103\u8212\'3fTerm of affiliation. The standard NBC and CBS affiliation contracts bound the station for a period of five years, with the network having the exclusive right to terminate the contracts upon one year\rquote s notice. The Commission, relying upon 
+}
+{\field {\*\fldinst HYPERLINK "http://www.westlaw.com/Link/Document/FullText?findType=L&pubNum=1000546&cite=47USCAS307&originatingDoc=I091076d89cc311d991d0cc6b54f12d4d&refType=LQ&originationContext=document&vr=3.0&rs=cblt1.0&transitionType=DocumentItem&contextData=(sc.Search)" }{\fldrslt 
+{\f2 \strike0 \ul0 \b0 \sa0 \sb0 \fs20 \cf5 \i0 
+s 307(d)
+}}}
+{\f2 \strike0 \ul0 \b0 \sa0 \sb0 \fs20 \cf1 \i0 
+ of the Communications Act of 1934, under which no license to operate a broadcast station can be granted for a longer term than three years, found the five-year affiliation term to be contrary to the policy of the Act: 
+}
+{\f2 \strike0 \ul0 \b0 \sa0 \sb0 \fs20 \cf1 \i0 
+\u8216\'3fRegardless of any changes that may occur in the economic, political, or social life of the Nation or of the community in which the station is located, CBS and NBC affiliates are bound by contract to continue broadcasting the network programs of only one network for 5 years. The licensee is so bound even 
+}
+{\f2 \b1 \fs20 \cf1 \i0 
+{\*\bkmkstart co_pp_sp_780_202_1}{\*\bkmkend co_pp_sp_780_202_1}
+{\f2 \strike0 \ul0 \b1 \sa0 \sb0 \fs20 \cf1 \i0 
+*202
+}
+}
+{\f2 \strike0 \ul0 \b0 \sa0 \sb0 \fs20 \cf1 \i0 
+ though the policy and caliber of programs of the network may deteriorate greatly. The future necessities of the station and of the community are not considered. The station licensee is unable to follow his conception of the public interest until the end of the 5-year contract.\u8217\'3f (Report, p. 61.) The Commission concluded that under contracts binding the affiliates for five years, \u8216\'3fstations become parties to arrangements which deprive the public of the improved service it might otherwise derive from competition in the network field; and that a station is not operating in the public interest when it so limits its freedom of action.\u8217\'3f (Report, p. 62.) Accordingly, the Commission adopted Regulation 3.103: \u8216\'3fNo license shall be granted to a standard broadcast station having any contract, arrangement, or understanding, express or implied, with a network organization which provides, by original term, provisions for renewal, or otherwise for the affiliation of the station with the network organization for a period longer than two years:
+}
+{\f2 \b0 \fs16 \cf1 \i0 
+{\*\bkmkstart co_footnoteReference_B00221943120664_ID0}{\*\bkmkend co_footnoteReference_B00221943120664_ID0}
+{\field {\*\fldinst HYPERLINK "#co_footnote_B00221943120664_1" }{\fldrslt 
+{\super \f2 \strike0 \ul0 \b0 \sa0 \sb0 \fs16 \cf5 \i0 
+2
+}}}
+}
+{\f2 \strike0 \ul0 \b0 \sa0 \sb200 \fs20 \cf1 \i0 
+ Provided, That a contract, arrangement, or understanding for a period up to two years, may be entered into within 120 days prior to the commencement of such period.\u8217\'3f
+\par 
+}
+}
+}
+{\li0 \f2 \qj \b0 \ri0 \fs20 \cf1 \i0 
+{\li0 \f2 \qj \b0 \ri0 \fs20 \cf1 \i0 
+{\f2 \strike0 \ul0 \b0 \sa0 \sb0 \fs20 \cf1 \i0 
+Regulation 3.104\u8212\'3fOption time. The Commission found that network affiliation contracts usually contained so-called network optional time clauses. Under these provisions the network could upon 28 days\rquote  notice call upon its affiliates to carry a commercial program during any of the hours specified in the agreement as \u8216\'3fnetwork optional time\u8217\'3f. For CBS affiliates \u8216\'3fnetwork optional time\u8217\'3f meant the entire broadcast day. For 29 outlets of NBC on the Pacific Coast, it also covered the entire broadcast day; for substantially all of the other NBC affiliates, 
+}
+{\f2 \b1 \fs20 \cf1 \i0 
+{\*\bkmkstart co_pp_sp_780_203_1}{\*\bkmkend co_pp_sp_780_203_1}
+{\f2 \strike0 \ul0 \b1 \sa0 \sb0 \fs20 \cf1 \i0 
+*203
+}
+}
+{\f2 \strike0 \ul0 \b0 \sa0 \sb200 \fs20 \cf1 \i0 
+ it included 8 \u189\'3f hours on weekdays and 8 hours on Sundays. Mutual\rquote s contracts with about half of its affiliates contained such a provision, giving the network optional time for 3 or 4 hours on weekdays and 6 hours on Sundays.
+\par 
+}
+}
+}
+{\li0 \f2 \qj \b0 \ri0 \fs20 \cf1 \i0 
+{\li0 \f2 \qj \b0 \ri0 \fs20 \cf1 \i0 
+{\f2 \strike0 \ul0 \b0 \sa0 \sb0 \fs20 \cf1 \i0 
+In the Commission\rquote s judgment these optional time provisions, in addition to imposing serious obstacles in the path of new networks, hindered stations in developing a local program service. The exercise by the networks of their options over the station\rquote s time tended to prevent regular scheduling of local programs at desirable hours. The Commission found that \u8216\'3fshifting a local commercial program may seriously interfere with the efforts of a (local) sponsor to build up a regular listening audience at a definite hour, and the longterm advertising contract becomes a highly dubious project. This hampers the efforts of the station to develop local commercial programs and affects adversely its ability to give the public good program service * * *. A station licensee must retain sufficient freedom of action to supply the program and advertising needs of the local community. Local program service is a vital part of community life. A station should be ready, able, and willing to serve the needs of the local community by broadcasting such outstanding local events as community concerts, civic meetings, local sports events, and other programs of local 
+}
+{\f2 \b1 \fs20 \cf1 \i0 
+{\*\bkmkstart co_pp_sp_708_1004_1}{\*\bkmkend co_pp_sp_708_1004_1}
+{\f2 \strike0 \ul0 \b1 \sa0 \sb0 \fs20 \cf1 \i0 
+**1004
+}
+}
+{\f2 \strike0 \ul0 \b0 \sa0 \sb0 \fs20 \cf1 \i0 
+ consumer and social interest. We conclude that national network time options have restricted the freedom of station licensees and hampered their efforts to broadcast local commercial programs, the programs of other national networks, and national spot transcriptions. 
+}
+{\f2 \strike0 \ul0 \b0 \sa0 \sb200 \fs20 \cf1 \i0 
+We believe that these considerations far outweigh any supposed advantages from \u8216\'3fstability\u8217\'3f of network operations under time options. We find that the optioning of time by licensee stations has operated against the public interest.\rquote  (Report, pp. 63, 65.)
+\par 
+}
+}
+}
+{\li0 \f2 \qj \b0 \ri0 \fs20 \cf1 \i0 
+{\li0 \f2 \qj \b0 \ri0 \fs20 \cf1 \i0 
+{\f2 \strike0 \ul0 \b0 \sa0 \sb0 \fs20 \cf1 \i0 
+The Commission undertook to preserve the advantages of option time, as a device for \u8216\'3fstabilizing\u8217\'3f the industry 
+}
+{\f2 \b1 \fs20 \cf1 \i0 
+{\*\bkmkstart co_pp_sp_780_204_1}{\*\bkmkend co_pp_sp_780_204_1}
+{\f2 \strike0 \ul0 \b1 \sa0 \sb0 \fs20 \cf1 \i0 
+*204
+}
+}
+{\f2 \strike0 \ul0 \b0 \sa0 \sb200 \fs20 \cf1 \i0 
+ without unduly impairing the ability of local stations to develop local program service. Regulation 3.104 called for the modification of the option-time provision in three respects: the minimum notice period for exercise of the option could not be less than 56 days; the number of hours which could be optioned was limited; and specific restrictions were placed upon exercise of the option to the disadvantage of other networks. The text of the Regulation follows: \u8216\'3fNo license shall be granted to a standard broadcast station which options for network programs any time subject to call on less than 56 days\rquote  notice, or more time than a total of three hours within each of four segments of the broadcast day, as herein described. The broadcast day is divided into 4 segments, as follows: 8:00 a.m. to 1:00 p.m.; 1:00 p.m. to 6:00 p.m.; 6:00 p.m. to 11:00 p.m.; 11:00 p.m. to 8:00 a.m. Such options may not be exclusive as against other network organizations and may not prevent or hinder the station from optioning or selling any or all of the time covered by the option, or other time, to other network organizations.\u8217\'3f
+\par 
+}
+}
+}
+{\li0 \f2 \qj \b0 \ri0 \fs20 \cf1 \i0 
+{\li0 \f2 \qj \b0 \ri0 \fs20 \cf1 \i0 
+{\f2 \strike0 \ul0 \b0 \sa0 \sb0 \fs20 \cf1 \i0 
+Regulation 3.105\u8212\'3fRight to reject programs. The Commission found that most network affiliation contracts contained a clause defining the right of the station to reject network commercial programs. The NBC contracts provided simply that the station \u8216\'3fmay reject a network program the broadcasting of which would not be in the public interest, convenience, and necessity.\u8217\'3f NBC required a licensee who rejected a program to \u8216\'3fbe able to support his contention that what he has done has been more in the public interest than had he carried on the network program\u8217\'3f. Similarly, the CBS contracts provided that if the station had \u8216\'3freasonable objection to any sponsored program or the product advertised thereon as not being in the public interest, the station may, on 3 weeks\rquote  prior notice thereof to Columbia, refuse to broadcast such program, 
+}
+{\f2 \b1 \fs20 \cf1 \i0 
+{\*\bkmkstart co_pp_sp_780_205_1}{\*\bkmkend co_pp_sp_780_205_1}
+{\f2 \strike0 \ul0 \b1 \sa0 \sb0 \fs20 \cf1 \i0 
+*205
+}
+}
+{\f2 \strike0 \ul0 \b0 \sa0 \sb200 \fs20 \cf1 \i0 
+ unless during such notice period such reasonable objection of the station shall be satisfied\u8217\'3f.
+\par 
+}
+}
+}
+{\li0 \f2 \qj \b0 \ri0 \fs20 \cf1 \i0 
+{\li0 \f2 \qj \b0 \ri0 \fs20 \cf1 \i0 
+{\f2 \strike0 \ul0 \b0 \sa0 \sb0 \fs20 \cf1 \i0 
+While seeming in the abstract to be fair, these provisions, according to the Commission\rquote s finding, did not sufficiently protect the \u8216\'3fpublic interest\u8217\'3f. As a practical matter, the licensee could not determine in advance whether the broadcasting of any particular network program would or would not be in the public interest. \u8216\'3fIt is obvious that from such skeletal information (as the networks submitted to the stations prior to the broadcast) the station cannot determine in advance whether the program is in the public interest, nor can it ascertain whether or not parts of the program are in one way or another offensive. In practice, if not in theory, stations affiliated with networks have delegated to the networks a large part of their programming functions. In many instances, moreover, the network further delegates the actual production of programs to advertising agencies. These agencies are far more than mere brokers or intermediaries between the network and the advertiser. To an ever-increasing extent, these agencies actually exercise the function of program production. 
+}
+{\f2 \strike0 \ul0 \b0 \sa0 \sb200 \fs20 \cf1 \i0 
+Thus it is frequently neither the station nor the network, but rather the advertising agency, which determines what broadcast programs shall contain. Under such circumstances, it is especially important that individual stations, if they are to operate in the public interest, should have the practical opportunity as well as the contractual right to reject network programs. * * *
+\par 
+}
+}
+}
+{\li0 \f2 \qj \b0 \ri0 \fs20 \cf1 \i0 
+{\li0 \f2 \qj \b0 \ri0 \fs20 \cf1 \i0 
+{\f2 \strike0 \ul0 \b0 \sa0 \sb0 \fs20 \cf1 \i0 
+\u8216\'3fIt is the station, not the network, which is licensed to serve the public interest. The licensee has the duty of determining what programs shall be broadcast over his station\rquote s facilities, and cannot lawfully delegate this duty or transfer the control of his station directly to the network or indirectly to an advertising agency. He cannot lawfully bind himself to accept programs in every case 
+}
+{\f2 \b1 \fs20 \cf1 \i0 
+{\*\bkmkstart co_pp_sp_780_206_1}{\*\bkmkend co_pp_sp_780_206_1}
+{\f2 \strike0 \ul0 \b1 \sa0 \sb0 \fs20 \cf1 \i0 
+*206
+}
+}
+{\f2 \strike0 \ul0 \b0 \sa0 \sb0 \fs20 \cf1 \i0 
+ where he cannot sustain 
+}
+{\f2 \b1 \fs20 \cf1 \i0 
+{\*\bkmkstart co_pp_sp_708_1005_1}{\*\bkmkend co_pp_sp_708_1005_1}
+{\f2 \strike0 \ul0 \b1 \sa0 \sb0 \fs20 \cf1 \i0 
+**1005
+}
+}
+{\f2 \strike0 \ul0 \b0 \sa0 \sb200 \fs20 \cf1 \i0 
+ the burden of proof that he has a better program. The licensee is obliged to reserve to himself the final decision as to what programs will best serve the public interest. We conclude that a licensee is not fulfilling his obligations to operate in the public interest, and is not operating in accordance with the express requirements of the Communications Act, if he agrees to accept programs on any basis other than his own reasonable decision that the programs are satisfactory.\u8217\'3f (Report, pp. 39, 66.)
+\par 
+}
+}
+}
+{\li0 \f2 \qj \b0 \ri0 \fs20 \cf1 \i0 
+{\li0 \f2 \qj \b0 \ri0 \fs20 \cf1 \i0 
+{\f2 \strike0 \ul0 \b0 \sa0 \sb200 \fs20 \cf1 \i0 
+The Commission undertook in Regulation 3.105 to formulate the obligations of licensees with respect to supervision over programs: \u8216\'3fNo license shall be granted to a standard broadcast station having any contract, arrangement, or understanding, express or implied, with a network organization which (a), with respect to programs offered pursuant to an affiliation contract, prevents or hinders the station from rejecting or refusing network programs which the station reasonably believes to be unsatisfactory or unsuitable; or which (b), with respect to network programs so offered or already contracted for, prevents the station from rejecting or refusing any program which, in its opinion, is contrary to the public interest, or from substituting a program of outstanding local or national importance.\u8217\'3f
+\par 
+}
+}
+}
+{\li0 \f2 \qj \b0 \ri0 \fs20 \cf1 \i0 
+{\li0 \f2 \qj \b0 \ri0 \fs20 \cf1 \i0 
+{\f2 \strike0 \ul0 \b0 \sa0 \sb0 \fs20 \cf1 \i0 
+Regulation 3.106\u8212\'3fNetwork ownership of stations. The Commission found that NBC, in addition to its network operations, was the licensee of 10 stations, 2 each in New York, Chicago, Washington, and San Francisco, 1 in Denver, and 1 in Cleveland. CBS was the licensee of 8 stations, 1 in each of these cities: New York, Chicago, Washington, Boston, Minneapolis, St. Louis, Charlotte, and Los Angeles. These 18 stations owned by NBC and CBS, the Commission observed, were among the most powerful and desirable in the country, and were permanently inaccessible to competing networks. \u8216\'3fCompetition 
+}
+{\f2 \b1 \fs20 \cf1 \i0 
+{\*\bkmkstart co_pp_sp_780_207_1}{\*\bkmkend co_pp_sp_780_207_1}
+{\f2 \strike0 \ul0 \b1 \sa0 \sb0 \fs20 \cf1 \i0 
+*207
+}
+}
+{\f2 \strike0 \ul0 \b0 \sa0 \sb0 \fs20 \cf1 \i0 
+ among networks for these facilities is nonexistent, as they are completely removed from the network-station market. It gives the network complete control over its policies. This \u8216\'3fbottling-up\u8217\'3f of the best facilities has undoubtedly had a discouraging effect upon the creation and growth of new networks. Furthermore, common ownership of network and station places the network in a position where its interest as the owner of certain stations may conflict with its interest as a network organization serving affiliated stations. In dealings with advertisers, the network represents its own stations in a proprietary capacity and the affiliated stations in something akin to an agency capacity. The danger is present that the network organization will give preference to its own stations at the expense of its affiliates.\rquote 
+}
+{\f2 \strike0 \ul0 \b0 \sa0 \sb200 \fs20 \cf1 \i0 
+ (Report, p. 67.)
+\par 
+}
+}
+}
+{\li0 \f2 \qj \b0 \ri0 \fs20 \cf1 \i0 
+{\li0 \f2 \qj \b0 \ri0 \fs20 \cf1 \i0 
+{\f2 \strike0 \ul0 \b0 \sa0 \sb0 \fs20 \cf1 \i0 
+The Commission stated that if the question had arisen as an original matter, it might well have concluded that the public interest required severance of the business of station ownership from that of network operation. But since substantial business interests have been formed on the basis of the Commission\rquote s continued tolerance of the situation, it was found inadvisable to take such a drastic step. The Commission concluded, however, that \u8216\'3fthe licensing of two stations in the same area to a single network organization is basically unsound and contrary to the public interest\u8217\'3f, and that it was also against the \u8216\'3fpublic interest\u8217\'3f for network organizations to own stations in areas where the available facilities were so few or of such unequal coverage that competition would thereby be substantially restricted. Recognizing that these considerations called for flexibility in their application to particular situations, the Commission provided that \u8216\'3fnetworks will be given full opportunity, on proper application for new facilities or renewal of existing licenses, to call to our attention any reasons why the principle should be modified or held inapplicable.\u8217\'3f (Report, p. 68.) 
+}
+{\f2 \b1 \fs20 \cf1 \i0 
+{\*\bkmkstart co_pp_sp_780_208_1}{\*\bkmkend co_pp_sp_780_208_1}
+{\f2 \strike0 \ul0 \b1 \sa0 \sb0 \fs20 \cf1 \i0 
+*208
+}
+}
+{\f2 \strike0 \ul0 \b0 \sa0 \sb200 \fs20 \cf1 \i0 
+ Regulation 3.106 reads as follows: \u8216\'3fNo license shall be granted to a network organization, or to any person directly or indirectly controlled by or under common control with a network organization, for more than one standard broadcast station where one of the stations covers substantially the service area of the other station, or for any standard broadcast station in any locality where the existing standard broadcast stations are so few or of such unequal desirability (in terms of coverage, power, frequency, or other related matters) that competition would be substantially restrained by such licensing.\u8217\'3f
+\par 
+}
+}
+}
+{\li0 \f2 \qj \b0 \ri0 \fs20 \cf1 \i0 
+{\li0 \f2 \qj \b0 \ri0 \fs20 \cf1 \i0 
+{\f2 \strike0 \ul0 \b0 \fs20 \cf1 \i0 
+}
+{\f2 \b1 \fs20 \cf1 \i0 
+{\*\bkmkstart co_pp_sp_708_1006_1}{\*\bkmkend co_pp_sp_708_1006_1}
+{\f2 \strike0 \ul0 \b1 \sa0 \sb0 \fs20 \cf1 \i0 
+**1006
+}
+}
+{\f2 \strike0 \ul0 \b0 \sa0 \sb200 \fs20 \cf1 \i0 
+ Regulation 3.107\u8212\'3fDual network operation. This regulation provides that: \u8216\'3fNo license shall be issued to a standard broadcast station affiliated with a network organization which maintains more than one network: Provided, That this regulation shall not be applicable if such networks are not operated simultaneously, or if there is no substantial overlap in the territory served by the group of stations comprising each such network.\u8217\'3f In its Supplemental Report of October 11, 1941, the Commission announced the indefinite suspension of this regulation. There is no occasion here to consider the validity of Regulation 3.107, since there is no immediate threat of its enforcement by the Commission.
+\par 
+}
+}
+}
+{\li0 \f2 \qj \b0 \ri0 \fs20 \cf1 \i0 
+{\li0 \f2 \qj \b0 \ri0 \fs20 \cf1 \i0 
+{\f2 \strike0 \ul0 \b0 \sa0 \sb0 \fs20 \cf1 \i0 
+Regulation 3.108\u8212\'3fControl by networks of station rates. The Commission found that NBC\rquote s affiliation contracts contained a provision empowering the network to reduce the station\rquote s network rate, and thereby to reduce the compensation received by the station, if the station set a lower rate for non-network national advertising than the rate established by the contract for the network programs. Under this provision the station could not sell time to a national advertiser for less than it would cost the advertiser if he bought the time from NBC. In the words of NBC\rquote s vice-president, \u8216\'3fThis means simply that a national advertiser should pay the same price for the station 
+}
+{\f2 \b1 \fs20 \cf1 \i0 
+{\*\bkmkstart co_pp_sp_780_209_1}{\*\bkmkend co_pp_sp_780_209_1}
+{\f2 \strike0 \ul0 \b1 \sa0 \sb0 \fs20 \cf1 \i0 
+*209
+}
+}
+{\f2 \strike0 \ul0 \b0 \sa0 \sb200 \fs20 \cf1 \i0 
+ whether the buys it through one source or another source. It means that we do not believe that our stations should go into competition with ourselves.\u8217\'3f (Report, p. 73.)
+\par 
+}
+}
+}
+{\li0 \f2 \qj \b0 \ri0 \fs20 \cf1 \i0 
+{\li0 \f2 \qj \b0 \ri0 \fs20 \cf1 \i0 
+{\f2 \strike0 \ul0 \b0 \sa0 \sb0 \fs20 \cf1 \i0 
+The Commission concluded that \u8216\'3fit is against the public interest for a station licensee to enter into a contract with a network which has the effect of decreasing its ability to compete for national business. 
+}
+{\f2 \strike0 \ul0 \b0 \sa0 \sb200 \fs20 \cf1 \i0 
+We believe that the public interest will best be served and listeners supplied with the best programs if stations bargain freely with national advertisers.\u8217\'3f (Report, p. 75.) Accordingly, the Commission adopted Regulation 3.108, which provides as follows: \u8216\'3fNo license shall be granted to a standard broadcast station having any contract, arrangement, or understanding, express or implied, with a network organization under which the station is prevented or hindered from, or penalized for, fixing or altering its rates for the sale of broadcast time for other than the network\rquote s programs.\u8217\'3f
+\par 
+}
+}
+}
+{\li0 \f2 \qj \b0 \ri0 \fs20 \cf1 \i0 
+{\li0 \f2 \qj \b0 \ri0 \fs20 \cf1 \i0 
+{\f2 \strike0 \ul0 \b0 \sa0 \sb0 \fs20 \cf1 \i0 
+The appellants attack the validity of these Regulations along many fronts. They contend that the Commission went beyond the regulatory powers conferred upon it by the Communications Act of 1934; that even if the Commission were authorized by the Act to deal with the matters comprehended by the Regulations, its action is nevertheless invalid because the Commission misconceived the scope of the Act, particularly s 313 which deals with the application of the anti-trust laws to the radio industry; that the Regulations are arbitrary and capricious; that if the Communications Act of 1934 were construed to authorize the promulgation of the Regulations, it would be an unconstitutional delegation of legislative power; and that, in any event, the Regulations abridge the appellants\rquote  right of free speech in violation of the First Amendment. We are thus called upon to determine whether Congress has authorized the Commission to exercise the 
+}
+{\f2 \b1 \fs20 \cf1 \i0 
+{\*\bkmkstart co_pp_sp_780_210_1}{\*\bkmkend co_pp_sp_780_210_1}
+{\f2 \strike0 \ul0 \b1 \sa0 \sb0 \fs20 \cf1 \i0 
+*210
+}
+}
+{\f2 \strike0 \ul0 \b0 \sa0 \sb200 \fs20 \cf1 \i0 
+ power asserted by the Chain Broadcasting Regulations, and if it has, whether the Constitution forbids the exercise of such authority.
+\par 
+}
+}
+}
+{\li0 \f2 \qj \b0 \ri0 \fs20 \cf1 \i0 
+{\li0 \f2 \qj \b0 \ri0 \fs20 \cf1 \i0 
+{\f2 \strike0 \ul0 \b0 \sa0 \sb0 \fs20 \cf1 \i0 
+Federal regulation of radio
+}
+{\f2 \b0 \fs16 \cf1 \i0 
+{\*\bkmkstart co_footnoteReference_B00331943120664_ID0}{\*\bkmkend co_footnoteReference_B00331943120664_ID0}
+{\field {\*\fldinst HYPERLINK "#co_footnote_B00331943120664_1" }{\fldrslt 
+{\super \f2 \strike0 \ul0 \b0 \sa0 \sb0 \fs16 \cf5 \i0 
+3
+}}}
+}
+{\f2 \strike0 \ul0 \b0 \sa0 \sb0 \fs20 \cf1 \i0 
+ begins with the Wireless Ship Act of June 24, 1910, 36 Stat. 629, 46 U.S.C.A. s 484 et seq., which forbade any steamer carrying or licensed to carry fifty or more persons to leave any American port unless equipped with efficient apparatus for radio communication, in charge of a skilled operator. The enforcement of this legislation was entrusted to the Secretary of Commerce and Labor, who was in charge of the administration of 
+}
+{\f2 \b1 \fs20 \cf1 \i0 
+{\*\bkmkstart co_pp_sp_708_1007_1}{\*\bkmkend co_pp_sp_708_1007_1}
+{\f2 \strike0 \ul0 \b1 \sa0 \sb0 \fs20 \cf1 \i0 
+**1007
+}
+}
+{\f2 \strike0 \ul0 \b0 \sa0 \sb0 \fs20 \cf1 \i0 
+ the marine navigation laws. But it was not until 1912, when the United States ratified the first international radio treaty, 37 Stat. 1565, that the need for general regulation of radio communication became urgent. In order to fulfill our obligations under the treaty, Congress enacted the Radio-Communications Act of August 13, 1912, 37 Stat. 302, 
+}
+{\field {\*\fldinst HYPERLINK "http://www.westlaw.com/Link/Document/FullText?findType=L&pubNum=1000546&cite=47USCAS51&originatingDoc=I091076d89cc311d991d0cc6b54f12d4d&refType=LQ&originationContext=document&vr=3.0&rs=cblt1.0&transitionType=DocumentItem&contextData=(sc.Search)" }{\fldrslt 
+{\f2 \strike0 \ul0 \b0 \sa0 \sb0 \fs20 \cf5 \i0 
+47 U.S.C.A. s 51
+}}}
+{\f2 \strike0 \ul0 \b0 \sa0 \sb200 \fs20 \cf1 \i0 
+ et seq. This statute forbade the operation of radio apparatus without a license from the Secretary of Commerce and Labor; it also allocated certain frequencies for the use of the Government, and imposed restrictions upon the character of wave emissions, the transmission of distress signals, and the like.
+\par 
+}
+}
+}
+{\li0 \f2 \qj \b0 \ri0 \fs20 \cf1 \i0 
+{\li0 \f2 \qj \b0 \ri0 \fs20 \cf1 \i0 
+{\f2 \strike0 \ul0 \b0 \sa0 \sb0 \fs20 \cf1 \i0 
+The enforcement of the Radio Act of 1912 presented no serious problems prior to the World War. Questions of interference arose only rarely because there were more than enough frequencies for all the stations then in existence. The war accelerated the development of the art, however, and in 1921 the first standard broadcast stations 
+}
+{\f2 \b1 \fs20 \cf1 \i0 
+{\*\bkmkstart co_pp_sp_780_211_1}{\*\bkmkend co_pp_sp_780_211_1}
+{\f2 \strike0 \ul0 \b1 \sa0 \sb0 \fs20 \cf1 \i0 
+*211
+}
+}
+{\f2 \strike0 \ul0 \b0 \sa0 \sb0 \fs20 \cf1 \i0 
+ were established. They grew rapidly in number, and by 1923 there were several hundred such stations throughout the country. The Act of 1912 had not set aside any particular frequencies for the use of private broadcast stations; consequently, the Secretary of Commerce selected two frequencies, 750 and 833 kilocycles, and licensed all stations to operate upon one or the other of these channels. 
+}
+{\f2 \strike0 \ul0 \b0 \sa0 \sb0 \fs20 \cf1 \i0 
+The number of stations increased so rapidly, however, and the situation became so chaotic, that the Secretary, upon the recommendation of the National Radio Conferences which met in Washington in 1923 and 1924, established a policy of assigning specified frequencies to particular stations. The entire radio spectrum was divided into numerous bands, each allocated to a particular kind of service. The frequencies ranging from 550 to 1500 kilocycles (96 channels in all, since the channels were separated from each other by 10 kilocycles) were assigned to the standard broadcast stations. But the problems created by the enormously rapid development of radio were far from solved. The increase in the number of channels was not enough to take care of the constantly growing number of stations. Since there were more stations than available frequencies, the Secretary of Commerce attempted to find room for everybody by limiting the power and hours of operation of stations in order that several stations might use the same channel. The number of stations multiplied so rapidly, however, that by November, 1925, there were almost 600 stations in the country, and there were 175 applications for new stations. Every channel in the standard broadcast band was, by that time, already occupied by at least one station, and many by several. The new stations could be accommodated only by extending the standard broadcast band, at the expense of the other types of services, or by imposing still greater limitations upon time and power. The National Radio Conference which met in November, 1925, 
+}
+{\f2 \b1 \fs20 \cf1 \i0 
+{\*\bkmkstart co_pp_sp_780_212_1}{\*\bkmkend co_pp_sp_780_212_1}
+{\f2 \strike0 \ul0 \b1 \sa0 \sb0 \fs20 \cf1 \i0 
+*212
+}
+}
+{\f2 \strike0 \ul0 \b0 \sa0 \sb200 \fs20 \cf1 \i0 
+ opposed both of these methods and called upon Congress to remedy the situation through legislation.
+\par 
+}
+}
+}
+{\li0 \f2 \qj \b0 \ri0 \fs20 \cf1 \i0 
+{\li0 \f2 \qj \b0 \ri0 \fs20 \cf1 \i0 
+{\f2 \strike0 \ul0 \b0 \sa0 \sb0 \fs20 \cf1 \i0 
+The Secretary of Commerce was powerless to deal with the situation. It had been held that he could not deny a license to an otherwise legally qualified applicant on the ground that the proposed station would interfere with existing private or Government stations. 
+}
+{\field {\*\fldinst HYPERLINK "http://www.westlaw.com/Link/Document/FullText?findType=Y&serNum=1934122833&pubNum=348&originatingDoc=I091076d89cc311d991d0cc6b54f12d4d&refType=RP&originationContext=document&vr=3.0&rs=cblt1.0&transitionType=DocumentItem&contextData=(sc.Search)" }{\fldrslt 
+{\f2 \strike0 \ul0 \b0 \sa0 \sb0 \fs20 \cf5 \i0 
+Hoover v. Intercity Radio Co., 52 App.D.C. 339, 286 F. 1003.
+}}}
+{\f2 \strike0 \ul0 \b0 \sa0 \sb0 \fs20 \cf1 \i0 
+ And on April 16, 1926, an Illinois district court held that the Secretary had no power to impose restrictions as to frequency, power, and hours of operation, and that a station\rquote s use of a frequency not assigned to it was not a violation of the Radio Act of 1912. 
+}
+{\field {\*\fldinst HYPERLINK "http://www.westlaw.com/Link/Document/FullText?findType=Y&serNum=1926121627&pubNum=350&originatingDoc=I091076d89cc311d991d0cc6b54f12d4d&refType=RP&originationContext=document&vr=3.0&rs=cblt1.0&transitionType=DocumentItem&contextData=(sc.Search)" }{\fldrslt 
+{\f2 \strike0 \ul0 \b0 \sa0 \sb0 \fs20 \cf5 \i0 
+United States v. Zenith Radio Corp., D.C., 12 F.2d 614.
+}}}
+{\f2 \strike0 \ul0 \b0 \sa0 \sb0 \fs20 \cf1 \i0 
+ This was followed on July 8, 1926, by an opinion of Acting Attorney General Donovan that the Secretary of Commerce had no power, under the Radio Act of 1912, to regulate the power, frequency or hours of operation of stations. 
+}
+{\field {\*\fldinst HYPERLINK "http://www.westlaw.com/Link/Document/FullText?findType=Y&pubNum=904&cite=35NYOPATTYGEN126&originatingDoc=I091076d89cc311d991d0cc6b54f12d4d&refType=DE&originationContext=document&vr=3.0&rs=cblt1.0&transitionType=DocumentItem&contextData=(sc.Search)" }{\fldrslt 
+{\f2 \strike0 \ul0 \b0 \sa0 \sb0 \fs20 \cf5 \i0 
+35 Op.Atty.Gen. 126.
+}}}
+{\f2 \strike0 \ul0 \b0 \sa0 \sb200 \fs20 \cf1 \i0 
+ The next day the Secretary of Commerce issued a statement abandoning all his efforts to regulate radio and urging that the stations undertake self-regulation.
+\par 
+}
+}
+}
+{\li0 \f2 \qj \b0 \ri0 \fs20 \cf1 \i0 
+{\li0 \f2 \qj \b0 \ri0 \fs20 \cf1 \i0 
+{\f2 \strike0 \ul0 \b0 \sa0 \sb0 \fs20 \cf1 \i0 
+But the plea of the Secretary went unheeded. From, July, 1926, to February 23, 1927, when Congress enacted the Radio Act of 1927, 44 Stat. 1162, almost 200 new stations went on the air. These new stations used any frequencies they desired, regardless of the interference thereby caused to others. Existing stations changed to other frequencies and increased their power 
+}
+{\f2 \b1 \fs20 \cf1 \i0 
+{\*\bkmkstart co_pp_sp_708_1008_1}{\*\bkmkend co_pp_sp_708_1008_1}
+{\f2 \strike0 \ul0 \b1 \sa0 \sb0 \fs20 \cf1 \i0 
+**1008
+}
+}
+{\f2 \strike0 \ul0 \b0 \sa0 \sb200 \fs20 \cf1 \i0 
+ and hours of operation at will. The result was confusion and chaos. With everybody on the air, nobody could be heard. The situation became so intolerable that the President in his message of December 7, 1926, appealed to Congress to enact a comprehensive radio law:
+\par 
+}
+}
+}
+{\li0 \f2 \qj \b0 \ri0 \fs20 \cf1 \i0 
+{\li0 \f2 \qj \b0 \ri0 \fs20 \cf1 \i0 
+{\f2 \strike0 \ul0 \b0 \sa0 \sb0 \fs20 \cf1 \i0 
+\u8216\'3fDue to the decisions of the courts, the authority of the department (of Commerce) under the law of 1912 has broken down; many more stations have been operating
+}
+{\f2 \strike0 \ul0 \b0 \sa0 \sb0 \fs20 \cf1 \i0 
+ 
+}
+{\f2 \b1 \fs20 \cf1 \i0 
+{\*\bkmkstart co_pp_sp_780_213_1}{\*\bkmkend co_pp_sp_780_213_1}
+{\f2 \strike0 \ul0 \b1 \sa0 \sb0 \fs20 \cf1 \i0 
+*213
+}
+}
+{\f2 \strike0 \ul0 \b0 \sa0 \sb200 \fs20 \cf1 \i0 
+ than can be accommodated within the limited number of wave lengths available; further stations are in course of construction; many stations have departed from the scheme of allocations set down by the department, and the whole service of this most important public function has drifted into such chaos as seems likely, if not remedied, to destroy its great value. I most urgently recommend that this legislation should be speedily enacted.\u8217\'3f (H.Doc.483, 69th Cong., 2d Sess., p. 10.)
+\par 
+}
+}
+}
+{\li0 \f2 \qj \b0 \ri0 \fs20 \cf1 \i0 
+{\li0 \f2 \qj \b0 \ri0 \fs20 \cf1 \i0 
+{\f2 \strike0 \ul0 \b0 \sa0 \sb0 \fs20 \cf1 \i0 
+The plight into which radio fell prior to 1927 was attributable to certain basic facts about radio as a means of communication\u8212\'3fits facilities are limited; they are not available to all who may wish to use them; the radio spectrum simply is not large enough to accommodate everybody. There is a fixed natural limitation upon the number of stations that can operate without interfering with one another.
+}
+{\f2 \b0 \fs16 \cf1 \i0 
+{\*\bkmkstart co_footnoteReference_B00441943120664_ID0}{\*\bkmkend co_footnoteReference_B00441943120664_ID0}
+{\field {\*\fldinst HYPERLINK "#co_footnote_B00441943120664_1" }{\fldrslt 
+{\super \f2 \strike0 \ul0 \b0 \sa0 \sb0 \fs16 \cf5 \i0 
+4
+}}}
+}
+{\f2 \strike0 \ul0 \b0 \sa0 \sb200 \fs20 \cf1 \i0 
+ Regulation of radio was therefore as vital to its development as traffic control was to the development of the automobile. In enacting the Radio Act of 1927, the first comprehensive scheme of control over radio communication, Congress acted upon the knowledge that if the potentialities of radio were not to be wasted, regulation was essential.
+\par 
+}
+}
+}
+{\li0 \f2 \qj \b0 \ri0 \fs20 \cf1 \i0 
+{\li0 \f2 \qj \b0 \ri0 \fs20 \cf1 \i0 
+{\f2 \strike0 \ul0 \b0 \sa0 \sb0 \fs20 \cf1 \i0 
+The Radio Act of 1927 created the Federal Radio Commission, composed of five members, and endowed the Commission with wide licensing and regulatory powers. We do not pause here to enumerate the scope of the Radio Act of 1927 and of the authority entrusted to the Radio Commission, for the basic provisions of that Act are incorporated in the Communications Act of 1934, 48 Stat. 1064, 
+}
+{\field {\*\fldinst HYPERLINK "http://www.westlaw.com/Link/Document/FullText?findType=L&pubNum=1000546&cite=47USCAS151&originatingDoc=I091076d89cc311d991d0cc6b54f12d4d&refType=LQ&originationContext=document&vr=3.0&rs=cblt1.0&transitionType=DocumentItem&contextData=(sc.Search)" }{\fldrslt 
+{\f2 \strike0 \ul0 \b0 \sa0 \sb0 \fs20 \cf5 \i0 
+47 U.S.C. s 151
+}}}
+{\f2 \strike0 \ul0 \b0 \sa0 \sb0 \fs20 \cf1 \i0 
+ et seq., 
+}
+{\field {\*\fldinst HYPERLINK "http://www.westlaw.com/Link/Document/FullText?findType=L&pubNum=1000546&cite=47USCAS151&originatingDoc=I091076d89cc311d991d0cc6b54f12d4d&refType=LQ&originationContext=document&vr=3.0&rs=cblt1.0&transitionType=DocumentItem&contextData=(sc.Search)" }{\fldrslt 
+{\f2 \strike0 \ul0 \b0 \sa0 \sb0 \fs20 \cf5 \i0 
+47 U.S.C.A. s 151
+}}}
+{\f2 \strike0 \ul0 \b0 \sa0 \sb0 \fs20 \cf1 \i0 
+ et seq., the legislation immediately before us. As we noted in 
+}
+{\field {\*\fldinst HYPERLINK "http://www.westlaw.com/Link/Document/FullText?findType=Y&serNum=1940126066&pubNum=708&originatingDoc=I091076d89cc311d991d0cc6b54f12d4d&refType=RP&fi=co_pp_sp_708_438&originationContext=document&vr=3.0&rs=cblt1.0&transitionType=DocumentItem&contextData=(sc.Search)#co_pp_sp_708_438" }{\fldrslt 
+{\f2 \strike0 \ul0 \b0 \sa0 \sb0 \fs20 \cf5 \i0 
+Federal Communications Comm. v. Pottsville Broadcasting Co., 309 U.S. 134, 137, 60 S.Ct. 437, 438, 84 L.Ed. 656,
+}}}
+{\f2 \strike0 \ul0 \b0 \sa0 \sb0 \fs20 \cf1 \i0 
+ 
+}
+{\f2 \b1 \fs20 \cf1 \i0 
+{\*\bkmkstart co_pp_sp_780_214_1}{\*\bkmkend co_pp_sp_780_214_1}
+{\f2 \strike0 \ul0 \b1 \sa0 \sb0 \fs20 \cf1 \i0 
+*214
+}
+}
+{\f2 \strike0 \ul0 \b0 \sa0 \sb200 \fs20 \cf1 \i0 
+ \u8216\'3fIn its essentials the Communications Act of 1934 (so far as its provisions relating to radio are concerned) derives from the Federal Radio Act of 1927 * * *. By this Act Congress, in order to protect the national interest involved in the new and far-reaching science of broadcasting, formulated a unified and comprehensive regulatory system for the industry. The common factors in the administration of the various statutes by which Congress had supervised the different modes of communication led to the creation, in the Act of 1934, of the Communications Commission. But the objectives of the legislation have remained substantially unaltered since 1927.\u8217\'3f
+\par 
+}
+}
+}
+{\li0 \f2 \qj \b0 \ri0 \fs20 \cf1 \i0 
+{\li0 \f2 \qj \b0 \ri0 \fs20 \cf1 \i0 
+{\f2 \strike0 \ul0 \b0 \sa0 \sb0 \fs20 \cf1 \i0 
+Section 1 of the Communications Act states its \u8216\'3fpurpose of regulating interstate and foreign commerce in communication by wire and radio so as to make available, so far as possible, to all the people of the United States a rapid, efficient, Nationwide, and world-wide wire and radio communication service with adequate facilities at reasonable charges\rquote . 
+}
+{\field {\*\fldinst HYPERLINK "http://www.westlaw.com/Link/Document/FullText?findType=L&pubNum=1000546&cite=47USCAS301&originatingDoc=I091076d89cc311d991d0cc6b54f12d4d&refType=LQ&originationContext=document&vr=3.0&rs=cblt1.0&transitionType=DocumentItem&contextData=(sc.Search)" }{\fldrslt 
+{\f2 \strike0 \ul0 \b0 \sa0 \sb0 \fs20 \cf5 \i0 
+Section 301
+}}}
+{\f2 \strike0 \ul0 \b0 \sa0 \sb200 \fs20 \cf1 \i0 
+ particularizes this general purpose with respect to radio: \u8216\'3fIt is the purpose of this Act, among other things, to maintain the control of the United States over all the channels of interstate and foreign radio transmission; and to provide for the use of such channels, but not the ownership thereof, by persons for limited periods of time, under licenses granted by Federal authority, and no such license shall be construed to create any right, beyond the terms, conditions, and periods of the license.\u8217\'3f To that end a Commission composed of seven members was created, with broad licensing and regulatory powers.
+\par 
+}
+}
+}
+{\li0 \f2 \qj \b0 \ri0 \fs20 \cf1 \i0 
+{\li0 \f2 \qj \b0 \ri0 \fs20 \cf1 \i0 
+{\field {\*\fldinst HYPERLINK "http://www.westlaw.com/Link/Document/FullText?findType=L&pubNum=1000546&cite=47USCAS303&originatingDoc=I091076d89cc311d991d0cc6b54f12d4d&refType=LQ&originationContext=document&vr=3.0&rs=cblt1.0&transitionType=DocumentItem&contextData=(sc.Search)" }{\fldrslt 
+{\f2 \strike0 \ul0 \b0 \sa0 \sb0 \fs20 \cf5 \i0 
+Section 303
+}}}
+{\f2 \strike0 \ul0 \b0 \sa0 \sb200 \fs20 \cf1 \i0 
+ provides:
+\par 
+}
+}
+}
+{\li0 \f2 \qj \b0 \ri0 \fs20 \cf1 \i0 
+{\li0 \f2 \qj \b0 \ri0 \fs20 \cf1 \i0 
+{\f2 \strike0 \ul0 \b0 \sa0 \sb200 \fs20 \cf1 \i0 
+\u8216\'3fExcept as otherwise provided in this Act, the Commission from time to time, as public convenience, interest, or necessity requires, shall\u8212\'3f
+\par 
+}
+}
+}
+{\li0 \f2 \qj \b0 \ri0 \fs20 \cf1 \i0 
+{\li0 \f2 \qj \b0 \ri0 \fs20 \cf1 \i0 
+{\f2 \strike0 \ul0 \b0 \fs20 \cf1 \i0 
+}
+{\f2 \b1 \fs20 \cf1 \i0 
+{\*\bkmkstart co_pp_sp_708_1009_1}{\*\bkmkend co_pp_sp_708_1009_1}
+{\f2 \strike0 \ul0 \b1 \sa0 \sb0 \fs20 \cf1 \i0 
+**1009
+}
+}
+{\f2 \strike0 \ul0 \b0 \sa0 \sb200 \fs20 \cf1 \i0 
+ \u8216\'3f(a) Classify radio stations;
+\par 
+}
+}
+}
+{\li0 \f2 \qj \b0 \ri0 \fs20 \cf1 \i0 
+{\li0 \f2 \qj \b0 \ri0 \fs20 \cf1 \i0 
+{\f2 \strike0 \ul0 \b0 \fs20 \cf1 \i0 
+}
+{\f2 \b1 \fs20 \cf1 \i0 
+{\*\bkmkstart co_pp_sp_780_215_1}{\*\bkmkend co_pp_sp_780_215_1}
+{\f2 \strike0 \ul0 \b1 \sa0 \sb0 \fs20 \cf1 \i0 
+*215
+}
+}
+{\f2 \strike0 \ul0 \b0 \sa0 \sb200 \fs20 \cf1 \i0 
+ \u8216\'3f(b) Prescribe the nature of the service to be rendered by each class of licensed stations and each station within any class;
+\par 
+}
+}
+}
+{\li0 \f2 \qj \b0 \ri0 \fs20 \cf1 \i0 
+{\li0 \f2 \qj \b0 \ri0 \fs20 \cf1 \i0 
+{\f2 \strike0 \ul0 \b0 \sa0 \sb200 \fs20 \cf1 \i0 
+\u8216\'3f(f) Make such regulations not inconsistent with law as it may deem necessary to prevent interference between stations and to carry out the provisions of this Act * * *;
+\par 
+}
+}
+}
+{\li0 \f2 \qj \b0 \ri0 \fs20 \cf1 \i0 
+{\li0 \f2 \qj \b0 \ri0 \fs20 \cf1 \i0 
+{\f2 \strike0 \ul0 \b0 \sa0 \sb200 \fs20 \cf1 \i0 
+\u8216\'3f(g) Study new uses for radio, provide for experimental uses of frequencies, and generally encourage the larger and more effective use of radio in the public interest;
+\par 
+}
+}
+}
+{\li0 \f2 \qj \b0 \ri0 \fs20 \cf1 \i0 
+{\li0 \f2 \qj \b0 \ri0 \fs20 \cf1 \i0 
+{\f2 \strike0 \ul0 \b0 \sa0 \sb200 \fs20 \cf1 \i0 
+\u8216\'3f(i) Have authority to make special regulations applicable to radio stations engaged in chain broadcasting;
+\par 
+}
+}
+}
+{\li0 \f2 \qj \b0 \ri0 \fs20 \cf1 \i0 
+{\li0 \f2 \qj \b0 \ri0 \fs20 \cf1 \i0 
+{\f2 \strike0 \ul0 \b0 \sa0 \sb200 \fs20 \cf1 \i0 
+\u8216\'3f(r) Make such rules and regulations and prescribe such restrictions and conditions, not inconsistent with law, as may be necessary to carry out the provisions of this Act * * *.\u8217\'3f
+\par 
+}
+}
+}
+{\li0 \f2 \qj \b0 \ri0 \fs20 \cf1 \i0 
+{\li0 \f2 \qj \b0 \ri0 \fs20 \cf1 \i0 
+{\f2 \strike0 \ul0 \b0 \sa0 \sb0 \fs20 \cf1 \i0 
+The criterion governing the exercise of the Commission\rquote s licensing power is the \u8216\'3fpublic interest, convenience, or necessity\u8217\'3f. 
+}
+{\field {\*\fldinst HYPERLINK "http://www.westlaw.com/Link/Document/FullText?findType=L&pubNum=1000546&cite=47USCAS307&originatingDoc=I091076d89cc311d991d0cc6b54f12d4d&refType=LQ&originationContext=document&vr=3.0&rs=cblt1.0&transitionType=DocumentItem&contextData=(sc.Search)" }{\fldrslt 
+{\f2 \strike0 \ul0 \b0 \sa0 \sb0 \fs20 \cf5 \i0 
+ss 307(a)(d)
+}}}
+{\f2 \strike0 \ul0 \b0 \sa0 \sb0 \fs20 \cf1 \i0 
+, 
+}
+{\field {\*\fldinst HYPERLINK "http://www.westlaw.com/Link/Document/FullText?findType=L&pubNum=1000546&cite=47USCAS309&originatingDoc=I091076d89cc311d991d0cc6b54f12d4d&refType=LQ&originationContext=document&vr=3.0&rs=cblt1.0&transitionType=DocumentItem&contextData=(sc.Search)" }{\fldrslt 
+{\f2 \strike0 \ul0 \b0 \sa0 \sb0 \fs20 \cf5 \i0 
+309(a)
+}}}
+{\f2 \strike0 \ul0 \b0 \sa0 \sb0 \fs20 \cf1 \i0 
+, 
+}
+{\field {\*\fldinst HYPERLINK "http://www.westlaw.com/Link/Document/FullText?findType=L&pubNum=1000546&cite=47USCAS310&originatingDoc=I091076d89cc311d991d0cc6b54f12d4d&refType=LQ&originationContext=document&vr=3.0&rs=cblt1.0&transitionType=DocumentItem&contextData=(sc.Search)" }{\fldrslt 
+{\f2 \strike0 \ul0 \b0 \sa0 \sb0 \fs20 \cf5 \i0 
+310
+}}}
+{\f2 \strike0 \ul0 \b0 \sa0 \sb0 \fs20 \cf1 \i0 
+, 
+}
+{\field {\*\fldinst HYPERLINK "http://www.westlaw.com/Link/Document/FullText?findType=L&pubNum=1000546&cite=47USCAS312&originatingDoc=I091076d89cc311d991d0cc6b54f12d4d&refType=LQ&originationContext=document&vr=3.0&rs=cblt1.0&transitionType=DocumentItem&contextData=(sc.Search)" }{\fldrslt 
+{\f2 \strike0 \ul0 \b0 \sa0 \sb0 \fs20 \cf5 \i0 
+312
+}}}
+{\f2 \strike0 \ul0 \b0 \sa0 \sb0 \fs20 \cf1 \i0 
+. In addition, 
+}
+{\field {\*\fldinst HYPERLINK "http://www.westlaw.com/Link/Document/FullText?findType=L&pubNum=1000546&cite=47USCAS307&originatingDoc=I091076d89cc311d991d0cc6b54f12d4d&refType=LQ&originationContext=document&vr=3.0&rs=cblt1.0&transitionType=DocumentItem&contextData=(sc.Search)" }{\fldrslt 
+{\f2 \strike0 \ul0 \b0 \sa0 \sb0 \fs20 \cf5 \i0 
+s 307(b)
+}}}
+{\f2 \strike0 \ul0 \b0 \sa0 \sb200 \fs20 \cf1 \i0 
+ directs the Commission that \u8216\'3fIn considering applications for licenses, and modifications and renewals thereof, when and insofar as there is demand for the same, the Commission shall make such distribution of licenses, frequencies, hours of operation, and of power among the several States and communities as to provide a fair, efficient, and equitable distribution of radio service to each of the same.\u8217\'3f
+\par 
+}
+}
+}
+{\li0 \f2 \qj \b0 \ri0 \fs20 \cf1 \i0 
+{\li0 \f2 \qj \b0 \ri0 \fs20 \cf1 \i0 
+{\field {\*\fldinst HYPERLINK "#co_anchor_F11943120664_1" }{\fldrslt 
+{\super \f2 \strike0 \ul0 \b1 \sa0 \sb0 \fs20 \cf19 \i0 
+[1]
+}}}
+{\f2 \b0 \fs20 \cf5 \i0 
+{\*\bkmkstart co_anchor_B11943120664_1}{\*\bkmkend co_anchor_B11943120664_1}
+}
+{\f2 \strike0 \ul0 \b0 \sa0 \sb0 \fs20 \cf1 \i0 
+ The Act itself establishes that the Commission\rquote s powers are not limited to the engineering and technical aspects of regulation of radio communication. Yet we are asked to regard the Commission as a kind of traffic officer, policing the wave lengths to prevent stations from interfering with each other. But the Act does not restrict the Commission 
+}
+{\f2 \b1 \fs20 \cf1 \i0 
+{\*\bkmkstart co_pp_sp_780_216_1}{\*\bkmkend co_pp_sp_780_216_1}
+{\f2 \strike0 \ul0 \b1 \sa0 \sb0 \fs20 \cf1 \i0 
+*216
+}
+}
+{\f2 \strike0 \ul0 \b0 \sa0 \sb0 \fs20 \cf1 \i0 
+ merely to supervision of the traffic. It puts upon the Commission the burden of determining the composition of that traffic. The facilities of radio are not large enough to accommodate all who wish to use them. Methods must be devised for choosing from among the many who apply. And since Congress itself could not do this, it committed the task to the Commission.
+\par 
+}
+}
+}
+{\f2 \strike0 \ul0 \b0 \sa0 \sb0 \fs20 \cf1 \i0 
+\u160\'3f
+\par 
+}
+{\li0 \f2 \qj \b0 \ri0 \fs20 \cf1 \i0 
+{\li0 \f2 \qj \b0 \ri0 \fs20 \cf1 \i0 
+{\field {\*\fldinst HYPERLINK "#co_anchor_F21943120664_1" }{\fldrslt 
+{\super \f2 \strike0 \ul0 \b1 \sa0 \sb0 \fs20 \cf19 \i0 
+[2]
+}}}
+{\f2 \b0 \fs20 \cf5 \i0 
+{\*\bkmkstart co_anchor_B21943120664_1}{\*\bkmkend co_anchor_B21943120664_1}
+}
+{\f2 \strike0 \ul0 \b0 \sa0 \sb0 \fs20 \cf1 \i0 
+ 
+}
+{\field {\*\fldinst HYPERLINK "#co_anchor_F31943120664_1" }{\fldrslt 
+{\super \f2 \strike0 \ul0 \b1 \sa0 \sb0 \fs20 \cf19 \i0 
+[3]
+}}}
+{\f2 \b0 \fs20 \cf5 \i0 
+{\*\bkmkstart co_anchor_B31943120664_1}{\*\bkmkend co_anchor_B31943120664_1}
+}
+{\f2 \strike0 \ul0 \b0 \sa0 \sb0 \fs20 \cf1 \i0 
+ The Commission was, however, not left at large in performing this duty. The touchstone provided by Congress was the \u8216\'3fpublic interest, convenience, or necessity\u8217\'3f, a criterion which \u8216\'3fis as concrete as the complicated factors for judgment in such a field of delegated authority permit\u8217\'3f. 
+}
+{\field {\*\fldinst HYPERLINK "http://www.westlaw.com/Link/Document/FullText?findType=Y&serNum=1940126066&pubNum=708&originatingDoc=I091076d89cc311d991d0cc6b54f12d4d&refType=RP&fi=co_pp_sp_708_439&originationContext=document&vr=3.0&rs=cblt1.0&transitionType=DocumentItem&contextData=(sc.Search)#co_pp_sp_708_439" }{\fldrslt 
+{\f2 \strike0 \ul0 \b0 \sa0 \sb0 \fs20 \cf5 \i0 
+Federal Communications Comm. v. Pottsville Broadcasting Co., 309 U.S. 134, 138, 60 S.Ct. 437, 439, 84 L.Ed. 656.
+}}}
+{\f2 \strike0 \ul0 \b0 \sa0 \sb0 \fs20 \cf1 \i0 
+ \u8216\'3fThis criterion is not to be interpreted as setting up a standard so indefinite as to confer an unlimited power. Compare 
+}
+{\field {\*\fldinst HYPERLINK "http://www.westlaw.com/Link/Document/FullText?findType=Y&serNum=1932123409&pubNum=708&originatingDoc=I091076d89cc311d991d0cc6b54f12d4d&refType=RP&originationContext=document&vr=3.0&rs=cblt1.0&transitionType=DocumentItem&contextData=(sc.Search)" }{\fldrslt 
+{\f2 \strike0 \ul0 \b0 \sa0 \sb0 \fs20 \cf5 \i0 
+N.Y. Cent. Securities Corp. v. United States, 287 U.S. 12, 24, 53 S.Ct. 45 (48),
+}}}
+{\f2 \strike0 \ul0 \b0 \sa0 \sb0 \fs20 \cf1 \i0 
+ 
+}
+{\field {\*\fldinst HYPERLINK "http://www.westlaw.com/Link/Document/FullText?findType=Y&serNum=1932123409&pubNum=470&originatingDoc=I091076d89cc311d991d0cc6b54f12d4d&refType=RP&originationContext=document&vr=3.0&rs=cblt1.0&transitionType=DocumentItem&contextData=(sc.Search)" }{\fldrslt 
+{\f2 \strike0 \ul0 \b0 \sa0 \sb0 \fs20 \cf5 \i0 
+77 L.Ed. 138.
+}}}
+{\f2 \strike0 \ul0 \b0 \sa0 \sb0 \fs20 \cf1 \i0 
+ The requirement is to be interpreted by its context, by the nature of radio transmission and reception, by the scope, character, and quality of services * * *.\u8217\'3f 
+}
+{\field {\*\fldinst HYPERLINK "http://www.westlaw.com/Link/Document/FullText?findType=Y&serNum=1933122805&pubNum=708&originatingDoc=I091076d89cc311d991d0cc6b54f12d4d&refType=RP&fi=co_pp_sp_708_636&originationContext=document&vr=3.0&rs=cblt1.0&transitionType=DocumentItem&contextData=(sc.Search)#co_pp_sp_708_636" }{\fldrslt 
+{\f2 \strike0 \ul0 \b0 \sa0 \sb0 \fs20 \cf5 \i0 
+Federal Radio Comm. v. Nelson Bros. Bond & Mortgage Co., 289 U.S. 266, 285, 53 S.Ct. 627, 636, 77 L.Ed. 1166, 89 A.L.R. 406
+}}}
+{\f2 \strike0 \ul0 \b0 \sa0 \sb0 \fs20 \cf1 \i0 
+.
+\par 
+}
+}
+}
+{\f2 \strike0 \ul0 \b0 \sa0 \sb0 \fs20 \cf1 \i0 
+\u160\'3f
+\par 
+}
+{\li0 \f2 \qj \b0 \ri0 \fs20 \cf1 \i0 
+{\li0 \f2 \qj \b0 \ri0 \fs20 \cf1 \i0 
+{\field {\*\fldinst HYPERLINK "#co_anchor_F41943120664_1" }{\fldrslt 
+{\super \f2 \strike0 \ul0 \b1 \sa0 \sb0 \fs20 \cf19 \i0 
+[4]
+}}}
+{\f2 \b0 \fs20 \cf5 \i0 
+{\*\bkmkstart co_anchor_B41943120664_1}{\*\bkmkend co_anchor_B41943120664_1}
+}
+{\f2 \strike0 \ul0 \b0 \sa0 \sb0 \fs20 \cf1 \i0 
+ 
+}
+{\field {\*\fldinst HYPERLINK "#co_anchor_F51943120664_1" }{\fldrslt 
+{\super \f2 \strike0 \ul0 \b1 \sa0 \sb0 \fs20 \cf19 \i0 
+[5]
+}}}
+{\f2 \b0 \fs20 \cf5 \i0 
+{\*\bkmkstart co_anchor_B51943120664_1}{\*\bkmkend co_anchor_B51943120664_1}
+}
+{\f2 \strike0 \ul0 \b0 \sa0 \sb0 \fs20 \cf1 \i0 
+ 
+}
+{\field {\*\fldinst HYPERLINK "#co_anchor_F61943120664_1" }{\fldrslt 
+{\super \f2 \strike0 \ul0 \b1 \sa0 \sb0 \fs20 \cf19 \i0 
+[6]
+}}}
+{\f2 \b0 \fs20 \cf5 \i0 
+{\*\bkmkstart co_anchor_B61943120664_1}{\*\bkmkend co_anchor_B61943120664_1}
+}
+{\f2 \strike0 \ul0 \b0 \sa0 \sb0 \fs20 \cf1 \i0 
+ The \u8216\'3fpublic interest\u8217\'3f to be served under the Communications Act is thus the interest of the listening public in \u8216\'3fthe larger and more effective use of radio\u8217\'3f. 
+}
+{\field {\*\fldinst HYPERLINK "http://www.westlaw.com/Link/Document/FullText?findType=L&pubNum=1000546&cite=47USCAS303&originatingDoc=I091076d89cc311d991d0cc6b54f12d4d&refType=LQ&originationContext=document&vr=3.0&rs=cblt1.0&transitionType=DocumentItem&contextData=(sc.Search)" }{\fldrslt 
+{\f2 \strike0 \ul0 \b0 \sa0 \sb0 \fs20 \cf5 \i0 
+s 303(g)
+}}}
+{\f2 \strike0 \ul0 \b0 \sa0 \sb0 \fs20 \cf1 \i0 
+. The facilities of radio are limited and therefore precious; they cannot be left to wasteful use without detriment to the public interest. \u8216\'3fAn important element of public interest and convenience affecting the issue of a license is the ability of the licensee to render the best practicable service to the community reached by his broadcasts.\u8217\'3f
+}
+{\f2 \strike0 \ul0 \b0 \sa0 \sb0 \fs20 \cf1 \i0 
+ 
+}
+{\field {\*\fldinst HYPERLINK "http://www.westlaw.com/Link/Document/FullText?findType=Y&serNum=1940126067&pubNum=780&originatingDoc=I091076d89cc311d991d0cc6b54f12d4d&refType=RP&fi=co_pp_sp_780_475&originationContext=document&vr=3.0&rs=cblt1.0&transitionType=DocumentItem&contextData=(sc.Search)#co_pp_sp_780_475" }{\fldrslt 
+{\f2 \strike0 \ul0 \b0 \sa0 \sb0 \fs20 \cf5 \i0 
+Federal Communications Comm. v. Sanders Bros. Radio Station, 309 U.S. 470, 475, 642,
+}}}
+{\f2 \strike0 \ul0 \b0 \sa0 \sb0 \fs20 \cf1 \i0 
+ 
+}
+{\field {\*\fldinst HYPERLINK "http://www.westlaw.com/Link/Document/FullText?findType=Y&serNum=1940126067&pubNum=708&originatingDoc=I091076d89cc311d991d0cc6b54f12d4d&refType=RP&fi=co_pp_sp_708_697&originationContext=document&vr=3.0&rs=cblt1.0&transitionType=DocumentItem&contextData=(sc.Search)#co_pp_sp_708_697" }{\fldrslt 
+{\f2 \strike0 \ul0 \b0 \sa0 \sb0 \fs20 \cf5 \i0 
+60 S.Ct. 693, 697, 84 L.Ed. 869, 1037.
+}}}
+{\f2 \strike0 \ul0 \b0 \sa0 \sb0 \fs20 \cf1 \i0 
+ The Commission\rquote s licensing function cannot be discharged, therefore, merely by finding that there are no technological objections to the granting of a license. If the criterion of \u8216\'3fpublic interest\u8217\'3f were limited to such matters, how could the Commission 
+}
+{\f2 \b1 \fs20 \cf1 \i0 
+{\*\bkmkstart co_pp_sp_780_217_1}{\*\bkmkend co_pp_sp_780_217_1}
+{\f2 \strike0 \ul0 \b1 \sa0 \sb0 \fs20 \cf1 \i0 
+*217
+}
+}
+{\f2 \strike0 \ul0 \b0 \sa0 \sb0 \fs20 \cf1 \i0 
+ choose between two applicants for the same facilities, each of whom is financially and technically qualified to operate a station? Since the very inception of federal regulation by radio, comparative considerations as to the services to be rendered 
+}
+{\f2 \b1 \fs20 \cf1 \i0 
+{\*\bkmkstart co_pp_sp_708_1010_1}{\*\bkmkend co_pp_sp_708_1010_1}
+{\f2 \strike0 \ul0 \b1 \sa0 \sb0 \fs20 \cf1 \i0 
+**1010
+}
+}
+{\f2 \strike0 \ul0 \b0 \sa0 \sb0 \fs20 \cf1 \i0 
+ have governed the application of the standard of \u8216\'3fpublic interest, convenience, or necessity\u8217\'3f. See 
+}
+{\field {\*\fldinst HYPERLINK "http://www.westlaw.com/Link/Document/FullText?findType=Y&serNum=1940126066&pubNum=708&originatingDoc=I091076d89cc311d991d0cc6b54f12d4d&refType=RP&fi=co_pp_sp_708_439&originationContext=document&vr=3.0&rs=cblt1.0&transitionType=DocumentItem&contextData=(sc.Search)#co_pp_sp_708_439" }{\fldrslt 
+{\f2 \strike0 \ul0 \b0 \sa0 \sb0 \fs20 \cf5 \i0 
+Federal Communications Comm. v. Pottsville Broadcasting Co., 309 U.S. 134, 138 n. 2, 60 S.Ct. 437, 439, 84 L.Ed. 656
+}}}
+{\f2 \strike0 \ul0 \b0 \sa0 \sb0 \fs20 \cf1 \i0 
+.
+\par 
+}
+}
+}
+{\f2 \strike0 \ul0 \b0 \sa0 \sb0 \fs20 \cf1 \i0 
+\u160\'3f
+\par 
+}
+{\li0 \f2 \qj \b0 \ri0 \fs20 \cf1 \i0 
+{\li0 \f2 \qj \b0 \ri0 \fs20 \cf1 \i0 
+{\f2 \strike0 \ul0 \b0 \sa0 \sb0 \fs20 \cf1 \i0 
+The avowed aim of the Communications Act of 1934 was to secure the maximum benefits of radio to all the people of the United States. To that end Congress endowed the Communications Commission with comprehensive powers to promote and realize the vast potentialities of radio. 
+}
+{\field {\*\fldinst HYPERLINK "http://www.westlaw.com/Link/Document/FullText?findType=L&pubNum=1000546&cite=47USCAS303&originatingDoc=I091076d89cc311d991d0cc6b54f12d4d&refType=LQ&originationContext=document&vr=3.0&rs=cblt1.0&transitionType=DocumentItem&contextData=(sc.Search)" }{\fldrslt 
+{\f2 \strike0 \ul0 \b0 \sa0 \sb0 \fs20 \cf5 \i0 
+Section 303(g)
+}}}
+{\f2 \strike0 \ul0 \b0 \sa0 \sb200 \fs20 \cf1 \i0 
+ provides that the Commission shall \u8216\'3fgenerally encourage the larger and more effective use of radio in the public interest\u8217\'3f; subsection (i) gives the Commission specific \u8216\'3fauthority to make special regulations applicable to radio stations engaged in chain broadcasting\u8217\'3f; and subsection (r) empowers it to adopt \u8216\'3fsuch rules and regulations and prescribe such restrictions and conditions, not inconsistent with law, as may be necessary to carry out the provisions of this Act\u8217\'3f.
+\par 
+}
+}
+}
+{\li0 \f2 \qj \b0 \ri0 \fs20 \cf1 \i0 
+{\li0 \f2 \qj \b0 \ri0 \fs20 \cf1 \i0 
+{\f2 \strike0 \ul0 \b0 \sa0 \sb0 \fs20 \cf1 \i0 
+These provisions, individually and in the aggregate, preclude the notion that the Commission is empowered to deal only with technical and engineering impediments to the \u8216\'3flarger and more effective use of radio in the public interest\u8217\'3f. We cannot find in the Act any such restriction of the Commission\rquote s authority. Suppose, for example, that a community can, because of physical limitations, be assigned only two stations. That community might be deprived of effective service in any one of several ways. More powerful stations in nearby cities might blanket out the signals of the local stations so that they could not be heard at all. The stations might interfere with each other so that neither could be clearly heard. One station might dominate the other with the power of its signal. But 
+}
+{\f2 \b1 \fs20 \cf1 \i0 
+{\*\bkmkstart co_pp_sp_780_218_1}{\*\bkmkend co_pp_sp_780_218_1}
+{\f2 \strike0 \ul0 \b1 \sa0 \sb0 \fs20 \cf1 \i0 
+*218
+}
+}
+{\f2 \strike0 \ul0 \b0 \sa0 \sb200 \fs20 \cf1 \i0 
+ the community could be deprived of good radio service in ways less crude. One man, financially and technically qualified, might apply for and obtain the licenses of both stations and present a single service over the two stations, thus wasting a frequency otherwise available to the area. The language of the Act does not withdraw such a situation from the licensing and regulatory powers of the Commission, and there is no evidence that Congress did not mean its broad language to carry the authority it expresses.
+\par 
+}
+}
+}
+{\li0 \f2 \qj \b0 \ri0 \fs20 \cf1 \i0 
+{\li0 \f2 \qj \b0 \ri0 \fs20 \cf1 \i0 
+{\f2 \strike0 \ul0 \b0 \sa0 \sb0 \fs20 \cf1 \i0 
+In essence, the Chain Broadcasting Regulations represent a particularization of the Commission\rquote s conception of the \u8216\'3fpublic interest\u8217\'3f sought to be safeguarded by Congress in enacting the Communications Act of 1934. The basic consideration of policy underlying the Regulations is succinctly stated in its Report: \u8216\'3fWith the number of radio channels limited by natural factors, the public interest demands that those who are entrusted with the available channels shall make the fullest and most effective use of them. If a licensee enters into a contract with a network organization which limits his ability to make the best use of the radio facility assigned him, he is not serving the public interest. * * * 
+}
+{\f2 \strike0 \ul0 \b0 \sa0 \sb200 \fs20 \cf1 \i0 
+The net effect (of the practices disclosed by the investigation) has been that broadcasting service has been maintained at a level below that possible under a system of free competition. Having so found, we would be remiss in our statutory duty of encouraging \u8216\'3fthe larger and more effective use of radio in the public interest\u8217\'3f if we were to grant licenses to persons who persist in these practices.\rquote  (Report, pp. 81, 82.)
+\par 
+}
+}
+}
+{\li0 \f2 \qj \b0 \ri0 \fs20 \cf1 \i0 
+{\li0 \f2 \qj \b0 \ri0 \fs20 \cf1 \i0 
+{\field {\*\fldinst HYPERLINK "#co_anchor_F71943120664_1" }{\fldrslt 
+{\super \f2 \strike0 \ul0 \b1 \sa0 \sb0 \fs20 \cf19 \i0 
+[7]
+}}}
+{\f2 \b0 \fs20 \cf5 \i0 
+{\*\bkmkstart co_anchor_B71943120664_1}{\*\bkmkend co_anchor_B71943120664_1}
+}
+{\f2 \strike0 \ul0 \b0 \sa0 \sb0 \fs20 \cf1 \i0 
+ We would be asserting our personal views regarding the effective utilization of radio were we to deny that the Commission was entitled to find that the large public aims of the Communications Act of 1934 comprehend the considerations which moved the Commission in promulgating the Chain Broadcasting Regulations. True enough, the 
+}
+{\f2 \b1 \fs20 \cf1 \i0 
+{\*\bkmkstart co_pp_sp_780_219_1}{\*\bkmkend co_pp_sp_780_219_1}
+{\f2 \strike0 \ul0 \b1 \sa0 \sb0 \fs20 \cf1 \i0 
+*219
+}
+}
+{\f2 \strike0 \ul0 \b0 \sa0 \sb0 \fs20 \cf1 \i0 
+ Act does not explicitly say that the Commission shall have power to deal with network practices found inimical to the public interest. But Congress was acting in a field of regulation which was both new and dynamic. \u8216\'3fCongress moved under the spur of a widespread fear that in the absence of governmental control the public interest might be subordinated to monopolistic domination in the broadcasting field.\u8217\'3f 
+}
+{\field {\*\fldinst HYPERLINK "http://www.westlaw.com/Link/Document/FullText?findType=Y&serNum=1940126066&pubNum=708&originatingDoc=I091076d89cc311d991d0cc6b54f12d4d&refType=RP&fi=co_pp_sp_708_439&originationContext=document&vr=3.0&rs=cblt1.0&transitionType=DocumentItem&contextData=(sc.Search)#co_pp_sp_708_439" }{\fldrslt 
+{\f2 \strike0 \ul0 \b0 \sa0 \sb0 \fs20 \cf5 \i0 
+Federal Communications Comm. v. Pottsville Broadcasting Co., 309 U.S. 134, 137, 60 S.Ct. 437, 439, 84 L.Ed. 656.
+}}}
+{\f2 \strike0 \ul0 \b0 \sa0 \sb0 \fs20 \cf1 \i0 
+ In the context of the developing problems to which it was directed, the Act gave the Commission not niggardly but expansive powers. If was given a comprehensive mandate to \u8216\'3fencourage the larger and more effective use of radio in the public interest\u8217\'3f, if need be, by making \u8216\'3fspecial regulations 
+}
+{\f2 \b1 \fs20 \cf1 \i0 
+{\*\bkmkstart co_pp_sp_708_1011_1}{\*\bkmkend co_pp_sp_708_1011_1}
+{\f2 \strike0 \ul0 \b1 \sa0 \sb0 \fs20 \cf1 \i0 
+**1011
+}
+}
+{\f2 \strike0 \ul0 \b0 \sa0 \sb0 \fs20 \cf1 \i0 
+ applicable to radio stations engaged in chain broadcasting\u8217\'3f. 
+}
+{\field {\*\fldinst HYPERLINK "http://www.westlaw.com/Link/Document/FullText?findType=L&pubNum=1000546&cite=47USCAS303&originatingDoc=I091076d89cc311d991d0cc6b54f12d4d&refType=LQ&originationContext=document&vr=3.0&rs=cblt1.0&transitionType=DocumentItem&contextData=(sc.Search)" }{\fldrslt 
+{\f2 \strike0 \ul0 \b0 \sa0 \sb0 \fs20 \cf5 \i0 
+s 303(g)(i)
+}}}
+{\f2 \strike0 \ul0 \b0 \sa0 \sb0 \fs20 \cf1 \i0 
+.
+\par 
+}
+}
+}
+{\f2 \strike0 \ul0 \b0 \sa0 \sb0 \fs20 \cf1 \i0 
+\u160\'3f
+\par 
+}
+{\li0 \f2 \qj \b0 \ri0 \fs20 \cf1 \i0 
+{\li0 \f2 \qj \b0 \ri0 \fs20 \cf1 \i0 
+{\f2 \strike0 \ul0 \b0 \sa0 \sb0 \fs20 \cf1 \i0 
+Generalities unrelated to the living problems of radio communication of course cannot justify exercises of power by the Commission. Equally so, generalities empty of all concrete considerations of the actual bearing of regulations promulgated by the Commission to the subject-matter entrusted to it, cannot strike down exercises of power by the Commission. While Congress did not give the Commission unfettered discretion to regulate all phases of the radio industry, it did not frustrate the purposes for which the Communications Act of 1934 was brought into being by attempting an itemized catalogue of the specific manifestations of the general problems for the solution of which it was establishing a regulatory agency. That would have stereotyped the powers of the Commission to specific details in regulating a field of enterprise the dominant characteristic of which was the rapid pace of its unfolding. And so Congress did what experience had taught it in similar attempts at regulation, even in fields where the subject-matter of regulation was far less fluid and dynamic than radio. The essence of that 
+}
+{\f2 \b1 \fs20 \cf1 \i0 
+{\*\bkmkstart co_pp_sp_780_220_1}{\*\bkmkend co_pp_sp_780_220_1}
+{\f2 \strike0 \ul0 \b1 \sa0 \sb0 \fs20 \cf1 \i0 
+*220
+}
+}
+{\f2 \strike0 \ul0 \b0 \sa0 \sb200 \fs20 \cf1 \i0 
+ experience was to define broad areas for regulation and to establish standards for judgment adequately related in their application to the problems to be solved.
+\par 
+}
+}
+}
+{\li0 \f2 \qj \b0 \ri0 \fs20 \cf1 \i0 
+{\li0 \f2 \qj \b0 \ri0 \fs20 \cf1 \i0 
+{\f2 \strike0 \ul0 \b0 \sa0 \sb0 \fs20 \cf1 \i0 
+For the cramping construction of the Act pressed upon us, support cannot be found in its legislative history. The principal argument is that 
+}
+{\field {\*\fldinst HYPERLINK "http://www.westlaw.com/Link/Document/FullText?findType=L&pubNum=1000546&cite=47USCAS303&originatingDoc=I091076d89cc311d991d0cc6b54f12d4d&refType=LQ&originationContext=document&vr=3.0&rs=cblt1.0&transitionType=DocumentItem&contextData=(sc.Search)" }{\fldrslt 
+{\f2 \strike0 \ul0 \b0 \sa0 \sb0 \fs20 \cf5 \i0 
+s 303(i)
+}}}
+{\f2 \strike0 \ul0 \b0 \sa0 \sb200 \fs20 \cf1 \i0 
+, empowering the Commission \u8216\'3fto make special regulations applicable to radio stations engaged in chain broadcasting\u8217\'3f, intended to restrict the scope of the Commission\rquote s powers to the technical and engineering aspects of chain broadcasting. This provision comes from s 4(h) of the Radio Act of 1927. It was introduced into the legislation as a Senate committee amendment to the House bill (H.R. 9971, 69th Cong., 1st Sess.) This amendment originally read as follows:
+\par 
+}
+}
+}
+{\li0 \f2 \qj \b0 \ri0 \fs20 \cf1 \i0 
+{\li0 \f2 \qj \b0 \ri0 \fs20 \cf1 \i0 
+{\f2 \strike0 \ul0 \b0 \sa0 \sb200 \fs20 \cf1 \i0 
+\u8216\'3f(C) The commission, from time to time, as public convenience, interest, or necessity requires, shall\u8212\'3f
+\par 
+}
+}
+}
+{\li0 \f2 \qj \b0 \ri0 \fs20 \cf1 \i0 
+{\li0 \f2 \qj \b0 \ri0 \fs20 \cf1 \i0 
+{\f2 \strike0 \ul0 \b0 \sa0 \sb200 \fs20 \cf1 \i0 
+\u8216\'3f(j) When stations are connected by wire for chain broadcasting, determine the power each station shall use and the wave lengths to be used during the time stations are so connected and so operated, and make all other regulations necessary in the interest of equitable radio service to the listeners in the communities or areas affected by chain broadcasting.\u8217\'3f
+\par 
+}
+}
+}
+{\li0 \f2 \qj \b0 \ri0 \fs20 \cf1 \i0 
+{\li0 \f2 \qj \b0 \ri0 \fs20 \cf1 \i0 
+{\field {\*\fldinst HYPERLINK "#co_anchor_F81943120664_1" }{\fldrslt 
+{\super \f2 \strike0 \ul0 \b1 \sa0 \sb0 \fs20 \cf19 \i0 
+[8]
+}}}
+{\f2 \b0 \fs20 \cf5 \i0 
+{\*\bkmkstart co_anchor_B81943120664_1}{\*\bkmkend co_anchor_B81943120664_1}
+}
+{\f2 \strike0 \ul0 \b0 \sa0 \sb0 \fs20 \cf1 \i0 
+ The report of the Senate Committee on Interstate Commerce, which submitted this amendment, stated that under the bill the Commission was given \u8216\'3fcomplete authority * * * to control chain broadcasting.\u8217\'3f Sen.Rep.No.772, 69th Cong., 1st Sess., p. 3. The bill as thus amended was passed by the Senate, and then sent to conference. The bill that emerged from the conference committee, and which became the Radio Act of 1927, phrased the amendment in the general terms now contained in 
+}
+{\field {\*\fldinst HYPERLINK "http://www.westlaw.com/Link/Document/FullText?findType=L&pubNum=1000546&cite=47USCAS303&originatingDoc=I091076d89cc311d991d0cc6b54f12d4d&refType=LQ&originationContext=document&vr=3.0&rs=cblt1.0&transitionType=DocumentItem&contextData=(sc.Search)" }{\fldrslt 
+{\f2 \strike0 \ul0 \b0 \sa0 \sb0 \fs20 \cf5 \i0 
+s 303(i)
+}}}
+{\f2 \strike0 \ul0 \b0 \sa0 \sb0 \fs20 \cf1 \i0 
+ of the 1934 Act: the Commission was authorized \u8216\'3fto make special regulations applicable to radio stations 
+}
+{\f2 \b1 \fs20 \cf1 \i0 
+{\*\bkmkstart co_pp_sp_780_221_1}{\*\bkmkend co_pp_sp_780_221_1}
+{\f2 \strike0 \ul0 \b1 \sa0 \sb0 \fs20 \cf1 \i0 
+*221
+}
+}
+{\f2 \strike0 \ul0 \b0 \sa0 \sb0 \fs20 \cf1 \i0 
+ engaged in chain broadcasting\u8217\'3f. The conference reports do not give any explanation of this particular change in phrasing, but they do state that the jurisdiction conferred upon the Commission by the conference bill was substantially identical with that conferred by the bill passed by the Senate. See Sen.Doc.No.200, 69th Cong., 2d Sess., p. 17; H.Rep.1886, 69th Cong., 2d Sess., p. 17. We agree with the District Court that in view of this legislative history, 
+}
+{\field {\*\fldinst HYPERLINK "http://www.westlaw.com/Link/Document/FullText?findType=L&pubNum=1000546&cite=47USCAS303&originatingDoc=I091076d89cc311d991d0cc6b54f12d4d&refType=LQ&originationContext=document&vr=3.0&rs=cblt1.0&transitionType=DocumentItem&contextData=(sc.Search)" }{\fldrslt 
+{\f2 \strike0 \ul0 \b0 \sa0 \sb0 \fs20 \cf5 \i0 
+s 303(i)
+}}}
+{\f2 \strike0 \ul0 \b0 \sa0 \sb0 \fs20 \cf1 \i0 
+ cannot be construed as no broader than the first clause of the Senate amendment, which limited the Commission\rquote s authority to the technical and engineering phases of chain broadcasting. There is no basis for assuming that the conference intended to preserve the first clause, which was of limited scope, and abandon the second clause, which was of general scope, by agreeing upon a provision which was broader and more comprehensive than those it supplanted.
+}
+{\f2 \b0 \fs16 \cf1 \i0 
+{\*\bkmkstart co_footnoteReference_B00551943120664_ID0}{\*\bkmkend co_footnoteReference_B00551943120664_ID0}
+{\field {\*\fldinst HYPERLINK "#co_footnote_B00551943120664_1" }{\fldrslt 
+{\super \f2 \strike0 \ul0 \b0 \sa0 \sb0 \fs16 \cf5 \i0 
+5
+}}}
+\par 
+}
+}
+}
+{\f2 \strike0 \ul0 \b0 \sa0 \sb0 \fs20 \cf1 \i0 
+\u160\'3f
+\par 
+}
+{\li0 \f2 \qj \b0 \ri0 \fs20 \cf1 \i0 
+{\li0 \f2 \qj \b0 \ri0 \fs20 \cf1 \i0 
+{\f2 \strike0 \ul0 \b0 \fs20 \cf1 \i0 
+}
+{\f2 \b1 \fs20 \cf1 \i0 
+{\*\bkmkstart co_pp_sp_780_222_1}{\*\bkmkend co_pp_sp_780_222_1}
+{\f2 \strike0 \ul0 \b1 \sa0 \sb0 \fs20 \cf1 \i0 
+*222
+}
+}
+{\f2 \strike0 \ul0 \b0 \sa0 \sb0 \fs20 \cf1 \i0 
+ 
+}
+{\field {\*\fldinst HYPERLINK "#co_anchor_F91943120664_1" }{\fldrslt 
+{\super \f2 \strike0 \ul0 \b1 \sa0 \sb0 \fs20 \cf19 \i0 
+[9]
+}}}
+{\f2 \b0 \fs20 \cf5 \i0 
+{\*\bkmkstart co_anchor_B91943120664_1}{\*\bkmkend co_anchor_B91943120664_1}
+}
+{\f2 \strike0 \ul0 \b0 \sa0 \sb0 \fs20 \cf1 \i0 
+ A totally different source of attack upon the Regulations if found in 
+}
+{\field {\*\fldinst HYPERLINK "http://www.westlaw.com/Link/Document/FullText?findType=L&pubNum=1000546&cite=47USCAS311&originatingDoc=I091076d89cc311d991d0cc6b54f12d4d&refType=LQ&originationContext=document&vr=3.0&rs=cblt1.0&transitionType=DocumentItem&contextData=(sc.Search)" }{\fldrslt 
+{\f2 \strike0 \ul0 \b0 \sa0 \sb0 \fs20 \cf5 \i0 
+s 311
+}}}
+{\f2 \strike0 \ul0 \b0 \sa0 \sb0 \fs20 \cf1 \i0 
+ of the Act, which authorizes the Commission to withhold licenses from persons convicted of having violated the anti-trust 
+}
+{\f2 \b1 \fs20 \cf1 \i0 
+{\*\bkmkstart co_pp_sp_708_1012_1}{\*\bkmkend co_pp_sp_708_1012_1}
+{\f2 \strike0 \ul0 \b1 \sa0 \sb0 \fs20 \cf1 \i0 
+**1012
+}
+}
+{\f2 \strike0 \ul0 \b0 \sa0 \sb0 \fs20 \cf1 \i0 
+ laws. Two contentions are made\u8212\'3ffirst, that this provision puts considerations relating to competition outside the Commission\rquote s concern before an applicant has been convicted of monopoly or other restraints of trade, and second, that in any event, the Commission misconceived the scope of its powers under 
+}
+{\field {\*\fldinst HYPERLINK "http://www.westlaw.com/Link/Document/FullText?findType=L&pubNum=1000546&cite=47USCAS311&originatingDoc=I091076d89cc311d991d0cc6b54f12d4d&refType=LQ&originationContext=document&vr=3.0&rs=cblt1.0&transitionType=DocumentItem&contextData=(sc.Search)" }{\fldrslt 
+{\f2 \strike0 \ul0 \b0 \sa0 \sb0 \fs20 \cf5 \i0 
+s 311
+}}}
+{\f2 \strike0 \ul0 \b0 \sa0 \sb0 \fs20 \cf1 \i0 
+ in issuing the Regulations. Both of these contentions are unfounded. 
+}
+{\field {\*\fldinst HYPERLINK "http://www.westlaw.com/Link/Document/FullText?findType=L&pubNum=1000546&cite=47USCAS311&originatingDoc=I091076d89cc311d991d0cc6b54f12d4d&refType=LQ&originationContext=document&vr=3.0&rs=cblt1.0&transitionType=DocumentItem&contextData=(sc.Search)" }{\fldrslt 
+{\f2 \strike0 \ul0 \b0 \sa0 \sb0 \fs20 \cf5 \i0 
+Section 311
+}}}
+{\f2 \strike0 \ul0 \b0 \sa0 \sb0 \fs20 \cf1 \i0 
+ derives from s 13 of the Radio Act of 1927, which expressly commanded, rather than merely authorized, the Commission to refuse a license to any person judicially found guilty of having violated the anti-trust laws. The change in the 1934 Act was made, in the words of Senator Dill, the manager of the legislation in the Senate, because \u8216\'3fit seemed fair to the committee to do that\u8217\'3f. 78 Cong.Rec. 8825. The Commission was thus permitted to exercise its judgment as to whether violation of the anti-trust laws disqualified an applicant from operating a station in the \u8216\'3fpublic interest\u8217\'3f. We agree with the District Court that \u8216\'3fThe necessary implication from this (amendment in 1934) was that the Commission might infer from the fact that the applicant had in the past tried to monopolize radio, or had engaged in unfair methods of competition, that the disposition so manifested would continue and that if it did it would make him an unfit licensee.\u8217\'3f
+}
+{\f2 \strike0 \ul0 \b0 \sa0 \sb0 \fs20 \cf1 \i0 
+ 
+}
+{\field {\*\fldinst HYPERLINK "http://www.westlaw.com/Link/Document/FullText?findType=Y&serNum=1943118420&pubNum=345&originatingDoc=I091076d89cc311d991d0cc6b54f12d4d&refType=RP&fi=co_pp_sp_345_944&originationContext=document&vr=3.0&rs=cblt1.0&transitionType=DocumentItem&contextData=(sc.Search)#co_pp_sp_345_944" }{\fldrslt 
+{\f2 \strike0 \ul0 \b0 \sa0 \sb0 \fs20 \cf5 \i0 
+47 F.Supp. 940, 944
+}}}
+{\f2 \strike0 \ul0 \b0 \sa0 \sb0 \fs20 \cf1 \i0 
+.
+\par 
+}
+}
+}
+{\f2 \strike0 \ul0 \b0 \sa0 \sb0 \fs20 \cf1 \i0 
+\u160\'3f
+\par 
+}
+{\li0 \f2 \qj \b0 \ri0 \fs20 \cf1 \i0 
+{\li0 \f2 \qj \b0 \ri0 \fs20 \cf1 \i0 
+{\f2 \strike0 \ul0 \b0 \sa0 \sb0 \fs20 \cf1 \i0 
+That the Commission may refuse to grant a license to persons adjudged guilty in a court of law of conduct in violation of the anti-trust laws certainly does not render 
+}
+{\f2 \b1 \fs20 \cf1 \i0 
+{\*\bkmkstart co_pp_sp_780_223_1}{\*\bkmkend co_pp_sp_780_223_1}
+{\f2 \strike0 \ul0 \b1 \sa0 \sb0 \fs20 \cf1 \i0 
+*223
+}
+}
+{\f2 \strike0 \ul0 \b0 \sa0 \sb0 \fs20 \cf1 \i0 
+ irrelevant consideration by the Commission of the effect of such conduct upon the \u8216\'3fpublic interest, convenience, or necessity\u8217\'3f. A licensee charged with practices in contravention of this standard cannot continue to hold his license merely because his conduct is also in violation of the anti-trust laws and he has not yet been proceeded against and convicted. By clarifying in 
+}
+{\field {\*\fldinst HYPERLINK "http://www.westlaw.com/Link/Document/FullText?findType=L&pubNum=1000546&cite=47USCAS311&originatingDoc=I091076d89cc311d991d0cc6b54f12d4d&refType=LQ&originationContext=document&vr=3.0&rs=cblt1.0&transitionType=DocumentItem&contextData=(sc.Search)" }{\fldrslt 
+{\f2 \strike0 \ul0 \b0 \sa0 \sb0 \fs20 \cf5 \i0 
+s 311
+}}}
+{\f2 \strike0 \ul0 \b0 \sa0 \sb200 \fs20 \cf1 \i0 
+ the scope of the Commission\rquote s authority in dealing with persons convicted of violating the anti-trust laws, Congress can hardly be deemed to have limited the concept of \u8216\'3fpublic interest\u8217\'3f so as to exclude all considerations relating to monopoly and unreasonable restraints upon commerce. Nothing in the provisions or history of the Act lends support to the inference that the Commission was denied the power to refuse a license to a station not operating in the \u8216\'3fpublic interest\u8217\'3f, merely because its misconduct happened to be an unconvicted violation of the anti-trust laws.
+\par 
+}
+}
+}
+{\li0 \f2 \qj \b0 \ri0 \fs20 \cf1 \i0 
+{\li0 \f2 \qj \b0 \ri0 \fs20 \cf1 \i0 
+{\field {\*\fldinst HYPERLINK "#co_anchor_F101943120664_1" }{\fldrslt 
+{\super \f2 \strike0 \ul0 \b1 \sa0 \sb0 \fs20 \cf19 \i0 
+[10]
+}}}
+{\f2 \b0 \fs20 \cf5 \i0 
+{\*\bkmkstart co_anchor_B101943120664_1}{\*\bkmkend co_anchor_B101943120664_1}
+}
+{\f2 \strike0 \ul0 \b0 \sa0 \sb0 \fs20 \cf1 \i0 
+ Alternatively, it is urged that the Regulations constitute an ultra vires attempt by the Commission to enforce the anti-trust laws, and that the enforcement of the anti-trust laws is the province not of the Commission but of the Attorney General and the courts. This contention misconceives the basis of the Commission\rquote s action. The Commission\rquote s Report indicates plainly enough that the Commission was not attempting to administer the antitrust laws:
+\par 
+}
+}
+}
+{\f2 \strike0 \ul0 \b0 \sa0 \sb0 \fs20 \cf1 \i0 
+\u160\'3f
+\par 
+}
+{\li0 \f2 \qj \b0 \ri0 \fs20 \cf1 \i0 
+{\li0 \f2 \qj \b0 \ri0 \fs20 \cf1 \i0 
+{\f2 \strike0 \ul0 \b0 \sa0 \sb0 \fs20 \cf1 \i0 
+\u8216\'3fThe prohibitions of the Sherman Act (
+}
+{\field {\*\fldinst HYPERLINK "http://www.westlaw.com/Link/Document/FullText?findType=L&pubNum=1000546&cite=15USCAS1&originatingDoc=I091076d89cc311d991d0cc6b54f12d4d&refType=LQ&originationContext=document&vr=3.0&rs=cblt1.0&transitionType=DocumentItem&contextData=(sc.Search)" }{\fldrslt 
+{\f2 \strike0 \ul0 \b0 \sa0 \sb0 \fs20 \cf5 \i0 
+15 U.S.C.A. ss 1
+}}}
+{\f2 \strike0 \ul0 \b0 \sa0 \sb0 \fs20 \cf1 \i0 
+\u8212\'3f
+}
+{\field {\*\fldinst HYPERLINK "http://www.westlaw.com/Link/Document/FullText?findType=L&pubNum=1000546&cite=15USCAS7&originatingDoc=I091076d89cc311d991d0cc6b54f12d4d&refType=LQ&originationContext=document&vr=3.0&rs=cblt1.0&transitionType=DocumentItem&contextData=(sc.Search)" }{\fldrslt 
+{\f2 \strike0 \ul0 \b0 \sa0 \sb0 \fs20 \cf5 \i0 
+7
+}}}
+{\f2 \strike0 \ul0 \b0 \sa0 \sb0 \fs20 \cf1 \i0 
+, 
+}
+{\field {\*\fldinst HYPERLINK "http://www.westlaw.com/Link/Document/FullText?findType=L&pubNum=1000546&cite=15USCAS15&originatingDoc=I091076d89cc311d991d0cc6b54f12d4d&refType=LQ&originationContext=document&vr=3.0&rs=cblt1.0&transitionType=DocumentItem&contextData=(sc.Search)" }{\fldrslt 
+{\f2 \strike0 \ul0 \b0 \sa0 \sb0 \fs20 \cf5 \i0 
+15
+}}}
+{\f2 \strike0 \ul0 \b0 \sa0 \sb0 \fs20 \cf1 \i0 
+ note), apply to 
+}
+{\f2 \b1 \fs20 \cf1 \i0 
+{\*\bkmkstart co_pp_sp_708_1013_1}{\*\bkmkend co_pp_sp_708_1013_1}
+{\f2 \strike0 \ul0 \b1 \sa0 \sb0 \fs20 \cf1 \i0 
+**1013
+}
+}
+{\f2 \strike0 \ul0 \b0 \sa0 \sb0 \fs20 \cf1 \i0 
+ broadcasting. This Commission, although not charged with the duty of enforcing that law, should administer its regulatory powers with respect to broadcasting in the light of the purposes which the Sherman Act was designed to achieve. * * * While many of the network practices raise serious questions under the antitrust laws, our jurisdiction does not depend on a showing that they do in fact constitute a violation of the antitrust laws. It is not our function 
+}
+{\f2 \b1 \fs20 \cf1 \i0 
+{\*\bkmkstart co_pp_sp_780_224_1}{\*\bkmkend co_pp_sp_780_224_1}
+{\f2 \strike0 \ul0 \b1 \sa0 \sb0 \fs20 \cf1 \i0 
+*224
+}
+}
+{\f2 \strike0 \ul0 \b0 \sa0 \sb200 \fs20 \cf1 \i0 
+ to apply the antitrust laws as such. It is our duty, however, to refuse licenses or renewals to any person who engages or proposes to engage in practices which will prevent either himself or other licensees or both from making the fullest use of radio facilities. This is the standard of public interest, convenience or necessity which we must apply to all applications for licenses and renewals. * * * We do not predicate our jurisdiction to issue the regulations on the ground that the network practices violate the antitrust laws. We are issuing these regulations because we have found that the network practices prevent the maximum utilization of radio facilities in the public interest.\u8217\'3f (Report, pp. 46, 83, 83n. 3.)
+\par 
+}
+}
+}
+{\li0 \f2 \qj \b0 \ri0 \fs20 \cf1 \i0 
+{\li0 \f2 \qj \b0 \ri0 \fs20 \cf1 \i0 
+{\field {\*\fldinst HYPERLINK "#co_anchor_F111943120664_1" }{\fldrslt 
+{\super \f2 \strike0 \ul0 \b1 \sa0 \sb0 \fs20 \cf19 \i0 
+[11]
+}}}
+{\f2 \b0 \fs20 \cf5 \i0 
+{\*\bkmkstart co_anchor_B111943120664_1}{\*\bkmkend co_anchor_B111943120664_1}
+}
+{\f2 \strike0 \ul0 \b0 \sa0 \sb0 \fs20 \cf1 \i0 
+ We conclude, therefore, that the Communications Act of 1934 authorized the Commission to promulgate regulations designed to correct the abuses disclosed by its investigation of chain broadcasting. There remains for consideration the claim that the Commission\rquote s exercise of such authority was unlawful.
+\par 
+}
+}
+}
+{\f2 \strike0 \ul0 \b0 \sa0 \sb0 \fs20 \cf1 \i0 
+\u160\'3f
+\par 
+}
+{\li0 \f2 \qj \b0 \ri0 \fs20 \cf1 \i0 
+{\li0 \f2 \qj \b0 \ri0 \fs20 \cf1 \i0 
+{\field {\*\fldinst HYPERLINK "#co_anchor_F121943120664_1" }{\fldrslt 
+{\super \f2 \strike0 \ul0 \b1 \sa0 \sb0 \fs20 \cf19 \i0 
+[12]
+}}}
+{\f2 \b0 \fs20 \cf5 \i0 
+{\*\bkmkstart co_anchor_B121943120664_1}{\*\bkmkend co_anchor_B121943120664_1}
+}
+{\f2 \strike0 \ul0 \b0 \sa0 \sb0 \fs20 \cf1 \i0 
+ The Regulations are assailed as \u8216\'3farbitrary and capricious\rquote . If this contention means that the Regulations are unwise, that they are not likely to succeed in accomplishing what the Commission intended, we can say only that the appellants have selected the wrong forum for such a plea. What was said in 
+}
+{\field {\*\fldinst HYPERLINK "http://www.westlaw.com/Link/Document/FullText?findType=Y&serNum=1942122011&pubNum=708&originatingDoc=I091076d89cc311d991d0cc6b54f12d4d&refType=RP&fi=co_pp_sp_708_372&originationContext=document&vr=3.0&rs=cblt1.0&transitionType=DocumentItem&contextData=(sc.Search)#co_pp_sp_708_372" }{\fldrslt 
+{\f2 \strike0 \ul0 \b0 \sa0 \sb0 \fs20 \cf5 \i0 
+Board of Trade v. United States, 314 U.S. 534, 548, 62 S.Ct. 366, 372, 86 L.Ed. 432,
+}}}
+{\f2 \strike0 \ul0 \b0 \sa0 \sb0 \fs20 \cf1 \i0 
+ is relevant here: \u8216\'3fWe certainly have neither technical competence nor legal authority to pronounce upon the wisdom of the course taken by the Commission.\u8217\'3f Our duty is at an end when we find that the action of the Commission was based upon findings supported by evidence, and was made pursuant to authority granted by Congress. It is not for us to say that the \u8216\'3fpublic interest\u8217\'3f will be furthered or retarded by the Chain Broadcasting Regulations. The responsibility belongs to the Congress for the grant of valid legislative authority and to the Commission for its exercise.
+\par 
+}
+}
+}
+{\f2 \strike0 \ul0 \b0 \sa0 \sb0 \fs20 \cf1 \i0 
+\u160\'3f
+\par 
+}
+{\li0 \f2 \qj \b0 \ri0 \fs20 \cf1 \i0 
+{\li0 \f2 \qj \b0 \ri0 \fs20 \cf1 \i0 
+{\f2 \strike0 \ul0 \b0 \fs20 \cf1 \i0 
+}
+{\f2 \b1 \fs20 \cf1 \i0 
+{\*\bkmkstart co_pp_sp_780_225_1}{\*\bkmkend co_pp_sp_780_225_1}
+{\f2 \strike0 \ul0 \b1 \sa0 \sb0 \fs20 \cf1 \i0 
+*225
+}
+}
+{\f2 \strike0 \ul0 \b0 \sa0 \sb200 \fs20 \cf1 \i0 
+ It would be sheer dogmatism to say that the Commission made out no case for its allowable discretion in formulating these Regulations. Its long investigation disclosed the existences of practices which it regarded as contrary to the \u8216\'3fpublic interest\u8217\'3f. The Commission knew that the wisdom of any action it took would have to be tested by experience: \u8216\'3fWe are under no illusion that the regulations we are adopting will solve all questions of public interest with respect to the network system of program distribution. * * * The problems in the network field are interdependent, and the steps now taken may perhaps operate as a partial solution of problems not directly dealt with at this time. Such problems may be examined again at some future time after the regulations here adopted have been given a fair trial.\u8217\'3f (Report, p. 88.) The problems with which the Commission attempted to deal could not be solved at once and for all time by rigid rules-of-thumb. The Commission therefore did not bind itself inflexibly to the licensing policies expressed in the Regulations. In each case that comes before it the Commission must still exercise an ultimate judgment whether the grant of a license would serve the \u8216\'3fpublic interest, convenience, or necessity.\u8217\'3f If time and changing circumstances reveal that the \u8216\'3fpublic interest\u8217\'3f is not served by application of the Regulations, it must be assumed that the Commission will act in accordance with its statutory obligations.
+\par 
+}
+}
+}
+{\li0 \f2 \qj \b0 \ri0 \fs20 \cf1 \i0 
+{\li0 \f2 \qj \b0 \ri0 \fs20 \cf1 \i0 
+{\field {\*\fldinst HYPERLINK "#co_anchor_F131943120664_1" }{\fldrslt 
+{\super \f2 \strike0 \ul0 \b1 \sa0 \sb0 \fs20 \cf19 \i0 
+[13]
+}}}
+{\f2 \b0 \fs20 \cf5 \i0 
+{\*\bkmkstart co_anchor_B131943120664_1}{\*\bkmkend co_anchor_B131943120664_1}
+}
+{\f2 \strike0 \ul0 \b0 \sa0 \sb0 \fs20 \cf1 \i0 
+ 
+}
+{\field {\*\fldinst HYPERLINK "#co_anchor_F141943120664_1" }{\fldrslt 
+{\super \f2 \strike0 \ul0 \b1 \sa0 \sb0 \fs20 \cf19 \i0 
+[14]
+}}}
+{\f2 \b0 \fs20 \cf5 \i0 
+{\*\bkmkstart co_anchor_B141943120664_1}{\*\bkmkend co_anchor_B141943120664_1}
+}
+{\f2 \strike0 \ul0 \b0 \sa0 \sb0 \fs20 \cf1 \i0 
+ Since there is no basis for any claim that the Commission failed to observe procedural safeguards required by law, we reach the contention that the Regulations should be denied enforcement on constitutional grounds. Here, as in 
+}
+{\field {\*\fldinst HYPERLINK "http://www.westlaw.com/Link/Document/FullText?findType=Y&serNum=1932123409&pubNum=708&originatingDoc=I091076d89cc311d991d0cc6b54f12d4d&refType=RP&fi=co_pp_sp_708_48&originationContext=document&vr=3.0&rs=cblt1.0&transitionType=DocumentItem&contextData=(sc.Search)#co_pp_sp_708_48" }{\fldrslt 
+{\f2 \strike0 \ul0 \b0 \sa0 \sb0 \fs20 \cf5 \i0 
+New York Cent. Securities Corp. v. United States, 287 U.S. 12, 24, 25, 53 S.Ct. 45, 48, 77 L.Ed. 138,
+}}}
+{\f2 \strike0 \ul0 \b0 \sa0 \sb0 \fs20 \cf1 \i0 
+ the claim is made that the standard of \u8216\'3fpublic interest\u8217\'3f governing the exercise of the powers delegated to the Commission by Congress is so vague and indefinite that, if it be construed as comprehensively as 
+}
+{\f2 \b1 \fs20 \cf1 \i0 
+{\*\bkmkstart co_pp_sp_708_1014_1}{\*\bkmkend co_pp_sp_708_1014_1}
+{\f2 \strike0 \ul0 \b1 \sa0 \sb0 \fs20 \cf1 \i0 
+**1014
+}
+}
+{\f2 \strike0 \ul0 \b0 \sa0 \sb0 \fs20 \cf1 \i0 
+ the 
+}
+{\f2 \b1 \fs20 \cf1 \i0 
+{\*\bkmkstart co_pp_sp_780_226_1}{\*\bkmkend co_pp_sp_780_226_1}
+{\f2 \strike0 \ul0 \b1 \sa0 \sb0 \fs20 \cf1 \i0 
+*226
+}
+}
+{\f2 \strike0 \ul0 \b0 \sa0 \sb0 \fs20 \cf1 \i0 
+ words alone permit, the delegation of legislative authority is unconstitutional. But, as we held in that case, \u8216\'3fIt is a mistaken assumption that this is a mere general reference to public welfare without any standard to guide determinations. The purpose of the Act, the requirements it imposes, and the context of the provision in question show the contrary.\u8217\'3f Id. See 
+}
+{\field {\*\fldinst HYPERLINK "http://www.westlaw.com/Link/Document/FullText?findType=Y&serNum=1933122805&pubNum=708&originatingDoc=I091076d89cc311d991d0cc6b54f12d4d&refType=RP&fi=co_pp_sp_708_636&originationContext=document&vr=3.0&rs=cblt1.0&transitionType=DocumentItem&contextData=(sc.Search)#co_pp_sp_708_636" }{\fldrslt 
+{\f2 \strike0 \ul0 \b0 \sa0 \sb0 \fs20 \cf5 \i0 
+Federal Radio Comm. v. Nelson Bros. Bond & Mortgage Co., 289 U.S. 266, 285, 53 S.Ct. 627, 636, 77 L.Ed. 1166, 89 A.L.R. 406;
+}}}
+{\f2 \strike0 \ul0 \b0 \sa0 \sb0 \fs20 \cf1 \i0 
+ 
+}
+{\field {\*\fldinst HYPERLINK "http://www.westlaw.com/Link/Document/FullText?findType=Y&serNum=1940126066&pubNum=708&originatingDoc=I091076d89cc311d991d0cc6b54f12d4d&refType=RP&fi=co_pp_sp_708_439&originationContext=document&vr=3.0&rs=cblt1.0&transitionType=DocumentItem&contextData=(sc.Search)#co_pp_sp_708_439" }{\fldrslt 
+{\f2 \strike0 \ul0 \b0 \sa0 \sb0 \fs20 \cf5 \i0 
+Federal Communications Comm. v. Pottsville Broadcasting Co., 309 U.S. 134, 137, 138, 60 S.Ct. 437, 439, 84 L.Ed. 656.
+}}}
+{\f2 \strike0 \ul0 \b0 \sa0 \sb0 \fs20 \cf1 \i0 
+ Compare 
+}
+{\field {\*\fldinst HYPERLINK "http://www.westlaw.com/Link/Document/FullText?findType=Y&serNum=1935124094&pubNum=708&originatingDoc=I091076d89cc311d991d0cc6b54f12d4d&refType=RP&fi=co_pp_sp_708_251&originationContext=document&vr=3.0&rs=cblt1.0&transitionType=DocumentItem&contextData=(sc.Search)#co_pp_sp_708_251" }{\fldrslt 
+{\f2 \strike0 \ul0 \b0 \sa0 \sb0 \fs20 \cf5 \i0 
+Panama Refining Co. v. Ryan, 293 U.S. 388, 428, 55 S.Ct. 241, 251, 79 L.Ed. 446.
+}}}
+{\f2 \strike0 \ul0 \b0 \sa0 \sb0 \fs20 \cf1 \i0 
+ Intermountain Rate Cases (
+}
+{\field {\*\fldinst HYPERLINK "http://www.westlaw.com/Link/Document/FullText?findType=Y&serNum=1914100350&pubNum=708&originatingDoc=I091076d89cc311d991d0cc6b54f12d4d&refType=RP&fi=co_pp_sp_708_991&originationContext=document&vr=3.0&rs=cblt1.0&transitionType=DocumentItem&contextData=(sc.Search)#co_pp_sp_708_991" }{\fldrslt 
+{\f2 \strike0 \ul0 \b0 \sa0 \sb0 \fs20 \cf5 \i0 
+United States v. Atchison, T.S.F.R. Co.), 234 U.S. 476, 486\u8212\'3f489, 34 S.Ct. 986, 991\u8212\'3f992, 58 L.Ed. 1408;
+}}}
+{\f2 \strike0 \ul0 \b0 \sa0 \sb0 \fs20 \cf1 \i0 
+ 
+}
+{\field {\*\fldinst HYPERLINK "http://www.westlaw.com/Link/Document/FullText?findType=Y&serNum=1939124606&pubNum=708&originatingDoc=I091076d89cc311d991d0cc6b54f12d4d&refType=RP&originationContext=document&vr=3.0&rs=cblt1.0&transitionType=DocumentItem&contextData=(sc.Search)" }{\fldrslt 
+{\f2 \strike0 \ul0 \b0 \sa0 \sb0 \fs20 \cf5 \i0 
+United States v. Lowden, 308 U.S. 225, 60 S.Ct. 248, 84 L.Ed. 208
+}}}
+{\f2 \strike0 \ul0 \b0 \sa0 \sb0 \fs20 \cf1 \i0 
+.
+\par 
+}
+}
+}
+{\f2 \strike0 \ul0 \b0 \sa0 \sb0 \fs20 \cf1 \i0 
+\u160\'3f
+\par 
+}
+{\li0 \f2 \qj \b0 \ri0 \fs20 \cf1 \i0 
+{\li0 \f2 \qj \b0 \ri0 \fs20 \cf1 \i0 
+{\field {\*\fldinst HYPERLINK "#co_anchor_F151943120664_1" }{\fldrslt 
+{\super \f2 \strike0 \ul0 \b1 \sa0 \sb0 \fs20 \cf19 \i0 
+[15]
+}}}
+{\f2 \b0 \fs20 \cf5 \i0 
+{\*\bkmkstart co_anchor_B151943120664_1}{\*\bkmkend co_anchor_B151943120664_1}
+}
+{\f2 \strike0 \ul0 \b0 \sa0 \sb0 \fs20 \cf1 \i0 
+ 
+}
+{\field {\*\fldinst HYPERLINK "#co_anchor_F161943120664_1" }{\fldrslt 
+{\super \f2 \strike0 \ul0 \b1 \sa0 \sb0 \fs20 \cf19 \i0 
+[16]
+}}}
+{\f2 \b0 \fs20 \cf5 \i0 
+{\*\bkmkstart co_anchor_B161943120664_1}{\*\bkmkend co_anchor_B161943120664_1}
+}
+{\f2 \strike0 \ul0 \b0 \sa0 \sb0 \fs20 \cf1 \i0 
+ 
+}
+{\field {\*\fldinst HYPERLINK "#co_anchor_F171943120664_1" }{\fldrslt 
+{\super \f2 \strike0 \ul0 \b1 \sa0 \sb0 \fs20 \cf19 \i0 
+[17]
+}}}
+{\f2 \b0 \fs20 \cf5 \i0 
+{\*\bkmkstart co_anchor_B171943120664_1}{\*\bkmkend co_anchor_B171943120664_1}
+}
+{\f2 \strike0 \ul0 \b0 \sa0 \sb0 \fs20 \cf1 \i0 
+ 
+}
+{\field {\*\fldinst HYPERLINK "#co_anchor_F181943120664_1" }{\fldrslt 
+{\super \f2 \strike0 \ul0 \b1 \sa0 \sb0 \fs20 \cf19 \i0 
+[18]
+}}}
+{\f2 \b0 \fs20 \cf5 \i0 
+{\*\bkmkstart co_anchor_B181943120664_1}{\*\bkmkend co_anchor_B181943120664_1}
+}
+{\f2 \strike0 \ul0 \b0 \sa0 \sb0 \fs20 \cf1 \i0 
+ We come, finally, to an appeal to the First Amendment. The Regulations, even if valid in all other respects, must fall because they abridge, say the appellants, their right of free speech. If that be so, it would follow that every person whose application for a license to operate a station is denied by the Commission is thereby denied his constitutional right of free speech. Freedom of utterance is abridged to many who wish to use the limited facilities of radio. Unlike other modes of expression, radio inherently is not available to all. That is its unique characteristic, and that is why, unlike other modes of expression, it is subject to governmental regulation. Because it cannot be used by all, some who wish to use it must be denied. But Congress did not authorize the Commission to choose among applicants upon the basis of their political, economic or social views, or upon any other capricious basis. If it did, or if the Commission by these Regulations proposed a choice among applicants upon some such basis, the issue before us would be wholly different. The question here is simply whether the Commission, by announcing that it will refuse licenses to persons who engage in specified network practices (a basis for choice which we hold is comprehended within the statutory criterion of 
+}
+{\f2 \b1 \fs20 \cf1 \i0 
+{\*\bkmkstart co_pp_sp_780_227_1}{\*\bkmkend co_pp_sp_780_227_1}
+{\f2 \strike0 \ul0 \b1 \sa0 \sb0 \fs20 \cf1 \i0 
+*227
+}
+}
+{\f2 \strike0 \ul0 \b0 \sa0 \sb0 \fs20 \cf1 \i0 
+ \u8216\'3fpublic interest\u8217\'3f), is thereby denying such persons the constitutional right of free speech. The right of free speech does not include, however, the right to use the facilities of radio without a license. The licensing system established by Congress in the Communications Act of 1934 was a proper exercise of its power over commerce. The standard it provided for the licensing of stations was the \u8216\'3fpublic interest, convenience, or necessity.\u8217\'3f Denial of a station license on that ground, if valid under the Act, is not a denial of free speech.
+\par 
+}
+}
+}
+{\f2 \strike0 \ul0 \b0 \sa0 \sb0 \fs20 \cf1 \i0 
+\u160\'3f
+\par 
+}
+{\li0 \f2 \qj \b0 \ri0 \fs20 \cf1 \i0 
+{\li0 \f2 \qj \b0 \ri0 \fs20 \cf1 \i0 
+{\field {\*\fldinst HYPERLINK "#co_anchor_F191943120664_1" }{\fldrslt 
+{\super \f2 \strike0 \ul0 \b1 \sa0 \sb0 \fs20 \cf19 \i0 
+[19]
+}}}
+{\f2 \b0 \fs20 \cf5 \i0 
+{\*\bkmkstart co_anchor_B191943120664_1}{\*\bkmkend co_anchor_B191943120664_1}
+}
+{\f2 \strike0 \ul0 \b0 \sa0 \sb0 \fs20 \cf1 \i0 
+ A procedural point calls for just a word. The District Court, by granting the Government\rquote s motion for summary judgment, disposed of the case upon the pleadings and upon the record made before the Commission. The court below correctly held that its inquiry was limited to review of the evidence before the Commission. Trial de novo of the matters heard by the Commission and dealt with in its Report would have been improper. See 
+}
+{\field {\*\fldinst HYPERLINK "http://www.westlaw.com/Link/Document/FullText?findType=Y&serNum=1930122662&pubNum=708&originatingDoc=I091076d89cc311d991d0cc6b54f12d4d&refType=RP&originationContext=document&vr=3.0&rs=cblt1.0&transitionType=DocumentItem&contextData=(sc.Search)" }{\fldrslt 
+{\f2 \strike0 \ul0 \b0 \sa0 \sb0 \fs20 \cf5 \i0 
+Tagg Bros. v. United States, 280 U.S. 420, 50 S.Ct. 220, 74 L.Ed. 524;
+}}}
+{\f2 \strike0 \ul0 \b0 \sa0 \sb0 \fs20 \cf1 \i0 
+ 
+}
+{\field {\*\fldinst HYPERLINK "http://www.westlaw.com/Link/Document/FullText?findType=Y&serNum=1936122998&pubNum=708&originatingDoc=I091076d89cc311d991d0cc6b54f12d4d&refType=RP&originationContext=document&vr=3.0&rs=cblt1.0&transitionType=DocumentItem&contextData=(sc.Search)" }{\fldrslt 
+{\f2 \strike0 \ul0 \b0 \sa0 \sb0 \fs20 \cf5 \i0 
+Acker v. United States, 298 U.S. 426, 56 S.Ct. 824, 80 L.Ed. 1257
+}}}
+{\f2 \strike0 \ul0 \b0 \sa0 \sb0 \fs20 \cf1 \i0 
+.
+\par 
+}
+}
+}
+{\f2 \strike0 \ul0 \b0 \sa0 \sb0 \fs20 \cf1 \i0 
+\u160\'3f
+\par 
+}
+{\li0 \f2 \qj \b0 \ri0 \fs20 \cf1 \i0 
+{\li0 \f2 \qj \b0 \ri0 \fs20 \cf1 \i0 
+{\f2 \strike0 \ul0 \b0 \sa0 \sb200 \fs20 \cf1 \i0 
+Affirmed.
+\par 
+}
+}
+}
+}
+}
+{\li0 \f2 \qj \b0 \ri0 \fs20 \cf1 \i0 
+{\li0 \f2 \qj \b0 \ri0 \fs20 \cf1 \i0 
+{\f2 \strike0 \ul0 \b0 \sa0 \sb600 \fs20 \cf1 \i0 
+Mr. Justice BLACK and Mr. Justice RUTLEDGE took no part in the consideration or decision of these cases.
+\par 
+}
+}
+}
+}
+}
+}
+{\li0 \f2 \qj \b0 \ri0 \fs20 \cf1 \i0 
+{\li0 \f2 \qj \b1 \ri0 \fs20 \cf19 \i0 
+{\*\bkmkstart co_dissent_opinion_1}{\*\bkmkend co_dissent_opinion_1}
+\par 
+}
+{\li0 \f2 \qj \b0 \ri0 \fs20 \cf1 \i0 
+{\li0 \f2 \qj \b0 \ri0 \fs20 \cf1 \i0 
+{\li0 \f2 \qj \b0 \ri0 \fs20 \cf1 \i0 
+{\li0 \f2 \qj \b0 \ri0 \fs20 \cf1 \i0 
+{\f2 \strike0 \ul0 \b0 \sa0 \sb600 \fs20 \cf1 \i0 
+Mr. Justice MURPHY, dissenting.
+\par 
+}
+}
+}
+{\li0 \f2 \qj \b0 \ri0 \fs20 \cf1 \i0 
+{\li0 \f2 \qj \b0 \ri0 \fs20 \cf1 \i0 
+{\*\bkmkstart co_anchor_Icb315d4ac93f11e498db8b09b4f04}{\*\bkmkend co_anchor_Icb315d4ac93f11e498db8b09b4f04}
+\par 
+{\li0 \f2 \qj \b0 \ri0 \fs20 \cf1 \i0 
+{\li0 \f2 \qj \b0 \ri0 \fs20 \cf1 \i0 
+{\f2 \strike0 \ul0 \b0 \sa0 \sb0 \fs20 \cf1 \i0 
+I do not question the objectives of the proposed regulations, and it is not my desire by narrow statutory interpretation to weaken the authority of government agencies to deal efficiently with matters committed to their jurisdiction by the Congress. Statutes of this kind should be construed so that the agency concerned may be able to cope effectively with problems which the Congress intended to correct, or may otherwise perform the functions given to it. But we exceed our competence when we gratuitously bestow upon an agency power which the 
+}
+{\f2 \b1 \fs20 \cf1 \i0 
+{\*\bkmkstart co_pp_sp_780_228_1}{\*\bkmkend co_pp_sp_780_228_1}
+{\f2 \strike0 \ul0 \b1 \sa0 \sb0 \fs20 \cf1 \i0 
+*228
+}
+}
+{\f2 \strike0 \ul0 \b0 \sa0 \sb200 \fs20 \cf1 \i0 
+ Congress has not granted. Since that is what the Court in substance does today, I dissent.
+\par 
+}
+}
+}
+{\li0 \f2 \qj \b0 \ri0 \fs20 \cf1 \i0 
+{\li0 \f2 \qj \b0 \ri0 \fs20 \cf1 \i0 
+{\f2 \strike0 \ul0 \b0 \sa0 \sb0 \fs20 \cf1 \i0 
+In the present case we are dealing with a subject of extreme importance in the life of the nation. Although radio broadcasting, like the press, is generally conducted on a commercial basis, it is not an 
+}
+{\f2 \b1 \fs20 \cf1 \i0 
+{\*\bkmkstart co_pp_sp_708_1015_1}{\*\bkmkend co_pp_sp_708_1015_1}
+{\f2 \strike0 \ul0 \b1 \sa0 \sb0 \fs20 \cf1 \i0 
+**1015
+}
+}
+{\f2 \strike0 \ul0 \b0 \sa0 \sb0 \fs20 \cf1 \i0 
+ ordinary business activity, like the selling of securities or the marketing of electrical power. 
+}
+{\f2 \strike0 \ul0 \b0 \sa0 \sb200 \fs20 \cf1 \i0 
+In the dissemination of information and opinion radio has assumed a position of commanding importance, rivalling the press and the pulpit. Owing to its physical characteristics radio, unlike the other methods of conveying information, must be regulated and rationed by the government. Otherwise there would be chaos, and radio\rquote s usefulness would be largely destroyed. But because of its vast potentialities as a medium of communication, discussion and propaganda, the character and extent of control that should be exercised over it by the government is a matter of deep and vital concern. Events in Europe show that radio may readily be a weapon of authority and misrepresentation, instead of a means of entertainment and enlightenment. It may even be an instrument of oppression. In pointing out these possibilities I do not mean to intimate in the slightest that they are imminent or probable in this country, but they do suggest that the construction of the instant statute should be approached with more than ordinary restraint and caution, to avoid an interpretation that is not clearly justified by the conditions that brought about its enactment, or that would give the Commission greater powers than the Congress intended to confer.
+\par 
+}
+}
+}
+{\li0 \f2 \qj \b0 \ri0 \fs20 \cf1 \i0 
+{\li0 \f2 \qj \b0 \ri0 \fs20 \cf1 \i0 
+{\f2 \strike0 \ul0 \b0 \sa0 \sb0 \fs20 \cf1 \i0 
+The Communications Act of 1934 does not in terms give the Commission power to regulate the contractual relations between the stations and the networks. 
+}
+{\field {\*\fldinst HYPERLINK "http://www.westlaw.com/Link/Document/FullText?findType=Y&serNum=1942118202&pubNum=708&originatingDoc=I091076d89cc311d991d0cc6b54f12d4d&refType=RP&fi=co_pp_sp_708_1200&originationContext=document&vr=3.0&rs=cblt1.0&transitionType=DocumentItem&contextData=(sc.Search)#co_pp_sp_708_1200" }{\fldrslt 
+{\f2 \strike0 \ul0 \b0 \sa0 \sb0 \fs20 \cf5 \i0 
+Columbia Broadcasting System v. United States, 316 U.S. 407, 416, 62 S.Ct. 1194, 1200, 86 L.Ed. 1563.
+}}}
+{\f2 \strike0 \ul0 \b0 \sa0 \sb0 \fs20 \cf1 \i0 
+ It is only as an incident of the power to grant or withhold licenses to individual stations under 
+}
+{\field {\*\fldinst HYPERLINK "http://www.westlaw.com/Link/Document/FullText?findType=L&pubNum=1000546&cite=47USCAS307&originatingDoc=I091076d89cc311d991d0cc6b54f12d4d&refType=LQ&originationContext=document&vr=3.0&rs=cblt1.0&transitionType=DocumentItem&contextData=(sc.Search)" }{\fldrslt 
+{\f2 \strike0 \ul0 \b0 \sa0 \sb0 \fs20 \cf5 \i0 
+ss 307
+}}}
+{\f2 \strike0 \ul0 \b0 \sa0 \sb0 \fs20 \cf1 \i0 
+, 
+}
+{\field {\*\fldinst HYPERLINK "http://www.westlaw.com/Link/Document/FullText?findType=L&pubNum=1000546&cite=47USCAS308&originatingDoc=I091076d89cc311d991d0cc6b54f12d4d&refType=LQ&originationContext=document&vr=3.0&rs=cblt1.0&transitionType=DocumentItem&contextData=(sc.Search)" }{\fldrslt 
+{\f2 \strike0 \ul0 \b0 \sa0 \sb0 \fs20 \cf5 \i0 
+308
+}}}
+{\f2 \strike0 \ul0 \b0 \sa0 \sb0 \fs20 \cf1 \i0 
+, 
+}
+{\field {\*\fldinst HYPERLINK "http://www.westlaw.com/Link/Document/FullText?findType=L&pubNum=1000546&cite=47USCAS309&originatingDoc=I091076d89cc311d991d0cc6b54f12d4d&refType=LQ&originationContext=document&vr=3.0&rs=cblt1.0&transitionType=DocumentItem&contextData=(sc.Search)" }{\fldrslt 
+{\f2 \strike0 \ul0 \b0 \sa0 \sb0 \fs20 \cf5 \i0 
+309
+}}}
+{\f2 \strike0 \ul0 \b0 \sa0 \sb0 \fs20 \cf1 \i0 
+ and 
+}
+{\field {\*\fldinst HYPERLINK "http://www.westlaw.com/Link/Document/FullText?findType=L&pubNum=1000546&cite=47USCAS310&originatingDoc=I091076d89cc311d991d0cc6b54f12d4d&refType=LQ&originationContext=document&vr=3.0&rs=cblt1.0&transitionType=DocumentItem&contextData=(sc.Search)" }{\fldrslt 
+{\f2 \strike0 \ul0 \b0 \sa0 \sb0 \fs20 \cf5 \i0 
+310
+}}}
+{\f2 \strike0 \ul0 \b0 \sa0 \sb0 \fs20 \cf1 \i0 
+ that this 
+}
+{\f2 \b1 \fs20 \cf1 \i0 
+{\*\bkmkstart co_pp_sp_780_229_1}{\*\bkmkend co_pp_sp_780_229_1}
+{\f2 \strike0 \ul0 \b1 \sa0 \sb0 \fs20 \cf1 \i0 
+*229
+}
+}
+{\f2 \strike0 \ul0 \b0 \sa0 \sb0 \fs20 \cf1 \i0 
+ authority is claimed,
+}
+{\f2 \b0 \fs16 \cf1 \i0 
+{\*\bkmkstart co_footnoteReference_B00611943120664_ID0}{\*\bkmkend co_footnoteReference_B00611943120664_ID0}
+{\field {\*\fldinst HYPERLINK "#co_footnote_B00611943120664_1" }{\fldrslt 
+{\super \f2 \strike0 \ul0 \b0 \sa0 \sb0 \fs16 \cf5 \i0 
+1
+}}}
+}
+{\f2 \strike0 \ul0 \b0 \sa0 \sb0 \fs20 \cf1 \i0 
+ except as it may have been provided by 
+}
+{\field {\*\fldinst HYPERLINK "http://www.westlaw.com/Link/Document/FullText?findType=L&pubNum=1000546&cite=47USCAS303&originatingDoc=I091076d89cc311d991d0cc6b54f12d4d&refType=LQ&originationContext=document&vr=3.0&rs=cblt1.0&transitionType=DocumentItem&contextData=(sc.Search)" }{\fldrslt 
+{\f2 \strike0 \ul0 \b0 \sa0 \sb0 \fs20 \cf5 \i0 
+subdivisions (g), (i) and (r) of s 303
+}}}
+{\f2 \strike0 \ul0 \b0 \sa0 \sb0 \fs20 \cf1 \i0 
+, and by 
+}
+{\field {\*\fldinst HYPERLINK "http://www.westlaw.com/Link/Document/FullText?findType=L&pubNum=1000546&cite=47USCAS311&originatingDoc=I091076d89cc311d991d0cc6b54f12d4d&refType=LQ&originationContext=document&vr=3.0&rs=cblt1.0&transitionType=DocumentItem&contextData=(sc.Search)" }{\fldrslt 
+{\f2 \strike0 \ul0 \b0 \sa0 \sb0 \fs20 \cf5 \i0 
+ss 311
+}}}
+{\f2 \strike0 \ul0 \b0 \sa0 \sb0 \fs20 \cf1 \i0 
+ and 
+}
+{\field {\*\fldinst HYPERLINK "http://www.westlaw.com/Link/Document/FullText?findType=L&pubNum=1000546&cite=47USCAS313&originatingDoc=I091076d89cc311d991d0cc6b54f12d4d&refType=LQ&originationContext=document&vr=3.0&rs=cblt1.0&transitionType=DocumentItem&contextData=(sc.Search)" }{\fldrslt 
+{\f2 \strike0 \ul0 \b0 \sa0 \sb0 \fs20 \cf5 \i0 
+313
+}}}
+{\f2 \strike0 \ul0 \b0 \sa0 \sb200 \fs20 \cf1 \i0 
+. But nowhere in these sections, taken singly or collectively, is there to be found by reasonable construction or necessary inference, authority to regulate the broadcasting industry as such, or to control the complex operations of the national networks.
+\par 
+}
+}
+}
+{\li0 \f2 \qj \b0 \ri0 \fs20 \cf1 \i0 
+{\li0 \f2 \qj \b0 \ri0 \fs20 \cf1 \i0 
+{\f2 \strike0 \ul0 \b0 \sa0 \sb0 \fs20 \cf1 \i0 
+In providing for regulation of the radio the Congress was under the necessity of vesting a considerable amount of discretionary authority in the Commission. The task of choosing between various claimants for the privilege of using the air waves is essentially an administrative one. Nevertheless, in specifying with some degree of particularity the kind of information to be included in an application for a license, the Congress has indicated what general conditions and considerations are to govern the granting and withholding of station licenses. Thus an applicant is required by 
+}
+{\field {\*\fldinst HYPERLINK "http://www.westlaw.com/Link/Document/FullText?findType=L&pubNum=1000546&cite=47USCAS308&originatingDoc=I091076d89cc311d991d0cc6b54f12d4d&refType=LQ&originationContext=document&vr=3.0&rs=cblt1.0&transitionType=DocumentItem&contextData=(sc.Search)" }{\fldrslt 
+{\f2 \strike0 \ul0 \b0 \sa0 \sb0 \fs20 \cf5 \i0 
+s 308(b)
+}}}
+{\f2 \strike0 \ul0 \b0 \sa0 \sb0 \fs20 \cf1 \i0 
+ to submit information bearing upon his citizenship, character, and technical, financial and other qualifications to operate the proposed station, as well as data relating to the ownership and location of the proposed station, the power and frequencies desired, operating periods, intended use, and such other information as the Commission may require. Licenses, frequencies, hours of operation and power are to be fairly distributed among the several States and communities to provide efficient service to each. 
+}
+{\field {\*\fldinst HYPERLINK "http://www.westlaw.com/Link/Document/FullText?findType=L&pubNum=1000546&cite=47USCAS307&originatingDoc=I091076d89cc311d991d0cc6b54f12d4d&refType=LQ&originationContext=document&vr=3.0&rs=cblt1.0&transitionType=DocumentItem&contextData=(sc.Search)" }{\fldrslt 
+{\f2 \strike0 \ul0 \b0 \sa0 \sb0 \fs20 \cf5 \i0 
+s 307(b)
+}}}
+{\f2 \strike0 \ul0 \b0 \sa0 \sb0 \fs20 \cf1 \i0 
+. Explicit provision is made for dealing with applicants and licensees 
+}
+{\f2 \b1 \fs20 \cf1 \i0 
+{\*\bkmkstart co_pp_sp_780_230_1}{\*\bkmkend co_pp_sp_780_230_1}
+{\f2 \strike0 \ul0 \b1 \sa0 \sb0 \fs20 \cf1 \i0 
+*230
+}
+}
+{\f2 \strike0 \ul0 \b0 \sa0 \sb0 \fs20 \cf1 \i0 
+ who are found guilty, or who are under the control of persons found guilty of violating the federal anti-trust laws. ss 311 and 313. Subject to the limitations defined in the Act, the Commission is required to grant a station license to any applicant \u8216\'3fif public convenience, interest, or necessity will be served thereby\u8217\'3f
+}
+{\f2 \strike0 \ul0 \b0 \sa0 \sb0 \fs20 \cf1 \i0 
+. 
+}
+{\field {\*\fldinst HYPERLINK "http://www.westlaw.com/Link/Document/FullText?findType=L&pubNum=1000546&cite=47USCAS307&originatingDoc=I091076d89cc311d991d0cc6b54f12d4d&refType=LQ&originationContext=document&vr=3.0&rs=cblt1.0&transitionType=DocumentItem&contextData=(sc.Search)" }{\fldrslt 
+{\f2 \strike0 \ul0 \b0 \sa0 \sb0 \fs20 \cf5 \i0 
+s 307(a)
+}}}
+{\f2 \strike0 \ul0 \b0 \sa0 \sb200 \fs20 \cf1 \i0 
+. Nothing is said, in any of these sections, about network contracts, affiliations, or business arrangements.
+\par 
+}
+}
+}
+{\li0 \f2 \qj \b0 \ri0 \fs20 \cf1 \i0 
+{\li0 \f2 \qj \b0 \ri0 \fs20 \cf1 \i0 
+{\f2 \strike0 \ul0 \b0 \sa0 \sb0 \fs20 \cf1 \i0 
+The power to control network contracts and affiliations by means of the Commission\rquote s licensing powers cannot be derived from implication out of the standard of \u8216\'3fpublic convenience, interest, or necessity\u8217\'3f. We have held that: \u8216\'3fthe Act does not essay to regulate the business of the licensee. 
+}
+{\f2 \b1 \fs20 \cf1 \i0 
+{\*\bkmkstart co_pp_sp_708_1016_1}{\*\bkmkend co_pp_sp_708_1016_1}
+{\f2 \strike0 \ul0 \b1 \sa0 \sb0 \fs20 \cf1 \i0 
+**1016
+}
+}
+{\f2 \strike0 \ul0 \b0 \sa0 \sb0 \fs20 \cf1 \i0 
+ The Commission is given no supervisory control of the programs, of business management or of policy. In short, the broadcasting field is open to anyone, provided there be an available frequency over which he can broadcast without interference to others, if he shows his competency, the adequacy of his equipment, and financial ability to make good use of the assigned channel.\u8217\'3f 
+}
+{\field {\*\fldinst HYPERLINK "http://www.westlaw.com/Link/Document/FullText?findType=Y&serNum=1940126067&pubNum=780&originatingDoc=I091076d89cc311d991d0cc6b54f12d4d&refType=RP&fi=co_pp_sp_780_475&originationContext=document&vr=3.0&rs=cblt1.0&transitionType=DocumentItem&contextData=(sc.Search)#co_pp_sp_780_475" }{\fldrslt 
+{\f2 \strike0 \ul0 \b0 \sa0 \sb0 \fs20 \cf5 \i0 
+Federal Communications Comm. v. Sanders Bros. Radio Station, 309 U.S. 470, 475, 642,
+}}}
+{\f2 \strike0 \ul0 \b0 \sa0 \sb0 \fs20 \cf1 \i0 
+ 
+}
+{\field {\*\fldinst HYPERLINK "http://www.westlaw.com/Link/Document/FullText?findType=Y&serNum=1940126067&pubNum=708&originatingDoc=I091076d89cc311d991d0cc6b54f12d4d&refType=RP&fi=co_pp_sp_708_697&originationContext=document&vr=3.0&rs=cblt1.0&transitionType=DocumentItem&contextData=(sc.Search)#co_pp_sp_708_697" }{\fldrslt 
+{\f2 \strike0 \ul0 \b0 \sa0 \sb0 \fs20 \cf5 \i0 
+60 S.Ct. 693, 697, 84 L.Ed. 869, 1037.
+}}}
+{\f2 \strike0 \ul0 \b0 \sa0 \sb0 \fs20 \cf1 \i0 
+ The criterion of \u8216\'3fpublic convenience, interest, or necessity\u8217\'3f is not an indefinite standard, but one to be \u8216\'3finterpreted by its context, by the nature of radio transmission and reception, by the scope, character, and quality of services, * * *.\u8217\'3f 
+}
+{\field {\*\fldinst HYPERLINK "http://www.westlaw.com/Link/Document/FullText?findType=Y&serNum=1933122805&pubNum=708&originatingDoc=I091076d89cc311d991d0cc6b54f12d4d&refType=RP&fi=co_pp_sp_708_636&originationContext=document&vr=3.0&rs=cblt1.0&transitionType=DocumentItem&contextData=(sc.Search)#co_pp_sp_708_636" }{\fldrslt 
+{\f2 \strike0 \ul0 \b0 \sa0 \sb0 \fs20 \cf5 \i0 
+Federal Radio Comm. v. Nelson Bros. Bond & Mortgage Co., 289 U.S. 266, 285, 53 S.Ct. 627, 636, 77 L.Ed. 1166, 89 A.L.R. 406.
+}}}
+{\f2 \strike0 \ul0 \b0 \sa0 \sb0 \fs20 \cf1 \i0 
+ Nothing in the context of which the standard is a part refers to network contracts. It is evident from the record that the Commission is making its determination of whether the public interest would be served by renewal of an existing license or licenses, not upon an examination of written applications presented to it, as required by 
+}
+{\field {\*\fldinst HYPERLINK "http://www.westlaw.com/Link/Document/FullText?findType=L&pubNum=1000546&cite=47USCAS308&originatingDoc=I091076d89cc311d991d0cc6b54f12d4d&refType=LQ&originationContext=document&vr=3.0&rs=cblt1.0&transitionType=DocumentItem&contextData=(sc.Search)" }{\fldrslt 
+{\f2 \strike0 \ul0 \b0 \sa0 \sb0 \fs20 \cf5 \i0 
+ss 308
+}}}
+{\f2 \strike0 \ul0 \b0 \sa0 \sb0 \fs20 \cf1 \i0 
+ and 
+}
+{\field {\*\fldinst HYPERLINK "http://www.westlaw.com/Link/Document/FullText?findType=L&pubNum=1000546&cite=47USCAS309&originatingDoc=I091076d89cc311d991d0cc6b54f12d4d&refType=LQ&originationContext=document&vr=3.0&rs=cblt1.0&transitionType=DocumentItem&contextData=(sc.Search)" }{\fldrslt 
+{\f2 \strike0 \ul0 \b0 \sa0 \sb0 \fs20 \cf5 \i0 
+309
+}}}
+{\f2 \strike0 \ul0 \b0 \sa0 \sb0 \fs20 \cf1 \i0 
+, but upon an investigation of the broadcasting industry as a whole, and general findings made in pursuance thereof which relate to the business methods of the network companies rather than 
+}
+{\f2 \b1 \fs20 \cf1 \i0 
+{\*\bkmkstart co_pp_sp_780_231_1}{\*\bkmkend co_pp_sp_780_231_1}
+{\f2 \strike0 \ul0 \b1 \sa0 \sb0 \fs20 \cf1 \i0 
+*231
+}
+}
+{\f2 \strike0 \ul0 \b0 \sa0 \sb0 \fs20 \cf1 \i0 
+ the characteristics of the individual stations and the peculiar needs of the areas served by them. If it had been the intention of the Congress to invest the Commission with the responsibility, through its licensing authority, of exercising far-reaching control\u8212\'3fas exemplified by the proposed regulations\u8212\'3fover the business operations of chain broadcasting and radio networks as they were then or are now organized and established, it is not likely that the Congress would have left it to mere inference or implication from the test of \u8216\'3fpublic convenience, interest, or necessity\u8217\'3f, or that Congress would have neglected to include it among the considerations expressly made relevant to license applications by 
+}
+{\field {\*\fldinst HYPERLINK "http://www.westlaw.com/Link/Document/FullText?findType=L&pubNum=1000546&cite=47USCAS308&originatingDoc=I091076d89cc311d991d0cc6b54f12d4d&refType=LQ&originationContext=document&vr=3.0&rs=cblt1.0&transitionType=DocumentItem&contextData=(sc.Search)" }{\fldrslt 
+{\f2 \strike0 \ul0 \b0 \sa0 \sb0 \fs20 \cf5 \i0 
+s 308(b)
+}}}
+{\f2 \strike0 \ul0 \b0 \sa0 \sb0 \fs20 \cf1 \i0 
+. The subject is one of such scope and importance as to warrant explicit mention. To construe the licensing sections (
+}
+{\field {\*\fldinst HYPERLINK "http://www.westlaw.com/Link/Document/FullText?findType=L&pubNum=1000546&cite=47USCAS307&originatingDoc=I091076d89cc311d991d0cc6b54f12d4d&refType=LQ&originationContext=document&vr=3.0&rs=cblt1.0&transitionType=DocumentItem&contextData=(sc.Search)" }{\fldrslt 
+{\f2 \strike0 \ul0 \b0 \sa0 \sb0 \fs20 \cf5 \i0 
+ss 307
+}}}
+{\f2 \strike0 \ul0 \b0 \sa0 \sb0 \fs20 \cf1 \i0 
+, 
+}
+{\field {\*\fldinst HYPERLINK "http://www.westlaw.com/Link/Document/FullText?findType=L&pubNum=1000546&cite=47USCAS308&originatingDoc=I091076d89cc311d991d0cc6b54f12d4d&refType=LQ&originationContext=document&vr=3.0&rs=cblt1.0&transitionType=DocumentItem&contextData=(sc.Search)" }{\fldrslt 
+{\f2 \strike0 \ul0 \b0 \sa0 \sb0 \fs20 \cf5 \i0 
+308
+}}}
+{\f2 \strike0 \ul0 \b0 \sa0 \sb0 \fs20 \cf1 \i0 
+, 
+}
+{\field {\*\fldinst HYPERLINK "http://www.westlaw.com/Link/Document/FullText?findType=L&pubNum=1000546&cite=47USCAS309&originatingDoc=I091076d89cc311d991d0cc6b54f12d4d&refType=LQ&originationContext=document&vr=3.0&rs=cblt1.0&transitionType=DocumentItem&contextData=(sc.Search)" }{\fldrslt 
+{\f2 \strike0 \ul0 \b0 \sa0 \sb0 \fs20 \cf5 \i0 
+309
+}}}
+{\f2 \strike0 \ul0 \b0 \sa0 \sb0 \fs20 \cf1 \i0 
+, 
+}
+{\field {\*\fldinst HYPERLINK "http://www.westlaw.com/Link/Document/FullText?findType=L&pubNum=1000546&cite=47USCAS310&originatingDoc=I091076d89cc311d991d0cc6b54f12d4d&refType=LQ&originationContext=document&vr=3.0&rs=cblt1.0&transitionType=DocumentItem&contextData=(sc.Search)" }{\fldrslt 
+{\f2 \strike0 \ul0 \b0 \sa0 \sb0 \fs20 \cf5 \i0 
+310)
+}}}
+{\f2 \strike0 \ul0 \b0 \sa0 \sb200 \fs20 \cf1 \i0 
+ as granting authority to require fundamental and revolutionary changes in the business methods of the broadcasting networks\u8212\'3fmethods which have been in existence for several years and which have not been adjudged unlawful\u8212\'3fwould inflate and distort their true meaning and extend them beyond the limited purposes which they were intended to serve.
+\par 
+}
+}
+}
+{\li0 \f2 \qj \b0 \ri0 \fs20 \cf1 \i0 
+{\li0 \f2 \qj \b0 \ri0 \fs20 \cf1 \i0 
+{\f2 \strike0 \ul0 \b0 \sa0 \sb0 \fs20 \cf1 \i0 
+It is quite possible, of course, that maximum utilization of the radio as an instrument of culture, entertainment, and the diffusion of ideas is inhibited by existing network arrangements. Some of the conditions imposed by the broadcasting chains are possibly not conducive to a freer use of radio facilities, however essential they may be to the maintenance of sustaining programs and the operation of the chain broadcasting business as it is now conducted. But I am unable to agree that it is within the present authority of the Commission to prescribe the remedy for such conditions. 
+}
+{\f2 \strike0 \ul0 \b0 \sa0 \sb0 \fs20 \cf1 \i0 
+It is evident that a correction of these conditions in the manner proposed by the regulations will involve drastic changes in the business of radio broadcasting which the Congress has not 
+}
+{\f2 \b1 \fs20 \cf1 \i0 
+{\*\bkmkstart co_pp_sp_780_232_1}{\*\bkmkend co_pp_sp_780_232_1}
+{\f2 \strike0 \ul0 \b1 \sa0 \sb0 \fs20 \cf1 \i0 
+*232
+}
+}
+{\f2 \strike0 \ul0 \b0 \sa0 \sb200 \fs20 \cf1 \i0 
+ clearly and definitely empowered the Commission to undertake.
+\par 
+}
+}
+}
+{\li0 \f2 \qj \b0 \ri0 \fs20 \cf1 \i0 
+{\li0 \f2 \qj \b0 \ri0 \fs20 \cf1 \i0 
+{\f2 \strike0 \ul0 \b0 \sa0 \sb0 \fs20 \cf1 \i0 
+If this were a case in which a station license had been withheld from an individual applicant or licensee because of special relations or commitments that would seriously compromise or limit his ability to provide adequate service to the listening public, I should be less inclined to make any objection. As an incident of its authority to determine the eligibility of an individual applicant in an isolated case, the Commission might possibly consider such factors. In the present case, however, the Commission has reversed the order of things. Its real objective it to regulate the business practices of the major networks, thus bringing within the range of its regulatory power the chain broadcasting industry as a whole. By means of these regulations and the enforcement program, the Commission would not only extend its authority over business activities which represent interests and investments of a very substantial character, which have not been put under its jurisdiction by the Act, but would greatly enlarge its control over an institution that has now become a rival of the press and pulpit as a purveyor of news and entertainment and a medium of 
+}
+{\f2 \b1 \fs20 \cf1 \i0 
+{\*\bkmkstart co_pp_sp_708_1017_1}{\*\bkmkend co_pp_sp_708_1017_1}
+{\f2 \strike0 \ul0 \b1 \sa0 \sb0 \fs20 \cf1 \i0 
+**1017
+}
+}
+{\f2 \strike0 \ul0 \b0 \sa0 \sb200 \fs20 \cf1 \i0 
+ public discussion. To assume a function and responsibility of such wide reach and importance in the life of the nation, as a mere incident of its duty to pass on individual applications for permission to operate a radio station and use a specific wave length, is an assumption of authority to which I am not willing to lend my assent.
+\par 
+}
+}
+}
+{\li0 \f2 \qj \b0 \ri0 \fs20 \cf1 \i0 
+{\li0 \f2 \qj \b0 \ri0 \fs20 \cf1 \i0 
+{\f2 \strike0 \ul0 \b0 \sa0 \sb0 \fs20 \cf1 \i0 
+Again I do not question the need of regulation in this field, or the authority of the Congress to enact legislation that would vest in the Commission such power as it requires to deal with the problem, which it has defined and analyzed in its report with admirable lucidity. It is possible that the remedy indicated by the proposed regulations is the appropriate one, whatever its effect may be on 
+}
+{\f2 \b1 \fs20 \cf1 \i0 
+{\*\bkmkstart co_pp_sp_780_233_1}{\*\bkmkend co_pp_sp_780_233_1}
+{\f2 \strike0 \ul0 \b1 \sa0 \sb0 \fs20 \cf1 \i0 
+*233
+}
+}
+{\f2 \strike0 \ul0 \b0 \sa0 \sb200 \fs20 \cf1 \i0 
+ the sustaining programs, advertising contracts, and other characteristics of chain broadcasting as it is now conducted in this country. I do not believe, however, that the Commission was justified in claiming the responsibility and authority it has assumed to exercise without a clear mandate from the Congress.
+\par 
+}
+}
+}
+{\li0 \f2 \qj \b0 \ri0 \fs20 \cf1 \i0 
+{\li0 \f2 \qj \b0 \ri0 \fs20 \cf1 \i0 
+{\f2 \strike0 \ul0 \b0 \sa0 \sb0 \fs20 \cf1 \i0 
+An examination of the history of this legislation convinces me that the Congress did not intend by anything in 
+}
+{\field {\*\fldinst HYPERLINK "http://www.westlaw.com/Link/Document/FullText?findType=L&pubNum=1000546&cite=47USCAS303&originatingDoc=I091076d89cc311d991d0cc6b54f12d4d&refType=LQ&originationContext=document&vr=3.0&rs=cblt1.0&transitionType=DocumentItem&contextData=(sc.Search)" }{\fldrslt 
+{\f2 \strike0 \ul0 \b0 \sa0 \sb0 \fs20 \cf5 \i0 
+s 303
+}}}
+{\f2 \strike0 \ul0 \b0 \sa0 \sb0 \fs20 \cf1 \i0 
+, or any other provision of the Act to confer on the Commission the authority it has assumed to exercise by the issuance of these regulations. 
+}
+{\field {\*\fldinst HYPERLINK "http://www.westlaw.com/Link/Document/FullText?findType=L&pubNum=1000546&cite=47USCAS303&originatingDoc=I091076d89cc311d991d0cc6b54f12d4d&refType=LQ&originationContext=document&vr=3.0&rs=cblt1.0&transitionType=DocumentItem&contextData=(sc.Search)" }{\fldrslt 
+{\f2 \strike0 \ul0 \b0 \sa0 \sb0 \fs20 \cf5 \i0 
+Section 303
+}}}
+{\f2 \strike0 \ul0 \b0 \sa0 \sb0 \fs20 \cf1 \i0 
+ is concerned primarily with technical matters, and the subjects of regulation authorized by most of its subdivisions are exceedingly specific\u8212\'3fso specific in fact that it is reasonable to infer that, if Congress had intended to cover the subject of network contracts and affiliations, it would not have left it to dubious implications from general clauses, lifted out of context, in subdivisions (g), (i) and (r). I am unable to agree that in authorizing the Commission in 
+}
+{\field {\*\fldinst HYPERLINK "http://www.westlaw.com/Link/Document/FullText?findType=L&pubNum=1000546&cite=47USCAS303&originatingDoc=I091076d89cc311d991d0cc6b54f12d4d&refType=LQ&originationContext=document&vr=3.0&rs=cblt1.0&transitionType=DocumentItem&contextData=(sc.Search)" }{\fldrslt 
+{\f2 \strike0 \ul0 \b0 \sa0 \sb0 \fs20 \cf5 \i0 
+s 303(g)
+}}}
+{\f2 \strike0 \ul0 \b0 \sa0 \sb0 \fs20 \cf1 \i0 
+ to study new uses for radio, provide for experimental use of frequencies, and \u8216\'3fgenerally encourage the larger and more effective use of radio in the public interest\u8217\'3f, it was the intention or the purpose of the Congress to confer on the Commission the regulatory powers now being asserted. 
+}
+{\f2 \strike0 \ul0 \b0 \sa0 \sb200 \fs20 \cf1 \i0 
+Manifestly that subdivision dealt with experimental and development work\u8212\'3ftechnical and scientific matters, and the construction of its concluding clause should be accordingly limited to those considerations. Nothing in its legislative history suggests that it had any broader purpose.
+\par 
+}
+}
+}
+{\li0 \f2 \qj \b0 \ri0 \fs20 \cf1 \i0 
+{\li0 \f2 \qj \b0 \ri0 \fs20 \cf1 \i0 
+{\f2 \strike0 \ul0 \b0 \sa0 \sb0 \fs20 \cf1 \i0 
+It was clearly not the intention of the Congress by the enactment of 
+}
+{\field {\*\fldinst HYPERLINK "http://www.westlaw.com/Link/Document/FullText?findType=L&pubNum=1000546&cite=47USCAS303&originatingDoc=I091076d89cc311d991d0cc6b54f12d4d&refType=LQ&originationContext=document&vr=3.0&rs=cblt1.0&transitionType=DocumentItem&contextData=(sc.Search)" }{\fldrslt 
+{\f2 \strike0 \ul0 \b0 \sa0 \sb0 \fs20 \cf5 \i0 
+s 303(i)
+}}}
+{\f2 \strike0 \ul0 \b0 \sa0 \sb0 \fs20 \cf1 \i0 
+, authorizing the Commission \u8216\'3fto make special regulations applicable to radio stations engaged in chain broadcasting\u8217\'3f, to invest the Commission with the authority now claimed over network contracts. This section is a verbatim reenactment of s 4(h) of the 
+}
+{\f2 \b1 \fs20 \cf1 \i0 
+{\*\bkmkstart co_pp_sp_780_234_1}{\*\bkmkend co_pp_sp_780_234_1}
+{\f2 \strike0 \ul0 \b1 \sa0 \sb0 \fs20 \cf1 \i0 
+*234
+}
+}
+{\f2 \strike0 \ul0 \b0 \sa0 \sb200 \fs20 \cf1 \i0 
+ Radio Act of 1927, and had its origin in a Senate amendment to the bill which became that Act. In its original form it provided that the Commission, from time to time, as public convenience, interest, or necessity required, should:
+\par 
+}
+}
+}
+{\li0 \f2 \qj \b0 \ri0 \fs20 \cf1 \i0 
+{\li0 \f2 \qj \b0 \ri0 \fs20 \cf1 \i0 
+{\f2 \strike0 \ul0 \b0 \sa0 \sb200 \fs20 \cf1 \i0 
+\u8216\'3fWhen stations are connected by wire for chain broadcasting, (the Commission should) determine the power each station shall use and the wave lengths to be used during the time stations are so connected and so operated, and make all other regulations necessary in the interest of equitable radio service to the listeners in the communities or areas affected by chain broadcasting.\u8217\'3f
+\par 
+}
+}
+}
+{\li0 \f2 \qj \b0 \ri0 \fs20 \cf1 \i0 
+{\li0 \f2 \qj \b0 \ri0 \fs20 \cf1 \i0 
+{\f2 \strike0 \ul0 \b0 \sa0 \sb0 \fs20 \cf1 \i0 
+It was evidently the purpose of this provision to remedy a situation that was described as follows by Senator Dill (who was in charge of the bill in the Senate) in questioning a witness at the hearings of the Senate Committee on Interstate Commerce: \u8216\'3f* * * During the past few months there has grown up a system of chain broadcasting, extending over the United States a great deal of the time. I say a great deal of the time\u8212\'3fmany nights a month\u8212\'3fand the stations that are connected are of such widely varying meter lengths that the ordinary radio set that reaches out any distance is unable to get anything but that one program, and so, in effect, that one program monopolizes the air. I realize it is somewhat of a technical engineering problem, but it has seemed to many people, at least many who have written to me, that when stations are carrying on chain programs that they might be limited to the use of wave lengths adjoining or near enough to one another that they would not cover the entire dial. I do not know whether legislation ought to restrict that or whether it had better be done by regulations of the department. I want to 
+}
+{\f2 \b1 \fs20 \cf1 \i0 
+{\*\bkmkstart co_pp_sp_708_1018_1}{\*\bkmkend co_pp_sp_708_1018_1}
+{\f2 \strike0 \ul0 \b1 \sa0 \sb0 \fs20 \cf1 \i0 
+**1018
+}
+}
+{\f2 \strike0 \ul0 \b0 \sa0 \sb0 \fs20 \cf1 \i0 
+ get your opinion as to the advisability in some way protecting people who want to hear some other program than the one being broadcasted by chain broadcast.\u8217\'3f (Report of Hearings Before 
+}
+{\f2 \b1 \fs20 \cf1 \i0 
+{\*\bkmkstart co_pp_sp_780_235_1}{\*\bkmkend co_pp_sp_780_235_1}
+{\f2 \strike0 \ul0 \b1 \sa0 \sb0 \fs20 \cf1 \i0 
+*235
+}
+}
+{\f2 \strike0 \ul0 \b0 \sa0 \sb0 \fs20 \cf1 \i0 
+ Senate Committee on Interstate Commerce on 
+}
+{\field {\*\fldinst HYPERLINK "http://www.westlaw.com/Link/Document/FullText?findType=L&pubNum=1000546&cite=15USCAS1&originatingDoc=I091076d89cc311d991d0cc6b54f12d4d&refType=LQ&originationContext=document&vr=3.0&rs=cblt1.0&transitionType=DocumentItem&contextData=(sc.Search)" }{\fldrslt 
+{\f2 \strike0 \ul0 \b0 \sa0 \sb0 \fs20 \cf5 \i0 
+S. 1
+}}}
+{\f2 \strike0 \ul0 \b0 \sa0 \sb0 \fs20 \cf1 \i0 
+ and S. 1754, 
+}
+{\field {\*\fldinst HYPERLINK "http://www.westlaw.com/Link/Document/FullText?findType=L&pubNum=1000546&cite=15USCAS69&originatingDoc=I091076d89cc311d991d0cc6b54f12d4d&refType=LQ&originationContext=document&vr=3.0&rs=cblt1.0&transitionType=DocumentItem&contextData=(sc.Search)" }{\fldrslt 
+{\f2 \strike0 \ul0 \b0 \sa0 \sb0 \fs20 \cf5 \i0 
+69th
+}}}
+{\f2 \strike0 \ul0 \b0 \sa0 \sb200 \fs20 \cf1 \i0 
+ Cong., 1st Sess. (1926) p. 123.
+\par 
+}
+}
+}
+{\li0 \f2 \qj \b0 \ri0 \fs20 \cf1 \i0 
+{\li0 \f2 \qj \b0 \ri0 \fs20 \cf1 \i0 
+{\f2 \strike0 \ul0 \b0 \sa0 \sb0 \fs20 \cf1 \i0 
+In other words, when the same program was simultaneously broadcast by chain stations, the weaker independent stations were drowned out because of the high power of the chain stations. With the receiving sets then commonly in use, listeners were unable to get any program except the chain program. It was essentially an interference problem. In addition to determining power and wave length for chain stations, it would have been the duty of the Commission, under the amendment, to make other regulations necessary for \u8216\'3fequitable radio service to the listeners in the communities or areas affected by chain broadcasting.\u8217\'3f The last clause should not be interpreted out of context and without relation to the problem at which the amendment was aimed. It is reasonably construed as simply authorizing the Commission to remedy other technical problems of interference involved in chain broadcasting in addition to power and wave length by requiring special types of equipment, controlling locations, etc. 
+}
+{\f2 \strike0 \ul0 \b0 \sa0 \sb200 \fs20 \cf1 \i0 
+The statement in the Senate Committee Report that this provision gave the Commission \u8216\'3fcomplete authority * * * to control chain broadcasting\u8217\'3f (S.Rep. No. 772, 69th Cong., 1st Sess., p. 3) must be taken as meaning that the provision gave complete authority with respect to the specific problem which the Senate intended to meet, a problem of technical interference.
+\par 
+}
+}
+}
+{\li0 \f2 \qj \b0 \ri0 \fs20 \cf1 \i0 
+{\li0 \f2 \qj \b0 \ri0 \fs20 \cf1 \i0 
+{\f2 \strike0 \ul0 \b0 \sa0 \sb0 \fs20 \cf1 \i0 
+While the form of the amendment was simplified in the Conference Committee so as to authorize the Commission \u8216\'3fto make special regulations applicable to radio stations engaged in chain broadcasting\u8217\'3f, both Houses were assured in the report of the Conference Committee that \u8216\'3fthe jurisdiction conferred in this paragraph is substantially the same as the jurisdiction conferred upon the Commission by * * * the Senate amendment.\u8217\'3f (Sen.Doc. No. 200, 69th Cong., 2d Sess., p. 17; H.Rep. No. 1886, 
+}
+{\f2 \b1 \fs20 \cf1 \i0 
+{\*\bkmkstart co_pp_sp_780_236_1}{\*\bkmkend co_pp_sp_780_236_1}
+{\f2 \strike0 \ul0 \b1 \sa0 \sb0 \fs20 \cf1 \i0 
+*236
+}
+}
+{\f2 \strike0 \ul0 \b0 \sa0 \sb200 \fs20 \cf1 \i0 
+ 69th Cong., 2d Sess., p. 17). This is further borne out by a statement of Senator Dill in discussing the conference report on the Senate floor:
+\par 
+}
+}
+}
+{\li0 \f2 \qj \b0 \ri0 \fs20 \cf1 \i0 
+{\li0 \f2 \qj \b0 \ri0 \fs20 \cf1 \i0 
+{\f2 \strike0 \ul0 \b0 \sa0 \sb200 \fs20 \cf1 \i0 
+\u8216\'3fWhat is happening to-day is that the National Broadcasting Co., which is a part of the great Radio Trust, to say the least, if not a monopoly, is looking up stations in every community on their various wave lengths with high powered stations and sending one program out, and they are forcing the little stations off the board so that the people cannot hear anything except the one program.
+\par 
+}
+}
+}
+{\li0 \f2 \qj \b0 \ri0 \fs20 \cf1 \i0 
+{\li0 \f2 \qj \b0 \ri0 \fs20 \cf1 \i0 
+{\f2 \strike0 \ul0 \b0 \sa0 \sb200 \fs20 \cf1 \i0 
+\u8216\'3fThere is no power to-day in the hands of the Department of Commerce to stop that practice. The radio commission will have the power to regulate and prevent it and give the independents a chance.\u8217\'3f (68 Cong.Rec. 3031.)
+\par 
+}
+}
+}
+{\li0 \f2 \qj \b0 \ri0 \fs20 \cf1 \i0 
+{\li0 \f2 \qj \b0 \ri0 \fs20 \cf1 \i0 
+{\field {\*\fldinst HYPERLINK "http://www.westlaw.com/Link/Document/FullText?findType=L&pubNum=1000546&cite=47USCAS303&originatingDoc=I091076d89cc311d991d0cc6b54f12d4d&refType=LQ&originationContext=document&vr=3.0&rs=cblt1.0&transitionType=DocumentItem&contextData=(sc.Search)" }{\fldrslt 
+{\f2 \strike0 \ul0 \b0 \sa0 \sb0 \fs20 \cf5 \i0 
+Section 303(r)
+}}}
+{\f2 \strike0 \ul0 \b0 \sa0 \sb0 \fs20 \cf1 \i0 
+ is certainly no basis for inferring that the Commission is empowered to issue the challenged regulations. This subdivision is not an independent grant of power, but only an authorization to: \u8216\'3fMake such rules and regulations and prescribe such restrictions and conditions, not inconsistent with law, as may be necessary to carry out the provisions of this Act.\u8217\'3f There is no provision in the Act for the control of network contractual arrangements by the Commission, and consequently 
+}
+{\field {\*\fldinst HYPERLINK "http://www.westlaw.com/Link/Document/FullText?findType=L&pubNum=1000546&cite=47USCAS303&originatingDoc=I091076d89cc311d991d0cc6b54f12d4d&refType=LQ&originationContext=document&vr=3.0&rs=cblt1.0&transitionType=DocumentItem&contextData=(sc.Search)" }{\fldrslt 
+{\f2 \strike0 \ul0 \b0 \sa0 \sb0 \fs20 \cf5 \i0 
+s 303(r)
+}}}
+{\f2 \strike0 \ul0 \b0 \sa0 \sb200 \fs20 \cf1 \i0 
+ is of no consequence here.
+\par 
+}
+}
+}
+{\li0 \f2 \qj \b0 \ri0 \fs20 \cf1 \i0 
+{\li0 \f2 \qj \b0 \ri0 \fs20 \cf1 \i0 
+{\f2 \strike0 \ul0 \b0 \sa0 \sb0 \fs20 \cf1 \i0 
+To the extent that existing network practices may have run counter to the anti-trust laws, the Congress has expressly provided the means of dealing with the problem. The enforcement of those laws has been committed to the courts and other law enforcement agencies. In addition to the usual penalties prescribed by statute for their violation, however, the Commission has been expressly authorized by 
+}
+{\field {\*\fldinst HYPERLINK "http://www.westlaw.com/Link/Document/FullText?findType=L&pubNum=1000546&cite=47USCAS311&originatingDoc=I091076d89cc311d991d0cc6b54f12d4d&refType=LQ&originationContext=document&vr=3.0&rs=cblt1.0&transitionType=DocumentItem&contextData=(sc.Search)" }{\fldrslt 
+{\f2 \strike0 \ul0 \b0 \sa0 \sb0 \fs20 \cf5 \i0 
+s 311
+}}}
+{\f2 \strike0 \ul0 \b0 \sa0 \sb0 \fs20 \cf1 \i0 
+ to refuse a station license to any person 
+}
+{\f2 \b1 \fs20 \cf1 \i0 
+{\*\bkmkstart co_pp_sp_780_237_1}{\*\bkmkend co_pp_sp_780_237_1}
+{\f2 \strike0 \ul0 \b1 \sa0 \sb0 \fs20 \cf1 \i0 
+*237
+}
+}
+{\f2 \strike0 \ul0 \b0 \sa0 \sb0 \fs20 \cf1 \i0 
+ \u8216\'3ffinally adjudged guilty by a Federal court\u8217\'3f of attempting unlawfully to monopolize radio communication. Anyone under the control of such a person may also be refused a license. And whenever a court has ordered the revocation of an existing license, as expressly provided in 
+}
+{\field {\*\fldinst HYPERLINK "http://www.westlaw.com/Link/Document/FullText?findType=L&pubNum=1000546&cite=47USCAS313&originatingDoc=I091076d89cc311d991d0cc6b54f12d4d&refType=LQ&originationContext=document&vr=3.0&rs=cblt1.0&transitionType=DocumentItem&contextData=(sc.Search)" }{\fldrslt 
+{\f2 \strike0 \ul0 \b0 \sa0 \sb0 \fs20 \cf5 \i0 
+s 313
+}}}
+{\f2 \strike0 \ul0 \b0 \sa0 \sb0 \fs20 \cf1 \i0 
+, a new license may not be granted by the Commission to the guilty party or to any person under his control. In my opinion these provisions (
+}
+{\field {\*\fldinst HYPERLINK "http://www.westlaw.com/Link/Document/FullText?findType=L&pubNum=1000546&cite=47USCAS311&originatingDoc=I091076d89cc311d991d0cc6b54f12d4d&refType=LQ&originationContext=document&vr=3.0&rs=cblt1.0&transitionType=DocumentItem&contextData=(sc.Search)" }{\fldrslt 
+{\f2 \strike0 \ul0 \b0 \sa0 \sb0 \fs20 \cf5 \i0 
+ss 311
+}}}
+{\f2 \strike0 \ul0 \b0 \sa0 \sb0 \fs20 \cf1 \i0 
+ and 313) 
+}
+{\f2 \b1 \fs20 \cf1 \i0 
+{\*\bkmkstart co_pp_sp_708_1019_1}{\*\bkmkend co_pp_sp_708_1019_1}
+{\f2 \strike0 \ul0 \b1 \sa0 \sb0 \fs20 \cf1 \i0 
+**1019
+}
+}
+{\f2 \strike0 \ul0 \b0 \sa0 \sb200 \fs20 \cf1 \i0 
+ clearly do not and were not intended to confer independent authority on the Commission to supervise network contracts or to enforce competition between radio networks by withholding licenses from stations, and do not justify the Commission in refusing a license to an applicant otherwise qualified, because of business arrangements that may constitute an unlawful restraint of trade, when the applicant has not been finally adjudged guilty of violating the anti-trust laws, and is not controlled by one so adjudged.
+\par 
+}
+}
+}
+{\li0 \f2 \qj \b0 \ri0 \fs20 \cf1 \i0 
+{\li0 \f2 \qj \b0 \ri0 \fs20 \cf1 \i0 
+{\f2 \strike0 \ul0 \b0 \sa0 \sb0 \fs20 \cf1 \i0 
+The conditions disclosed by the Commission\rquote s investigation, if they require correction, should be met, not by the invention of authority where none is available or by diverting existing powers out of their true channels and using them for purposes to which they were not addressed, but by invoking the aid of the Congress or the service of agencies that have been entrusted with the enforcement of the antitrust laws. In other fields of regulation the Congress has made clear its intentions. It has not left to mere inference and guesswork the existence of authority to order broad changes and reforms in the national economy or the structure of business arrangements in the Public Utility Holding Company Act, 49 Stat. 803, 
+}
+{\field {\*\fldinst HYPERLINK "http://www.westlaw.com/Link/Document/FullText?findType=L&pubNum=1000546&cite=15USCAS79&originatingDoc=I091076d89cc311d991d0cc6b54f12d4d&refType=LQ&originationContext=document&vr=3.0&rs=cblt1.0&transitionType=DocumentItem&contextData=(sc.Search)" }{\fldrslt 
+{\f2 \strike0 \ul0 \b0 \sa0 \sb0 \fs20 \cf5 \i0 
+15 U.S.C.A. s 79
+}}}
+{\f2 \strike0 \ul0 \b0 \sa0 \sb0 \fs20 \cf1 \i0 
+ et seq., the Securities Act of 1933, 48 Stat. 74, 
+}
+{\field {\*\fldinst HYPERLINK "http://www.westlaw.com/Link/Document/FullText?findType=L&pubNum=1000546&cite=15USCAS77A&originatingDoc=I091076d89cc311d991d0cc6b54f12d4d&refType=LQ&originationContext=document&vr=3.0&rs=cblt1.0&transitionType=DocumentItem&contextData=(sc.Search)" }{\fldrslt 
+{\f2 \strike0 \ul0 \b0 \sa0 \sb0 \fs20 \cf5 \i0 
+15 U.S.C.A. s 77a
+}}}
+{\f2 \strike0 \ul0 \b0 \sa0 \sb0 \fs20 \cf1 \i0 
+ et seq., the Federal Power Act, 49 Stat. 838, 
+}
+{\field {\*\fldinst HYPERLINK "http://www.westlaw.com/Link/Document/FullText?findType=L&pubNum=1000546&cite=16USCAS791A&originatingDoc=I091076d89cc311d991d0cc6b54f12d4d&refType=LQ&originationContext=document&vr=3.0&rs=cblt1.0&transitionType=DocumentItem&contextData=(sc.Search)" }{\fldrslt 
+{\f2 \strike0 \ul0 \b0 \sa0 \sb0 \fs20 \cf5 \i0 
+16 U.S.C.A. s 791a
+}}}
+{\f2 \strike0 \ul0 \b0 \sa0 \sb0 \fs20 \cf1 \i0 
+ et seq., and other measures of similar character. Indeed the Communications Act itself contains cogent internal evidence that Congress did not intend 
+}
+{\f2 \b1 \fs20 \cf1 \i0 
+{\*\bkmkstart co_pp_sp_780_238_1}{\*\bkmkend co_pp_sp_780_238_1}
+{\f2 \strike0 \ul0 \b1 \sa0 \sb0 \fs20 \cf1 \i0 
+*238
+}
+}
+{\f2 \strike0 \ul0 \b0 \sa0 \sb200 \fs20 \cf1 \i0 
+ to grant power over network contractual arrangements to the Commission. In s 215(c) of Title II, dealing with common carriers by wire and radio, Congress provided:
+\par 
+}
+}
+}
+{\li0 \f2 \qj \b0 \ri0 \fs20 \cf1 \i0 
+{\li0 \f2 \qj \b0 \ri0 \fs20 \cf1 \i0 
+{\f2 \strike0 \ul0 \b0 \sa0 \sb200 \fs20 \cf1 \i0 
+\u8216\'3fThe Commission shall examine all contracts of common carriers subject to this Act which prevent the other party thereto from dealing with another common carrier subject to this Act, and shall report its findings to Congress, together with its recommendations as to whether additional legislation on this subject is desirable.\u8217\'3f
+\par 
+}
+}
+}
+{\li0 \f2 \qj \b0 \ri0 \fs20 \cf1 \i0 
+{\li0 \f2 \qj \b0 \ri0 \fs20 \cf1 \i0 
+{\f2 \strike0 \ul0 \b0 \sa0 \sb0 \fs20 \cf1 \i0 
+Congress had no difficulty here in expressing the possible desirability of regulating a type of contract roughly similar to the ones with which we are now concerned, and in reserving to itself the ultimate decision upon the matters of policy involved. Insofar as the Congress deemed it necessary in this legislation to safeguard radio broadcasting against arrangements that are offensive to the anti-trust laws or monopolistic in nature, it made specific provision in 
+}
+{\field {\*\fldinst HYPERLINK "http://www.westlaw.com/Link/Document/FullText?findType=L&pubNum=1000546&cite=47USCAS311&originatingDoc=I091076d89cc311d991d0cc6b54f12d4d&refType=LQ&originationContext=document&vr=3.0&rs=cblt1.0&transitionType=DocumentItem&contextData=(sc.Search)" }{\fldrslt 
+{\f2 \strike0 \ul0 \b0 \sa0 \sb0 \fs20 \cf5 \i0 
+ss 311
+}}}
+{\f2 \strike0 \ul0 \b0 \sa0 \sb0 \fs20 \cf1 \i0 
+ and 
+}
+{\field {\*\fldinst HYPERLINK "http://www.westlaw.com/Link/Document/FullText?findType=L&pubNum=1000546&cite=47USCAS313&originatingDoc=I091076d89cc311d991d0cc6b54f12d4d&refType=LQ&originationContext=document&vr=3.0&rs=cblt1.0&transitionType=DocumentItem&contextData=(sc.Search)" }{\fldrslt 
+{\f2 \strike0 \ul0 \b0 \sa0 \sb0 \fs20 \cf5 \i0 
+313
+}}}
+{\f2 \strike0 \ul0 \b0 \sa0 \sb200 \fs20 \cf1 \i0 
+. If the existing network contracts are deemed objectionable because of monopolistic or other features, and no remedy is presently available under these provisions, the proper course is to seek amendatory legislation from the Congress, not to fabricate authority by ingenious reasoning based upon provisions that have no true relation to the specific problem.
+\par 
+}
+}
+}
+}
+}
+{\li0 \f2 \qj \b0 \ri0 \fs20 \cf1 \i0 
+{\li0 \f2 \qj \b0 \ri0 \fs20 \cf1 \i0 
+{\f2 \strike0 \ul0 \b0 \sa0 \sb600 \fs20 \cf1 \i0 
+Mr. Justice ROBERTS agrees with these views.
+\par 
+}
+}
+}
+}
+}
+}
+{\li0 \f2 \qj \b0 \ri0 \fs20 \cf1 \i0 
+{\li0 \f2 \qj \b1 \ri0 \fs20 \cf19 \i0 
+{\*\bkmkstart co_allCitations_1}{\*\bkmkend co_allCitations_1}
+{\f2 \strike0 \ul0 \b1 \sa200 \sb400 \fs20 \cf19 \i0 
+All Citations
+\par 
+}
+}
+{\f2 \strike0 \ul0 \b0 \sa0 \sb0 \fs20 \cf1 \i0 
+319 U.S. 190, 63 S.Ct. 997, 87 L.Ed. 1344, 1 Media L. Rep. 1965
+\par 
+}
+}
+{\li0 \f2 \qj \b0 \ri0 \fs20 \cf1 \i0 {
+{\trowd \ltrrow \trleft0 
+\clpadl200 \clpadfl3 \clbrdrt \clbrdrl \trql \clwWidth10080 \cellx10080 
+\intbl 
+{\li0 \ri0 
+{\li0 \f2 \b0 \ql \ri0 \fs20 \cf1 \i0 
+{\f2 \strike0 \ul0 \b0 \sa0 \sb0 \fs20 \cf1 \i0 
+Footnotes
+\par 
+}
+}
+}\f2 \li0 \strike0 \ul0 \b0 \sa0 \ql \sb0 \fs20 \ri0 \cf1 \i0 \intbl \cell \row }
+{\trowd \ltrrow \trleft0 
+\clbrdrl \trql \clvertalt \clwWidth600 \cellx600 
+\clbrdrr \trql \clwWidth9480 \cellx10080 
+\intbl 
+{\li0 \ri0 
+{\li0 \f2 \b0 \ql \ri0 \fs20 \cf1 \i0 
+{\f2 \b0 \fs20 \cf1 \i0 
+{\*\bkmkstart co_footnote_B00111943120664_1}{\*\bkmkend co_footnote_B00111943120664_1}
+{\field {\*\fldinst HYPERLINK "#co_footnoteReference_B00111943120664_ID0" }{\fldrslt 
+{\super \f2 \strike0 \ul0 \b0 \sa0 \sb0 \fs20 \cf5 \i0 
+1
+}\f2 \super \strike0 \ul0 \b0 \sa0 \sb0 \fs20 \cf5 \i0 }}
+\par 
+}
+}
+}\f2 \li0 \b0 \ql \fs20 \ri0 \cf1 \i0 \intbl \cell \intbl 
+{\li0 \ri0 
+{\li0 \f2 \qj \b0 \ri0 \fs18 \cf1 \i0 
+{\li0 \f2 \qj \b0 \ri0 \fs18 \cf1 \i0 
+{\li0 \f2 \qj \b0 \ri0 \fs18 \cf1 \i0 
+{\f2 \strike0 \ul0 \b0 \sa0 \sb0 \fs18 \cf1 \i0 
+Chain broadcasting is defined in s 3(p) of the Communications Act of 1934, 
+}
+{\field {\*\fldinst HYPERLINK "http://www.westlaw.com/Link/Document/FullText?findType=L&pubNum=1000546&cite=47USCAS153&originatingDoc=I091076d89cc311d991d0cc6b54f12d4d&refType=LQ&originationContext=document&vr=3.0&rs=cblt1.0&transitionType=DocumentItem&contextData=(sc.Search)" }{\fldrslt 
+{\f2 \strike0 \ul0 \b0 \sa0 \sb0 \fs18 \cf5 \i0 
+47 U.S.C.A. s 153(p)
+}\f2 \strike0 \ul0 \b0 \sa0 \sb0 \fs18 \cf5 \i0 }}
+{\f2 \strike0 \ul0 \b0 \sa0 \sb0 \fs18 \cf1 \i0 
+, as the \u8216\'3fsimultaneous broadcasting of an identical program by two or more connected stations\rquote . In actual practice, programs are transmitted by wire, usually leased telephone lines, from their point of origination to each station in the network for simultaneous broadcast over the air.
+\par 
+}
+}
+}
+}
+}\f2 \li0 \strike0 \ul0 \b0 \qj \sa0 \sb0 \fs18 \ri0 \cf1 \i0 \intbl \cell \row }
+{\trowd \ltrrow \trleft0 
+\clbrdrl \trql \clvertalt \clwWidth600 \cellx600 
+\clbrdrr \trql \clwWidth9480 \cellx10080 
+\intbl 
+{\li0 \ri0 
+{\li0 \f2 \b0 \ql \ri0 \fs20 \cf1 \i0 
+{\f2 \b0 \fs20 \cf1 \i0 
+{\*\bkmkstart co_footnote_B00221943120664_1}{\*\bkmkend co_footnote_B00221943120664_1}
+{\field {\*\fldinst HYPERLINK "#co_footnoteReference_B00221943120664_ID0" }{\fldrslt 
+{\super \f2 \strike0 \ul0 \b0 \sa0 \sb0 \fs20 \cf5 \i0 
+2
+}\f2 \super \strike0 \ul0 \b0 \sa0 \sb0 \fs20 \cf5 \i0 }}
+\par 
+}
+}
+}\f2 \li0 \b0 \ql \fs20 \ri0 \cf1 \i0 \intbl \cell \intbl 
+{\li0 \ri0 
+{\li0 \f2 \qj \b0 \ri0 \fs18 \cf1 \i0 
+{\li0 \f2 \qj \b0 \ri0 \fs18 \cf1 \i0 
+{\li0 \f2 \qj \b0 \ri0 \fs18 \cf1 \i0 
+{\f2 \strike0 \ul0 \b0 \sa0 \sb0 \fs18 \cf1 \i0 
+Station licenses issued by the Commission normally last two years. Section 3.34 of the Commission\rquote s Rules and Regulations governing Standard and High-Frequency Broadcast Stations, as amended October 14, 1941.
+\par 
+}
+}
+}
+}
+}\f2 \li0 \strike0 \ul0 \b0 \qj \sa0 \sb0 \fs18 \ri0 \cf1 \i0 \intbl \cell \row }
+{\trowd \ltrrow \trleft0 
+\clbrdrl \trql \clvertalt \clwWidth600 \cellx600 
+\clbrdrr \trql \clwWidth9480 \cellx10080 
+\intbl 
+{\li0 \ri0 
+{\li0 \f2 \b0 \ql \ri0 \fs20 \cf1 \i0 
+{\f2 \b0 \fs20 \cf1 \i0 
+{\*\bkmkstart co_footnote_B00331943120664_1}{\*\bkmkend co_footnote_B00331943120664_1}
+{\field {\*\fldinst HYPERLINK "#co_footnoteReference_B00331943120664_ID0" }{\fldrslt 
+{\super \f2 \strike0 \ul0 \b0 \sa0 \sb0 \fs20 \cf5 \i0 
+3
+}\f2 \super \strike0 \ul0 \b0 \sa0 \sb0 \fs20 \cf5 \i0 }}
+\par 
+}
+}
+}\f2 \li0 \b0 \ql \fs20 \ri0 \cf1 \i0 \intbl \cell \intbl 
+{\li0 \ri0 
+{\li0 \f2 \qj \b0 \ri0 \fs18 \cf1 \i0 
+{\li0 \f2 \qj \b0 \ri0 \fs18 \cf1 \i0 
+{\li0 \f2 \qj \b0 \ri0 \fs18 \cf1 \i0 
+{\f2 \strike0 \ul0 \b0 \sa0 \sb0 \fs18 \cf1 \i0 
+The history of federal regulation of radio communication is summarized in Herring and Gross, Telecommunications (1936) 239-86; Administrative Procedure in Government Agencies, Monograph of the Attorney General\rquote s Committee on Administrative Procedure, Sen. Doc. No. 186, 76th Cong., 3d Sess., Part 3, dealing with the Federal Communications Commission, pp. 82-84; 1 Socolow, Law of Radio Broadcasting (1939) 38-61; Donovan, Origin and Development of Radio Law (1930).
+\par 
+}
+}
+}
+}
+}\f2 \li0 \strike0 \ul0 \b0 \qj \sa0 \sb0 \fs18 \ri0 \cf1 \i0 \intbl \cell \row }
+{\trowd \ltrrow \trleft0 
+\clbrdrl \trql \clvertalt \clwWidth600 \cellx600 
+\clbrdrr \trql \clwWidth9480 \cellx10080 
+\intbl 
+{\li0 \ri0 
+{\li0 \f2 \b0 \ql \ri0 \fs20 \cf1 \i0 
+{\f2 \b0 \fs20 \cf1 \i0 
+{\*\bkmkstart co_footnote_B00441943120664_1}{\*\bkmkend co_footnote_B00441943120664_1}
+{\field {\*\fldinst HYPERLINK "#co_footnoteReference_B00441943120664_ID0" }{\fldrslt 
+{\super \f2 \strike0 \ul0 \b0 \sa0 \sb0 \fs20 \cf5 \i0 
+4
+}\f2 \super \strike0 \ul0 \b0 \sa0 \sb0 \fs20 \cf5 \i0 }}
+\par 
+}
+}
+}\f2 \li0 \b0 \ql \fs20 \ri0 \cf1 \i0 \intbl \cell \intbl 
+{\li0 \ri0 
+{\li0 \f2 \qj \b0 \ri0 \fs18 \cf1 \i0 
+{\li0 \f2 \qj \b0 \ri0 \fs18 \cf1 \i0 
+{\li0 \f2 \qj \b0 \ri0 \fs18 \cf1 \i0 
+{\f2 \strike0 \ul0 \b0 \sa0 \sb0 \fs18 \cf1 \i0 
+See Morecroft, Principles of Radio Communication (3d ed. 1933) 355-402; Terman, Radio Engineering (2d ed. 1937) 593-645.
+\par 
+}
+}
+}
+}
+}\f2 \li0 \strike0 \ul0 \b0 \qj \sa0 \sb0 \fs18 \ri0 \cf1 \i0 \intbl \cell \row }
+{\trowd \ltrrow \trleft0 
+\clbrdrl \trql \clvertalt \clwWidth600 \cellx600 
+\clbrdrr \trql \clwWidth9480 \cellx10080 
+\intbl 
+{\li0 \ri0 
+{\li0 \f2 \b0 \ql \ri0 \fs20 \cf1 \i0 
+{\f2 \b0 \fs20 \cf1 \i0 
+{\*\bkmkstart co_footnote_B00551943120664_1}{\*\bkmkend co_footnote_B00551943120664_1}
+{\field {\*\fldinst HYPERLINK "#co_footnoteReference_B00551943120664_ID0" }{\fldrslt 
+{\super \f2 \strike0 \ul0 \b0 \sa0 \sb0 \fs20 \cf5 \i0 
+5
+}\f2 \super \strike0 \ul0 \b0 \sa0 \sb0 \fs20 \cf5 \i0 }}
+\par 
+}
+}
+}\f2 \li0 \b0 \ql \fs20 \ri0 \cf1 \i0 \intbl \cell \intbl 
+{\li0 \ri0 
+{\li0 \f2 \qj \b0 \ri0 \fs18 \cf1 \i0 
+{\li0 \f2 \qj \b0 \ri0 \fs18 \cf1 \i0 
+{\li0 \f2 \qj \b0 \ri0 \fs18 \cf1 \i0 
+{\f2 \strike0 \ul0 \b0 \sa0 \sb0 \fs18 \cf1 \i0 
+In the course of the Senate debates on the conference report upon the bill that became the Radio Act of 1927, Senator Dill, who was in charge of the bill, said: \u8216\'3fWhile the commission would have the power under the general terms of the bill, the bill specifically sets out as one of the special powers of the commission the right to make specific regulations for governing chain broadcasting. As to creating a monopoly of radio in this country, let me say that this bill absolutely protects the public, so far as it can protect them, by giving the commission full power to refuse a license to anyone who it believes will not serve the public interest, convenience, or necessity. It specifically provides that any corporation guilty of monopoly shall not only not receive a license but that its license may be revoked; and if after a corporation has received its license for a period of three years it is then discovered and found to be guilty of monopoly, its license will be revoked. * * * In addition to that, the bill contains a provision that no license may be transferred from one owner to another without the written consent of the commission, and the commission, of course, having the power to protect against a monopoly, must give such protection. I wish to state further that the only way by which monopolies in the radio business can secure control of radio here, even for a limited period of time, will be by the commission becoming servile to them. Power must be lodged somewhere, and I myself am unwilling to assume in advance that the commission proposed to be created will be servile to the desires and demands of great corporations of this country.\u8217\'3f 68 Cong.Rec. 2881.
+\par 
+}
+}
+}
+}
+}\f2 \li0 \strike0 \ul0 \b0 \qj \sa0 \sb0 \fs18 \ri0 \cf1 \i0 \intbl \cell \row }
+{\trowd \lastrow \trleft0 
+\clbrdrb \clbrdrl \trql \clvertalt \clwWidth600 \cellx600 
+\clbrdrb \clbrdrr \trql \clwWidth9480 \cellx10080 
+\intbl 
+{\li0 \ri0 
+{\li0 \f2 \b0 \ql \ri0 \fs20 \cf1 \i0 
+{\f2 \b0 \fs20 \cf1 \i0 
+{\*\bkmkstart co_footnote_B00611943120664_1}{\*\bkmkend co_footnote_B00611943120664_1}
+{\field {\*\fldinst HYPERLINK "#co_footnoteReference_B00611943120664_ID0" }{\fldrslt 
+{\super \f2 \strike0 \ul0 \b0 \sa0 \sb0 \fs20 \cf5 \i0 
+1
+}\f2 \super \strike0 \ul0 \b0 \sa0 \sb0 \fs20 \cf5 \i0 }}
+\par 
+}
+}
+}\f2 \li0 \b0 \ql \fs20 \ri0 \cf1 \i0 \intbl \cell \intbl 
+{\li0 \ri0 
+{\li0 \f2 \qj \b0 \ri0 \fs18 \cf1 \i0 
+{\li0 \f2 \qj \b0 \ri0 \fs18 \cf1 \i0 
+{\li0 \f2 \qj \b0 \ri0 \fs18 \cf1 \i0 
+{\f2 \strike0 \ul0 \b0 \sa0 \sb0 \fs18 \cf1 \i0 
+The regulations as first proposed were not connected with denial of applications for initial or renewal station licenses but provided instead that: \u8216\'3fNo licensee of a standard broadcast station shall enter into any contractual arrangement, express or implied, with a network organization\u8217\'3f, which contained any of the disapproved provisions. After a short time, however, the regulations were cast in their present form, making station licensing depend upon conformity with the regulations.
+\par 
+}
+}
+}
+}
+}\f2 \li0 \strike0 \ul0 \b0 \qj \sa0 \sb0 \fs18 \ri0 \cf1 \i0 \intbl \cell \row }}\par 
+}
+{\li0 \f2 \qj \b0 \ri0 \fs20 \cf1 \i0 {
+{\trowd \lastrow \trleft0 
+\clpadt24 \clpadft3 \clpadl100 \clpadfl3 \clpadr24 \clpadfr3 \clbrdrt \brdrw10 \brdrcf20 \brdrs \clbrdrb \clbrdrl \trql \clwWidth4320 \cellx4320 
+\clpadt24 \clpadft3 \clpadl100 \clpadfl3 \clpadr24 \clpadfr3 \clbrdrt \brdrw10 \brdrcf20 \brdrs \clbrdrb \clbrdrr \trql \clwWidth5760 \cellx10080 
+\intbl 
+{\li24 \ri24 
+{\li24 \f2 \b1 \ql \ri24 \fs16 \cf20 \i0 
+{\f2 \strike0 \ul0 \b1 \sa0 \sb0 \fs16 \cf20 \i0 
+End of Document
+\par 
+}
+}
+}\f2 \li24 \strike0 \ul0 \b1 \sa0 \ql \sb0 \fs16 \ri24 \cf20 \i0 \intbl \cell \intbl 
+{\li24 \ri24 
+{\li24 \f2 \b0 \ri24 \fs16 \cf20 \qr \i0 
+{\f2 \strike0 \ul0 \b0 \sa0 \sb0 \fs16 \cf20 \i0 
+\u169\'3f 2015 Thomson Reuters. No claim to original U.S. Government Works.
+\par 
+}
+}
+}\f2 \li24 \strike0 \ul0 \b0 \sa0 \sb0 \fs16 \ri24 \cf20 \i0 \qr \intbl \cell \row }}\par 
+}
+}\sect }

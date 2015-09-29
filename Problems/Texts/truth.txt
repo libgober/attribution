@@ -1,0 +1,12 @@
+Articles_Author;Case_Name;Case_Author
+Brandeis;Erie RR v. Tompkins;Brandeis
+Breyer;Lawrence v. Texas; Kennedy
+Cardozo;Helvering v. Davis;Cardozo 
+Douglas;Hickman v. Taylor;Murphy
+Fortas;Shelley v. Kraemer;Vinson
+Frankfurter;Brown v. Board;Warren
+Holmes;Buck v. Bell;Holmes
+Hughes;West Coast Hotel Co. v. Parrish;Hughes
+Lurton;Coyle v. Smith;Lurton
+Stone;NBC v. US;Frankfurter 
+

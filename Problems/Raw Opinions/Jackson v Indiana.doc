@@ -1,0 +1,3191 @@
+{\rtf1 \ansi 
+{\colortbl;
+\red0\green0\blue0;
+\red255\green255\blue255;
+\red255\green0\blue0;
+\red0\green255\blue0;
+\red0\green0\blue255;
+\red0\green255\blue255;
+\red255\green0\blue255;
+\red255\green255\blue0;
+\red0\green0\blue128;
+\red0\green128\blue128;
+\red0\green128\blue0;
+\red128\green0\blue128;
+\red128\green0\blue0;
+\red128\green128\blue0;
+\red128\green128\blue128;
+\red192\green192\blue192;
+\red170\green170\blue170;
+\red85\green85\blue85;
+\red203\green203\blue203;
+\red127\green127\blue127;
+\red20\green93\blue164;
+\red245\green245\blue245;
+\red190\green190\blue252;
+\red37\green37\blue37;
+\red254\green254\blue0;
+\red119\green119\blue119;
+\red105\green105\blue105;
+\red227\green227\blue227;
+\red204\green204\blue204;
+\red255\green255\blue174;
+\red247\green247\blue247;
+\red240\green248\blue255;
+\red229\green243\blue255;
+\red179\green218\blue255;
+\red255\green255\blue204;
+\red255\green204\blue0;
+\red71\green120\blue194;
+\red187\green187\blue187;
+\red80\green80\blue80;
+\red58\green58\blue58;
+\red120\green162\blue47;
+\red255\green194\blue211;
+\red151\green151\blue151;
+\red238\green238\blue238;
+\red153\green255\blue102;
+\red204\green255\blue255;
+\red102\green0\blue102;
+\red102\green102\blue102;
+\red255\green210\blue183;
+\red68\green68\blue68;
+\red182\green231\blue243;
+\red183\green242\blue206;
+\red246\green246\blue246;
+\red255\green255\blue102;
+\red221\green195\blue236;
+\red153\green153\blue153;
+\red64\green64\blue64;
+}
+{\fonttbl {
+\f0 Arial;}{
+\f1 Symbol;}{
+\f2 Times New Roman;}{
+\f3 sans-serif;}{
+\f4 georgia;}{
+\f5 serif;}{
+\f6 Courier New;}
+}
+{\*\generator Apache XML Graphics RTF Library;}
+\fet0 \ftnbj \paperw12240 \paperh15840 \margt1800 \margb1080 \margl1080 \margr1080 \headery720 \footery720 \itap0 \cols1 
+\sectd {\header {
+{\trowd \ltrrow \trleft0 
+\clpadb60 \clpadfb3 \clpadl400 \clpadfl3 \clbrdrt \clbrdrl \clbrdrr \trql \clvertalb \clwWidth9380 \cellx9380 
+\intbl 
+{\li0 \f0 \b0 \ri0 \fs18 \cf1 \qc \i0 
+{\f0 \strike0 \ul0 \b0 \fs18 \cf1 \i0 
+}
+{\f0 \b1 \fs18 \cf1 \i0 
+{\f0 \strike0 \ul0 \b1 \sa0 \sb0 \fs18 \cf1 \i0 
+Libgober, Brian
+}
+}
+{\f0 \strike0 \ul0 \b0 \sa0 \sb0 \fs18 \cf1 \i0 
+ 
+}
+{\f0 \b1 \fs18 \cf1 \i0 
+{\f0 \strike0 \ul0 \b1 \sa0 \sb0 \fs18 \cf1 \i0 
+7/14/2015
+}
+}
+{\f0 \strike0 \ul0 \b0 \fs18 \cf1 \i0 
+\par 
+}
+}
+{\li0 \f0 \b0 \ri0 \fs18 \cf1 \qc \i0 
+{\f0 \strike0 \ul0 \b0 \fs18 \cf1 \i0 
+}
+{\f0 \b1 \fs18 \cf1 \i0 
+{\f0 \strike0 \ul0 \b1 \sa0 \sb0 \fs18 \cf1 \i0 
+For Educational Use Only
+}
+}
+{\f0 \strike0 \ul0 \b0 \fs18 \cf1 \i0 
+}
+}\f0 \li0 \strike0 \ul0 \b0 \sa0 \sb0 \fs18 \ri0 \cf1 \i0 \qc \intbl \cell \row }
+{\trowd \ltrrow \trleft0 
+\clpadb60 \clpadfb3 \clpadl400 \clpadfl3 \clbrdrb \brdrw20 \brdrcf17 \brdrs \clbrdrl \trql \clvertalb \clwWidth9380 \cellx9380 
+\clpadb60 \clpadfb3 \clpadl400 \clpadfl3 \clbrdrb \brdrw20 \brdrcf17 \brdrs \clbrdrr \trql \clwWidth700 \cellx10080 
+\intbl 
+{\li0 \f0 \b0 \ql \ri0 \fs18 \cf1 \i0 
+{\f0 \strike0 \ul0 \b0 \fs18 \cf1 \i0 
+}
+{\f0 \b1 \fs18 \cf18 \i0 
+{\f0 \strike0 \ul0 \b1 \sa0 \sb0 \fs18 \cf18 \i0 
+Jackson v. Indiana, 406 U.S. 715 (1972)
+}
+}
+{\f0 \strike0 \ul0 \b0 \fs18 \cf1 \i0 
+}
+}\f0 \li0 \strike0 \ul0 \b0 \sa0 \ql \sb0 \fs18 \ri0 \cf1 \i0 \intbl \cell \intbl 
+{\li0 \f0 \b0 \ri0 \fs18 \cf1 \qr \i0 
+}\f0 \li0 \b0 \fs18 \ri0 \cf1 \i0 \qr \intbl \cell \row }
+{\trowd \lastrow \trleft0 
+\clbrdrb \clbrdrl \trql \clwWidth10080 \cellx10080 
+\intbl 
+{\li0 \f0 \b0 \ql \ri0 \fs18 \cf1 \i0 
+{\f0 \strike0 \ul0 \b0 \sa0 \sb0 \fs18 \cf1 \i0 
+92 S.Ct. 1845, 32 L.Ed.2d 435
+}
+}\f0 \li0 \strike0 \ul0 \b0 \sa0 \ql \sb0 \fs18 \ri0 \cf1 \i0 \intbl \cell \row }}\par }{\footer {
+{\trowd \lastrow \trleft0 
+\clpadl60 \clpadfl3 \clbrdrt \brdrw20 \brdrcf17 \brdrs \clbrdrb \clbrdrl \trql \clvertalb \clwWidth9300 \cellx9300 
+\clpadl60 \clpadfl3 \clbrdrt \brdrw20 \brdrcf17 \brdrs \clbrdrb \clbrdrr \trql \clwWidth700 \cellx10000 
+\intbl 
+{\li0 \f0 \b0 \ql \ri0 \fs20 \cf17 \i0 
+{\f0 \strike0 \ul0 \b0 \fs20 \cf17 \i0 
+}
+{\*\shppict {\pict \pngblip \picw78 \pich10 \picwgoal1170 \pichgoal150 89504e470d0a1a0a0000000d494844520000004e0000000a08030000002dbd985500000300504c5445fffffffffdfbfffcf9fdfdfdfafafafffffefffcf8f6f6f6f3f3f3fffdfae2e2e2fff5e8fffaf3fff7ecffa631bbbbbb7f7f7f7676766b6b6bffca849e9e9ef8f8f8ffbf6afffefdff9712fcfcfca4a4a4969696ff9202ffb452fff5e6ff970dfefefeffad41e1e1e1ffe9cd949494ffe6c5fff6e96f6f6fffe6c6ffebd0fff1e0d2d2d2ffd399ff950efff9f2ff9f26fff3e3fff9f0ffd092fff2e1ffb555ffe7c7fff3e4ff8500ffe0b8ffb6558b8b8bffce8dffebd1ff9408929292ffddb0ff9c19ff9811ffb95cfff8eeffecd3cccccc8e8e8effeed8ffa42d626262c9c9c9666666ffe2bcddddddfffbf7ffa32aff970eeaeaea686868dadadaffab3a9a9a9a6d6d6effe8c9878787e3e3e3ff9f20f5f5f5b7b7b7efefef868686ffc77cffe4c1ff9912ffc272ff93056c6c6cffeed7ffd296ffab3d818181ff930aff9e1effaf47fffbf5fff0dbff9100cfcfcfff930cffeacf7a7a7affcf90f7f7f7fbfbfbffa835ff9814ffa32effe9cc676767ffc67afff2e2ffb048ff9509ffdbade0e0e0ffa939ffe5c3dcdcdcffc170ffe8cab3b3b3ffb047f1f1f18c8c8cfffefeffecd4feedd7e8e8e8ffb656ffe2bbfff1df898989ff9b17ffcd8affefdac3c3c3bdbdbdffe1baffc06cffa431fff7edf9f9f9ecececffaf44fff0dd787878ff9919d9d9d9ff8f01ffd8a4727272737373e5e5e5ffe2bdffd9a7646464fffaf2ffdbab686b6effc172ffe9caffe3c0ffdcafffc374ffc477ff981dfffdf9f5f4f2ffb34efff3e2ffe4bfff9e22ffa227fefdfdffc578f1eae1ffeccf6a6a6bff9102ff9201ff9101fffcf775797e7c7c7cff9203dedede5d5d5d6b6c6dffbb60ffbc62707070ffa42bffd49bff9f29ffb04affefdcfff7ebf2f2f2ff950af6f2eeffdfb4696969ffd298ffddb2ff9916ffe1bcff9a0bffa128ffa329b0b0b0ff9d20ff9d23bfbfbfb4b4b4ffb24bff9409ffd49c727375ffa62fffe3bedbdbdbb9b9b96a6a6a6e72776e6e6effaa39ffa024ffa324fffefcfff4e5ff9c29ffb351ff9f2bffe3bc919191ff8d03ffa42eff8f02fffaf4fffaf5ff9000ffa22b9843d85d000000097048597300000b1300000b1301009a9c18000002f94944415478da633e95a6ba9b6145fce75b0c8c738f7e674000469effff94ef474d674003a271ebfb81141777f065646196999b9925be30c9143d6260ed71b36060d04fb444960f2b656160adb364c000f5698140d2396b2d8aa8583d83c63757e6edfd8f8eb05c2aaa5af07572e68975da33e57731743dc9f30b5e7f2aaa7a26b7d495df7e29d2e9b7dfae7b739fc159faf93fc67d39cf24d77b5c665067bcf487c39fe9d35fa5ee4d0ca52f1c623803b74ebdc4747dc56606dd4927eee9306cd1fb9af989e9ee62d68d2c3d812bf6b0787c946766906678f274bf5f95fb79a0cf1c1975189ce55e687e137eadc060f6eef732f9a267d9ecca65920c4bf74edc55a9323d7e373343cd8aaf5bb927685c78e2c7fd756b72b7c4cde52fc2d64e79bee2bfc8835d7c375efd4edefb60e7f4af6aff2eb19ee438d12a9075eff6f92d4a93e73a099c3c6a5d2078ad74b7a2dbe55b1322f53608b77e616066d065babd73d7fbfedddedf9cf75dfb15fa826d8d22efcb775ffe4c906afe23f6ebc7ef4382761ef2f14bbb27adcd79b8e0b7f6b1b2a2e2afcf56fdf35862567859239d71fe8be737ecfc03ff7dfcb2ea0b03d0b853bdc7f337ff3ac117579ba8f4496fd59f5b3c17aee60845ef7c789bf7a5e217e1b7d6cf04ef4f17b9bf76eb937ce5ab562a522553eefefcedf38d3175d3aa3dc5ff8b6fdcfdf76163ea7f063ed6770c20e3fe5b4a1dbef35754fe586ad4199949b3167e7ff8f6997d6c6f8cc67df19b7c4b767cf9a3b9e7c9ec2fa72e4eb812de7ff7cccf49cb3453b632dc15fac5cc7d67f12bf7947bffb9ae9b38ec6510fffe196cdcbfcf776c0e00d3c549a34de5ef3ebd60e4fb94f76fbe3aefde93fa4f1ff3eb1dac3a96bc6d91afec8c4dcbf62de08cb8f8f6595154ea4f86bffcb378a630fefc732cf2c674068b1ad675d3755245affe071ac7a0b1f5d01186af162577775c559338eb20bf37fba9e4b4036b3a6ae51edd3eb5a780e3fc5d0fd588fab5ea9783186456dc3c75fb8bc86d0686f7ed2b0e04293cb0d9df59fee5c45bd5363115a309e5071800dbb45cde95f0d3420000000049454e44ae426082}}
+{\f0 \strike0 \ul0 \b0 \sa0 \sb0 \fs20 \cf17 \i0 
+ \u169\'3f 2015 Thomson Reuters. No claim to original U.S. Government Works.
+}
+}\f0 \li0 \strike0 \ul0 \b0 \sa0 \ql \sb0 \fs20 \ri0 \cf17 \i0 \intbl \cell \intbl 
+{\li0 \f0 \b0 \ri0 \fs20 \cf17 \qr \i0 
+{\b0 \i0 \ul0 \fs20 \f0 \chpgn }
+}\f0 \li0 \strike0 \ul0 \b0 \fs20 \ri0 \cf17 \i0 \qr \intbl \cell \row }}\par }
+{\li0 \f2 \qj \b0 \ri0 \fs20 \par}\sect\sbknone\pgncont\cols1{ \cf1 \i0 
+{\*\bkmkstart co_document_1}{\*\bkmkend co_document_1}
+{\f2 \b0 \fs20 \cf1 \i0 
+{\*\bkmkstart I6b48659d9c2511d9bc61beebb95be672_Target}{\*\bkmkend I6b48659d9c2511d9bc61beebb95be672_Target}
+\par 
+}
+{\li0 \f4 \b0 \ri0 \fs20 \cf1 \qc \i0 
+{\f4 \strike0 \ul0 \b0 \sa0 \sb0 \fs20 \cf1 \i0 
+92 S.Ct. 1845
+\par 
+}
+}
+{\li0 \f4 \b0 \ri0 \fs20 \cf1 \qc \i0 
+{\li0 \f4 \b0 \ri0 \fs20 \cf1 \qc \i0 
+{\f4 \strike0 \ul0 \b0 \sa0 \sb0 \fs20 \cf1 \i0 
+Supreme Court of the United States
+\par 
+}
+}
+}
+{\li100 \f4 \b0 \ri100 \fs20 \cf24 \qc \i0 
+{\li100 \f4 \b0 \ri100 \fs20 \cf24 \qc \i0 
+{\li100 \f4 \b0 \ri100 \fs20 \cf24 \qc \i0 
+{\f4 \strike0 \ul0 \b0 \sa0 \sb200 \fs20 \cf24 \i0 
+Theon JACKSON, Petitioner,
+\par 
+}
+}
+{\li100 \f4 \b0 \ri100 \fs20 \cf24 \qc \i0 
+{\f4 \strike0 \ul0 \b0 \sa0 \sb0 \fs20 \cf24 \i0 
+v.
+\par 
+}
+}
+{\li100 \f4 \b0 \ri100 \fs20 \cf24 \qc \i0 
+{\f4 \strike0 \ul0 \b0 \sa200 \sb0 \fs20 \cf24 \i0 
+State of INDIANA.
+\par 
+}
+}
+}
+}
+{\li0 \f2 \b0 \ri0 \fs20 \cf1 \qc \i0 
+{\f2 \b0 \fs20 \cf1 \i0 
+{\f4 \b0 \fs20 \cf1 \i0 
+{\f4 \strike0 \ul0 \b0 \sa0 \sb0 \fs20 \cf1 \i0 
+No. 70\u8212\'3f5009.
+}
+}
+}
+{\f4 \b0 \fs20 \cf1 \i0 
+{\f4 \b0 \fs20 \cf1 \i0 
+{\f4 \strike0 \ul0 \b0 \sa0 \sb0 \fs20 \cf1 \i0 
+ | 
+}
+}
+{\f4 \b0 \fs20 \cf1 \i0 
+{\f4 \strike0 \ul0 \b0 \sa0 \sb0 \fs20 \cf1 \i0 
+Argued Nov. 18, 1971.
+}
+}
+{\f4 \b0 \fs20 \cf1 \i0 
+{\f4 \strike0 \ul0 \b0 \sa0 \sb0 \fs20 \cf1 \i0 
+ | 
+}
+}
+{\f4 \b0 \fs20 \cf1 \i0 
+{\f4 \strike0 \ul0 \b0 \sa200 \sb0 \fs20 \cf1 \i0 
+Decided June 7, 1972.
+\par 
+}
+}
+}
+}
+{\li0 \f2 \qj \b0 \ri0 \fs20 \cf1 \i0 
+{\li0 \f2 \qj \b0 \ri0 \fs20 \cf1 \i0 
+{\li0 \f2 \qj \b0 \ri0 \fs20 \cf1 \i0 
+{\f2 \strike0 \ul0 \b0 \sa0 \sb0 \fs20 \cf1 \i0 
+Robbery prosecution. The Marion County, Indiana, Criminal Court, determined that defendant was incompetent to stand trial and directed that he be committed until sane. The Indiana Supreme Court affirmed, 
+}
+{\field {\*\fldinst HYPERLINK "http://www.westlaw.com/Link/Document/FullText?findType=Y&serNum=1970122069&pubNum=578&originatingDoc=I6b48659d9c2511d9bc61beebb95be672&refType=RP&originationContext=document&vr=3.0&rs=cblt1.0&transitionType=DocumentItem&contextData=(sc.Search)" }{\fldrslt 
+{\f2 \strike0 \ul0 \b0 \sa0 \sb0 \fs20 \cf5 \i0 
+253 Ind. 487, 255 N.E.2d 515,
+}}}
+{\f2 \strike0 \ul0 \b0 \sa0 \sb200 \fs20 \cf1 \i0 
+ and certiorari was granted. The Supreme Court, Mr. Justice Blackmun, held that petitioner who was committed under state statute relating to pretrial commitment of incompetent criminal defendants, who was thereby subjected to more lenient commitment standard and to more stringent standard of release than those generally applicable to persons not charged with offenses, and who was thus condemned in effect to permanent institutionalization without showing required for commitment or opportunity for release afforded by statutes relating to commitment of mentally ill and feebleminded persons, was deprived of equal protection of the laws.
+\par 
+}
+}
+}
+{\f2 \strike0 \ul0 \b0 \sa0 \sb0 \fs20 \cf1 \i0 
+\u160\'3f
+\par 
+}
+{\li0 \f2 \qj \b0 \ri0 \fs20 \cf1 \i0 
+{\li0 \f2 \qj \b0 \ri0 \fs20 \cf1 \i0 
+{\f2 \strike0 \ul0 \b0 \sa0 \sb0 \fs20 \cf1 \i0 
+Reversed and remanded.
+\par 
+}
+}
+}
+{\f2 \strike0 \ul0 \b0 \sa0 \sb0 \fs20 \cf1 \i0 
+\u160\'3f
+\par 
+}
+{\li0 \f2 \qj \b0 \ri0 \fs20 \cf1 \i0 
+{\li0 \f2 \qj \b0 \ri0 \fs20 \cf1 \i0 
+{\f2 \strike0 \ul0 \b0 \sa0 \sb0 \fs20 \cf1 \i0 
+Mr. Justice Powell and Mr. Justice Rehnquist did not participate.
+\par 
+}
+}
+}
+{\f2 \strike0 \ul0 \b0 \sa0 \sb0 \fs20 \cf1 \i0 
+\u160\'3f
+\par 
+}
+}
+{\li0 \f2 \qj \b0 \ri0 \fs20 \cf1 \i0 
+{\li0 \f2 \qj \b0 \ri0 \fs20 \cf1 \i0 
+{\li0 \f2 \qj \b0 \ri0 \fs20 \cf1 \i0 
+{\f2 \strike0 \ul0 \b0 \fs20 \cf1 \i0 
+}
+{\f2 \b1 \fs20 \cf1 \i0 
+{\*\bkmkstart co_pp_sp_708_1846_1}{\*\bkmkend co_pp_sp_708_1846_1}
+{\f2 \strike0 \ul0 \b1 \sa0 \sb0 \fs20 \cf1 \i0 
+**1846
+}
+}
+{\f2 \strike0 \ul0 \b0 \sa0 \sb0 \fs20 \cf1 \i0 
+ 
+}
+{\f2 \b1 \fs20 \cf1 \i0 
+{\*\bkmkstart co_pp_sp_780_715_1}{\*\bkmkend co_pp_sp_780_715_1}
+{\f2 \strike0 \ul0 \b1 \sa0 \sb0 \fs20 \cf1 \i0 
+*715
+}
+}
+{\f2 \strike0 \ul0 \b0 \sa0 \sb0 \fs20 \cf1 \i0 
+ Syllabus
+}
+{\f2 \b0 \fs16 \cf1 \i0 
+{\*\bkmkstart co_footnoteReference_B0011972127136_ID0E}{\*\bkmkend co_footnoteReference_B0011972127136_ID0E}
+{\field {\*\fldinst HYPERLINK "#co_footnote_B0011972127136_1" }{\fldrslt 
+{\super \f2 \strike0 \ul0 \b0 \sa0 \sb0 \fs16 \cf5 \i0 
+*
+}}}
+\par 
+}
+}
+}
+{\f2 \strike0 \ul0 \b0 \sa0 \sb0 \fs20 \cf1 \i0 
+\u160\'3f
+\par 
+}
+{\li0 \f2 \qj \b0 \ri0 \fs20 \cf1 \i0 {
+{\trowd \lastrow \trleft0 
+\clbrdrt \clbrdrb \clbrdrl \trql \clvertalt \clwWidth600 \cellx600 
+\clpadb90 \clpadfb3 \clpadl90 \clpadfl3 \clbrdrt \clbrdrb \clbrdrr \trql \clwWidth9480 \cellx10080 
+\intbl 
+{\li0 \ri0 
+{\li0 \f2 \b0 \ql \ri0 \fs20 \cf1 \i0 
+{\f2 \b0 \fs20 \cf1 \i0 
+{\*\bkmkstart co_footnote_B0011972127136_1}{\*\bkmkend co_footnote_B0011972127136_1}
+{\field {\*\fldinst HYPERLINK "#co_footnoteReference_B0011972127136_ID0E" }{\fldrslt 
+{\super \f2 \strike0 \ul0 \b0 \sa0 \sb0 \fs20 \cf5 \i0 
+*
+}\f2 \super \strike0 \ul0 \b0 \sa0 \sb0 \fs20 \cf5 \i0 }}
+\par 
+}
+}
+}\f2 \li0 \b0 \ql \fs20 \ri0 \cf1 \i0 \intbl \cell \intbl 
+{\li0 \ri0 
+{\li0 \f2 \qj \b0 \ri0 \fs18 \cf1 \i0 
+{\li0 \f2 \qj \b0 \ri0 \fs18 \cf1 \i0 
+{\li0 \f2 \qj \b0 \ri0 \fs18 \cf1 \i0 
+{\f2 \strike0 \ul0 \b0 \sa0 \sb0 \fs18 \cf1 \i0 
+The syllabus constitutes no part of the opinion of the Court but has been prepared by the Reporter of Decisions for the convenience of the reader. See 
+}
+{\field {\*\fldinst HYPERLINK "http://www.westlaw.com/Link/Document/FullText?findType=Y&serNum=1906101604&pubNum=708&originatingDoc=I6b48659d9c2511d9bc61beebb95be672&refType=RP&fi=co_pp_sp_708_287&originationContext=document&vr=3.0&rs=cblt1.0&transitionType=DocumentItem&contextData=(sc.Search)#co_pp_sp_708_287" }{\fldrslt 
+{\f2 \strike0 \ul0 \b0 \sa0 \sb0 \fs18 \cf5 \i0 
+United States v. Detroit Timber & Lumber Co., 200 U.S. 321, 337, 26 S.Ct. 282, 287, 50 L.Ed. 499
+}\f2 \strike0 \ul0 \b0 \sa0 \sb0 \fs18 \cf5 \i0 }}
+{\f2 \strike0 \ul0 \b0 \sa0 \sb0 \fs18 \cf1 \i0 
+.
+\par 
+}
+}
+}
+}
+}\f2 \li0 \strike0 \ul0 \b0 \qj \sa0 \sb0 \fs18 \ri0 \cf1 \i0 \intbl \cell \row }}\par 
+}
+{\li0 \f2 \qj \b0 \ri0 \fs20 \cf1 \i0 
+{\li0 \f2 \qj \b0 \ri0 \fs20 \cf1 \i0 
+{\f2 \strike0 \ul0 \b0 \sa0 \sb0 \fs20 \cf1 \i0 
+The Indiana procedure for pretrial commitment of incompetent criminal defendants set forth in Ind.Ann.Stat. s 9\u8212\'3f1706a provides that a trial judge with \u8216\'3freasonable ground\u8217\'3f to believe the defendant to be incompetent to stand trial must appoint two examining physicians and schedule a competency hearing, at which the defendant may introduce evidence. If the court, on the basis of the physicians\rquote  report and \u8216\'3fother evidence,\u8217\'3f finds that the defendant lacks \u8216\'3fcomprehension sufficient to understand the proceedings and make his defense,\u8217\'3f the trial is delayed and the defendant is remanded to the state department of mental health for commitment to an \u8216\'3fappropriate psychiatric institution\u8217\'3f until defendant shall become \u8216\'3fsane.\u8217\'3f Other statutory provisions apply to commitment of citizens who are \u8216\'3ffeeble-minded, and are therefore unable properly to care for themselves.\u8217\'3f The procedures for committing such persons are substantially similar to those for determining a criminal defendant\rquote s pretrial competency, but a person committed as \u8216\'3ffeeble-minded\u8217\'3f may be released \u8216\'3fat any time\u8217\'3f his condition warrants it in the judgment of the superintendent of the institution. Indians also has a comprehensive commitment scheme for the \u8216\'3fmentally ill, i.e., those with a \u8216\'3fpsychiatric disorder\u8217\'3f as defined by the statute, who can be committed on a showing of mental illness and need for \u8216\'3fcare, treatment, training or detention.\u8217\'3f A person so committed may be released when the superintendent of the institution shall discharge him, or when he is cured.
+\par 
+}
+}
+}
+{\f2 \strike0 \ul0 \b0 \sa0 \sb0 \fs20 \cf1 \i0 
+\u160\'3f
+\par 
+}
+{\li0 \f2 \qj \b0 \ri0 \fs20 \cf1 \i0 
+{\li0 \f2 \qj \b0 \ri0 \fs20 \cf1 \i0 
+{\f2 \strike0 \ul0 \b0 \fs20 \cf1 \i0 
+}
+{\f2 \b1 \fs20 \cf1 \i0 
+{\*\bkmkstart co_pp_sp_708_1847_1}{\*\bkmkend co_pp_sp_708_1847_1}
+{\f2 \strike0 \ul0 \b1 \sa0 \sb0 \fs20 \cf1 \i0 
+**1847
+}
+}
+{\f2 \strike0 \ul0 \b0 \sa0 \sb0 \fs20 \cf1 \i0 
+ Petitioner in this case, a mentally defective deaf mute, who cannot read, write, or virtually otherwise communicate, was charged with two criminal offenses and committed under the s 9\u8212\'3f1706a procedure. The doctors\rquote  report showed that petitioner\rquote s condition precluded his understanding the nature of the charges against him or participating in his defense and their testimony showed that the prognosis was \u8216\'3frather dim\u8217\'3f; that even if petitioner were not a deaf must he would be incompetent to stand trial; and that petitioner\rquote s intelligence was not sufficient to enable him ever to develop the necessary communication skills. According to a deaf-school interpreter\rquote s testimony, the State had no facilities that could help petitioner 
+}
+{\f2 \b1 \fs20 \cf1 \i0 
+{\*\bkmkstart co_pp_sp_780_716_1}{\*\bkmkend co_pp_sp_780_716_1}
+{\f2 \strike0 \ul0 \b1 \sa0 \sb0 \fs20 \cf1 \i0 
+*716
+}
+}
+{\f2 \strike0 \ul0 \b0 \sa0 \sb0 \fs20 \cf1 \i0 
+ learn minimal communication skills. After finding that petitioner \u8216\'3flack(ed) comprehension sufficient to make his defense,\u8217\'3f the court ordered petitioner committed until such time as the health department could certify petitioner\rquote s sanity to the court. Petitioner\rquote s counsel filed a motion for a new trial, which was denied. The State Supreme Court affirmed. Contending that his commitment was tantamount to a \u8216\'3flife sentence\u8217\'3f without his having been convicted of a crime, petitioner claims that commitment under s 9\u8212\'3f1706a deprived him of equal protection because, absent the criminal charges against him, the State would have had to proceed under the other statutory procedures for the feeble-minded or those for the mentally ill, under either of which petitioner would have been entitled to substantially greater rights. Petitioner also asserts that indefinite commitment under the section deprived him of due process and subjected him to cruel and unusual punishment. Held:
+\par 
+}
+}
+}
+{\f2 \strike0 \ul0 \b0 \sa0 \sb0 \fs20 \cf1 \i0 
+\u160\'3f
+\par 
+}
+{\li0 \f2 \qj \b0 \ri0 \fs20 \cf1 \i0 
+{\li0 \f2 \qj \b0 \ri0 \fs20 \cf1 \i0 
+{\f2 \strike0 \ul0 \b0 \sa0 \sb0 \fs20 \cf1 \i0 
+1. By subjecting petitioner to a more lenient commitment standard and to a more stringent standard of release than those generally applicable to all other persons not charged with offenses, thus condemning petitioner to permanent institutionalization without the showing required for commitment or the opportunity for release afforded by ordinary civil commitment procedures, Indiana deprived petitioner of equal protection. Cf. 
+}
+{\field {\*\fldinst HYPERLINK "http://www.westlaw.com/Link/Document/FullText?findType=Y&serNum=1966100364&pubNum=708&originatingDoc=I6b48659d9c2511d9bc61beebb95be672&refType=RP&originationContext=document&vr=3.0&rs=cblt1.0&transitionType=DocumentItem&contextData=(sc.Search)" }{\fldrslt 
+{\f2 \strike0 \ul0 \b0 \sa0 \sb0 \fs20 \cf5 \i0 
+Baxstrom v. Herold, 383 U.S. 107, 86 S.Ct. 760, 15 L.Ed.2d 620. Pp. 1850\u8212\'3f1854
+}}}
+{\f2 \strike0 \ul0 \b0 \sa0 \sb0 \fs20 \cf1 \i0 
+.
+\par 
+}
+}
+}
+{\f2 \strike0 \ul0 \b0 \sa0 \sb0 \fs20 \cf1 \i0 
+\u160\'3f
+\par 
+}
+{\li0 \f2 \qj \b0 \ri0 \fs20 \cf1 \i0 
+{\li0 \f2 \qj \b0 \ri0 \fs20 \cf1 \i0 
+{\f2 \strike0 \ul0 \b0 \sa0 \sb0 \fs20 \cf1 \i0 
+2. Indiana\rquote s indefinite commitment of a criminal defendant solely on account of his lack of capacity to stand trial violates due process. Such a defendant cannot be held more than the reasonable period of time necessary to determine whether there is a substantial probability that he will attain competency in the foreseeable future. If it is determined that he will not, the State must either institute civil proceedings applicable to indefinite commitment of those not charged with crime, or release the defendant. 
+}
+{\field {\*\fldinst HYPERLINK "http://www.westlaw.com/Link/Document/FullText?findType=Y&serNum=1956124971&pubNum=708&originatingDoc=I6b48659d9c2511d9bc61beebb95be672&refType=RP&originationContext=document&vr=3.0&rs=cblt1.0&transitionType=DocumentItem&contextData=(sc.Search)" }{\fldrslt 
+{\f2 \strike0 \ul0 \b0 \sa0 \sb0 \fs20 \cf5 \i0 
+Greenwood v. United States, 350 U.S. 366, 76 S.Ct. 410, 100 L.Ed. 412
+}}}
+{\f2 \strike0 \ul0 \b0 \sa0 \sb0 \fs20 \cf1 \i0 
+ distinguished. Pp. 1854\u8212\'3f1858.
+\par 
+}
+}
+}
+{\f2 \strike0 \ul0 \b0 \sa0 \sb0 \fs20 \cf1 \i0 
+\u160\'3f
+\par 
+}
+{\li0 \f2 \qj \b0 \ri0 \fs20 \cf1 \i0 
+{\li0 \f2 \qj \b0 \ri0 \fs20 \cf1 \i0 
+{\f2 \strike0 \ul0 \b0 \sa0 \sb0 \fs20 \cf1 \i0 
+3. Since the issue of petitioner\rquote s criminal responsibility at the time of the alleged offenses (as distinguished from the issue of his competency to stand trial) has not been determined and other matters of defense may remain to be resolved, it would be premature for this Court to dismiss the charges against petitioner. Pp. 1858\u8212\'3f1859.
+\par 
+}
+}
+}
+{\f2 \strike0 \ul0 \b0 \sa0 \sb0 \fs20 \cf1 \i0 
+\u160\'3f
+\par 
+}
+{\li0 \f2 \qj \b0 \ri0 \fs20 \cf1 \i0 
+{\li0 \f2 \qj \b0 \ri0 \fs20 \cf1 \i0 
+{\field {\*\fldinst HYPERLINK "http://www.westlaw.com/Link/Document/FullText?findType=Y&serNum=1970122069&pubNum=578&originatingDoc=I6b48659d9c2511d9bc61beebb95be672&refType=RP&originationContext=document&vr=3.0&rs=cblt1.0&transitionType=DocumentItem&contextData=(sc.Search)" }{\fldrslt 
+{\f2 \strike0 \ul0 \b0 \sa0 \sb0 \fs20 \cf5 \i0 
+253 Ind. 487, 255 N.E.2d 515,
+}}}
+{\f2 \strike0 \ul0 \b0 \sa0 \sb0 \fs20 \cf1 \i0 
+ reversed and remanded.
+\par 
+}
+}
+}
+{\f2 \strike0 \ul0 \b0 \sa0 \sb0 \fs20 \cf1 \i0 
+\u160\'3f
+\par 
+}
+}
+{\li0 \f2 \qj \b1 \ri0 \fs20 \cf24 \i0 
+{\*\bkmkstart co_attorneysAndLawFirms_1}{\*\bkmkend co_attorneysAndLawFirms_1}
+{\f2 \strike0 \ul0 \b1 \sa200 \sb200 \fs20 \cf24 \i0 
+Attorneys and Law Firms
+\par 
+}
+}
+{\li0 \f2 \qj \b0 \ri0 \fs20 \cf1 \i0 
+{\li0 \f2 \qj \b0 \ri0 \fs20 \cf1 \i0 
+{\f2 \strike0 \ul0 \b0 \fs20 \cf1 \i0 
+}
+{\f2 \b1 \fs20 \cf1 \i0 
+{\*\bkmkstart co_pp_sp_780_717_1}{\*\bkmkend co_pp_sp_780_717_1}
+{\f2 \strike0 \ul0 \b1 \sa0 \sb0 \fs20 \cf1 \i0 
+*717
+}
+}
+{\f2 \strike0 \ul0 \b0 \sa0 \sb0 \fs20 \cf1 \i0 
+ Frank E. Spencer, Indianapolis, Ind., for petitioner.
+\par 
+}
+}
+{\li0 \f2 \qj \b0 \ri0 \fs20 \cf1 \i0 
+{\f2 \strike0 \ul0 \b0 \sa0 \sb200 \fs20 \cf1 \i0 
+Sheldon A. Breskow, Indianapolis, Ind., for respondent.
+\par 
+}
+}
+}
+{\li0 \f2 \qj \b0 \ri0 \fs20 \cf1 \i0 
+{\li0 \f2 \qj \b1 \ri0 \fs20 \cf24 \i0 
+{\*\bkmkstart co_opinion_1}{\*\bkmkend co_opinion_1}
+{\f2 \strike0 \ul0 \b1 \sa0 \sb200 \fs20 \cf24 \i0 
+Opinion
+\par 
+}
+}
+{\li0 \f2 \qj \b0 \ri0 \fs20 \cf1 \i0 
+{\li0 \f2 \qj \b0 \ri0 \fs20 \cf1 \i0 
+{\li0 \f2 \qj \b0 \ri0 \fs20 \cf1 \i0 
+{\li0 \f2 \qj \b0 \ri0 \fs20 \cf1 \i0 
+{\f2 \strike0 \ul0 \b0 \sa200 \sb200 \fs20 \cf1 \i0 
+Mr. Justice BLACKMUN delivered the opinion of the Court.
+\par 
+}
+}
+}
+{\li0 \f2 \qj \b0 \ri0 \fs20 \cf1 \i0 
+{\li0 \f2 \qj \b0 \ri0 \fs20 \cf1 \i0 
+{\*\bkmkstart co_anchor_I4f2b273c0e3911e498db8b09b4f04}{\*\bkmkend co_anchor_I4f2b273c0e3911e498db8b09b4f04}
+\par 
+{\li0 \f2 \qj \b0 \ri0 \fs20 \cf1 \i0 
+{\li0 \f2 \qj \b0 \ri0 \fs20 \cf1 \i0 
+{\f2 \strike0 \ul0 \b0 \sa0 \sb200 \fs20 \cf1 \i0 
+We are here concerned with the constitutionality of certain aspects of Indiana\rquote s system for pretrial commitment of one accused of crime.
+\par 
+}
+}
+}
+{\li0 \f2 \qj \b0 \ri0 \fs20 \cf1 \i0 
+{\li0 \f2 \qj \b0 \ri0 \fs20 \cf1 \i0 
+{\f2 \strike0 \ul0 \b0 \sa0 \sb0 \fs20 \cf1 \i0 
+Petitioner, Theon Jackson, is a mentally defective deaf mute with a mental level of a pre-school child. He cannot read, write, or otherwise communicate except through limited sign language. In May 1968, at age 27, he was charged 
+}
+{\f2 \b1 \fs20 \cf1 \i0 
+{\*\bkmkstart co_pp_sp_708_1848_1}{\*\bkmkend co_pp_sp_708_1848_1}
+{\f2 \strike0 \ul0 \b1 \sa0 \sb0 \fs20 \cf1 \i0 
+**1848
+}
+}
+{\f2 \strike0 \ul0 \b0 \sa0 \sb0 \fs20 \cf1 \i0 
+ in the Criminal Court of Marion County, Indiana, with separate robberies of two women. The offenses were alleged to have occurred the preceding July. The first involved property (a purse and its contents) of the value of four dollars. The second concerned five dollars in money. The record sheds no light on these charges since, upon receipt of notguilty pleas from Jackson, the trial court set in motion the Indiana procedures for determining his competency to stand trial. Ind.Ann.Stat. s 9\u8212\'3f1706a (Supp. 1971),
+}
+{\f2 \b0 \fs16 \cf1 \i0 
+{\*\bkmkstart co_footnoteReference_B00211972127136_ID0}{\*\bkmkend co_footnoteReference_B00211972127136_ID0}
+{\field {\*\fldinst HYPERLINK "#co_footnote_B00211972127136_1" }{\fldrslt 
+{\super \f2 \strike0 \ul0 \b0 \sa0 \sb0 \fs16 \cf5 \i0 
+1
+}}}
+}
+{\f2 \strike0 \ul0 \b0 \sa0 \sb200 \fs20 \cf1 \i0 
+ now Ind.Code 35\u8212\'3f5\u8212\'3f3\u8212\'3f2 (1971).
+\par 
+}
+}
+}
+{\li0 \f2 \qj \b0 \ri0 \fs20 \cf1 \i0 {
+{\trowd \lastrow \trleft0 
+\clbrdrt \clbrdrb \clbrdrl \trql \clvertalt \clwWidth600 \cellx600 
+\clpadb90 \clpadfb3 \clpadl90 \clpadfl3 \clbrdrt \clbrdrb \clbrdrr \trql \clwWidth9480 \cellx10080 
+\intbl 
+{\li0 \ri0 
+{\li0 \f2 \b0 \ql \ri0 \fs20 \cf1 \i0 
+{\f2 \b0 \fs20 \cf1 \i0 
+{\*\bkmkstart co_footnote_B00211972127136_1}{\*\bkmkend co_footnote_B00211972127136_1}
+{\field {\*\fldinst HYPERLINK "#co_footnoteReference_B00211972127136_ID0" }{\fldrslt 
+{\super \f2 \strike0 \ul0 \b0 \sa0 \sb0 \fs20 \cf5 \i0 
+1
+}\f2 \super \strike0 \ul0 \b0 \sa0 \sb0 \fs20 \cf5 \i0 }}
+\par 
+}
+}
+}\f2 \li0 \b0 \ql \fs20 \ri0 \cf1 \i0 \intbl \cell \intbl 
+{\li0 \ri0 
+{\li0 \f2 \qj \b0 \ri0 \fs18 \cf1 \i0 
+{\li0 \f2 \qj \b0 \ri0 \fs18 \cf1 \i0 
+{\li0 \f2 \qj \b0 \ri0 \fs18 \cf1 \i0 
+{\f2 \strike0 \ul0 \b0 \sa0 \sb0 \fs18 \cf1 \i0 
+\u8216\'3f9\u8212\'3f1706a. Commitment before trial\u8212\'3fSubsequent actions.\u8212\'3fWhen at any time before the trial of any criminal cause or during the progress thereof and before the final submission of the cause to the court or jury trying the same, the court, either from his own knowledge or upon the suggestion of any person, has reasonable ground for believing the defendant to be insane, he shall immediately fix a time for a hearing to determine the question of the defendant\rquote s sanity and shall appoint two (2) competent disinterested physicians who shall examine the defendant upon the question of his sanity and testify concerning the same at the hearing. At the hearing, other evidence may be introduced to prove the defendant\rquote s sanity or insanity. If the court shall find that the defendant has comprehension sufficient to understand the nature of the criminal action against him and the proceedings thereon and to make his defense, the trial shall not be delayed or continued on he ground of the alleged insanity of the defendant. If the court shall find that the defendant has not comprehension sufficient to understand the proceedings and make his defense, the trial shall be delayed or continued on the ground of the alleged insanity of the defendant. If the court shall find that the defendant has not comprehension sufficient to understand the proceedings and make his defense, the court shall order the defendant committed to the department of mental health, to be confined by the department in an appropriate psychiatric institution. Whenever the defendant shall become sane the superintendent of the state psychiatric hospital shall certify the fact to the proper court, who shall enter an order on his record directing the sheriff to return the defendant, or the court may enter such order in the first instance whenever he shall be sufficiently advised of the defendant\rquote s restoration to sanity. Upon the return to court of any defendant so committed he or she shall then be placed upon trial for the criminal offense the same as if no delay or postponement had occurred by reason of defendant\rquote s insanity.\u8217\'3f
+\par 
+}
+}
+}
+}
+}\f2 \li0 \strike0 \ul0 \b0 \qj \sa0 \sb0 \fs18 \ri0 \cf1 \i0 \intbl \cell \row }}\par 
+}
+{\li0 \f2 \qj \b0 \ri0 \fs20 \cf1 \i0 
+{\li0 \f2 \qj \b0 \ri0 \fs20 \cf1 \i0 
+{\f2 \strike0 \ul0 \b0 \fs20 \cf1 \i0 
+}
+{\f2 \b1 \fs20 \cf1 \i0 
+{\*\bkmkstart co_pp_sp_780_718_1}{\*\bkmkend co_pp_sp_780_718_1}
+{\f2 \strike0 \ul0 \b1 \sa0 \sb0 \fs20 \cf1 \i0 
+*718
+}
+}
+{\f2 \strike0 \ul0 \b0 \sa0 \sb0 \fs20 \cf1 \i0 
+ As the statute requires, the court appointed two psychiatrists to examine Jackson. A competency hearing was subsequently held at which petitioner was represented by counsel. The court received the examining doctors\rquote  joint written report and oral testimony from them and from a deaf-school interpreter through whom they had attempted to communicate with petitioner. The report concluded that Jackson\rquote s almost non-existent communication skill, together with his lack of hearing and his mental deficiency, left him unable to understand the nature of the charges against him or to participate in his defense. One doctor testified that it was extremely 
+}
+{\f2 \b1 \fs20 \cf1 \i0 
+{\*\bkmkstart co_pp_sp_780_719_1}{\*\bkmkend co_pp_sp_780_719_1}
+{\f2 \strike0 \ul0 \b1 \sa0 \sb0 \fs20 \cf1 \i0 
+*719
+}
+}
+{\f2 \strike0 \ul0 \b0 \sa0 \sb200 \fs20 \cf1 \i0 
+ unlikely that petitioner could ever learn to read or write and questioned whether petitioner even had the ability to develop any proficiency in sign language. He believed that the interpreter had not been able to communicate with petitioner to any great extent and testified that petitioner\rquote s \u8216\'3fprognosis appears rather dim.\u8217\'3f The other doctor testified that even if Jackson were not a deaf mute, he would be incompetent to stand trial, and doubted whether petitioner had sufficient intelligence ever to develop the necessary communication skills. The interpreter testified that Indiana had no facilities that could help someone as badly off as Jackson to learn minimal communication skills.
+\par 
+}
+}
+}
+{\li0 \f2 \qj \b0 \ri0 \fs20 \cf1 \i0 
+{\li0 \f2 \qj \b0 \ri0 \fs20 \cf1 \i0 
+{\f2 \strike0 \ul0 \b0 \sa0 \sb200 \fs20 \cf1 \i0 
+On this evidence, the trial court found that Jackson \u8216\'3flack(ed) comprehension sufficient to make his defense,\u8217\'3f s 9\u8212\'3f1706a, and ordered him committed to the Indiana Department of Mental Health until such time as that Department should certify to the court that \u8216\'3fthe defendant is sane.\u8217\'3f
+\par 
+}
+}
+}
+{\li0 \f2 \qj \b0 \ri0 \fs20 \cf1 \i0 
+{\li0 \f2 \qj \b0 \ri0 \fs20 \cf1 \i0 
+{\f2 \strike0 \ul0 \b0 \sa0 \sb0 \fs20 \cf1 \i0 
+Petitioner\rquote s counsel then filed a motion for a new trial, contending that there was no evidence that Jackson was \u8216\'3finsane,\u8217\'3f or that he would ever attain a status which the court might regard as 
+}
+{\f2 \b1 \fs20 \cf1 \i0 
+{\*\bkmkstart co_pp_sp_708_1849_1}{\*\bkmkend co_pp_sp_708_1849_1}
+{\f2 \strike0 \ul0 \b1 \sa0 \sb0 \fs20 \cf1 \i0 
+**1849
+}
+}
+{\f2 \strike0 \ul0 \b0 \sa0 \sb0 \fs20 \cf1 \i0 
+ \u8216\'3fsane\u8217\'3f in the sense of competency to stand trial. Counsel argued that Jackson\rquote s commitment under these circumstances amounted to a \u8216\'3flife sentence\u8217\'3f without his ever having been convicted of a crime, and that the commitment therefore deprived Jackson of his Fourteenth Amendment rights to due process and equal protection, and constituted cruel and unusual punishment under the Eighth Amendment made applicable to the States through the Fourteenth. The trial court denied the motion. On appeal the Supreme Court of Indiana affirmed, with one judge dissenting, 
+}
+{\field {\*\fldinst HYPERLINK "http://www.westlaw.com/Link/Document/FullText?findType=Y&serNum=1970122069&pubNum=578&originatingDoc=I6b48659d9c2511d9bc61beebb95be672&refType=RP&originationContext=document&vr=3.0&rs=cblt1.0&transitionType=DocumentItem&contextData=(sc.Search)" }{\fldrslt 
+{\f2 \strike0 \ul0 \b0 \sa0 \sb0 \fs20 \cf5 \i0 
+253 Ind. 487, 255 N.E.2d 515 (1970)
+}}}
+{\f2 \strike0 \ul0 \b0 \sa0 \sb0 \fs20 \cf1 \i0 
+. Rehearing was denied with two judges dissenting. We granted certiorari, 
+}
+{\field {\*\fldinst HYPERLINK "http://www.westlaw.com/Link/Document/FullText?findType=Y&serNum=1971242082&pubNum=708&originatingDoc=I6b48659d9c2511d9bc61beebb95be672&refType=RP&originationContext=document&vr=3.0&rs=cblt1.0&transitionType=DocumentItem&contextData=(sc.Search)" }{\fldrslt 
+{\f2 \strike0 \ul0 \b0 \sa0 \sb0 \fs20 \cf5 \i0 
+401 U.S. 973, 91 S.Ct. 1203, 28 L.Ed.2d 322 (1971)
+}}}
+{\f2 \strike0 \ul0 \b0 \sa0 \sb200 \fs20 \cf1 \i0 
+.
+\par 
+}
+}
+}
+{\li0 \f2 \qj \b0 \ri0 \fs20 \cf1 \i0 
+{\li0 \f2 \qj \b0 \ri0 \fs20 \cf1 \i0 
+{\f2 \strike0 \ul0 \b0 \fs20 \cf1 \i0 
+}
+{\f2 \b1 \fs20 \cf1 \i0 
+{\*\bkmkstart co_pp_sp_780_720_1}{\*\bkmkend co_pp_sp_780_720_1}
+{\f2 \strike0 \ul0 \b1 \sa0 \sb0 \fs20 \cf1 \i0 
+*720
+}
+}
+{\f2 \strike0 \ul0 \b0 \sa0 \sb200 \fs20 \cf1 \i0 
+ For the reasons set forth below, we conclude that, on the record before us, Indiana cannot constitutionally commit the petitioner for an indefinite period simply on account of his incompetency to stand trial on the charges filed against him. Accordingly, we reverse.
+\par 
+}
+}
+}
+}
+{\li0 \f2 \qj \b0 \ri0 \fs20 \cf1 \i0 
+{\*\bkmkstart co_anchor_I4f2b273d0e3911e498db8b09b4f04}{\*\bkmkend co_anchor_I4f2b273d0e3911e498db8b09b4f04}
+\par 
+{\li0 \f2 \b1 \ri0 \fs20 \cf1 \qc \i0 
+{\f2 \b1 \fs20 \cf1 \i0 
+{\f2 \strike0 \ul0 \b1 \sa200 \sb400 \fs20 \cf1 \i0 
+I
+\par 
+}
+}
+}
+{\li0 \f2 \b1 \ri0 \fs20 \cf1 \qc \i0 
+{\f2 \b1 \fs20 \cf1 \i0 
+{\f2 \strike0 \ul0 \b1 \sa200 \sb400 \fs20 \cf1 \i0 
+INDIANA COMMITMENT PROCEDURES
+\par 
+}
+}
+}
+{\li0 \f2 \qj \b0 \ri0 \fs20 \cf1 \i0 
+{\li0 \f2 \qj \b0 \ri0 \fs20 \cf1 \i0 
+{\f2 \strike0 \ul0 \b0 \sa0 \sb0 \fs20 \cf1 \i0 
+Section 9\u8212\'3f1706a contains both the procedural and substantive requirements for pretrial commitment of incompetent criminal defendants in Indiana. If at any time before submission of the case to the court or jury the trial judge has \u8216\'3freasonable ground\u8217\'3f to believe the defendant \u8216\'3fto be insane,\rquote 
+}
+{\f2 \b0 \fs16 \cf1 \i0 
+{\*\bkmkstart co_footnoteReference_B00321972127136_ID0}{\*\bkmkend co_footnoteReference_B00321972127136_ID0}
+{\field {\*\fldinst HYPERLINK "#co_footnote_B00321972127136_1" }{\fldrslt 
+{\super \f2 \strike0 \ul0 \b0 \sa0 \sb0 \fs16 \cf5 \i0 
+2
+}}}
+}
+{\f2 \strike0 \ul0 \b0 \sa0 \sb0 \fs20 \cf1 \i0 
+ he must appoint two examining physicians and schedule a competency hearing. The hearing is to the court alone, without a jury. The examining physicians\rquote  testimony and \u8216\'3fother evidence\u8217\'3f may be adduced on the issue of incompetency. If the court finds the defendant \u8216\'3fhas not comprehension sufficient to understand the proceedings and make his defense,\u8217\'3f trial is delayed or continued and the defendant is remanded to the state department of mental health to be confined in an \u8216\'3fappropriate psychiatric institution.\u8217\'3f The section further provides that \u8216\'3f(w)henever the defendant shall become sane\u8217\'3f the superintendent of the institution shall certify that fact to the court, and the court shall order him brought on to trial. The court may also make such an order sua sponte. There is no statutory provision for periodic review of the defendant\rquote s condition by either the court or mental health authorities. Section 9\u8212\'3f1706a by its terms does not accord the 
+}
+{\f2 \b1 \fs20 \cf1 \i0 
+{\*\bkmkstart co_pp_sp_780_721_1}{\*\bkmkend co_pp_sp_780_721_1}
+{\f2 \strike0 \ul0 \b1 \sa0 \sb0 \fs20 \cf1 \i0 
+*721
+}
+}
+{\f2 \strike0 \ul0 \b0 \sa0 \sb200 \fs20 \cf1 \i0 
+ defendant any right to counsel at the competency hearing or otherwise describe the nature of the hearing; but Jackson was represented by counsel who cross-examined the testifying doctors carefully and called witnesses on behalf of the petitioner-defendant.
+\par 
+}
+}
+}
+{\li0 \f2 \qj \b0 \ri0 \fs20 \cf1 \i0 {
+{\trowd \lastrow \trleft0 
+\clbrdrt \clbrdrb \clbrdrl \trql \clvertalt \clwWidth600 \cellx600 
+\clpadb90 \clpadfb3 \clpadl90 \clpadfl3 \clbrdrt \clbrdrb \clbrdrr \trql \clwWidth9480 \cellx10080 
+\intbl 
+{\li0 \ri0 
+{\li0 \f2 \b0 \ql \ri0 \fs20 \cf1 \i0 
+{\f2 \b0 \fs20 \cf1 \i0 
+{\*\bkmkstart co_footnote_B00321972127136_1}{\*\bkmkend co_footnote_B00321972127136_1}
+{\field {\*\fldinst HYPERLINK "#co_footnoteReference_B00321972127136_ID0" }{\fldrslt 
+{\super \f2 \strike0 \ul0 \b0 \sa0 \sb0 \fs20 \cf5 \i0 
+2
+}\f2 \super \strike0 \ul0 \b0 \sa0 \sb0 \fs20 \cf5 \i0 }}
+\par 
+}
+}
+}\f2 \li0 \b0 \ql \fs20 \ri0 \cf1 \i0 \intbl \cell \intbl 
+{\li0 \ri0 
+{\li0 \f2 \qj \b0 \ri0 \fs18 \cf1 \i0 
+{\li0 \f2 \qj \b0 \ri0 \fs18 \cf1 \i0 
+{\li0 \f2 \qj \b0 \ri0 \fs18 \cf1 \i0 
+{\f2 \strike0 \ul0 \b0 \sa0 \sb0 \fs18 \cf1 \i0 
+The section refers at several points to the defendant\rquote s \u8216\'3fsanity.\u8217\'3f This term is nowhere defined. In context, and in the absence of a contrary statutory construction by the state courts, it appears that the term is intended to be synonymous with competence to stand trial.
+\par 
+}
+}
+}
+}
+}\f2 \li0 \strike0 \ul0 \b0 \qj \sa0 \sb0 \fs18 \ri0 \cf1 \i0 \intbl \cell \row }}\par 
+}
+{\li0 \f2 \qj \b0 \ri0 \fs20 \cf1 \i0 
+{\li0 \f2 \qj \b0 \ri0 \fs20 \cf1 \i0 
+{\f2 \strike0 \ul0 \b0 \sa0 \sb0 \fs20 \cf1 \i0 
+Petitioner\rquote s central contention is that the State, in seeking in effect to commit him to a mental institution indefinitely, should have been required to invoke the standards and procedures of Ind.Ann.Stat. s 22\u8212\'3f1907, now Ind.Code 16\u8212\'3f15\u8212\'3f1\u8212\'3f3 (1971), governing commitment of \u8216\'3ffeeble-minded\u8217\'3f persons. That section provides that upon application of a \u8216\'3freputable citizen of the county\u8217\'3f and accompanying certificate of a reputable physician that a person is \u8216\'3ffeeble-minded and is not insane or epileptic\u8217\'3f (emphasis supplied), a circuit court judge shall appoint two physicians to examine such person. After notice, a hearing is held at which the patient is entitled to be represented by counsel. If the judge determines that the individual is indeed \u8216\'3ffeeble-minded,\u8217\'3f he enters an order of commitment and directs the clerk of the court to apply for the person\rquote s admission \u8216\'3fto the superintendent of the institution for feebleminded persons located in the district in which said county is situated.\u8217\'3f A person committed under this section may be released \u8216\'3fat any time,\u8217\'3f provided that \u8216\'3fin the judgment of the superintendent, the 
+}
+{\f2 \b1 \fs20 \cf1 \i0 
+{\*\bkmkstart co_pp_sp_708_1850_1}{\*\bkmkend co_pp_sp_708_1850_1}
+{\f2 \strike0 \ul0 \b1 \sa0 \sb0 \fs20 \cf1 \i0 
+**1850
+}
+}
+{\f2 \strike0 \ul0 \b0 \sa0 \sb0 \fs20 \cf1 \i0 
+ mental and physical condition of the patient justifies it.\u8217\'3f s 22\u8212\'3f1814, now Ind.Code 16\u8212\'3f15\u8212\'3f4\u8212\'3f12 (1971). The statutes do not define either \u8216\'3ffeeble-mindedness\rquote  or \u8216\'3finsanity\u8217\'3f as used in s 22\u8212\'3f1907. But a statute establishing a special institution for care of such persons, s 22\u8212\'3f1801, IC 1971, 16\u8212\'3f15\u8212\'3f4\u8212\'3f1, refers to the duty of the State to provide care for its citizens who are \u8216\'3ffeeble-minded, and are therefore unable properly to care for themselves.\rquote 
+}
+{\f2 \b0 \fs16 \cf1 \i0 
+{\*\bkmkstart co_footnoteReference_B00431972127136_ID0}{\*\bkmkend co_footnoteReference_B00431972127136_ID0}
+{\field {\*\fldinst HYPERLINK "#co_footnote_B00431972127136_1" }{\fldrslt 
+{\super \f2 \strike0 \ul0 \b0 \sa0 \sb0 \fs16 \cf5 \i0 
+3
+}}}
+}
+{\f2 \strike0 \ul0 \b0 \sa0 \sb0 \fs20 \cf1 \i0 
+ 
+}
+{\f2 \b1 \fs20 \cf1 \i0 
+{\*\bkmkstart co_pp_sp_780_722_1}{\*\bkmkend co_pp_sp_780_722_1}
+{\f2 \strike0 \ul0 \b1 \sa0 \sb0 \fs20 \cf1 \i0 
+*722
+}
+}
+{\f2 \strike0 \ul0 \b0 \sa0 \sb200 \fs20 \cf1 \i0 
+ These provisions evidently afford the State a vehicle for commitment of persons in need of custodial care who are \u8216\'3fnot insane\u8217\'3f and therefore do not qualify as \u8216\'3fmentally ill\u8217\'3f under the State\rquote s general involuntary civil commitment scheme. See ss 22\u8212\'3f1201 to 22\u8212\'3f1256, now Ind.Code 16\u8212\'3f14\u8212\'3f9\u8212\'3f1 to 16\u8212\'3f14\u8212\'3f9\u8212\'3f31, 16\u8212\'3f13\u8212\'3f2\u8212\'3f9 to 16\u8212\'3f13\u8212\'3f2\u8212\'3f10, 35\u8212\'3f5\u8212\'3f3\u8212\'3f4, 16\u8212\'3f14\u8212\'3f14\u8212\'3f1 to 16\u8212\'3f14\u8212\'3f14\u8212\'3f19, and 16\u8212\'3f14\u8212\'3f15\u8212\'3f5, 16\u8212\'3f14\u8212\'3f15\u8212\'3f1, and 16\u8212\'3f14\u8212\'3f19\u8212\'3f1 (1971).
+\par 
+}
+}
+}
+{\li0 \f2 \qj \b0 \ri0 \fs20 \cf1 \i0 {
+{\trowd \lastrow \trleft0 
+\clbrdrt \clbrdrb \clbrdrl \trql \clvertalt \clwWidth600 \cellx600 
+\clpadb90 \clpadfb3 \clpadl90 \clpadfl3 \clbrdrt \clbrdrb \clbrdrr \trql \clwWidth9480 \cellx10080 
+\intbl 
+{\li0 \ri0 
+{\li0 \f2 \b0 \ql \ri0 \fs20 \cf1 \i0 
+{\f2 \b0 \fs20 \cf1 \i0 
+{\*\bkmkstart co_footnote_B00431972127136_1}{\*\bkmkend co_footnote_B00431972127136_1}
+{\field {\*\fldinst HYPERLINK "#co_footnoteReference_B00431972127136_ID0" }{\fldrslt 
+{\super \f2 \strike0 \ul0 \b0 \sa0 \sb0 \fs20 \cf5 \i0 
+3
+}\f2 \super \strike0 \ul0 \b0 \sa0 \sb0 \fs20 \cf5 \i0 }}
+\par 
+}
+}
+}\f2 \li0 \b0 \ql \fs20 \ri0 \cf1 \i0 \intbl \cell \intbl 
+{\li0 \ri0 
+{\li0 \f2 \qj \b0 \ri0 \fs18 \cf1 \i0 
+{\li0 \f2 \qj \b0 \ri0 \fs18 \cf1 \i0 
+{\li0 \f2 \qj \b0 \ri0 \fs18 \cf1 \i0 
+{\f2 \strike0 \ul0 \b0 \sa0 \sb0 \fs18 \cf1 \i0 
+Sections 22\u8212\'3f1801 and 22\u8212\'3f1907 would appear to be interdependent. See Official Opinion No. 49, Opinions of the Attorney General of Indiana, Sept. 26, 1958.
+\par 
+}
+}
+}
+}
+}\f2 \li0 \strike0 \ul0 \b0 \qj \sa0 \sb0 \fs18 \ri0 \cf1 \i0 \intbl \cell \row }}\par 
+}
+{\li0 \f2 \qj \b0 \ri0 \fs20 \cf1 \i0 
+{\li0 \f2 \qj \b0 \ri0 \fs20 \cf1 \i0 
+{\f2 \strike0 \ul0 \b0 \sa0 \sb200 \fs20 \cf1 \i0 
+Scant attention was paid this general civil commitment law by the Indiana courts in the present case. An understanding of it, however, is essential to a full airing of the equal protection claims raised by petitioner. Section 22\u8212\'3f1201(1) defines a \u8216\'3fmentally ill person\u8217\'3f as one who
+\par 
+}
+}
+{\li0 \f2 \qj \b0 \ri0 \fs20 \cf1 \i0 
+{\li0 \f2 \qj \b0 \ri0 \fs20 \cf1 \i0 
+{\li800 \f2 \qj \b0 \ri800 \fs20 \cf1 \i0 
+{\li800 \f2 \qj \b0 \ri800 \fs20 \cf1 \i0 
+{\f2 \strike0 \ul0 \b0 \sa50 \sb50 \fs20 \cf1 \i0 
+\u8216\'3fis afflicted with a psychiatric disorder which substantially impairs his mental health; and, because of such psychiatric disorder, requires care, treatment, training or detention in the interest of the welfare of such person or the welfare of others of the community in which such person resides.\u8217\'3f
+\par 
+}
+}
+}
+}
+}
+{\f2 \strike0 \ul0 \b0 \sa0 \sb0 \fs20 \cf1 \i0 
+\u160\'3f
+\par 
+}
+{\li0 \f2 \qj \b0 \ri0 \fs20 \cf1 \i0 
+{\f2 \strike0 \ul0 \b0 \sa0 \sb0 \fs20 \cf1 \i0 
+Section 22\u8212\'3f1201(2) defines a \u8216\'3fpsychiatric disorder\u8217\'3f to be any mental illness or disease, including any mental deficiency, epilepsy, alcoholism, or drug addiction. Other sections specify procedures for involuntary commitment of \u8216\'3fmentally ill\u8217\'3f persons that are substantially similar to those for commitment of the feeble-minded. For example, a citizen\rquote s sworn statement and the statement of a physician are required. s 22\u8212\'3f1212. The circuit court judge, the applicant, and the physician then consult to formulate a treatment plan. s 22\u8212\'3f1213. Notice to the individual is required, s 22\u8212\'3f1216, and he is examined by two physicians, s 22\u8212\'3f1215. There are provisions for temporary commitment. A hearing is held before a judge on the issue of mental illness. ss 22\u8212\'3f1209, 22\u8212\'3f1216, 22\u8212\'3f1217. The individual has a right of appeal. 
+}
+{\f2 \b1 \fs20 \cf1 \i0 
+{\*\bkmkstart co_pp_sp_780_723_1}{\*\bkmkend co_pp_sp_780_723_1}
+{\f2 \strike0 \ul0 \b1 \sa0 \sb0 \fs20 \cf1 \i0 
+*723
+}
+}
+{\f2 \strike0 \ul0 \b0 \sa0 \sb200 \fs20 \cf1 \i0 
+ s 22\u8212\'3f1210. An individual adjudged mentally ill under these sections is remanded to the department of mental health for assignment to an appropriate institution. s 22\u8212\'3f1209. Discharge is in the discretion of the superintendent of the particular institution to which the person is assigned, s 22\u8212\'3f1223; Official Opinion No. 54, Opinions of the Attorney General of Indiana, Dec. 30, 1966. The individual, however, remains within the court\rquote s custody, and release can therefore be revoked upon a hearing. Ibid.
+\par 
+}
+}
+}
+}
+{\li0 \f2 \qj \b0 \ri0 \fs20 \cf1 \i0 
+{\*\bkmkstart co_anchor_I4f2b273e0e3911e498db8b09b4f04}{\*\bkmkend co_anchor_I4f2b273e0e3911e498db8b09b4f04}
+\par 
+{\li0 \f2 \b1 \ri0 \fs20 \cf1 \qc \i0 
+{\f2 \b1 \fs20 \cf1 \i0 
+{\f2 \strike0 \ul0 \b1 \sa200 \sb400 \fs20 \cf1 \i0 
+II
+\par 
+}
+}
+}
+{\li0 \f2 \b1 \ri0 \fs20 \cf1 \qc \i0 
+{\f2 \b1 \fs20 \cf1 \i0 
+{\f2 \strike0 \ul0 \b1 \sa200 \sb400 \fs20 \cf1 \i0 
+EQUAL PROTECTION
+\par 
+}
+}
+}
+{\li0 \f2 \qj \b0 \ri0 \fs20 \cf1 \i0 
+{\li0 \f2 \qj \b0 \ri0 \fs20 \cf1 \i0 
+{\f2 \strike0 \ul0 \b0 \sa0 \sb200 \fs20 \cf1 \i0 
+Because the evidence established little likelihood of improvement in petitioner\rquote s condition, he argues that commitment under s 9\u8212\'3f1706a in his case amounted to a commitment for life. This deprived him of equal protection, he contends, because, absent the criminal charges pending against him, the State would have had to proceed under other statutes generally applicable to all other citizens: either the commitment procedures for feeble-minded persons, or those for mentally ill persons. He argues that under these other statutes (1) the decision whether to commit would have been made according to a different standard, (2) if commitment were warranted, applicable standards for release would have been more lenient, (3) if committed under s 22\u8212\'3f1907, he could have been assigned to a special institution affording appropriate care, and (4) he would then have been entitled to certain privileges not now available to him.
+\par 
+}
+}
+}
+{\li0 \f2 \qj \b0 \ri0 \fs20 \cf1 \i0 
+{\li0 \f2 \qj \b0 \ri0 \fs20 \cf1 \i0 
+{\f2 \strike0 \ul0 \b0 \fs20 \cf1 \i0 
+}
+{\f2 \b1 \fs20 \cf1 \i0 
+{\*\bkmkstart co_pp_sp_708_1851_1}{\*\bkmkend co_pp_sp_708_1851_1}
+{\f2 \strike0 \ul0 \b1 \sa0 \sb0 \fs20 \cf1 \i0 
+**1851
+}
+}
+{\f2 \strike0 \ul0 \b0 \sa0 \sb0 \fs20 \cf1 \i0 
+ In 
+}
+{\field {\*\fldinst HYPERLINK "http://www.westlaw.com/Link/Document/FullText?findType=Y&serNum=1966100364&pubNum=708&originatingDoc=I6b48659d9c2511d9bc61beebb95be672&refType=RP&originationContext=document&vr=3.0&rs=cblt1.0&transitionType=DocumentItem&contextData=(sc.Search)" }{\fldrslt 
+{\f2 \strike0 \ul0 \b0 \sa0 \sb0 \fs20 \cf5 \i0 
+Baxstrom v. Herold, 383 U.S. 107, 86 S.Ct. 760, 15 L.Ed.2d 620 (1966)
+}}}
+{\f2 \strike0 \ul0 \b0 \sa0 \sb0 \fs20 \cf1 \i0 
+, the Court held that a state prisoner civilly committed at the end of his prison sentence on the finding of a surrogate was denied equal protection when he was deprived of a jury trial that the State made generally available 
+}
+{\f2 \b1 \fs20 \cf1 \i0 
+{\*\bkmkstart co_pp_sp_780_724_1}{\*\bkmkend co_pp_sp_780_724_1}
+{\f2 \strike0 \ul0 \b1 \sa0 \sb0 \fs20 \cf1 \i0 
+*724
+}
+}
+{\f2 \strike0 \ul0 \b0 \sa0 \sb0 \fs20 \cf1 \i0 
+ to all other persons civilly committed. Rejecting the State\rquote s argument that Baxtrom\rquote s conviction and sentence constituted adequate justification for the difference in procedures, the Court said that \u8216\'3fthere is no conceivable basis for distinguishing the commitment of a person who is nearing the end of a penal term from all other civil commitments.\u8217\'3f 
+}
+{\field {\*\fldinst HYPERLINK "http://www.westlaw.com/Link/Document/FullText?findType=Y&serNum=1966100364&pubNum=708&originatingDoc=I6b48659d9c2511d9bc61beebb95be672&refType=RP&fi=co_pp_sp_708_763&originationContext=document&vr=3.0&rs=cblt1.0&transitionType=DocumentItem&contextData=(sc.Search)#co_pp_sp_708_763" }{\fldrslt 
+{\f2 \strike0 \ul0 \b0 \sa0 \sb0 \fs20 \cf5 \i0 
+383 U.S., at 111\u8212\'3f112, 86 S.Ct., at 763;
+}}}
+{\f2 \strike0 \ul0 \b0 \sa0 \sb0 \fs20 \cf1 \i0 
+ see 
+}
+{\field {\*\fldinst HYPERLINK "http://www.westlaw.com/Link/Document/FullText?findType=Y&serNum=1969118523&pubNum=350&originatingDoc=I6b48659d9c2511d9bc61beebb95be672&refType=RP&originationContext=document&vr=3.0&rs=cblt1.0&transitionType=DocumentItem&contextData=(sc.Search)" }{\fldrslt 
+{\f2 \strike0 \ul0 \b0 \sa0 \sb0 \fs20 \cf5 \i0 
+United States ex rel. Schuster v. Herold, 410 F.2d 1071 (CA2),
+}}}
+{\f2 \strike0 \ul0 \b0 \sa0 \sb0 \fs20 \cf1 \i0 
+ cert. denied, 
+}
+{\field {\*\fldinst HYPERLINK "http://www.westlaw.com/Link/Document/FullText?findType=Y&serNum=1969200518&pubNum=708&originatingDoc=I6b48659d9c2511d9bc61beebb95be672&refType=RP&originationContext=document&vr=3.0&rs=cblt1.0&transitionType=DocumentItem&contextData=(sc.Search)" }{\fldrslt 
+{\f2 \strike0 \ul0 \b0 \sa0 \sb0 \fs20 \cf5 \i0 
+396 U.S. 847, 90 S.Ct. 81, 24 L.Ed.2d 96 (1969)
+}}}
+{\f2 \strike0 \ul0 \b0 \sa0 \sb200 \fs20 \cf1 \i0 
+. The Court also held that Baxstrom was denied equal protection by commitment to an institution maintained by the state corrections department for \u8216\'3fdangerously mentally ill\u8217\'3f persons, without a judicial determination of his \u8216\'3fdangerous propensities\rquote  afforded all others so committed.
+\par 
+}
+}
+}
+{\li0 \f2 \qj \b0 \ri0 \fs20 \cf1 \i0 
+{\li0 \f2 \qj \b0 \ri0 \fs20 \cf1 \i0 
+{\f2 \strike0 \ul0 \b0 \sa0 \sb0 \fs20 \cf1 \i0 
+If criminal conviction and imposition of sentence are insufficient to justify less procedural and substantive protection against indefinite commitment than that generally available to all others, the mere filing of criminal charges surely cannot suffice. This was the precise holding of the Massachusetts Court in 
+}
+{\field {\*\fldinst HYPERLINK "http://www.westlaw.com/Link/Document/FullText?findType=Y&serNum=1969124027&pubNum=578&originatingDoc=I6b48659d9c2511d9bc61beebb95be672&refType=RP&fi=co_pp_sp_578_781&originationContext=document&vr=3.0&rs=cblt1.0&transitionType=DocumentItem&contextData=(sc.Search)#co_pp_sp_578_781" }{\fldrslt 
+{\f2 \strike0 \ul0 \b0 \sa0 \sb0 \fs20 \cf5 \i0 
+Commonwealth v. Druken, 356 Mass. 503, 507, 254 N.E.2d 779, 781 (1969)
+}}}
+{\f2 \strike0 \ul0 \b0 \sa0 \sb0 \fs20 \cf1 \i0 
+.
+}
+{\f2 \b0 \fs16 \cf1 \i0 
+{\*\bkmkstart co_footnoteReference_B00541972127136_ID0}{\*\bkmkend co_footnoteReference_B00541972127136_ID0}
+{\field {\*\fldinst HYPERLINK "#co_footnote_B00541972127136_1" }{\fldrslt 
+{\super \f2 \strike0 \ul0 \b0 \sa0 \sb0 \fs16 \cf5 \i0 
+4
+}}}
+}
+{\f2 \strike0 \ul0 \b0 \sa0 \sb0 \fs20 \cf1 \i0 
+ The Baxstrom principle also has been extended to commitment following an insanity acquittal, 
+}
+{\field {\*\fldinst HYPERLINK "http://www.westlaw.com/Link/Document/FullText?findType=Y&serNum=1967100601&pubNum=350&originatingDoc=I6b48659d9c2511d9bc61beebb95be672&refType=RP&originationContext=document&vr=3.0&rs=cblt1.0&transitionType=DocumentItem&contextData=(sc.Search)" }{\fldrslt 
+{\f2 \strike0 \ul0 \b0 \sa0 \sb0 \fs20 \cf5 \i0 
+Bolton v. Harris, 130 U.S.App.D.C. 1, 395 F.2d 642 (1968)
+}}}
+{\f2 \strike0 \ul0 \b0 \sa0 \sb0 \fs20 \cf1 \i0 
+; 
+}
+{\field {\*\fldinst HYPERLINK "http://www.westlaw.com/Link/Document/FullText?findType=Y&serNum=1967100891&pubNum=350&originatingDoc=I6b48659d9c2511d9bc61beebb95be672&refType=RP&originationContext=document&vr=3.0&rs=cblt1.0&transitionType=DocumentItem&contextData=(sc.Search)" }{\fldrslt 
+{\f2 \strike0 \ul0 \b0 \sa0 \sb0 \fs20 \cf5 \i0 
+Cameron v. Mullen, 128 U.S.App.D.C. 235, 387 F.2d 193 (1967)
+}}}
+{\f2 \strike0 \ul0 \b0 \sa0 \sb0 \fs20 \cf1 \i0 
+; 
+}
+{\field {\*\fldinst HYPERLINK "http://www.westlaw.com/Link/Document/FullText?findType=Y&serNum=1966129011&pubNum=578&originatingDoc=I6b48659d9c2511d9bc61beebb95be672&refType=RP&originationContext=document&vr=3.0&rs=cblt1.0&transitionType=DocumentItem&contextData=(sc.Search)" }{\fldrslt 
+{\f2 \strike0 \ul0 \b0 \sa0 \sb0 \fs20 \cf5 \i0 
+People v. Lally, 19 N.Y.2d 27, 277 N.Y.S.2d 654, 224 N.E.2d 87 (1966)
+}}}
+{\f2 \strike0 \ul0 \b0 \sa0 \sb0 \fs20 \cf1 \i0 
+, and to commitment in lieu of sentence following 
+}
+{\f2 \b1 \fs20 \cf1 \i0 
+{\*\bkmkstart co_pp_sp_780_725_1}{\*\bkmkend co_pp_sp_780_725_1}
+{\f2 \strike0 \ul0 \b1 \sa0 \sb0 \fs20 \cf1 \i0 
+*725
+}
+}
+{\f2 \strike0 \ul0 \b0 \sa0 \sb0 \fs20 \cf1 \i0 
+ conviction as a sex offender. 
+}
+{\field {\*\fldinst HYPERLINK "http://www.westlaw.com/Link/Document/FullText?findType=Y&serNum=1972127090&pubNum=708&originatingDoc=I6b48659d9c2511d9bc61beebb95be672&refType=RP&originationContext=document&vr=3.0&rs=cblt1.0&transitionType=DocumentItem&contextData=(sc.Search)" }{\fldrslt 
+{\f2 \strike0 \ul0 \b0 \sa0 \sb0 \fs20 \cf5 \i0 
+Humphrey v. Cady, 405 U.S. 504, 92 S.Ct. 1048, 31 L.Ed.2d 394 (1972)
+}}}
+{\f2 \strike0 \ul0 \b0 \sa0 \sb200 \fs20 \cf1 \i0 
+.
+\par 
+}
+}
+}
+{\li0 \f2 \qj \b0 \ri0 \fs20 \cf1 \i0 {
+{\trowd \lastrow \trleft0 
+\clbrdrt \clbrdrb \clbrdrl \trql \clvertalt \clwWidth600 \cellx600 
+\clpadb90 \clpadfb3 \clpadl90 \clpadfl3 \clbrdrt \clbrdrb \clbrdrr \trql \clwWidth9480 \cellx10080 
+\intbl 
+{\li0 \ri0 
+{\li0 \f2 \b0 \ql \ri0 \fs20 \cf1 \i0 
+{\f2 \b0 \fs20 \cf1 \i0 
+{\*\bkmkstart co_footnote_B00541972127136_1}{\*\bkmkend co_footnote_B00541972127136_1}
+{\field {\*\fldinst HYPERLINK "#co_footnoteReference_B00541972127136_ID0" }{\fldrslt 
+{\super \f2 \strike0 \ul0 \b0 \sa0 \sb0 \fs20 \cf5 \i0 
+4
+}\f2 \super \strike0 \ul0 \b0 \sa0 \sb0 \fs20 \cf5 \i0 }}
+\par 
+}
+}
+}\f2 \li0 \b0 \ql \fs20 \ri0 \cf1 \i0 \intbl \cell \intbl 
+{\li0 \ri0 
+{\li0 \f2 \qj \b0 \ri0 \fs18 \cf1 \i0 
+{\li0 \f2 \qj \b0 \ri0 \fs18 \cf1 \i0 
+{\li0 \f2 \qj \b0 \ri0 \fs18 \cf1 \i0 
+{\f2 \strike0 \ul0 \b0 \sa0 \sb0 \fs18 \cf1 \i0 
+See also Association of the Bar, City of New York, Special Committee on the Study of Commitment Procedures and the Law Relating to Incompetents, Second Report, Mental Illness, Due Process and the Criminal Defendant 1 (1968) (hereafter N.Y. Report):
+\par 
+}
+}
+{\li0 \f2 \qj \b0 \ri0 \fs18 \cf1 \i0 
+{\f2 \strike0 \ul0 \b0 \sa0 \sb0 \fs18 \cf1 \i0 
+\u8216\'3fThe basic and unifying thread which runs throughout our recommendations is a rejection of the notion that the mere fact of a criminal charge or conviction is a proper basis upon which to build other unnecessary, unprofitable, and essentially unfair distinctions among the mentally ill.\u8217\'3f
+\par 
+}
+}
+}
+}
+}\f2 \li0 \strike0 \ul0 \b0 \qj \sa0 \sb0 \fs18 \ri0 \cf1 \i0 \intbl \cell \row }}\par 
+}
+{\li0 \f2 \qj \b0 \ri0 \fs20 \cf1 \i0 
+{\li0 \f2 \qj \b0 \ri0 \fs20 \cf1 \i0 
+{\field {\*\fldinst HYPERLINK "#co_anchor_F11972127136_1" }{\fldrslt 
+{\super \f2 \strike0 \ul0 \b1 \sa0 \sb0 \fs20 \cf24 \i0 
+[1]
+}}}
+{\f2 \b0 \fs20 \cf5 \i0 
+{\*\bkmkstart co_anchor_B11972127136_1}{\*\bkmkend co_anchor_B11972127136_1}
+}
+{\f2 \strike0 \ul0 \b0 \sa0 \sb0 \fs20 \cf1 \i0 
+ Respondent argues, however, that because the record fails to establish affirmatively that Jackson will never improve, his commitment \u8216\'3funtil sane\u8217\'3f is not really an indeterminate one. It is only temporary, pending possible change in his condition. Thus, presumably, it cannot be judged against commitments under other state statutes that are truly indeterminate. The State relies on the lack of \u8216\'3fexactitude\u8217\'3f with which psychiatry can predict the future course of mental illness, and on the Court\rquote s decision in what is claimed to be \u8216\'3fa fact situation similar to the case at hand\u8217\'3f in 
+}
+{\field {\*\fldinst HYPERLINK "http://www.westlaw.com/Link/Document/FullText?findType=Y&serNum=1956124971&pubNum=708&originatingDoc=I6b48659d9c2511d9bc61beebb95be672&refType=RP&originationContext=document&vr=3.0&rs=cblt1.0&transitionType=DocumentItem&contextData=(sc.Search)" }{\fldrslt 
+{\f2 \strike0 \ul0 \b0 \sa0 \sb0 \fs20 \cf5 \i0 
+Greenwood v. United States, 350 U.S. 366, 76 S.Ct. 410, 100 L.Ed. 412 (1956)
+}}}
+{\f2 \strike0 \ul0 \b0 \sa0 \sb0 \fs20 \cf1 \i0 
+.
+\par 
+}
+}
+}
+{\f2 \strike0 \ul0 \b0 \sa0 \sb0 \fs20 \cf1 \i0 
+\u160\'3f
+\par 
+}
+{\li0 \f2 \qj \b0 \ri0 \fs20 \cf1 \i0 
+{\li0 \f2 \qj \b0 \ri0 \fs20 \cf1 \i0 
+{\f2 \strike0 \ul0 \b0 \sa0 \sb0 \fs20 \cf1 \i0 
+Were the State\rquote s factual premise that Jackson\rquote s commitment is only temporary a valid one, this might well be a different case. But the record does not support that premise. One of the doctors testified that in his view Jackson would be unable to acquire the substantially improved communication skills that would be necessary for him to participate in any defense. The prognosis for petitioner\rquote s developing such skills, he testified, appeared \u8216\'3frather dim.\u8217\'3f In answer to a question whether Jackson would ever be able to comprehend the charges or participate in his defense, even after commitment and treatment, the doctor said, \u8216\'3fI doubt it, I don\rquote t believe so.\u8217\'3f The other psychiatrist testified that even if Jackson were able to develop such skills, he would still be unable to comprehend the proceedings or aid counsel due to his mental deficiency. The interpreter, a supervising teacher at the state school 
+}
+{\f2 \b1 \fs20 \cf1 \i0 
+{\*\bkmkstart co_pp_sp_708_1852_1}{\*\bkmkend co_pp_sp_708_1852_1}
+{\f2 \strike0 \ul0 \b1 \sa0 \sb0 \fs20 \cf1 \i0 
+**1852
+}
+}
+{\f2 \strike0 \ul0 \b0 \sa0 \sb0 \fs20 \cf1 \i0 
+ for the deaf, said that he would not be able to serve as an interpreter for Jackson or aid him in participating in a trial, and that the State had no facilities that could, \u8216\'3fafter a length of time,\u8217\'3f aid Jackson in so participating. The court also heard petitioner\rquote s mother testify that 
+}
+{\f2 \b1 \fs20 \cf1 \i0 
+{\*\bkmkstart co_pp_sp_780_726_1}{\*\bkmkend co_pp_sp_780_726_1}
+{\f2 \strike0 \ul0 \b1 \sa0 \sb0 \fs20 \cf1 \i0 
+*726
+}
+}
+{\f2 \strike0 \ul0 \b0 \sa0 \sb200 \fs20 \cf1 \i0 
+ Jackson already had undergone rudimentary out-patient training communications skills from the deaf and dumb School in Indianapolis over a period of three years without noticeable success. There is nothing in the record that even points to any possibility that Jackson\rquote s present condition can be remedied at any future time.
+\par 
+}
+}
+}
+{\li0 \f2 \qj \b0 \ri0 \fs20 \cf1 \i0 
+{\li0 \f2 \qj \b0 \ri0 \fs20 \cf1 \i0 
+{\f2 \strike0 \ul0 \b0 \sa0 \sb0 \fs20 \cf1 \i0 
+Nor does Greenwood,
+}
+{\f2 \b0 \fs16 \cf1 \i0 
+{\*\bkmkstart co_footnoteReference_B00651972127136_ID0}{\*\bkmkend co_footnoteReference_B00651972127136_ID0}
+{\field {\*\fldinst HYPERLINK "#co_footnote_B00651972127136_1" }{\fldrslt 
+{\super \f2 \strike0 \ul0 \b0 \sa0 \sb0 \fs16 \cf5 \i0 
+5
+}}}
+}
+{\f2 \strike0 \ul0 \b0 \sa0 \sb0 \fs20 \cf1 \i0 
+ which concerned the constitutional validity of 
+}
+{\field {\*\fldinst HYPERLINK "http://www.westlaw.com/Link/Document/FullText?findType=L&pubNum=1000546&cite=18USCAS4244&originatingDoc=I6b48659d9c2511d9bc61beebb95be672&refType=LQ&originationContext=document&vr=3.0&rs=cblt1.0&transitionType=DocumentItem&contextData=(sc.Search)" }{\fldrslt 
+{\f2 \strike0 \ul0 \b0 \sa0 \sb0 \fs20 \cf5 \i0 
+18 U.S.C. ss 4244
+}}}
+{\f2 \strike0 \ul0 \b0 \sa0 \sb0 \fs20 \cf1 \i0 
+ to 
+}
+{\field {\*\fldinst HYPERLINK "http://www.westlaw.com/Link/Document/FullText?findType=L&pubNum=1000546&cite=18USCAS4248&originatingDoc=I6b48659d9c2511d9bc61beebb95be672&refType=LQ&originationContext=document&vr=3.0&rs=cblt1.0&transitionType=DocumentItem&contextData=(sc.Search)" }{\fldrslt 
+{\f2 \strike0 \ul0 \b0 \sa0 \sb0 \fs20 \cf5 \i0 
+4248
+}}}
+{\f2 \strike0 \ul0 \b0 \sa0 \sb0 \fs20 \cf1 \i0 
+, lend support to respondent\rquote s position. That decision, addressing the \u8216\'3fnarrow constitutional issue raised by the order of commitment in the circumstances of this case,\u8217\'3f 
+}
+{\field {\*\fldinst HYPERLINK "http://www.westlaw.com/Link/Document/FullText?findType=Y&serNum=1956124971&pubNum=708&originatingDoc=I6b48659d9c2511d9bc61beebb95be672&refType=RP&fi=co_pp_sp_708_415&originationContext=document&vr=3.0&rs=cblt1.0&transitionType=DocumentItem&contextData=(sc.Search)#co_pp_sp_708_415" }{\fldrslt 
+{\f2 \strike0 \ul0 \b0 \sa0 \sb0 \fs20 \cf5 \i0 
+350 U.S., at 375, 76 S.Ct., at 415,
+}}}
+{\f2 \strike0 \ul0 \b0 \sa0 \sb0 \fs20 \cf1 \i0 
+ upheld the Federal Government\rquote s constitutional authority to commit an individual found by the District Court to be \u8216\'3finsane,\u8217\'3f incompetent to stand trial on outstanding criminal charges, and probably dangerous to the safety of the officers, property, or other interests of the United States. The Greenwood Court construed the federal statutes to deal \u8216\'3fcomprehensively\u8217\'3f with defendants \u8216\'3fwho are insane or mentally incompetent to stand trial,\u8217\'3f and not merely with \u8216\'3fthe problem of temporary mental disorder.\u8217\'3f 
+}
+{\field {\*\fldinst HYPERLINK "http://www.westlaw.com/Link/Document/FullText?findType=Y&serNum=1956124971&pubNum=708&originatingDoc=I6b48659d9c2511d9bc61beebb95be672&refType=RP&fi=co_pp_sp_708_414&originationContext=document&vr=3.0&rs=cblt1.0&transitionType=DocumentItem&contextData=(sc.Search)#co_pp_sp_708_414" }{\fldrslt 
+{\f2 \strike0 \ul0 \b0 \sa0 \sb0 \fs20 \cf5 \i0 
+350 U.S., at 373, 76 S.Ct., at 414.
+}}}
+{\f2 \strike0 \ul0 \b0 \sa0 \sb0 \fs20 \cf1 \i0 
+ Though Greenwood\rquote s prospects for improvement were slim, the Court held that \u8216\'3fin the situation before us,\u8217\'3f where the District Court had made an explicit finding of dangerousness, that fact alone \u8216\'3fdoes not defeat federal power to make this initial commitment.\u8217\'3f 
+}
+{\field {\*\fldinst HYPERLINK "http://www.westlaw.com/Link/Document/FullText?findType=Y&serNum=1956124971&pubNum=708&originatingDoc=I6b48659d9c2511d9bc61beebb95be672&refType=RP&fi=co_pp_sp_708_415&originationContext=document&vr=3.0&rs=cblt1.0&transitionType=DocumentItem&contextData=(sc.Search)#co_pp_sp_708_415" }{\fldrslt 
+{\f2 \strike0 \ul0 \b0 \sa0 \sb0 \fs20 \cf5 \i0 
+350 U.S., at 375, 76 S.Ct., at 415.
+}}}
+{\f2 \strike0 \ul0 \b0 \sa0 \sb0 \fs20 \cf1 \i0 
+ No issue of equal protection was raised or decided. See Petitioner\rquote s Brief, No. 460, O.T.1955, pp. 2, 7\u8212\'3f9. It is clear that the Government\rquote s substantive power to commit on the particular findings made in that case was the sole question there decided. 
+}
+{\field {\*\fldinst HYPERLINK "http://www.westlaw.com/Link/Document/FullText?findType=Y&serNum=1956124971&pubNum=708&originatingDoc=I6b48659d9c2511d9bc61beebb95be672&refType=RP&fi=co_pp_sp_708_415&originationContext=document&vr=3.0&rs=cblt1.0&transitionType=DocumentItem&contextData=(sc.Search)#co_pp_sp_708_415" }{\fldrslt 
+{\f2 \strike0 \ul0 \b0 \sa0 \sb0 \fs20 \cf5 \i0 
+350 U.S., at 376, 76 S.Ct., at 415
+}}}
+{\f2 \strike0 \ul0 \b0 \sa0 \sb200 \fs20 \cf1 \i0 
+.
+\par 
+}
+}
+}
+{\li0 \f2 \qj \b0 \ri0 \fs20 \cf1 \i0 {
+{\trowd \lastrow \trleft0 
+\clbrdrt \clbrdrb \clbrdrl \trql \clvertalt \clwWidth600 \cellx600 
+\clpadb90 \clpadfb3 \clpadl90 \clpadfl3 \clbrdrt \clbrdrb \clbrdrr \trql \clwWidth9480 \cellx10080 
+\intbl 
+{\li0 \ri0 
+{\li0 \f2 \b0 \ql \ri0 \fs20 \cf1 \i0 
+{\f2 \b0 \fs20 \cf1 \i0 
+{\*\bkmkstart co_footnote_B00651972127136_1}{\*\bkmkend co_footnote_B00651972127136_1}
+{\field {\*\fldinst HYPERLINK "#co_footnoteReference_B00651972127136_ID0" }{\fldrslt 
+{\super \f2 \strike0 \ul0 \b0 \sa0 \sb0 \fs20 \cf5 \i0 
+5
+}\f2 \super \strike0 \ul0 \b0 \sa0 \sb0 \fs20 \cf5 \i0 }}
+\par 
+}
+}
+}\f2 \li0 \b0 \ql \fs20 \ri0 \cf1 \i0 \intbl \cell \intbl 
+{\li0 \ri0 
+{\li0 \f2 \qj \b0 \ri0 \fs18 \cf1 \i0 
+{\li0 \f2 \qj \b0 \ri0 \fs18 \cf1 \i0 
+{\li0 \f2 \qj \b0 \ri0 \fs18 \cf1 \i0 
+{\f2 \strike0 \ul0 \b0 \sa0 \sb0 \fs18 \cf1 \i0 
+This case is further discussed in connection with the due process claim. See Part III.
+\par 
+}
+}
+}
+}
+}\f2 \li0 \strike0 \ul0 \b0 \qj \sa0 \sb0 \fs18 \ri0 \cf1 \i0 \intbl \cell \row }}\par 
+}
+{\li0 \f2 \qj \b0 \ri0 \fs20 \cf1 \i0 
+{\li0 \f2 \qj \b0 \ri0 \fs20 \cf1 \i0 
+{\f2 \strike0 \ul0 \b0 \fs20 \cf1 \i0 
+}
+{\f2 \b1 \fs20 \cf1 \i0 
+{\*\bkmkstart co_pp_sp_780_727_1}{\*\bkmkend co_pp_sp_780_727_1}
+{\f2 \strike0 \ul0 \b1 \sa0 \sb0 \fs20 \cf1 \i0 
+*727
+}
+}
+{\f2 \strike0 \ul0 \b0 \sa0 \sb200 \fs20 \cf1 \i0 
+ We note also that neither the Indiana statute nor state practice makes the likelihood of the defendant\rquote s improvement a relevant factor. The State did not seek to make any such showing, and the record clearly establishes that the chances of Jackson\rquote s ever meeting the competency standards of s 9\u8212\'3f1706a are at best minimal, if not nonexistent. The record also rebuts any contention that the commitment could contribute to Jackson\rquote s improvement. Jackson\rquote s s 9\u8212\'3f1706a commitment is permanent in practical effect.
+\par 
+}
+}
+}
+{\li0 \f2 \qj \b0 \ri0 \fs20 \cf1 \i0 
+{\li0 \f2 \qj \b0 \ri0 \fs20 \cf1 \i0 
+{\f2 \strike0 \ul0 \b0 \sa0 \sb200 \fs20 \cf1 \i0 
+We therefore must turn to the question whether, because of the pendency of the criminal charges that triggered the State\rquote s invocation of s 9\u8212\'3f1706a, Jackson was deprived of substantial rights to which he would have been entitled under either of the other two state commitment statutes. Baxstrom held that the State cannot withhold from a few the procedural protections or the substantive requirements for commitment that are available to all others. In this case commitment procedures under all three statutes appear substantially similar: notice, examination by two doctors, and a full judicial hearing at which the individual is represented by counsel and can cross-examine witnesses and introduce evidence. Under each of the three statutes, the commitment determination is made by the court alone, and appellate review is available.
+\par 
+}
+}
+}
+{\li0 \f2 \qj \b0 \ri0 \fs20 \cf1 \i0 
+{\li0 \f2 \qj \b0 \ri0 \fs20 \cf1 \i0 
+{\f2 \strike0 \ul0 \b0 \sa0 \sb200 \fs20 \cf1 \i0 
+In contrast, however, what the State must show to commit a defendant under s 9\u8212\'3f1706a, and the circumstances under which an individual so committed may be released, are substantially different from the standards under the other two statutes.
+\par 
+}
+}
+}
+{\li0 \f2 \qj \b0 \ri0 \fs20 \cf1 \i0 
+{\li0 \f2 \qj \b0 \ri0 \fs20 \cf1 \i0 
+{\f2 \strike0 \ul0 \b0 \sa0 \sb0 \fs20 \cf1 \i0 
+Under s 9\u8212\'3f1706a, the State needed to show only Jackson\rquote s inability to stand trial. We are unable to say that, on the record before us, Indiana could have civilly committed him as mentally ill under s 22\u8212\'3f1209 or committed him as 
+}
+{\f2 \b1 \fs20 \cf1 \i0 
+{\*\bkmkstart co_pp_sp_708_1853_1}{\*\bkmkend co_pp_sp_708_1853_1}
+{\f2 \strike0 \ul0 \b1 \sa0 \sb0 \fs20 \cf1 \i0 
+**1853
+}
+}
+{\f2 \strike0 \ul0 \b0 \sa0 \sb0 \fs20 \cf1 \i0 
+ feeble-minded under s 22\u8212\'3f1907. The 
+}
+{\f2 \b1 \fs20 \cf1 \i0 
+{\*\bkmkstart co_pp_sp_780_728_1}{\*\bkmkend co_pp_sp_780_728_1}
+{\f2 \strike0 \ul0 \b1 \sa0 \sb0 \fs20 \cf1 \i0 
+*728
+}
+}
+{\f2 \strike0 \ul0 \b0 \sa0 \sb0 \fs20 \cf1 \i0 
+ former requires at least (1) a showing of mental illness and (2) a showing that the individual is in need of \u8216\'3fcare, treatment, training or detention.\u8217\'3f s 22\u8212\'3f1201(1). Whether Jackson\rquote s mental deficiency would meet the first test is unclear; neither examining physician addressed himself to this. Furthermore, it is problematical whether commitment for \u8216\'3ftreatment\u8217\'3f or \u8216\'3ftraining\u8217\'3f would be appropriate since the record establishes that none is available for Jackson\rquote s condition at any state institution. The record also fails to establish that Jackson is in need of custodial care or \u8216\'3fdetention.\u8217\'3f He has been employed at times, and there is no evidence that the care he long received at home has become inadequate. The statute appears to require an independent showing of dangerousness (\u8216\'3frequires . . . detention in the interest of the welfare of such person or . . . others . . .\u8217\'3f). Insofar as it may require such a showing, the pending criminal charges are insufficient to establish it, and no other supporting evidence was introduced. For the same reasons, we cannot say that this record would support a feeble-mindedness commitment under s 22\u8212\'3f1907 on the ground that Jackon is \u8216\'3funable properly to care for (himself).\rquote 
+}
+{\f2 \b0 \fs16 \cf1 \i0 
+{\*\bkmkstart co_footnoteReference_B00761972127136_ID0}{\*\bkmkend co_footnoteReference_B00761972127136_ID0}
+{\field {\*\fldinst HYPERLINK "#co_footnote_B00761972127136_1" }{\fldrslt 
+{\super \f2 \strike0 \ul0 \b0 \sa0 \sb0 \fs16 \cf5 \i0 
+6
+}}}
+}
+{\f2 \strike0 \ul0 \b0 \sa0 \sb200 \fs20 \cf1 \i0 
+ s 22\u8212\'3f1801.
+\par 
+}
+}
+}
+{\li0 \f2 \qj \b0 \ri0 \fs20 \cf1 \i0 {
+{\trowd \lastrow \trleft0 
+\clbrdrt \clbrdrb \clbrdrl \trql \clvertalt \clwWidth600 \cellx600 
+\clpadb90 \clpadfb3 \clpadl90 \clpadfl3 \clbrdrt \clbrdrb \clbrdrr \trql \clwWidth9480 \cellx10080 
+\intbl 
+{\li0 \ri0 
+{\li0 \f2 \b0 \ql \ri0 \fs20 \cf1 \i0 
+{\f2 \b0 \fs20 \cf1 \i0 
+{\*\bkmkstart co_footnote_B00761972127136_1}{\*\bkmkend co_footnote_B00761972127136_1}
+{\field {\*\fldinst HYPERLINK "#co_footnoteReference_B00761972127136_ID0" }{\fldrslt 
+{\super \f2 \strike0 \ul0 \b0 \sa0 \sb0 \fs20 \cf5 \i0 
+6
+}\f2 \super \strike0 \ul0 \b0 \sa0 \sb0 \fs20 \cf5 \i0 }}
+\par 
+}
+}
+}\f2 \li0 \b0 \ql \fs20 \ri0 \cf1 \i0 \intbl \cell \intbl 
+{\li0 \ri0 
+{\li0 \f2 \qj \b0 \ri0 \fs18 \cf1 \i0 
+{\li0 \f2 \qj \b0 \ri0 \fs18 \cf1 \i0 
+{\li0 \f2 \qj \b0 \ri0 \fs18 \cf1 \i0 
+{\f2 \strike0 \ul0 \b0 \sa0 \sb0 \fs18 \cf1 \i0 
+Perhaps some confusion on this point is engendered by the fact that Jackson\rquote s counsel, far from asserting that the State could not commit him as feeble-minded under s 22\u8212\'3f1907, actively sought such a commitment in the hope that Jackson would be assured assignment to a special institution. The Indiana Supreme Court thought this concern unnecessary. In any event, we do not suggest that a feeble-mindedness commitment would be inappropriate. We note only that there is nothing in this record to establish the need for custodial care that such a commitment seems to require under ss 22\u8212\'3f1907 and 22\u8212\'3f1801.
+\par 
+}
+}
+}
+}
+}\f2 \li0 \strike0 \ul0 \b0 \qj \sa0 \sb0 \fs18 \ri0 \cf1 \i0 \intbl \cell \row }}\par 
+}
+{\li0 \f2 \qj \b0 \ri0 \fs20 \cf1 \i0 
+{\li0 \f2 \qj \b0 \ri0 \fs20 \cf1 \i0 
+{\f2 \strike0 \ul0 \b0 \sa0 \sb0 \fs20 \cf1 \i0 
+More important, an individual committed as feeble-minded is eligible for release when his condition \u8216\'3fjustifies it,\u8217\'3f s 22\u8212\'3f1814, and an individual civilly committed as mentally ill when the \u8216\'3fsuperintendent or administrator 
+}
+{\f2 \b1 \fs20 \cf1 \i0 
+{\*\bkmkstart co_pp_sp_780_729_1}{\*\bkmkend co_pp_sp_780_729_1}
+{\f2 \strike0 \ul0 \b1 \sa0 \sb0 \fs20 \cf1 \i0 
+*729
+}
+}
+{\f2 \strike0 \ul0 \b0 \sa0 \sb0 \fs20 \cf1 \i0 
+ shall discharge such person or (when) cured of such illness.\u8217\'3f s 22\u8212\'3f1223 (emphasis supplied). Thus, in either case release is appropriate when the individual no longer requires the custodial care or treatment or detention that occasioned the commitment, or when the department of mental health believes release would be in his best interests. The evidence available concerning Jackson\rquote s past employment and home care strongly suggests that under these standards he might be eligible for release at almost any time, even if he did not improve.
+}
+{\f2 \b0 \fs16 \cf1 \i0 
+{\*\bkmkstart co_footnoteReference_B00871972127136_ID0}{\*\bkmkend co_footnoteReference_B00871972127136_ID0}
+{\field {\*\fldinst HYPERLINK "#co_footnote_B00871972127136_1" }{\fldrslt 
+{\super \f2 \strike0 \ul0 \b0 \sa0 \sb0 \fs16 \cf5 \i0 
+7
+}}}
+}
+{\f2 \strike0 \ul0 \b0 \sa0 \sb200 \fs20 \cf1 \i0 
+ On the other hand, by the terms of his present s 9\u8212\'3f1706a commitment, he will not be entitled to release at all, absent an unlikely substantial change for the better in his condition.
+}
+{\f2 \b0 \fs16 \cf1 \i0 
+{\*\bkmkstart co_footnoteReference_B00981972127136_ID0}{\*\bkmkend co_footnoteReference_B00981972127136_ID0}
+{\field {\*\fldinst HYPERLINK "#co_footnote_B00981972127136_1" }{\fldrslt 
+{\super \f2 \strike0 \ul0 \b0 \sa0 \sb0 \fs16 \cf5 \i0 
+8
+}}}
+\par 
+}
+}
+}
+{\li0 \f2 \qj \b0 \ri0 \fs20 \cf1 \i0 {
+{\trowd \lastrow \trleft0 
+\clbrdrt \clbrdrb \clbrdrl \trql \clvertalt \clwWidth600 \cellx600 
+\clpadb90 \clpadfb3 \clpadl90 \clpadfl3 \clbrdrt \clbrdrb \clbrdrr \trql \clwWidth9480 \cellx10080 
+\intbl 
+{\li0 \ri0 
+{\li0 \f2 \b0 \ql \ri0 \fs20 \cf1 \i0 
+{\f2 \b0 \fs20 \cf1 \i0 
+{\*\bkmkstart co_footnote_B00871972127136_1}{\*\bkmkend co_footnote_B00871972127136_1}
+{\field {\*\fldinst HYPERLINK "#co_footnoteReference_B00871972127136_ID0" }{\fldrslt 
+{\super \f2 \strike0 \ul0 \b0 \sa0 \sb0 \fs20 \cf5 \i0 
+7
+}\f2 \super \strike0 \ul0 \b0 \sa0 \sb0 \fs20 \cf5 \i0 }}
+\par 
+}
+}
+}\f2 \li0 \b0 \ql \fs20 \ri0 \cf1 \i0 \intbl \cell \intbl 
+{\li0 \ri0 
+{\li0 \f2 \qj \b0 \ri0 \fs18 \cf1 \i0 
+{\li0 \f2 \qj \b0 \ri0 \fs18 \cf1 \i0 
+{\li0 \f2 \qj \b0 \ri0 \fs18 \cf1 \i0 
+{\f2 \strike0 \ul0 \b0 \sa0 \sb0 \fs18 \cf1 \i0 
+See President\rquote s Committee on Mental Retardation, Changing Patterns in Residential Services for the Mentally Retarded (1969).
+\par 
+}
+}
+}
+}
+}\f2 \li0 \strike0 \ul0 \b0 \qj \sa0 \sb0 \fs18 \ri0 \cf1 \i0 \intbl \cell \row }}\par 
+}
+{\li0 \f2 \qj \b0 \ri0 \fs20 \cf1 \i0 {
+{\trowd \lastrow \trleft0 
+\clbrdrt \clbrdrb \clbrdrl \trql \clvertalt \clwWidth600 \cellx600 
+\clpadb90 \clpadfb3 \clpadl90 \clpadfl3 \clbrdrt \clbrdrb \clbrdrr \trql \clwWidth9480 \cellx10080 
+\intbl 
+{\li0 \ri0 
+{\li0 \f2 \b0 \ql \ri0 \fs20 \cf1 \i0 
+{\f2 \b0 \fs20 \cf1 \i0 
+{\*\bkmkstart co_footnote_B00981972127136_1}{\*\bkmkend co_footnote_B00981972127136_1}
+{\field {\*\fldinst HYPERLINK "#co_footnoteReference_B00981972127136_ID0" }{\fldrslt 
+{\super \f2 \strike0 \ul0 \b0 \sa0 \sb0 \fs20 \cf5 \i0 
+8
+}\f2 \super \strike0 \ul0 \b0 \sa0 \sb0 \fs20 \cf5 \i0 }}
+\par 
+}
+}
+}\f2 \li0 \b0 \ql \fs20 \ri0 \cf1 \i0 \intbl \cell \intbl 
+{\li0 \ri0 
+{\li0 \f2 \qj \b0 \ri0 \fs18 \cf1 \i0 
+{\li0 \f2 \qj \b0 \ri0 \fs18 \cf1 \i0 
+{\li0 \f2 \qj \b0 \ri0 \fs18 \cf1 \i0 
+{\f2 \strike0 \ul0 \b0 \sa0 \sb0 \fs18 \cf1 \i0 
+Respondent argues that Jackson would not in fact be eligible for release under s 22\u8212\'3f1907 or s 22\u8212\'3f1223 if he did not improve since, if the authorities could not communicate with him, they could not decide whether his condition \u8216\'3fjustified\u8217\'3f release. Respondent further argues that because no state court has ever construed the release provisions of any of the statutes, we are barred from relying upon any differences between them. This line of reasoning is unpersuasive. The plain language of the provisions, when applied to Jackson\rquote s particular history and condition, dictates different results. No state court has held that an Indiana defendant committed as incompetent is eligible for release when he no longer needs custodial care or treatment. The commitment order here clearly makes release dependent upon Jackson\rquote s regaining competency to stand trial.
+\par 
+}
+}
+}
+}
+}\f2 \li0 \strike0 \ul0 \b0 \qj \sa0 \sb0 \fs18 \ri0 \cf1 \i0 \intbl \cell \row }}\par 
+}
+{\li0 \f2 \qj \b0 \ri0 \fs20 \cf1 \i0 
+{\li0 \f2 \qj \b0 \ri0 \fs20 \cf1 \i0 
+{\f2 \strike0 \ul0 \b0 \sa0 \sb0 \fs20 \cf1 \i0 
+Baxstrom did not deal with the standard for release, but its rationale is applicable here. The harm to the individual is just as great if the State, without reasonable justification, can apply standards making his commitment a permanent one when standards generally applicable 
+}
+{\f2 \b1 \fs20 \cf1 \i0 
+{\*\bkmkstart co_pp_sp_708_1854_1}{\*\bkmkend co_pp_sp_708_1854_1}
+{\f2 \strike0 \ul0 \b1 \sa0 \sb0 \fs20 \cf1 \i0 
+**1854
+}
+}
+{\f2 \strike0 \ul0 \b0 \sa0 \sb200 \fs20 \cf1 \i0 
+ to all others afford him a substantial opportunity for early release.
+\par 
+}
+}
+}
+{\li0 \f2 \qj \b0 \ri0 \fs20 \cf1 \i0 
+{\li0 \f2 \qj \b0 \ri0 \fs20 \cf1 \i0 
+{\field {\*\fldinst HYPERLINK "#co_anchor_F21972127136_1" }{\fldrslt 
+{\super \f2 \strike0 \ul0 \b1 \sa0 \sb0 \fs20 \cf24 \i0 
+[2]
+}}}
+{\f2 \b0 \fs20 \cf5 \i0 
+{\*\bkmkstart co_anchor_B21972127136_1}{\*\bkmkend co_anchor_B21972127136_1}
+}
+{\f2 \strike0 \ul0 \b0 \sa0 \sb0 \fs20 \cf1 \i0 
+ 
+}
+{\field {\*\fldinst HYPERLINK "#co_anchor_F31972127136_1" }{\fldrslt 
+{\super \f2 \strike0 \ul0 \b1 \sa0 \sb0 \fs20 \cf24 \i0 
+[3]
+}}}
+{\f2 \b0 \fs20 \cf5 \i0 
+{\*\bkmkstart co_anchor_B31972127136_1}{\*\bkmkend co_anchor_B31972127136_1}
+}
+{\f2 \strike0 \ul0 \b0 \sa0 \sb0 \fs20 \cf1 \i0 
+ As we noted above, we cannot conclude that pending criminal charges provide a greater justification for different 
+}
+{\f2 \b1 \fs20 \cf1 \i0 
+{\*\bkmkstart co_pp_sp_780_730_1}{\*\bkmkend co_pp_sp_780_730_1}
+{\f2 \strike0 \ul0 \b1 \sa0 \sb0 \fs20 \cf1 \i0 
+*730
+}
+}
+{\f2 \strike0 \ul0 \b0 \sa0 \sb0 \fs20 \cf1 \i0 
+ treatment than conviction and sentence. Consequently, we hold that by subjecting Jackson to a more lenient commitment standard and to a more stringent standard of release than those generally applicable to all others not charged with offenses, and by thus condemning him in effect to permanent institutionalization without the showing required for commitment or the opportunity for release afforded by s 22\u8212\'3f1209 or s 22\u8212\'3f1907, Indiana deprived petitioner of equal protection of the laws under the Fourteenth Amendment.
+}
+{\f2 \b0 \fs16 \cf1 \i0 
+{\*\bkmkstart co_footnoteReference_B01091972127136_ID0}{\*\bkmkend co_footnoteReference_B01091972127136_ID0}
+{\field {\*\fldinst HYPERLINK "#co_footnote_B01091972127136_1" }{\fldrslt 
+{\super \f2 \strike0 \ul0 \b0 \sa0 \sb0 \fs16 \cf5 \i0 
+9
+}}}
+\par 
+}
+}
+}
+{\f2 \strike0 \ul0 \b0 \sa0 \sb0 \fs20 \cf1 \i0 
+\u160\'3f
+\par 
+}
+{\li0 \f2 \qj \b0 \ri0 \fs20 \cf1 \i0 {
+{\trowd \lastrow \trleft0 
+\clbrdrt \clbrdrb \clbrdrl \trql \clvertalt \clwWidth600 \cellx600 
+\clpadb90 \clpadfb3 \clpadl90 \clpadfl3 \clbrdrt \clbrdrb \clbrdrr \trql \clwWidth9480 \cellx10080 
+\intbl 
+{\li0 \ri0 
+{\li0 \f2 \b0 \ql \ri0 \fs20 \cf1 \i0 
+{\f2 \b0 \fs20 \cf1 \i0 
+{\*\bkmkstart co_footnote_B01091972127136_1}{\*\bkmkend co_footnote_B01091972127136_1}
+{\field {\*\fldinst HYPERLINK "#co_footnoteReference_B01091972127136_ID0" }{\fldrslt 
+{\super \f2 \strike0 \ul0 \b0 \sa0 \sb0 \fs20 \cf5 \i0 
+9
+}\f2 \super \strike0 \ul0 \b0 \sa0 \sb0 \fs20 \cf5 \i0 }}
+\par 
+}
+}
+}\f2 \li0 \b0 \ql \fs20 \ri0 \cf1 \i0 \intbl \cell \intbl 
+{\li0 \ri0 
+{\li0 \f2 \qj \b0 \ri0 \fs18 \cf1 \i0 
+{\li0 \f2 \qj \b0 \ri0 \fs18 \cf1 \i0 
+{\li0 \f2 \qj \b0 \ri0 \fs18 \cf1 \i0 
+{\f2 \strike0 \ul0 \b0 \sa0 \sb0 \fs18 \cf1 \i0 
+Petitioner also argues that the incompetency commitment deprived him of the right to be assigned to a special \u8216\'3finstitution for feeble-minded persons\rquote  to which he would have been statutorily directed by a s 22\u8212\'3f1907 commitment. The State maintains two such institutions. The Indiana Supreme Court thought petitioner \u8216\'3ffailed to understand the statutory mechanisms\rquote  for assignment following commitment under the two procedures. 
+}
+{\field {\*\fldinst HYPERLINK "http://www.westlaw.com/Link/Document/FullText?findType=Y&serNum=1970122069&pubNum=578&originatingDoc=I6b48659d9c2511d9bc61beebb95be672&refType=RP&fi=co_pp_sp_578_517&originationContext=document&vr=3.0&rs=cblt1.0&transitionType=DocumentItem&contextData=(sc.Search)#co_pp_sp_578_517" }{\fldrslt 
+{\f2 \strike0 \ul0 \b0 \sa0 \sb0 \fs18 \cf5 \i0 
+253 Ind., at 490, 255 N.E.2d, at 517.
+}\f2 \strike0 \ul0 \b0 \sa0 \sb0 \fs18 \cf5 \i0 }}
+{\f2 \strike0 \ul0 \b0 \sa0 \sb0 \fs18 \cf1 \i0 
+ It observed that since the mental health department now administers, in consolidated fashion, all the State\rquote s mental facilities including the two special institutions, see s 22\u8212\'3f5001 to s 22\u8212\'3f5036, now Ind. Code 16\u8212\'3f13\u8212\'3f1\u8212\'3f1 to 16\u8212\'3f13\u8212\'3f1\u8212\'3f31, 16\u8212\'3f13\u8212\'3f2\u8212\'3f1, 16\u8212\'3f13\u8212\'3f2\u8212\'3f7 to 6\u8212\'3f13\u8212\'3f2\u8212\'3f8, 16\u8212\'3f14\u8212\'3f18\u8212\'3f3 to 16\u8212\'3f14\u8212\'3f18\u8212\'3f4 (1971), and since the special institutions are \u8216\'3fappropriate psychiatric institutions\rquote  under s 9\u8212\'3f1706a, considering Jackson\rquote s condition, his incompetency commitment can still culminate in assignment to a special facility. The State, in argument, went one step further. It contended that in practice the assignment process under all three statutes is identical: the individual is remanded to the central state authority, which assigns him to an appropriate institution regardless of how he was committed.
+\par 
+}
+}
+{\li0 \f2 \qj \b0 \ri0 \fs18 \cf1 \i0 
+{\f2 \strike0 \ul0 \b0 \sa0 \sb0 \fs18 \cf1 \i0 
+If true, such practice appears at first blush contrary to the mandate of s 22\u8212\'3f1907, requiring the court clerk to seek assignment at one of the two special institutions. However, the relevant statutes, including that effecting consolidation of all mental health facilities under one department, have been enacted piecemeal, and older laws often not formally revised. Since the department of mental health has sole discretionary authority to transfer patients between any of the institutions it administers at any time, s 22\u8212\'3f5032(6) and s 22\u8212\'3f301, there is evidently adequate statutory authority for consolidating the initial assignment decision.
+\par 
+}
+}
+{\li0 \f2 \qj \b0 \ri0 \fs18 \cf1 \i0 
+{\f2 \strike0 \ul0 \b0 \sa0 \sb0 \fs18 \cf1 \i0 
+Moreover, nothing in the record demonstrates that different or better treatment is available at a special institution than at the general facilities for the mentally ill. We are not faced here, as we were in Baxstrom, with commitment to a distinctly penal or maximum-security in stitution designed for dangerous inmates and not administered by the general state mental health authorities. Therefore, we cannot say that by virtue of his incompetency commitment Jackson has been denied an assignment or appropriate treatment to which those not charged with crimes would generally be entitled.
+\par 
+}
+}
+{\li0 \f2 \qj \b0 \ri0 \fs18 \cf1 \i0 
+{\f2 \strike0 \ul0 \b0 \sa0 \sb0 \fs18 \cf1 \i0 
+Similarly, Jackson\rquote s incompetency commitment did not deprive him of privileges such as furloughs to which he claims a feeble-mindedness commitment would entitle him. The statutes relate such privileges to particular institutions, not to the method of commitment. Thus patients assigned to the Muscatatuck institution are entitled to furloughs regardless of the statute under which they were committed; and persons committed as feeble-minded would not be entitled to furloughs if assigned to a general mental institution.
+\par 
+}
+}
+}
+}
+}\f2 \li0 \strike0 \ul0 \b0 \qj \sa0 \sb0 \fs18 \ri0 \cf1 \i0 \intbl \cell \row }}\par 
+}
+}
+{\li0 \f2 \qj \b0 \ri0 \fs20 \cf1 \i0 
+{\*\bkmkstart co_anchor_I4f2b273f0e3911e498db8b09b4f04}{\*\bkmkend co_anchor_I4f2b273f0e3911e498db8b09b4f04}
+\par 
+{\li0 \f2 \b1 \ri0 \fs20 \cf1 \qc \i0 
+{\f2 \b1 \fs20 \cf1 \i0 
+{\f2 \strike0 \ul0 \b1 \fs20 \cf1 \i0 
+}
+{\f2 \b1 \fs20 \cf1 \i0 
+{\*\bkmkstart co_pp_sp_780_731_1}{\*\bkmkend co_pp_sp_780_731_1}
+{\f2 \strike0 \ul0 \b1 \sa0 \sb0 \fs20 \cf1 \i0 
+*731
+}
+}
+{\f2 \strike0 \ul0 \b1 \sa200 \sb400 \fs20 \cf1 \i0 
+ III
+\par 
+}
+}
+}
+{\li0 \f2 \b1 \ri0 \fs20 \cf1 \qc \i0 
+{\f2 \b1 \fs20 \cf1 \i0 
+{\f2 \strike0 \ul0 \b1 \sa200 \sb400 \fs20 \cf1 \i0 
+DUE PROCESS
+\par 
+}
+}
+}
+{\li0 \f2 \qj \b0 \ri0 \fs20 \cf1 \i0 
+{\li0 \f2 \qj \b0 \ri0 \fs20 \cf1 \i0 
+{\field {\*\fldinst HYPERLINK "#co_anchor_F41972127136_1" }{\fldrslt 
+{\super \f2 \strike0 \ul0 \b1 \sa0 \sb0 \fs20 \cf24 \i0 
+[4]
+}}}
+{\f2 \b0 \fs20 \cf5 \i0 
+{\*\bkmkstart co_anchor_B41972127136_1}{\*\bkmkend co_anchor_B41972127136_1}
+}
+{\f2 \strike0 \ul0 \b0 \sa0 \sb0 \fs20 \cf1 \i0 
+ For reasons closely related to those discussed in Part II above, we also hold that Indiana\rquote s indefinite commitment of a criminal defendant solely on account of his incompetency to stand trial does not square with the Fourteenth Amendment\rquote s guarantee of due process.
+\par 
+}
+}
+}
+{\f2 \strike0 \ul0 \b0 \sa0 \sb0 \fs20 \cf1 \i0 
+\u160\'3f
+\par 
+}
+{\li0 \f2 \qj \b0 \ri0 \fs20 \cf1 \i0 
+{\li0 \f2 \qj \b0 \ri0 \fs20 \cf1 \i0 
+{\f2 \strike0 \ul0 \b0 \sa0 \sb0 \fs20 \cf1 \i0 
+A. The Federal System. In the federal criminal system, the constitutional issue posed here has not been encountered precisely because the federal statutes have been construed to require that a mentally incompetent defendant must also be found \u8216\'3fdangerous\rquote  before he can be committed indefinitely. But the decisions have uniformly articulated the 
+}
+{\f2 \b1 \fs20 \cf1 \i0 
+{\*\bkmkstart co_pp_sp_708_1855_1}{\*\bkmkend co_pp_sp_708_1855_1}
+{\f2 \strike0 \ul0 \b1 \sa0 \sb0 \fs20 \cf1 \i0 
+**1855
+}
+}
+{\f2 \strike0 \ul0 \b0 \sa0 \sb200 \fs20 \cf1 \i0 
+ constitutional problems compelling this statutory interpretation.
+\par 
+}
+}
+}
+{\li0 \f2 \qj \b0 \ri0 \fs20 \cf1 \i0 
+{\li0 \f2 \qj \b0 \ri0 \fs20 \cf1 \i0 
+{\f2 \strike0 \ul0 \b0 \sa0 \sb0 \fs20 \cf1 \i0 
+The federal statute, 
+}
+{\field {\*\fldinst HYPERLINK "http://www.westlaw.com/Link/Document/FullText?findType=L&pubNum=1000546&cite=18USCAS4244&originatingDoc=I6b48659d9c2511d9bc61beebb95be672&refType=LQ&originationContext=document&vr=3.0&rs=cblt1.0&transitionType=DocumentItem&contextData=(sc.Search)" }{\fldrslt 
+{\f2 \strike0 \ul0 \b0 \sa0 \sb0 \fs20 \cf5 \i0 
+18 U.S.C. ss 4244
+}}}
+{\f2 \strike0 \ul0 \b0 \sa0 \sb0 \fs20 \cf1 \i0 
+ to 
+}
+{\field {\*\fldinst HYPERLINK "http://www.westlaw.com/Link/Document/FullText?findType=L&pubNum=1000546&cite=18USCAS4246&originatingDoc=I6b48659d9c2511d9bc61beebb95be672&refType=LQ&originationContext=document&vr=3.0&rs=cblt1.0&transitionType=DocumentItem&contextData=(sc.Search)" }{\fldrslt 
+{\f2 \strike0 \ul0 \b0 \sa0 \sb0 \fs20 \cf5 \i0 
+4246
+}}}
+{\f2 \strike0 \ul0 \b0 \sa0 \sb0 \fs20 \cf1 \i0 
+, is not dissimilar to the Indiana law. It provides that a defendant found incompetent to stand trial may be committed \u8216\'3funtil the accused shall be mentally competent to stand trial or until the pending charges against him are disposed of according to law.\u8217\'3f 
+}
+{\field {\*\fldinst HYPERLINK "http://www.westlaw.com/Link/Document/FullText?findType=L&pubNum=1000546&cite=18USCAS4246&originatingDoc=I6b48659d9c2511d9bc61beebb95be672&refType=LQ&originationContext=document&vr=3.0&rs=cblt1.0&transitionType=DocumentItem&contextData=(sc.Search)" }{\fldrslt 
+{\f2 \strike0 \ul0 \b0 \sa0 \sb0 \fs20 \cf5 \i0 
+s 4246
+}}}
+{\f2 \strike0 \ul0 \b0 \sa0 \sb0 \fs20 \cf1 \i0 
+. Section 
+}
+{\f2 \b1 \fs20 \cf1 \i0 
+{\*\bkmkstart co_pp_sp_780_732_1}{\*\bkmkend co_pp_sp_780_732_1}
+{\f2 \strike0 \ul0 \b1 \sa0 \sb0 \fs20 \cf1 \i0 
+*732
+}
+}
+{\f2 \strike0 \ul0 \b0 \sa0 \sb0 \fs20 \cf1 \i0 
+ 4247, applicable on its face only to convicted criminals whose federal sentences are about to expire, permits commitment if the prisoner is (1) \u8216\'3finsane or mentally incompetent\u8217\'3f and (2) \u8216\'3fwill probably endanger the safety of the officers, the property, or other interests of the United States, and . . . suitable arrangements for the custody and care of the prisoner are not otherwise available,\u8217\'3f that is, in a state facility. See 
+}
+{\field {\*\fldinst HYPERLINK "http://www.westlaw.com/Link/Document/FullText?findType=Y&serNum=1956124971&pubNum=708&originatingDoc=I6b48659d9c2511d9bc61beebb95be672&refType=RP&fi=co_pp_sp_708_414&originationContext=document&vr=3.0&rs=cblt1.0&transitionType=DocumentItem&contextData=(sc.Search)#co_pp_sp_708_414" }{\fldrslt 
+{\f2 \strike0 \ul0 \b0 \sa0 \sb0 \fs20 \cf5 \i0 
+Greenwood v. United States, 350 U.S., at 373\u8212\'3f374, 76 S.Ct., at 414\u8212\'3f415.
+}}}
+{\f2 \strike0 \ul0 \b0 \sa0 \sb0 \fs20 \cf1 \i0 
+ One committed under this section, however, is entitled to release when any of the three conditions no longer obtains, \u8216\'3fwhichever event shall first occur.\u8217\'3f 
+}
+{\field {\*\fldinst HYPERLINK "http://www.westlaw.com/Link/Document/FullText?findType=L&pubNum=1000546&cite=18USCAS4248&originatingDoc=I6b48659d9c2511d9bc61beebb95be672&refType=LQ&originationContext=document&vr=3.0&rs=cblt1.0&transitionType=DocumentItem&contextData=(sc.Search)" }{\fldrslt 
+{\f2 \strike0 \ul0 \b0 \sa0 \sb0 \fs20 \cf5 \i0 
+s 4248
+}}}
+{\f2 \strike0 \ul0 \b0 \sa0 \sb200 \fs20 \cf1 \i0 
+. Thus, a person committed under s 4247 must be released when he no longer is \u8216\'3fdangerous.\u8217\'3f
+\par 
+}
+}
+}
+{\li0 \f2 \qj \b0 \ri0 \fs20 \cf1 \i0 
+{\li0 \f2 \qj \b0 \ri0 \fs20 \cf1 \i0 
+{\f2 \strike0 \ul0 \b0 \sa0 \sb0 \fs20 \cf1 \i0 
+In Greenwood, the Court upheld the pretrial commitment of a defendant who met all three conditions of s 4247, even though there was little likelihood that he would ever become competent to stand trial. Since Greenwood had not yet stood trial, his commitment was ostensibly under 
+}
+{\field {\*\fldinst HYPERLINK "http://www.westlaw.com/Link/Document/FullText?findType=L&pubNum=1000546&cite=18USCAS4244&originatingDoc=I6b48659d9c2511d9bc61beebb95be672&refType=LQ&originationContext=document&vr=3.0&rs=cblt1.0&transitionType=DocumentItem&contextData=(sc.Search)" }{\fldrslt 
+{\f2 \strike0 \ul0 \b0 \sa0 \sb0 \fs20 \cf5 \i0 
+s 4244
+}}}
+{\f2 \strike0 \ul0 \b0 \sa0 \sb0 \fs20 \cf1 \i0 
+. By the related release provision, 
+}
+{\field {\*\fldinst HYPERLINK "http://www.westlaw.com/Link/Document/FullText?findType=L&pubNum=1000546&cite=18USCAS4246&originatingDoc=I6b48659d9c2511d9bc61beebb95be672&refType=LQ&originationContext=document&vr=3.0&rs=cblt1.0&transitionType=DocumentItem&contextData=(sc.Search)" }{\fldrslt 
+{\f2 \strike0 \ul0 \b0 \sa0 \sb0 \fs20 \cf5 \i0 
+s 4246
+}}}
+{\f2 \strike0 \ul0 \b0 \sa0 \sb0 \fs20 \cf1 \i0 
+, he could not have been released until he became competent. But the District Court had in fact applied s 4247, and found specifically that Greenwood would be dangerous if not committed. This Court approved that approach, holding s 4247 applicable before trial as well as to those about to be released from sentence. 
+}
+{\field {\*\fldinst HYPERLINK "http://www.westlaw.com/Link/Document/FullText?findType=Y&serNum=1956124971&pubNum=708&originatingDoc=I6b48659d9c2511d9bc61beebb95be672&refType=RP&fi=co_pp_sp_708_414&originationContext=document&vr=3.0&rs=cblt1.0&transitionType=DocumentItem&contextData=(sc.Search)#co_pp_sp_708_414" }{\fldrslt 
+{\f2 \strike0 \ul0 \b0 \sa0 \sb0 \fs20 \cf5 \i0 
+350 U.S., at 374, 76 S.Ct., at 414.
+}}}
+{\f2 \strike0 \ul0 \b0 \sa0 \sb0 \fs20 \cf1 \i0 
+ Accordingly, Greenwood was entitled to release when no longer dangerous, 
+}
+{\field {\*\fldinst HYPERLINK "http://www.westlaw.com/Link/Document/FullText?findType=L&pubNum=1000546&cite=18USCAS4248&originatingDoc=I6b48659d9c2511d9bc61beebb95be672&refType=LQ&originationContext=document&vr=3.0&rs=cblt1.0&transitionType=DocumentItem&contextData=(sc.Search)" }{\fldrslt 
+{\f2 \strike0 \ul0 \b0 \sa0 \sb0 \fs20 \cf5 \i0 
+s 4248
+}}}
+{\f2 \strike0 \ul0 \b0 \sa0 \sb0 \fs20 \cf1 \i0 
+, even if he did not become competent to stand trial and thus did not meet the requirement of 
+}
+{\field {\*\fldinst HYPERLINK "http://www.westlaw.com/Link/Document/FullText?findType=L&pubNum=1000546&cite=18USCAS4246&originatingDoc=I6b48659d9c2511d9bc61beebb95be672&refType=LQ&originationContext=document&vr=3.0&rs=cblt1.0&transitionType=DocumentItem&contextData=(sc.Search)" }{\fldrslt 
+{\f2 \strike0 \ul0 \b0 \sa0 \sb0 \fs20 \cf5 \i0 
+s 4246
+}}}
+{\f2 \strike0 \ul0 \b0 \sa0 \sb200 \fs20 \cf1 \i0 
+. Under these circumstances, the Court found the commitment constitutional.
+\par 
+}
+}
+}
+{\li0 \f2 \qj \b0 \ri0 \fs20 \cf1 \i0 
+{\li0 \f2 \qj \b0 \ri0 \fs20 \cf1 \i0 
+{\f2 \strike0 \ul0 \b0 \sa0 \sb0 \fs20 \cf1 \i0 
+Since Greenwood, federal courts without exception have found improper any straightforward application of 
+}
+{\field {\*\fldinst HYPERLINK "http://www.westlaw.com/Link/Document/FullText?findType=L&pubNum=1000546&cite=18USCAS4244&originatingDoc=I6b48659d9c2511d9bc61beebb95be672&refType=LQ&originationContext=document&vr=3.0&rs=cblt1.0&transitionType=DocumentItem&contextData=(sc.Search)" }{\fldrslt 
+{\f2 \strike0 \ul0 \b0 \sa0 \sb0 \fs20 \cf5 \i0 
+ss 4244
+}}}
+{\f2 \strike0 \ul0 \b0 \sa0 \sb0 \fs20 \cf1 \i0 
+ and 
+}
+{\field {\*\fldinst HYPERLINK "http://www.westlaw.com/Link/Document/FullText?findType=L&pubNum=1000546&cite=18USCAS4246&originatingDoc=I6b48659d9c2511d9bc61beebb95be672&refType=LQ&originationContext=document&vr=3.0&rs=cblt1.0&transitionType=DocumentItem&contextData=(sc.Search)" }{\fldrslt 
+{\f2 \strike0 \ul0 \b0 \sa0 \sb0 \fs20 \cf5 \i0 
+4246
+}}}
+{\f2 \strike0 \ul0 \b0 \sa0 \sb0 \fs20 \cf1 \i0 
+ to a defendant whose chance of attaining competency to stand trial is slim, thus effecting 
+}
+{\f2 \b1 \fs20 \cf1 \i0 
+{\*\bkmkstart co_pp_sp_780_733_1}{\*\bkmkend co_pp_sp_780_733_1}
+{\f2 \strike0 \ul0 \b1 \sa0 \sb0 \fs20 \cf1 \i0 
+*733
+}
+}
+{\f2 \strike0 \ul0 \b0 \sa0 \sb0 \fs20 \cf1 \i0 
+ an indefinite commitment on the ground of incompetency alone. 
+}
+{\field {\*\fldinst HYPERLINK "http://www.westlaw.com/Link/Document/FullText?findType=Y&serNum=1969118587&pubNum=350&originatingDoc=I6b48659d9c2511d9bc61beebb95be672&refType=RP&originationContext=document&vr=3.0&rs=cblt1.0&transitionType=DocumentItem&contextData=(sc.Search)" }{\fldrslt 
+{\f2 \strike0 \ul0 \b0 \sa0 \sb0 \fs20 \cf5 \i0 
+United States v. Curry, 410 F.2d 1372 (CA4 1969)
+}}}
+{\f2 \strike0 \ul0 \b0 \sa0 \sb0 \fs20 \cf1 \i0 
+; 
+}
+{\field {\*\fldinst HYPERLINK "http://www.westlaw.com/Link/Document/FullText?findType=Y&serNum=1971107556&pubNum=2793&originatingDoc=I6b48659d9c2511d9bc61beebb95be672&refType=RP&originationContext=document&vr=3.0&rs=cblt1.0&transitionType=DocumentItem&contextData=(sc.Search)" }{\fldrslt 
+{\f2 \strike0 \ul0 \b0 \sa0 \sb0 \fs20 \cf5 \i0 
+United States v. Walker, 335 F.Supp. 705 (ND Cal.1971)
+}}}
+{\f2 \strike0 \ul0 \b0 \sa0 \sb0 \fs20 \cf1 \i0 
+; 
+}
+{\field {\*\fldinst HYPERLINK "http://www.westlaw.com/Link/Document/FullText?findType=Y&serNum=1970113571&pubNum=345&originatingDoc=I6b48659d9c2511d9bc61beebb95be672&refType=RP&originationContext=document&vr=3.0&rs=cblt1.0&transitionType=DocumentItem&contextData=(sc.Search)" }{\fldrslt 
+{\f2 \strike0 \ul0 \b0 \sa0 \sb0 \fs20 \cf5 \i0 
+Cook v. Ciccone, 312 F.Supp. 822 (WD Mo.1970)
+}}}
+{\f2 \strike0 \ul0 \b0 \sa0 \sb0 \fs20 \cf1 \i0 
+; 
+}
+{\field {\*\fldinst HYPERLINK "http://www.westlaw.com/Link/Document/FullText?findType=Y&serNum=1969115845&pubNum=345&originatingDoc=I6b48659d9c2511d9bc61beebb95be672&refType=RP&originationContext=document&vr=3.0&rs=cblt1.0&transitionType=DocumentItem&contextData=(sc.Search)" }{\fldrslt 
+{\f2 \strike0 \ul0 \b0 \sa0 \sb0 \fs20 \cf5 \i0 
+United States v. Jackson, 306 F.Supp. 4 (ND Cal.1969)
+}}}
+{\f2 \strike0 \ul0 \b0 \sa0 \sb0 \fs20 \cf1 \i0 
+; 
+}
+{\field {\*\fldinst HYPERLINK "http://www.westlaw.com/Link/Document/FullText?findType=Y&serNum=1969115710&pubNum=345&originatingDoc=I6b48659d9c2511d9bc61beebb95be672&refType=RP&originationContext=document&vr=3.0&rs=cblt1.0&transitionType=DocumentItem&contextData=(sc.Search)" }{\fldrslt 
+{\f2 \strike0 \ul0 \b0 \sa0 \sb0 \fs20 \cf5 \i0 
+Maurietta v. Ciccone, 305 F.Supp. 775 (WD Mo.1969)
+}}}
+{\f2 \strike0 \ul0 \b0 \sa0 \sb0 \fs20 \cf1 \i0 
+. See 
+}
+{\field {\*\fldinst HYPERLINK "http://www.westlaw.com/Link/Document/FullText?findType=Y&serNum=1970102672&pubNum=350&originatingDoc=I6b48659d9c2511d9bc61beebb95be672&refType=RP&originationContext=document&vr=3.0&rs=cblt1.0&transitionType=DocumentItem&contextData=(sc.Search)" }{\fldrslt 
+{\f2 \strike0 \ul0 \b0 \sa0 \sb0 \fs20 \cf5 \i0 
+In re Harmon, 425 F.2d 916 (CA1 1970)
+}}}
+{\f2 \strike0 \ul0 \b0 \sa0 \sb0 \fs20 \cf1 \i0 
+; 
+}
+{\field {\*\fldinst HYPERLINK "http://www.westlaw.com/Link/Document/FullText?findType=Y&serNum=1963116519&pubNum=350&originatingDoc=I6b48659d9c2511d9bc61beebb95be672&refType=RP&originationContext=document&vr=3.0&rs=cblt1.0&transitionType=DocumentItem&contextData=(sc.Search)" }{\fldrslt 
+{\f2 \strike0 \ul0 \b0 \sa0 \sb0 \fs20 \cf5 \i0 
+United States v. Klein, 325 F.2d 283 (CA2 1963)
+}}}
+{\f2 \strike0 \ul0 \b0 \sa0 \sb0 \fs20 \cf1 \i0 
+; 
+}
+{\field {\*\fldinst HYPERLINK "http://www.westlaw.com/Link/Document/FullText?findType=Y&serNum=1961102859&pubNum=345&originatingDoc=I6b48659d9c2511d9bc61beebb95be672&refType=RP&originationContext=document&vr=3.0&rs=cblt1.0&transitionType=DocumentItem&contextData=(sc.Search)" }{\fldrslt 
+{\f2 \strike0 \ul0 \b0 \sa0 \sb0 \fs20 \cf5 \i0 
+Martin v. Settle, 192 F.Supp. 156 (WD Mo.1961)
+}}}
+{\f2 \strike0 \ul0 \b0 \sa0 \sb0 \fs20 \cf1 \i0 
+; 
+}
+{\field {\*\fldinst HYPERLINK "http://www.westlaw.com/Link/Document/FullText?findType=Y&serNum=1961103888&pubNum=345&originatingDoc=I6b48659d9c2511d9bc61beebb95be672&refType=RP&originationContext=document&vr=3.0&rs=cblt1.0&transitionType=DocumentItem&contextData=(sc.Search)" }{\fldrslt 
+{\f2 \strike0 \ul0 \b0 \sa0 \sb0 \fs20 \cf5 \i0 
+Royal v. Settle, 192 F.Supp. 176 (WD Mo.1959)
+}}}
+{\f2 \strike0 \ul0 \b0 \sa0 \sb0 \fs20 \cf1 \i0 
+. The holding in each of these cases was grounded in an expressed substantial doubt that 
+}
+{\field {\*\fldinst HYPERLINK "http://www.westlaw.com/Link/Document/FullText?findType=L&pubNum=1000546&cite=18USCAS4244&originatingDoc=I6b48659d9c2511d9bc61beebb95be672&refType=LQ&originationContext=document&vr=3.0&rs=cblt1.0&transitionType=DocumentItem&contextData=(sc.Search)" }{\fldrslt 
+{\f2 \strike0 \ul0 \b0 \sa0 \sb0 \fs20 \cf5 \i0 
+ss 4244
+}}}
+{\f2 \strike0 \ul0 \b0 \sa0 \sb0 \fs20 \cf1 \i0 
+ and 
+}
+{\field {\*\fldinst HYPERLINK "http://www.westlaw.com/Link/Document/FullText?findType=L&pubNum=1000546&cite=18USCAS4246&originatingDoc=I6b48659d9c2511d9bc61beebb95be672&refType=LQ&originationContext=document&vr=3.0&rs=cblt1.0&transitionType=DocumentItem&contextData=(sc.Search)" }{\fldrslt 
+{\f2 \strike0 \ul0 \b0 \sa0 \sb0 \fs20 \cf5 \i0 
+4246
+}}}
+{\f2 \strike0 \ul0 \b0 \sa0 \sb200 \fs20 \cf1 \i0 
+ could survive constitutional scrutiny if interpreted to authorize indefinite commitment.
+\par 
+}
+}
+}
+{\li0 \f2 \qj \b0 \ri0 \fs20 \cf1 \i0 
+{\li0 \f2 \qj \b0 \ri0 \fs20 \cf1 \i0 
+{\f2 \strike0 \ul0 \b0 \sa0 \sb0 \fs20 \cf1 \i0 
+These decisions have imposed a \u8216\'3frule of reasonableness\rquote  upon 
+}
+{\field {\*\fldinst HYPERLINK "http://www.westlaw.com/Link/Document/FullText?findType=L&pubNum=1000546&cite=18USCAS4244&originatingDoc=I6b48659d9c2511d9bc61beebb95be672&refType=LQ&originationContext=document&vr=3.0&rs=cblt1.0&transitionType=DocumentItem&contextData=(sc.Search)" }{\fldrslt 
+{\f2 \strike0 \ul0 \b0 \sa0 \sb0 \fs20 \cf5 \i0 
+ss 4244
+}}}
+{\f2 \strike0 \ul0 \b0 \sa0 \sb0 \fs20 \cf1 \i0 
+ and 
+}
+{\field {\*\fldinst HYPERLINK "http://www.westlaw.com/Link/Document/FullText?findType=L&pubNum=1000546&cite=18USCAS4246&originatingDoc=I6b48659d9c2511d9bc61beebb95be672&refType=LQ&originationContext=document&vr=3.0&rs=cblt1.0&transitionType=DocumentItem&contextData=(sc.Search)" }{\fldrslt 
+{\f2 \strike0 \ul0 \b0 \sa0 \sb0 \fs20 \cf5 \i0 
+4246
+}}}
+{\f2 \strike0 \ul0 \b0 \sa0 \sb200 \fs20 \cf1 \i0 
+. Without a finding of dangerousness, one committed thereunder can be held only for a \u8216\'3freasonable period of time\u8217\'3f necessary to determine whether there is a substantial chance of his attaining the capacity to stand trial in the foreseeable future. If the chances are slight, or if the defendant does not in fact improve, then he must be released or granted a ss 4247\u8212\'3f4248 hearing.
+\par 
+}
+}
+}
+{\li0 \f2 \qj \b0 \ri0 \fs20 \cf1 \i0 
+{\li0 \f2 \qj \b0 \ri0 \fs20 \cf1 \i0 
+{\f2 \strike0 \ul0 \b0 \sa0 \sb0 \fs20 \cf1 \i0 
+B. The States. Some States
+}
+{\f2 \b0 \fs16 \cf1 \i0 
+{\*\bkmkstart co_footnoteReference_B011101972127136_ID}{\*\bkmkend co_footnoteReference_B011101972127136_ID}
+{\field {\*\fldinst HYPERLINK "#co_footnote_B011101972127136_1" }{\fldrslt 
+{\super \f2 \strike0 \ul0 \b0 \sa0 \sb0 \fs16 \cf5 \i0 
+10
+}}}
+}
+{\f2 \strike0 \ul0 \b0 \sa0 \sb0 \fs20 \cf1 \i0 
+ appear to commit indefinitely a defendant found incompetent to stand trial until he recovers competency. Other States require a finding of dangerousness to support 
+}
+{\f2 \b1 \fs20 \cf1 \i0 
+{\*\bkmkstart co_pp_sp_708_1856_1}{\*\bkmkend co_pp_sp_708_1856_1}
+{\f2 \strike0 \ul0 \b1 \sa0 \sb0 \fs20 \cf1 \i0 
+**1856
+}
+}
+{\f2 \strike0 \ul0 \b0 \sa0 \sb0 \fs20 \cf1 \i0 
+ such a commitment
+}
+{\f2 \b0 \fs16 \cf1 \i0 
+{\*\bkmkstart co_footnoteReference_B012111972127136_ID}{\*\bkmkend co_footnoteReference_B012111972127136_ID}
+{\field {\*\fldinst HYPERLINK "#co_footnote_B012111972127136_1" }{\fldrslt 
+{\super \f2 \strike0 \ul0 \b0 \sa0 \sb0 \fs16 \cf5 \i0 
+11
+}}}
+}
+{\f2 \strike0 \ul0 \b0 \sa0 \sb0 \fs20 \cf1 \i0 
+ or provide forms of parole.
+}
+{\f2 \b0 \fs16 \cf1 \i0 
+{\*\bkmkstart co_footnoteReference_B013121972127136_ID}{\*\bkmkend co_footnoteReference_B013121972127136_ID}
+{\field {\*\fldinst HYPERLINK "#co_footnote_B013121972127136_1" }{\fldrslt 
+{\super \f2 \strike0 \ul0 \b0 \sa0 \sb0 \fs16 \cf5 \i0 
+12
+}}}
+}
+{\f2 \strike0 \ul0 \b0 \sa0 \sb0 \fs20 \cf1 \i0 
+ New York has recently 
+}
+{\f2 \b1 \fs20 \cf1 \i0 
+{\*\bkmkstart co_pp_sp_780_734_1}{\*\bkmkend co_pp_sp_780_734_1}
+{\f2 \strike0 \ul0 \b1 \sa0 \sb0 \fs20 \cf1 \i0 
+*734
+}
+}
+{\f2 \strike0 \ul0 \b0 \sa0 \sb0 \fs20 \cf1 \i0 
+ enacted legislation mandating release of incompetent defendants charged with misdemeanors after 90 days of commitment, and release and dismissal of charges against those accused of felonies after they have been committed for two-thirds of the maximum potential prison sentence.
+}
+{\f2 \b0 \fs16 \cf1 \i0 
+{\*\bkmkstart co_footnoteReference_B014131972127136_ID}{\*\bkmkend co_footnoteReference_B014131972127136_ID}
+{\field {\*\fldinst HYPERLINK "#co_footnote_B014131972127136_1" }{\fldrslt 
+{\super \f2 \strike0 \ul0 \b0 \sa0 \sb0 \fs16 \cf5 \i0 
+13
+}}}
+}
+{\f2 \strike0 \ul0 \b0 \sa0 \sb0 \fs20 \cf1 \i0 
+ The practice of automatic commitment with release conditioned solely upon attainment of competence has been decried on both policy and constitutional grounds.
+}
+{\f2 \b0 \fs16 \cf1 \i0 
+{\*\bkmkstart co_footnoteReference_B015141972127136_ID}{\*\bkmkend co_footnoteReference_B015141972127136_ID}
+{\field {\*\fldinst HYPERLINK "#co_footnote_B015141972127136_1" }{\fldrslt 
+{\super \f2 \strike0 \ul0 \b0 \sa0 \sb0 \fs16 \cf5 \i0 
+14
+}}}
+}
+{\f2 \strike0 \ul0 \b0 \sa0 \sb0 \fs20 \cf1 \i0 
+ Recommendations for changes made by commentators and study committees have included incorporation into pretrial commitment procedures of the equivalent of the federal \u8216\'3frule of reason,\u8217\'3f a requirement of a finding of dangerousness or of full-scale civil commitment, periodic review by court or mental health administrative personnel of the defendant\rquote s condition and progress, and provisions for ultimately dropping charges if the defendant does not improve.
+}
+{\f2 \b0 \fs16 \cf1 \i0 
+{\*\bkmkstart co_footnoteReference_B016151972127136_ID}{\*\bkmkend co_footnoteReference_B016151972127136_ID}
+{\field {\*\fldinst HYPERLINK "#co_footnote_B016151972127136_1" }{\fldrslt 
+{\super \f2 \strike0 \ul0 \b0 \sa0 \sb0 \fs16 \cf5 \i0 
+15
+}}}
+}
+{\f2 \strike0 \ul0 \b0 \sa0 \sb0 \fs20 \cf1 \i0 
+ One source of this criticism is undoubtedly the empirical data available which tend to show that many defendants committed before trial are never tried, and that those defendants committed pursuant to ordinary civil proceedings are, on the average, released sooner than defendants automatically committed solely on account of their incapacity to stand trial.
+}
+{\f2 \b0 \fs16 \cf1 \i0 
+{\*\bkmkstart co_footnoteReference_B017161972127136_ID}{\*\bkmkend co_footnoteReference_B017161972127136_ID}
+{\field {\*\fldinst HYPERLINK "#co_footnote_B017161972127136_1" }{\fldrslt 
+{\super \f2 \strike0 \ul0 \b0 \sa0 \sb0 \fs16 \cf5 \i0 
+16
+}}}
+}
+{\f2 \strike0 \ul0 \b0 \sa0 \sb0 \fs20 \cf1 \i0 
+ Related to these statistics 
+}
+{\f2 \b1 \fs20 \cf1 \i0 
+{\*\bkmkstart co_pp_sp_780_735_1}{\*\bkmkend co_pp_sp_780_735_1}
+{\f2 \strike0 \ul0 \b1 \sa0 \sb0 \fs20 \cf1 \i0 
+*735
+}
+}
+{\f2 \strike0 \ul0 \b0 \sa0 \sb0 \fs20 \cf1 \i0 
+ are substantial doubts about whether the rationale for pretrial commitment\u8212\'3fthat care or treatment will aid the accused in attaining competency\u8212\'3fis empirically valid given the state of most of our mental institutions.
+}
+{\f2 \b0 \fs16 \cf1 \i0 
+{\*\bkmkstart co_footnoteReference_B018171972127136_ID}{\*\bkmkend co_footnoteReference_B018171972127136_ID}
+{\field {\*\fldinst HYPERLINK "#co_footnote_B018171972127136_1" }{\fldrslt 
+{\super \f2 \strike0 \ul0 \b0 \sa0 \sb0 \fs16 \cf5 \i0 
+17
+}}}
+}
+{\f2 \strike0 \ul0 \b0 \sa0 \sb200 \fs20 \cf1 \i0 
+ However, very few courts appear to have addressed the problem directly in the state context.
+\par 
+}
+}
+}
+{\li0 \f2 \qj \b0 \ri0 \fs20 \cf1 \i0 {
+{\trowd \lastrow \trleft0 
+\clbrdrt \clbrdrb \clbrdrl \trql \clvertalt \clwWidth600 \cellx600 
+\clpadb90 \clpadfb3 \clpadl90 \clpadfl3 \clbrdrt \clbrdrb \clbrdrr \trql \clwWidth9480 \cellx10080 
+\intbl 
+{\li0 \ri0 
+{\li0 \f2 \b0 \ql \ri0 \fs20 \cf1 \i0 
+{\f2 \b0 \fs20 \cf1 \i0 
+{\*\bkmkstart co_footnote_B011101972127136_1}{\*\bkmkend co_footnote_B011101972127136_1}
+{\field {\*\fldinst HYPERLINK "#co_footnoteReference_B011101972127136_ID" }{\fldrslt 
+{\super \f2 \strike0 \ul0 \b0 \sa0 \sb0 \fs20 \cf5 \i0 
+10
+}\f2 \super \strike0 \ul0 \b0 \sa0 \sb0 \fs20 \cf5 \i0 }}
+\par 
+}
+}
+}\f2 \li0 \b0 \ql \fs20 \ri0 \cf1 \i0 \intbl \cell \intbl 
+{\li0 \ri0 
+{\li0 \f2 \qj \b0 \ri0 \fs18 \cf1 \i0 
+{\li0 \f2 \qj \b0 \ri0 \fs18 \cf1 \i0 
+{\li0 \f2 \qj \b0 \ri0 \fs18 \cf1 \i0 
+{\field {\*\fldinst HYPERLINK "http://www.westlaw.com/Link/Document/FullText?findType=L&pubNum=1000298&cite=CAPES1370&originatingDoc=I6b48659d9c2511d9bc61beebb95be672&refType=LQ&originationContext=document&vr=3.0&rs=cblt1.0&transitionType=DocumentItem&contextData=(sc.Search)" }{\fldrslt 
+{\f2 \strike0 \ul0 \b0 \sa0 \sb0 \fs18 \cf5 \i0 
+Cal.Penal Code ss 1370
+}\f2 \strike0 \ul0 \b0 \sa0 \sb0 \fs18 \cf5 \i0 }}
+{\f2 \strike0 \ul0 \b0 \sa0 \sb0 \fs18 \cf1 \i0 
+, 
+}
+{\field {\*\fldinst HYPERLINK "http://www.westlaw.com/Link/Document/FullText?findType=L&pubNum=1000298&cite=CAPES1371&originatingDoc=I6b48659d9c2511d9bc61beebb95be672&refType=LQ&originationContext=document&vr=3.0&rs=cblt1.0&transitionType=DocumentItem&contextData=(sc.Search)" }{\fldrslt 
+{\f2 \strike0 \ul0 \b0 \sa0 \sb0 \fs18 \cf5 \i0 
+1371 (1970)
+}\f2 \strike0 \ul0 \b0 \sa0 \sb0 \fs18 \cf5 \i0 }}
+{\f2 \strike0 \ul0 \b0 \sa0 \sb0 \fs18 \cf1 \i0 
+; Conn.Gen.Stat.Rev. s 54\u8212\'3f40(c) (1958); 
+}
+{\field {\*\fldinst HYPERLINK "http://www.westlaw.com/Link/Document/FullText?findType=L&pubNum=1000044&cite=MNSTS631.18&originatingDoc=I6b48659d9c2511d9bc61beebb95be672&refType=LQ&originationContext=document&vr=3.0&rs=cblt1.0&transitionType=DocumentItem&contextData=(sc.Search)" }{\fldrslt 
+{\f2 \strike0 \ul0 \b0 \sa0 \sb0 \fs18 \cf5 \i0 
+Minn.Stat.Ann. s 631.18 (Supp.1972\u8212\'3f1973)
+}\f2 \strike0 \ul0 \b0 \sa0 \sb0 \fs18 \cf5 \i0 }}
+{\f2 \strike0 \ul0 \b0 \sa0 \sb0 \fs18 \cf1 \i0 
+; 
+}
+{\field {\*\fldinst HYPERLINK "http://www.westlaw.com/Link/Document/FullText?findType=L&pubNum=1000045&cite=NJST2A%3a163-2&originatingDoc=I6b48659d9c2511d9bc61beebb95be672&refType=LQ&originationContext=document&vr=3.0&rs=cblt1.0&transitionType=DocumentItem&contextData=(sc.Search)" }{\fldrslt 
+{\f2 \strike0 \ul0 \b0 \sa0 \sb0 \fs18 \cf5 \i0 
+N.J.Rev.Stat. s 2A:163\u8212\'3f2 (1971)
+}\f2 \strike0 \ul0 \b0 \sa0 \sb0 \fs18 \cf5 \i0 }}
+{\f2 \strike0 \ul0 \b0 \sa0 \sb0 \fs18 \cf1 \i0 
+; 
+}
+{\field {\*\fldinst HYPERLINK "http://www.westlaw.com/Link/Document/FullText?findType=L&pubNum=1000279&cite=OHSTS2945.37&originatingDoc=I6b48659d9c2511d9bc61beebb95be672&refType=LQ&originationContext=document&vr=3.0&rs=cblt1.0&transitionType=DocumentItem&contextData=(sc.Search)" }{\fldrslt 
+{\f2 \strike0 \ul0 \b0 \sa0 \sb0 \fs18 \cf5 \i0 
+Ohio Rev.Code Ann. ss 2945.37
+}\f2 \strike0 \ul0 \b0 \sa0 \sb0 \fs18 \cf5 \i0 }}
+{\f2 \strike0 \ul0 \b0 \sa0 \sb0 \fs18 \cf1 \i0 
+ and 
+}
+{\field {\*\fldinst HYPERLINK "http://www.westlaw.com/Link/Document/FullText?findType=L&pubNum=1000279&cite=OHSTS2945.38&originatingDoc=I6b48659d9c2511d9bc61beebb95be672&refType=LQ&originationContext=document&vr=3.0&rs=cblt1.0&transitionType=DocumentItem&contextData=(sc.Search)" }{\fldrslt 
+{\f2 \strike0 \ul0 \b0 \sa0 \sb0 \fs18 \cf5 \i0 
+2945.38 (1954)
+}\f2 \strike0 \ul0 \b0 \sa0 \sb0 \fs18 \cf5 \i0 }}
+{\f2 \strike0 \ul0 \b0 \sa0 \sb0 \fs18 \cf1 \i0 
+; 
+}
+{\field {\*\fldinst HYPERLINK "http://www.westlaw.com/Link/Document/FullText?findType=L&pubNum=1000260&cite=WIST971.14&originatingDoc=I6b48659d9c2511d9bc61beebb95be672&refType=LQ&originationContext=document&vr=3.0&rs=cblt1.0&transitionType=DocumentItem&contextData=(sc.Search)" }{\fldrslt 
+{\f2 \strike0 \ul0 \b0 \sa0 \sb0 \fs18 \cf5 \i0 
+Wis.Stat.Ann. s 971.14 (1971)
+}\f2 \strike0 \ul0 \b0 \sa0 \sb0 \fs18 \cf5 \i0 }}
+{\f2 \strike0 \ul0 \b0 \sa0 \sb0 \fs18 \cf1 \i0 
+. See 
+}
+{\field {\*\fldinst HYPERLINK "http://www.westlaw.com/Link/Document/FullText?findType=Y&serNum=0110386034&pubNum=3084&originatingDoc=I6b48659d9c2511d9bc61beebb95be672&refType=LR&originationContext=document&vr=3.0&rs=cblt1.0&transitionType=DocumentItem&contextData=(sc.Search)" }{\fldrslt 
+{\f2 \strike0 \ul0 \b0 \sa0 \sb0 \fs18 \cf5 \i0 
+Note, Incompetency to Stand Trial 81 Harv.L.Rev. 454 (1967)
+}\f2 \strike0 \ul0 \b0 \sa0 \sb0 \fs18 \cf5 \i0 }}
+{\f2 \strike0 \ul0 \b0 \sa0 \sb0 \fs18 \cf1 \i0 
+.
+\par 
+}
+}
+}
+}
+}\f2 \li0 \strike0 \ul0 \b0 \qj \sa0 \sb0 \fs18 \ri0 \cf1 \i0 \intbl \cell \row }}\par 
+}
+{\li0 \f2 \qj \b0 \ri0 \fs20 \cf1 \i0 {
+{\trowd \lastrow \trleft0 
+\clbrdrt \clbrdrb \clbrdrl \trql \clvertalt \clwWidth600 \cellx600 
+\clpadb90 \clpadfb3 \clpadl90 \clpadfl3 \clbrdrt \clbrdrb \clbrdrr \trql \clwWidth9480 \cellx10080 
+\intbl 
+{\li0 \ri0 
+{\li0 \f2 \b0 \ql \ri0 \fs20 \cf1 \i0 
+{\f2 \b0 \fs20 \cf1 \i0 
+{\*\bkmkstart co_footnote_B012111972127136_1}{\*\bkmkend co_footnote_B012111972127136_1}
+{\field {\*\fldinst HYPERLINK "#co_footnoteReference_B012111972127136_ID" }{\fldrslt 
+{\super \f2 \strike0 \ul0 \b0 \sa0 \sb0 \fs20 \cf5 \i0 
+11
+}\f2 \super \strike0 \ul0 \b0 \sa0 \sb0 \fs20 \cf5 \i0 }}
+\par 
+}
+}
+}\f2 \li0 \b0 \ql \fs20 \ri0 \cf1 \i0 \intbl \cell \intbl 
+{\li0 \ri0 
+{\li0 \f2 \qj \b0 \ri0 \fs18 \cf1 \i0 
+{\li0 \f2 \qj \b0 \ri0 \fs18 \cf1 \i0 
+{\li0 \f2 \qj \b0 \ri0 \fs18 \cf1 \i0 
+{\f2 \strike0 \ul0 \b0 \sa0 \sb0 \fs18 \cf1 \i0 
+Iowa Code, Ann. s 783.3 (Supp.1972); 
+}
+{\field {\*\fldinst HYPERLINK "http://www.westlaw.com/Link/Document/FullText?findType=L&pubNum=1000165&cite=OKSTT22S1167&originatingDoc=I6b48659d9c2511d9bc61beebb95be672&refType=LQ&originationContext=document&vr=3.0&rs=cblt1.0&transitionType=DocumentItem&contextData=(sc.Search)" }{\fldrslt 
+{\f2 \strike0 \ul0 \b0 \sa0 \sb0 \fs18 \cf5 \i0 
+Okla.Stat.Ann., Tit. 22, s 1167 (1958)
+}\f2 \strike0 \ul0 \b0 \sa0 \sb0 \fs18 \cf5 \i0 }}
+{\f2 \strike0 \ul0 \b0 \sa0 \sb0 \fs18 \cf1 \i0 
+; S.D.Comp.Laws Ann. s 23\u8212\'3f38\u8212\'3f6 (1967).
+\par 
+}
+}
+}
+}
+}\f2 \li0 \strike0 \ul0 \b0 \qj \sa0 \sb0 \fs18 \ri0 \cf1 \i0 \intbl \cell \row }}\par 
+}
+{\li0 \f2 \qj \b0 \ri0 \fs20 \cf1 \i0 {
+{\trowd \lastrow \trleft0 
+\clbrdrt \clbrdrb \clbrdrl \trql \clvertalt \clwWidth600 \cellx600 
+\clpadb90 \clpadfb3 \clpadl90 \clpadfl3 \clbrdrt \clbrdrb \clbrdrr \trql \clwWidth9480 \cellx10080 
+\intbl 
+{\li0 \ri0 
+{\li0 \f2 \b0 \ql \ri0 \fs20 \cf1 \i0 
+{\f2 \b0 \fs20 \cf1 \i0 
+{\*\bkmkstart co_footnote_B013121972127136_1}{\*\bkmkend co_footnote_B013121972127136_1}
+{\field {\*\fldinst HYPERLINK "#co_footnoteReference_B013121972127136_ID" }{\fldrslt 
+{\super \f2 \strike0 \ul0 \b0 \sa0 \sb0 \fs20 \cf5 \i0 
+12
+}\f2 \super \strike0 \ul0 \b0 \sa0 \sb0 \fs20 \cf5 \i0 }}
+\par 
+}
+}
+}\f2 \li0 \b0 \ql \fs20 \ri0 \cf1 \i0 \intbl \cell \intbl 
+{\li0 \ri0 
+{\li0 \f2 \qj \b0 \ri0 \fs18 \cf1 \i0 
+{\li0 \f2 \qj \b0 \ri0 \fs18 \cf1 \i0 
+{\li0 \f2 \qj \b0 \ri0 \fs18 \cf1 \i0 
+{\field {\*\fldinst HYPERLINK "http://www.westlaw.com/Link/Document/FullText?findType=L&pubNum=1000043&cite=MIST767.27A&originatingDoc=I6b48659d9c2511d9bc61beebb95be672&refType=LQ&originationContext=document&vr=3.0&rs=cblt1.0&transitionType=DocumentItem&contextData=(sc.Search)" }{\fldrslt 
+{\f2 \strike0 \ul0 \b0 \sa0 \sb0 \fs18 \cf5 \i0 
+Mich.Comp. Laws Ann. s 767.27a(8) (1967)
+}\f2 \strike0 \ul0 \b0 \sa0 \sb0 \fs18 \cf5 \i0 }}
+{\f2 \strike0 \ul0 \b0 \sa0 \sb0 \fs18 \cf1 \i0 
+; 
+}
+{\field {\*\fldinst HYPERLINK "http://www.westlaw.com/Link/Document/FullText?findType=L&pubNum=1000534&cite=ORSTS426.300&originatingDoc=I6b48659d9c2511d9bc61beebb95be672&refType=LQ&originationContext=document&vr=3.0&rs=cblt1.0&transitionType=DocumentItem&contextData=(sc.Search)" }{\fldrslt 
+{\f2 \strike0 \ul0 \b0 \sa0 \sb0 \fs18 \cf5 \i0 
+Ore.Rev.Stat. s 426.300(1) (1971)
+}\f2 \strike0 \ul0 \b0 \sa0 \sb0 \fs18 \cf5 \i0 }}
+{\f2 \strike0 \ul0 \b0 \sa0 \sb0 \fs18 \cf1 \i0 
+; 
+}
+{\field {\*\fldinst HYPERLINK "http://www.westlaw.com/Link/Document/FullText?findType=L&pubNum=1000260&cite=WIST51.21&originatingDoc=I6b48659d9c2511d9bc61beebb95be672&refType=LQ&originationContext=document&vr=3.0&rs=cblt1.0&transitionType=DocumentItem&contextData=(sc.Search)" }{\fldrslt 
+{\f2 \strike0 \ul0 \b0 \sa0 \sb0 \fs18 \cf5 \i0 
+Wis.Stat.Ann. s 51.21(6) (Supp.1972)
+}\f2 \strike0 \ul0 \b0 \sa0 \sb0 \fs18 \cf5 \i0 }}
+{\f2 \strike0 \ul0 \b0 \sa0 \sb0 \fs18 \cf1 \i0 
+.
+\par 
+}
+}
+}
+}
+}\f2 \li0 \strike0 \ul0 \b0 \qj \sa0 \sb0 \fs18 \ri0 \cf1 \i0 \intbl \cell \row }}\par 
+}
+{\li0 \f2 \qj \b0 \ri0 \fs20 \cf1 \i0 {
+{\trowd \lastrow \trleft0 
+\clbrdrt \clbrdrb \clbrdrl \trql \clvertalt \clwWidth600 \cellx600 
+\clpadb90 \clpadfb3 \clpadl90 \clpadfl3 \clbrdrt \clbrdrb \clbrdrr \trql \clwWidth9480 \cellx10080 
+\intbl 
+{\li0 \ri0 
+{\li0 \f2 \b0 \ql \ri0 \fs20 \cf1 \i0 
+{\f2 \b0 \fs20 \cf1 \i0 
+{\*\bkmkstart co_footnote_B014131972127136_1}{\*\bkmkend co_footnote_B014131972127136_1}
+{\field {\*\fldinst HYPERLINK "#co_footnoteReference_B014131972127136_ID" }{\fldrslt 
+{\super \f2 \strike0 \ul0 \b0 \sa0 \sb0 \fs20 \cf5 \i0 
+13
+}\f2 \super \strike0 \ul0 \b0 \sa0 \sb0 \fs20 \cf5 \i0 }}
+\par 
+}
+}
+}\f2 \li0 \b0 \ql \fs20 \ri0 \cf1 \i0 \intbl \cell \intbl 
+{\li0 \ri0 
+{\li0 \f2 \qj \b0 \ri0 \fs18 \cf1 \i0 
+{\li0 \f2 \qj \b0 \ri0 \fs18 \cf1 \i0 
+{\li0 \f2 \qj \b0 \ri0 \fs18 \cf1 \i0 
+{\field {\*\fldinst HYPERLINK "http://www.westlaw.com/Link/Document/FullText?findType=L&pubNum=1000300&cite=NYCMS730.50&originatingDoc=I6b48659d9c2511d9bc61beebb95be672&refType=LQ&originationContext=document&vr=3.0&rs=cblt1.0&transitionType=DocumentItem&contextData=(sc.Search)" }{\fldrslt 
+{\f2 \strike0 \ul0 \b0 \sa0 \sb0 \fs18 \cf5 \i0 
+N.Y.Crim.Proc. Law s 730.50 (1971)
+}\f2 \strike0 \ul0 \b0 \sa0 \sb0 \fs18 \cf5 \i0 }}
+{\f2 \strike0 \ul0 \b0 \sa0 \sb0 \fs18 \cf1 \i0 
+; see also Ill.Rev.Stat., c. 38, s 104\u8212\'3f3(c) (1971).
+\par 
+}
+}
+}
+}
+}\f2 \li0 \strike0 \ul0 \b0 \qj \sa0 \sb0 \fs18 \ri0 \cf1 \i0 \intbl \cell \row }}\par 
+}
+{\li0 \f2 \qj \b0 \ri0 \fs20 \cf1 \i0 {
+{\trowd \lastrow \trleft0 
+\clbrdrt \clbrdrb \clbrdrl \trql \clvertalt \clwWidth600 \cellx600 
+\clpadb90 \clpadfb3 \clpadl90 \clpadfl3 \clbrdrt \clbrdrb \clbrdrr \trql \clwWidth9480 \cellx10080 
+\intbl 
+{\li0 \ri0 
+{\li0 \f2 \b0 \ql \ri0 \fs20 \cf1 \i0 
+{\f2 \b0 \fs20 \cf1 \i0 
+{\*\bkmkstart co_footnote_B015141972127136_1}{\*\bkmkend co_footnote_B015141972127136_1}
+{\field {\*\fldinst HYPERLINK "#co_footnoteReference_B015141972127136_ID" }{\fldrslt 
+{\super \f2 \strike0 \ul0 \b0 \sa0 \sb0 \fs20 \cf5 \i0 
+14
+}\f2 \super \strike0 \ul0 \b0 \sa0 \sb0 \fs20 \cf5 \i0 }}
+\par 
+}
+}
+}\f2 \li0 \b0 \ql \fs20 \ri0 \cf1 \i0 \intbl \cell \intbl 
+{\li0 \ri0 
+{\li0 \f2 \qj \b0 \ri0 \fs18 \cf1 \i0 
+{\li0 \f2 \qj \b0 \ri0 \fs18 \cf1 \i0 
+{\li0 \f2 \qj \b0 \ri0 \fs18 \cf1 \i0 
+{\f2 \strike0 \ul0 \b0 \sa0 \sb0 \fs18 \cf1 \i0 
+Foote, 
+}
+{\field {\*\fldinst HYPERLINK "http://www.westlaw.com/Link/Document/FullText?findType=Y&serNum=0287469508&pubNum=1268&originatingDoc=I6b48659d9c2511d9bc61beebb95be672&refType=LR&originationContext=document&vr=3.0&rs=cblt1.0&transitionType=DocumentItem&contextData=(sc.Search)" }{\fldrslt 
+{\f2 \strike0 \ul0 \b0 \sa0 \sb0 \fs18 \cf5 \i0 
+A Comment on Pre-Trial Commitment of Criminal Defendants, 108 U.Pa.L.Rev. 832 (1960)
+}\f2 \strike0 \ul0 \b0 \sa0 \sb0 \fs18 \cf5 \i0 }}
+{\f2 \strike0 \ul0 \b0 \sa0 \sb0 \fs18 \cf1 \i0 
+; Note, 
+}
+{\field {\*\fldinst HYPERLINK "http://www.westlaw.com/Link/Document/FullText?findType=Y&serNum=0110386034&pubNum=3084&originatingDoc=I6b48659d9c2511d9bc61beebb95be672&refType=LR&fi=co_pp_sp_3084_456&originationContext=document&vr=3.0&rs=cblt1.0&transitionType=DocumentItem&contextData=(sc.Search)#co_pp_sp_3084_456" }{\fldrslt 
+{\f2 \strike0 \ul0 \b0 \sa0 \sb0 \fs18 \cf5 \i0 
+Incompetency to Stand Trial, 81 Harv.L.Rev. 454\u8212\'3f456, 471\u8212\'3f472 (1967)
+}\f2 \strike0 \ul0 \b0 \sa0 \sb0 \fs18 \cf5 \i0 }}
+{\f2 \strike0 \ul0 \b0 \sa0 \sb0 \fs18 \cf1 \i0 
+; N.Y. Report 91\u8212\'3f107.
+\par 
+}
+}
+}
+}
+}\f2 \li0 \strike0 \ul0 \b0 \qj \sa0 \sb0 \fs18 \ri0 \cf1 \i0 \intbl \cell \row }}\par 
+}
+{\li0 \f2 \qj \b0 \ri0 \fs20 \cf1 \i0 {
+{\trowd \lastrow \trleft0 
+\clbrdrt \clbrdrb \clbrdrl \trql \clvertalt \clwWidth600 \cellx600 
+\clpadb90 \clpadfb3 \clpadl90 \clpadfl3 \clbrdrt \clbrdrb \clbrdrr \trql \clwWidth9480 \cellx10080 
+\intbl 
+{\li0 \ri0 
+{\li0 \f2 \b0 \ql \ri0 \fs20 \cf1 \i0 
+{\f2 \b0 \fs20 \cf1 \i0 
+{\*\bkmkstart co_footnote_B016151972127136_1}{\*\bkmkend co_footnote_B016151972127136_1}
+{\field {\*\fldinst HYPERLINK "#co_footnoteReference_B016151972127136_ID" }{\fldrslt 
+{\super \f2 \strike0 \ul0 \b0 \sa0 \sb0 \fs20 \cf5 \i0 
+15
+}\f2 \super \strike0 \ul0 \b0 \sa0 \sb0 \fs20 \cf5 \i0 }}
+\par 
+}
+}
+}\f2 \li0 \b0 \ql \fs20 \ri0 \cf1 \i0 \intbl \cell \intbl 
+{\li0 \ri0 
+{\li0 \f2 \qj \b0 \ri0 \fs18 \cf1 \i0 
+{\li0 \f2 \qj \b0 \ri0 \fs18 \cf1 \i0 
+{\li0 \f2 \qj \b0 \ri0 \fs18 \cf1 \i0 
+{\f2 \strike0 \ul0 \b0 \sa0 \sb0 \fs18 \cf1 \i0 
+Judicial Conference of the District of Columbia Circuit, Report of the Committee on Problems Connected with Mental Examination of the Accused in Criminal Cases, Before Trial 49\u8212\'3f52, 54\u8212\'3f58, 133\u8212\'3f146 (1965) (hereafter D.C. Report); N.Y. Report 73\u8212\'3f124; Note 
+}
+{\field {\*\fldinst HYPERLINK "http://www.westlaw.com/Link/Document/FullText?findType=Y&serNum=0110386034&pubNum=3084&originatingDoc=I6b48659d9c2511d9bc61beebb95be672&refType=LR&fi=co_pp_sp_3084_471&originationContext=document&vr=3.0&rs=cblt1.0&transitionType=DocumentItem&contextData=(sc.Search)#co_pp_sp_3084_471" }{\fldrslt 
+{\f2 \strike0 \ul0 \b0 \sa0 \sb0 \fs18 \cf5 \i0 
+supra, 81 Harv.L.Rev., at 471\u8212\'3f473
+}\f2 \strike0 \ul0 \b0 \sa0 \sb0 \fs18 \cf5 \i0 }}
+{\f2 \strike0 \ul0 \b0 \sa0 \sb0 \fs18 \cf1 \i0 
+.
+\par 
+}
+}
+}
+}
+}\f2 \li0 \strike0 \ul0 \b0 \qj \sa0 \sb0 \fs18 \ri0 \cf1 \i0 \intbl \cell \row }}\par 
+}
+{\li0 \f2 \qj \b0 \ri0 \fs20 \cf1 \i0 {
+{\trowd \lastrow \trleft0 
+\clbrdrt \clbrdrb \clbrdrl \trql \clvertalt \clwWidth600 \cellx600 
+\clpadb90 \clpadfb3 \clpadl90 \clpadfl3 \clbrdrt \clbrdrb \clbrdrr \trql \clwWidth9480 \cellx10080 
+\intbl 
+{\li0 \ri0 
+{\li0 \f2 \b0 \ql \ri0 \fs20 \cf1 \i0 
+{\f2 \b0 \fs20 \cf1 \i0 
+{\*\bkmkstart co_footnote_B017161972127136_1}{\*\bkmkend co_footnote_B017161972127136_1}
+{\field {\*\fldinst HYPERLINK "#co_footnoteReference_B017161972127136_ID" }{\fldrslt 
+{\super \f2 \strike0 \ul0 \b0 \sa0 \sb0 \fs20 \cf5 \i0 
+16
+}\f2 \super \strike0 \ul0 \b0 \sa0 \sb0 \fs20 \cf5 \i0 }}
+\par 
+}
+}
+}\f2 \li0 \b0 \ql \fs20 \ri0 \cf1 \i0 \intbl \cell \intbl 
+{\li0 \ri0 
+{\li0 \f2 \qj \b0 \ri0 \fs18 \cf1 \i0 
+{\li0 \f2 \qj \b0 \ri0 \fs18 \cf1 \i0 
+{\li0 \f2 \qj \b0 \ri0 \fs18 \cf1 \i0 
+{\f2 \strike0 \ul0 \b0 \sa0 \sb0 \fs18 \cf1 \i0 
+See Matthews, Mental Disability and the Criminal Law 138\u8212\'3f140 (American Bar Foundation 1970); Morris, The Confusion of Confinement Syndrome: An Analysis of the Confinement of Mentally Ill Criminals and Ex-Criminals by the Department of Correction of the State of New York, 17 Buffalo L.Rev. 651 (1968); McGarry & Bendt, Criminal vs. Civil Commitment of Psychotic Offenders: A Seven-Year Follow-Up, 125 Am. J. Psychiatry 1387, 1391 (1969); D.C. Report 50\u8212\'3f52.
+\par 
+}
+}
+}
+}
+}\f2 \li0 \strike0 \ul0 \b0 \qj \sa0 \sb0 \fs18 \ri0 \cf1 \i0 \intbl \cell \row }}\par 
+}
+{\li0 \f2 \qj \b0 \ri0 \fs20 \cf1 \i0 {
+{\trowd \lastrow \trleft0 
+\clbrdrt \clbrdrb \clbrdrl \trql \clvertalt \clwWidth600 \cellx600 
+\clpadb90 \clpadfb3 \clpadl90 \clpadfl3 \clbrdrt \clbrdrb \clbrdrr \trql \clwWidth9480 \cellx10080 
+\intbl 
+{\li0 \ri0 
+{\li0 \f2 \b0 \ql \ri0 \fs20 \cf1 \i0 
+{\f2 \b0 \fs20 \cf1 \i0 
+{\*\bkmkstart co_footnote_B018171972127136_1}{\*\bkmkend co_footnote_B018171972127136_1}
+{\field {\*\fldinst HYPERLINK "#co_footnoteReference_B018171972127136_ID" }{\fldrslt 
+{\super \f2 \strike0 \ul0 \b0 \sa0 \sb0 \fs20 \cf5 \i0 
+17
+}\f2 \super \strike0 \ul0 \b0 \sa0 \sb0 \fs20 \cf5 \i0 }}
+\par 
+}
+}
+}\f2 \li0 \b0 \ql \fs20 \ri0 \cf1 \i0 \intbl \cell \intbl 
+{\li0 \ri0 
+{\li0 \f2 \qj \b0 \ri0 \fs18 \cf1 \i0 
+{\li0 \f2 \qj \b0 \ri0 \fs18 \cf1 \i0 
+{\li0 \f2 \qj \b0 \ri0 \fs18 \cf1 \i0 
+{\f2 \strike0 \ul0 \b0 \sa0 \sb0 \fs18 \cf1 \i0 
+Note, 
+}
+{\field {\*\fldinst HYPERLINK "http://www.westlaw.com/Link/Document/FullText?findType=Y&serNum=0110386034&pubNum=3084&originatingDoc=I6b48659d9c2511d9bc61beebb95be672&refType=LR&fi=co_pp_sp_3084_472&originationContext=document&vr=3.0&rs=cblt1.0&transitionType=DocumentItem&contextData=(sc.Search)#co_pp_sp_3084_472" }{\fldrslt 
+{\f2 \strike0 \ul0 \b0 \sa0 \sb0 \fs18 \cf5 \i0 
+supra, 81 Harv.L.Rev., at 472\u8212\'3f473;
+}\f2 \strike0 \ul0 \b0 \sa0 \sb0 \fs18 \cf5 \i0 }}
+{\f2 \strike0 \ul0 \b0 \sa0 \sb0 \fs18 \cf1 \i0 
+ American Bar Foundation, The Mentally Disabled and the Law 415\u8212\'3f418 (rev. ed. 1971) (hereafter ABF Study); N.Y.Report 72\u8212\'3f77, 102\u8212\'3f105, 186\u8212\'3f190.
+\par 
+}
+}
+}
+}
+}\f2 \li0 \strike0 \ul0 \b0 \qj \sa0 \sb0 \fs18 \ri0 \cf1 \i0 \intbl \cell \row }}\par 
+}
+{\li0 \f2 \qj \b0 \ri0 \fs20 \cf1 \i0 
+{\li0 \f2 \qj \b0 \ri0 \fs20 \cf1 \i0 
+{\f2 \strike0 \ul0 \b0 \sa0 \sb0 \fs20 \cf1 \i0 
+In 
+}
+{\field {\*\fldinst HYPERLINK "http://www.westlaw.com/Link/Document/FullText?findType=Y&serNum=1970114698&pubNum=345&originatingDoc=I6b48659d9c2511d9bc61beebb95be672&refType=RP&originationContext=document&vr=3.0&rs=cblt1.0&transitionType=DocumentItem&contextData=(sc.Search)" }{\fldrslt 
+{\f2 \strike0 \ul0 \b0 \sa0 \sb0 \fs20 \cf5 \i0 
+United States ex rel. Wolfersdorf v. Johnston, 317 F.Supp. 66 (S.D.N.Y.1970)
+}}}
+{\f2 \strike0 \ul0 \b0 \sa0 \sb0 \fs20 \cf1 \i0 
+, an 86-year-old defendant committed for nearly 20 years as incompetent to stand trial on state murder and kidnapping charges applied for federal habeas corpus. He had been found \u8216\'3fnot dangerous,\u8217\'3f and suitable for civil commitment. The District Court granted relief. It held that petitioner\rquote s incarceration in an institution for the criminally insane constituted cruel and unusual punishment, and that the \u8216\'3fshocking circumstances\rquote  of his commitment violated the Due Process Clause. The court quoted approvingly the language of 
+}
+{\field {\*\fldinst HYPERLINK "http://www.westlaw.com/Link/Document/FullText?findType=Y&serNum=1970113571&pubNum=345&originatingDoc=I6b48659d9c2511d9bc61beebb95be672&refType=RP&fi=co_pp_sp_345_824&originationContext=document&vr=3.0&rs=cblt1.0&transitionType=DocumentItem&contextData=(sc.Search)#co_pp_sp_345_824" }{\fldrslt 
+{\f2 \strike0 \ul0 \b0 \sa0 \sb0 \fs20 \cf5 \i0 
+Cook v. Ciccone, 312 F.Supp., at 824,
+}}}
+{\f2 \strike0 \ul0 \b0 \sa0 \sb0 \fs20 \cf1 \i0 
+ concerning the \u8216\'3fsubstantial injustice in keeping an unconvicted person in . . . custody to await trial where it is plainly evident his mental condition will not 
+}
+{\f2 \b1 \fs20 \cf1 \i0 
+{\*\bkmkstart co_pp_sp_708_1857_1}{\*\bkmkend co_pp_sp_708_1857_1}
+{\f2 \strike0 \ul0 \b1 \sa0 \sb0 \fs20 \cf1 \i0 
+**1857
+}
+}
+{\f2 \strike0 \ul0 \b0 \sa0 \sb200 \fs20 \cf1 \i0 
+ permit trial within a reasonable period of time.\u8217\'3f
+\par 
+}
+}
+}
+{\li0 \f2 \qj \b0 \ri0 \fs20 \cf1 \i0 
+{\li0 \f2 \qj \b0 \ri0 \fs20 \cf1 \i0 
+{\f2 \strike0 \ul0 \b0 \sa0 \sb0 \fs20 \cf1 \i0 
+In a 1970 case virtually indistinguishable from the one before us, the Illinois Supreme Court granted relief to an illiterate deaf mute who had been indicted for murder four years previously but found incompetent to stand trial on account of his inability to communicate, and committed. 
+}
+{\f2 \b1 \fs20 \cf1 \i0 
+{\*\bkmkstart co_pp_sp_780_736_1}{\*\bkmkend co_pp_sp_780_736_1}
+{\f2 \strike0 \ul0 \b1 \sa0 \sb0 \fs20 \cf1 \i0 
+*736
+}
+}
+{\f2 \strike0 \ul0 \b0 \sa0 \sb0 \fs20 \cf1 \i0 
+ 
+}
+{\field {\*\fldinst HYPERLINK "http://www.westlaw.com/Link/Document/FullText?findType=Y&serNum=1970123607&pubNum=578&originatingDoc=I6b48659d9c2511d9bc61beebb95be672&refType=RP&originationContext=document&vr=3.0&rs=cblt1.0&transitionType=DocumentItem&contextData=(sc.Search)" }{\fldrslt 
+{\f2 \strike0 \ul0 \b0 \sa0 \sb0 \fs20 \cf5 \i0 
+People ex rel. Myers v. Briggs, 46 Ill.2d 281, 263 N.E.2d 109 (1970)
+}}}
+{\f2 \strike0 \ul0 \b0 \sa0 \sb200 \fs20 \cf1 \i0 
+. The institution where petitioner was confined had determined, \u8216\'3f(I)t now appears that (petitioner) will never acquire the necessary communication skills needed to participate and cooperate in his trial.\u8217\'3f Petitioner, however, was found to be functioning at a \u8216\'3fnearly normal level of performance in areas other than communication.\u8217\'3f The State contended petitioner should not be released until his competency was restored. The Illinois Supreme Court disagreed. It held:
+\par 
+}
+}
+{\li0 \f2 \qj \b0 \ri0 \fs20 \cf1 \i0 
+{\li0 \f2 \qj \b0 \ri0 \fs20 \cf1 \i0 
+{\f2 \strike0 \ul0 \b0 \sa0 \sb0 \fs20 \cf1 \i0 
+\u8216\'3fThis court is of the opinion that this defendant, handicapped as he is and facing an indefinite commitment because of the pending indictment against him, should be given an opportunity to obtain a trial to determine whether or not he is guilty as charged or should be released.\u8217\'3f 
+}
+{\field {\*\fldinst HYPERLINK "http://www.westlaw.com/Link/Document/FullText?findType=Y&serNum=1970123607&pubNum=578&originatingDoc=I6b48659d9c2511d9bc61beebb95be672&refType=RP&fi=co_pp_sp_578_113&originationContext=document&vr=3.0&rs=cblt1.0&transitionType=DocumentItem&contextData=(sc.Search)#co_pp_sp_578_113" }{\fldrslt 
+{\f2 \strike0 \ul0 \b0 \sa0 \sb0 \fs20 \cf5 \i0 
+Id., at 288, 263 N.E.2d, at 113
+}}}
+{\f2 \strike0 \ul0 \b0 \sa0 \sb0 \fs20 \cf1 \i0 
+.
+\par 
+}
+}
+}
+{\f2 \strike0 \ul0 \b0 \sa0 \sb0 \fs20 \cf1 \i0 
+\u160\'3f
+\par 
+}
+}
+{\li0 \f2 \qj \b0 \ri0 \fs20 \cf1 \i0 
+{\li0 \f2 \qj \b0 \ri0 \fs20 \cf1 \i0 
+{\f2 \strike0 \ul0 \b0 \sa0 \sb200 \fs20 \cf1 \i0 
+C. This Case. Respondent relies heavily on Greenwood to support Jackson\rquote s commitment. That decision is distinguishable. It upheld only the initial commitment without considering directly its duration or the standards for release. It justified the commitment by treating it as if accomplished under allied statutory provisions relating directly to the individual\rquote s \u8216\'3finsanity\u8217\'3f and society\rquote s interest in his indefinite commitment, factors not considered in Jackson\rquote s case. And it sustained commitment only upon the finding of dangerousness. As Part A, supra, shows, all these elements subsequently have been held not simply sufficient, but necessary, to sustain a commitment like the one involved here.
+\par 
+}
+}
+}
+{\li0 \f2 \qj \b0 \ri0 \fs20 \cf1 \i0 
+{\li0 \f2 \qj \b0 \ri0 \fs20 \cf1 \i0 
+{\f2 \strike0 \ul0 \b0 \sa0 \sb0 \fs20 \cf1 \i0 
+The States have traditionally exercised broad power to commit persons found to be mentally ill.
+}
+{\f2 \b0 \fs16 \cf1 \i0 
+{\*\bkmkstart co_footnoteReference_B019181972127136_ID}{\*\bkmkend co_footnoteReference_B019181972127136_ID}
+{\field {\*\fldinst HYPERLINK "#co_footnote_B019181972127136_1" }{\fldrslt 
+{\super \f2 \strike0 \ul0 \b0 \sa0 \sb0 \fs16 \cf5 \i0 
+18
+}}}
+}
+{\f2 \strike0 \ul0 \b0 \sa0 \sb0 \fs20 \cf1 \i0 
+ The substantive limitations on the exercise of this power and the procedures for invoking it vary drastically among 
+}
+{\f2 \b1 \fs20 \cf1 \i0 
+{\*\bkmkstart co_pp_sp_780_737_1}{\*\bkmkend co_pp_sp_780_737_1}
+{\f2 \strike0 \ul0 \b1 \sa0 \sb0 \fs20 \cf1 \i0 
+*737
+}
+}
+{\f2 \strike0 \ul0 \b0 \sa0 \sb0 \fs20 \cf1 \i0 
+ the States.
+}
+{\f2 \b0 \fs16 \cf1 \i0 
+{\*\bkmkstart co_footnoteReference_B020191972127136_ID}{\*\bkmkend co_footnoteReference_B020191972127136_ID}
+{\field {\*\fldinst HYPERLINK "#co_footnote_B020191972127136_1" }{\fldrslt 
+{\super \f2 \strike0 \ul0 \b0 \sa0 \sb0 \fs16 \cf5 \i0 
+19
+}}}
+}
+{\f2 \strike0 \ul0 \b0 \sa0 \sb0 \fs20 \cf1 \i0 
+ The particular fashion in which the power is exercised\u8212\'3ffor instance, through various forms of civil commitment, defective delinquency laws, sexual psychopath laws, commitment of persons acquitted by reason of insanity\u8212\'3freflects different combinations of distinct bases for commitment sought to be vindicated.
+}
+{\f2 \b0 \fs16 \cf1 \i0 
+{\*\bkmkstart co_footnoteReference_B021201972127136_ID}{\*\bkmkend co_footnoteReference_B021201972127136_ID}
+{\field {\*\fldinst HYPERLINK "#co_footnote_B021201972127136_1" }{\fldrslt 
+{\super \f2 \strike0 \ul0 \b0 \sa0 \sb0 \fs16 \cf5 \i0 
+20
+}}}
+}
+{\f2 \strike0 \ul0 \b0 \sa0 \sb0 \fs20 \cf1 \i0 
+ The bases that have been articulated include dangerousness to self, dangerousness to others, and the need for care or treatment or training.
+}
+{\f2 \b0 \fs16 \cf1 \i0 
+{\*\bkmkstart co_footnoteReference_B022211972127136_ID}{\*\bkmkend co_footnoteReference_B022211972127136_ID}
+{\field {\*\fldinst HYPERLINK "#co_footnote_B022211972127136_1" }{\fldrslt 
+{\super \f2 \strike0 \ul0 \b0 \sa0 \sb0 \fs16 \cf5 \i0 
+21
+}}}
+}
+{\f2 \strike0 \ul0 \b0 \sa0 \sb0 \fs20 \cf1 \i0 
+ Considering the number of persons affected,
+}
+{\f2 \b0 \fs16 \cf1 \i0 
+{\*\bkmkstart co_footnoteReference_B023221972127136_ID}{\*\bkmkend co_footnoteReference_B023221972127136_ID}
+{\field {\*\fldinst HYPERLINK "#co_footnote_B023221972127136_1" }{\fldrslt 
+{\super \f2 \strike0 \ul0 \b0 \sa0 \sb0 \fs16 \cf5 \i0 
+22
+}}}
+}
+{\f2 \strike0 \ul0 \b0 \sa0 \sb0 \fs20 \cf1 \i0 
+ it is perhaps remarkable that the substantive constitutional 
+}
+{\f2 \b1 \fs20 \cf1 \i0 
+{\*\bkmkstart co_pp_sp_708_1858_1}{\*\bkmkend co_pp_sp_708_1858_1}
+{\f2 \strike0 \ul0 \b1 \sa0 \sb0 \fs20 \cf1 \i0 
+**1858
+}
+}
+{\f2 \strike0 \ul0 \b0 \sa0 \sb200 \fs20 \cf1 \i0 
+ limitations on this power have not been more frequently litigated.
+}
+{\f2 \b0 \fs16 \cf1 \i0 
+{\*\bkmkstart co_footnoteReference_B024231972127136_ID}{\*\bkmkend co_footnoteReference_B024231972127136_ID}
+{\field {\*\fldinst HYPERLINK "#co_footnote_B024231972127136_1" }{\fldrslt 
+{\super \f2 \strike0 \ul0 \b0 \sa0 \sb0 \fs16 \cf5 \i0 
+23
+}}}
+\par 
+}
+}
+}
+{\li0 \f2 \qj \b0 \ri0 \fs20 \cf1 \i0 {
+{\trowd \lastrow \trleft0 
+\clbrdrt \clbrdrb \clbrdrl \trql \clvertalt \clwWidth600 \cellx600 
+\clpadb90 \clpadfb3 \clpadl90 \clpadfl3 \clbrdrt \clbrdrb \clbrdrr \trql \clwWidth9480 \cellx10080 
+\intbl 
+{\li0 \ri0 
+{\li0 \f2 \b0 \ql \ri0 \fs20 \cf1 \i0 
+{\f2 \b0 \fs20 \cf1 \i0 
+{\*\bkmkstart co_footnote_B019181972127136_1}{\*\bkmkend co_footnote_B019181972127136_1}
+{\field {\*\fldinst HYPERLINK "#co_footnoteReference_B019181972127136_ID" }{\fldrslt 
+{\super \f2 \strike0 \ul0 \b0 \sa0 \sb0 \fs20 \cf5 \i0 
+18
+}\f2 \super \strike0 \ul0 \b0 \sa0 \sb0 \fs20 \cf5 \i0 }}
+\par 
+}
+}
+}\f2 \li0 \b0 \ql \fs20 \ri0 \cf1 \i0 \intbl \cell \intbl 
+{\li0 \ri0 
+{\li0 \f2 \qj \b0 \ri0 \fs18 \cf1 \i0 
+{\li0 \f2 \qj \b0 \ri0 \fs18 \cf1 \i0 
+{\li0 \f2 \qj \b0 \ri0 \fs18 \cf1 \i0 
+{\f2 \strike0 \ul0 \b0 \sa0 \sb0 \fs18 \cf1 \i0 
+See generally ABF Study 34\u8212\'3f59.
+\par 
+}
+}
+}
+}
+}\f2 \li0 \strike0 \ul0 \b0 \qj \sa0 \sb0 \fs18 \ri0 \cf1 \i0 \intbl \cell \row }}\par 
+}
+{\li0 \f2 \qj \b0 \ri0 \fs20 \cf1 \i0 {
+{\trowd \lastrow \trleft0 
+\clbrdrt \clbrdrb \clbrdrl \trql \clvertalt \clwWidth600 \cellx600 
+\clpadb90 \clpadfb3 \clpadl90 \clpadfl3 \clbrdrt \clbrdrb \clbrdrr \trql \clwWidth9480 \cellx10080 
+\intbl 
+{\li0 \ri0 
+{\li0 \f2 \b0 \ql \ri0 \fs20 \cf1 \i0 
+{\f2 \b0 \fs20 \cf1 \i0 
+{\*\bkmkstart co_footnote_B020191972127136_1}{\*\bkmkend co_footnote_B020191972127136_1}
+{\field {\*\fldinst HYPERLINK "#co_footnoteReference_B020191972127136_ID" }{\fldrslt 
+{\super \f2 \strike0 \ul0 \b0 \sa0 \sb0 \fs20 \cf5 \i0 
+19
+}\f2 \super \strike0 \ul0 \b0 \sa0 \sb0 \fs20 \cf5 \i0 }}
+\par 
+}
+}
+}\f2 \li0 \b0 \ql \fs20 \ri0 \cf1 \i0 \intbl \cell \intbl 
+{\li0 \ri0 
+{\li0 \f2 \qj \b0 \ri0 \fs18 \cf1 \i0 
+{\li0 \f2 \qj \b0 \ri0 \fs18 \cf1 \i0 
+{\li0 \f2 \qj \b0 \ri0 \fs18 \cf1 \i0 
+{\f2 \strike0 \ul0 \b0 \sa0 \sb0 \fs18 \cf1 \i0 
+Id., at 36\u8212\'3f49. The ABF Study shows that in nine States the sole criterion for involuntary commitment is dangerousness to self or others; in 18 other States the patient\rquote s need for care or treatment was an alternative basis; the latter was the sole basis in six additional States; a few States had no statutory criteria at all, presumably leaving the determination to judicial discretion.
+\par 
+}
+}
+}
+}
+}\f2 \li0 \strike0 \ul0 \b0 \qj \sa0 \sb0 \fs18 \ri0 \cf1 \i0 \intbl \cell \row }}\par 
+}
+{\li0 \f2 \qj \b0 \ri0 \fs20 \cf1 \i0 {
+{\trowd \lastrow \trleft0 
+\clbrdrt \clbrdrb \clbrdrl \trql \clvertalt \clwWidth600 \cellx600 
+\clpadb90 \clpadfb3 \clpadl90 \clpadfl3 \clbrdrt \clbrdrb \clbrdrr \trql \clwWidth9480 \cellx10080 
+\intbl 
+{\li0 \ri0 
+{\li0 \f2 \b0 \ql \ri0 \fs20 \cf1 \i0 
+{\f2 \b0 \fs20 \cf1 \i0 
+{\*\bkmkstart co_footnote_B021201972127136_1}{\*\bkmkend co_footnote_B021201972127136_1}
+{\field {\*\fldinst HYPERLINK "#co_footnoteReference_B021201972127136_ID" }{\fldrslt 
+{\super \f2 \strike0 \ul0 \b0 \sa0 \sb0 \fs20 \cf5 \i0 
+20
+}\f2 \super \strike0 \ul0 \b0 \sa0 \sb0 \fs20 \cf5 \i0 }}
+\par 
+}
+}
+}\f2 \li0 \b0 \ql \fs20 \ri0 \cf1 \i0 \intbl \cell \intbl 
+{\li0 \ri0 
+{\li0 \f2 \qj \b0 \ri0 \fs18 \cf1 \i0 
+{\li0 \f2 \qj \b0 \ri0 \fs18 \cf1 \i0 
+{\li0 \f2 \qj \b0 \ri0 \fs18 \cf1 \i0 
+{\f2 \strike0 \ul0 \b0 \sa0 \sb0 \fs18 \cf1 \i0 
+See 
+}
+{\field {\*\fldinst HYPERLINK "http://www.westlaw.com/Link/Document/FullText?findType=Y&serNum=0332668927&pubNum=1292&originatingDoc=I6b48659d9c2511d9bc61beebb95be672&refType=LR&originationContext=document&vr=3.0&rs=cblt1.0&transitionType=DocumentItem&contextData=(sc.Search)" }{\fldrslt 
+{\f2 \strike0 \ul0 \b0 \sa0 \sb0 \fs18 \cf5 \i0 
+Note, Civil Restraint, Mental Illness, and the Right to Treatment, 77 Yale L.J. 87 (1967)
+}\f2 \strike0 \ul0 \b0 \sa0 \sb0 \fs18 \cf5 \i0 }}
+{\f2 \strike0 \ul0 \b0 \sa0 \sb0 \fs18 \cf1 \i0 
+.
+\par 
+}
+}
+}
+}
+}\f2 \li0 \strike0 \ul0 \b0 \qj \sa0 \sb0 \fs18 \ri0 \cf1 \i0 \intbl \cell \row }}\par 
+}
+{\li0 \f2 \qj \b0 \ri0 \fs20 \cf1 \i0 {
+{\trowd \lastrow \trleft0 
+\clbrdrt \clbrdrb \clbrdrl \trql \clvertalt \clwWidth600 \cellx600 
+\clpadb90 \clpadfb3 \clpadl90 \clpadfl3 \clbrdrt \clbrdrb \clbrdrr \trql \clwWidth9480 \cellx10080 
+\intbl 
+{\li0 \ri0 
+{\li0 \f2 \b0 \ql \ri0 \fs20 \cf1 \i0 
+{\f2 \b0 \fs20 \cf1 \i0 
+{\*\bkmkstart co_footnote_B022211972127136_1}{\*\bkmkend co_footnote_B022211972127136_1}
+{\field {\*\fldinst HYPERLINK "#co_footnoteReference_B022211972127136_ID" }{\fldrslt 
+{\super \f2 \strike0 \ul0 \b0 \sa0 \sb0 \fs20 \cf5 \i0 
+21
+}\f2 \super \strike0 \ul0 \b0 \sa0 \sb0 \fs20 \cf5 \i0 }}
+\par 
+}
+}
+}\f2 \li0 \b0 \ql \fs20 \ri0 \cf1 \i0 \intbl \cell \intbl 
+{\li0 \ri0 
+{\li0 \f2 \qj \b0 \ri0 \fs18 \cf1 \i0 
+{\li0 \f2 \qj \b0 \ri0 \fs18 \cf1 \i0 
+{\li0 \f2 \qj \b0 \ri0 \fs18 \cf1 \i0 
+{\f2 \strike0 \ul0 \b0 \sa0 \sb0 \fs18 \cf1 \i0 
+See 
+}
+{\field {\*\fldinst HYPERLINK "http://www.westlaw.com/Link/Document/FullText?findType=Y&serNum=0110392425&pubNum=3084&originatingDoc=I6b48659d9c2511d9bc61beebb95be672&refType=LR&fi=co_pp_sp_3084_1289&originationContext=document&vr=3.0&rs=cblt1.0&transitionType=DocumentItem&contextData=(sc.Search)#co_pp_sp_3084_1289" }{\fldrslt 
+{\f2 \strike0 \ul0 \b0 \sa0 \sb0 \fs18 \cf5 \i0 
+Note, Civil Commitment of the Mentally Ill: Theories and Procedures, 79 Harv.L.Rev. 1288, 1289\u8212\'3f1297 (1966)
+}\f2 \strike0 \ul0 \b0 \sa0 \sb0 \fs18 \cf5 \i0 }}
+{\f2 \strike0 \ul0 \b0 \sa0 \sb0 \fs18 \cf1 \i0 
+.
+\par 
+}
+}
+}
+}
+}\f2 \li0 \strike0 \ul0 \b0 \qj \sa0 \sb0 \fs18 \ri0 \cf1 \i0 \intbl \cell \row }}\par 
+}
+{\li0 \f2 \qj \b0 \ri0 \fs20 \cf1 \i0 {
+{\trowd \lastrow \trleft0 
+\clbrdrt \clbrdrb \clbrdrl \trql \clvertalt \clwWidth600 \cellx600 
+\clpadb90 \clpadfb3 \clpadl90 \clpadfl3 \clbrdrt \clbrdrb \clbrdrr \trql \clwWidth9480 \cellx10080 
+\intbl 
+{\li0 \ri0 
+{\li0 \f2 \b0 \ql \ri0 \fs20 \cf1 \i0 
+{\f2 \b0 \fs20 \cf1 \i0 
+{\*\bkmkstart co_footnote_B023221972127136_1}{\*\bkmkend co_footnote_B023221972127136_1}
+{\field {\*\fldinst HYPERLINK "#co_footnoteReference_B023221972127136_ID" }{\fldrslt 
+{\super \f2 \strike0 \ul0 \b0 \sa0 \sb0 \fs20 \cf5 \i0 
+22
+}\f2 \super \strike0 \ul0 \b0 \sa0 \sb0 \fs20 \cf5 \i0 }}
+\par 
+}
+}
+}\f2 \li0 \b0 \ql \fs20 \ri0 \cf1 \i0 \intbl \cell \intbl 
+{\li0 \ri0 
+{\li0 \f2 \qj \b0 \ri0 \fs18 \cf1 \i0 
+{\li0 \f2 \qj \b0 \ri0 \fs18 \cf1 \i0 
+{\li0 \f2 \qj \b0 \ri0 \fs18 \cf1 \i0 
+{\f2 \strike0 \ul0 \b0 \sa0 \sb0 \fs18 \cf1 \i0 
+In 1961, it was estimated that 90% of the approximately 800,000 patients in mental hospitals in this country had been involuntarily committed. Hearings on Constitutional Rights of the Mentally Ill before the Subcommittee on Constitutional Rights of the Senate Committee on the Judiciary, 87th Cong., 1st Sess., pt. 1, pp. 11, 43 (1961). Although later U.S. Census Bureau data for 1969 show a resident patient population almost 50% lower, other data from the U.S. Department of Health, Education, and Welfare estimate annual admissions to institutions to be almost equal to the patient population at any one time, about 380,000 persons per annum. See ABF Study xv.
+\par 
+}
+}
+}
+}
+}\f2 \li0 \strike0 \ul0 \b0 \qj \sa0 \sb0 \fs18 \ri0 \cf1 \i0 \intbl \cell \row }}\par 
+}
+{\li0 \f2 \qj \b0 \ri0 \fs20 \cf1 \i0 {
+{\trowd \lastrow \trleft0 
+\clbrdrt \clbrdrb \clbrdrl \trql \clvertalt \clwWidth600 \cellx600 
+\clpadb90 \clpadfb3 \clpadl90 \clpadfl3 \clbrdrt \clbrdrb \clbrdrr \trql \clwWidth9480 \cellx10080 
+\intbl 
+{\li0 \ri0 
+{\li0 \f2 \b0 \ql \ri0 \fs20 \cf1 \i0 
+{\f2 \b0 \fs20 \cf1 \i0 
+{\*\bkmkstart co_footnote_B024231972127136_1}{\*\bkmkend co_footnote_B024231972127136_1}
+{\field {\*\fldinst HYPERLINK "#co_footnoteReference_B024231972127136_ID" }{\fldrslt 
+{\super \f2 \strike0 \ul0 \b0 \sa0 \sb0 \fs20 \cf5 \i0 
+23
+}\f2 \super \strike0 \ul0 \b0 \sa0 \sb0 \fs20 \cf5 \i0 }}
+\par 
+}
+}
+}\f2 \li0 \b0 \ql \fs20 \ri0 \cf1 \i0 \intbl \cell \intbl 
+{\li0 \ri0 
+{\li0 \f2 \qj \b0 \ri0 \fs18 \cf1 \i0 
+{\li0 \f2 \qj \b0 \ri0 \fs18 \cf1 \i0 
+{\li0 \f2 \qj \b0 \ri0 \fs18 \cf1 \i0 
+{\f2 \strike0 \ul0 \b0 \sa0 \sb0 \fs18 \cf1 \i0 
+Cf. 
+}
+{\field {\*\fldinst HYPERLINK "http://www.westlaw.com/Link/Document/FullText?findType=Y&serNum=1968131237&pubNum=708&originatingDoc=I6b48659d9c2511d9bc61beebb95be672&refType=RP&originationContext=document&vr=3.0&rs=cblt1.0&transitionType=DocumentItem&contextData=(sc.Search)" }{\fldrslt 
+{\f2 \strike0 \ul0 \b0 \sa0 \sb0 \fs18 \cf5 \i0 
+Powell v. Texas, 392 U.S. 514, 88 S.Ct. 2145, 20 L.Ed.2d 1254 (1968)
+}\f2 \strike0 \ul0 \b0 \sa0 \sb0 \fs18 \cf5 \i0 }}
+{\f2 \strike0 \ul0 \b0 \sa0 \sb0 \fs18 \cf1 \i0 
+; 
+}
+{\field {\*\fldinst HYPERLINK "http://www.westlaw.com/Link/Document/FullText?findType=Y&serNum=1962127658&pubNum=708&originatingDoc=I6b48659d9c2511d9bc61beebb95be672&refType=RP&originationContext=document&vr=3.0&rs=cblt1.0&transitionType=DocumentItem&contextData=(sc.Search)" }{\fldrslt 
+{\f2 \strike0 \ul0 \b0 \sa0 \sb0 \fs18 \cf5 \i0 
+Robinson v. California, 370 U.S. 660, 82 S.Ct. 1417, 8 L.Ed.2d 758 (1962)
+}\f2 \strike0 \ul0 \b0 \sa0 \sb0 \fs18 \cf5 \i0 }}
+{\f2 \strike0 \ul0 \b0 \sa0 \sb0 \fs18 \cf1 \i0 
+.
+\par 
+}
+}
+}
+}
+}\f2 \li0 \strike0 \ul0 \b0 \qj \sa0 \sb0 \fs18 \ri0 \cf1 \i0 \intbl \cell \row }}\par 
+}
+{\li0 \f2 \qj \b0 \ri0 \fs20 \cf1 \i0 
+{\li0 \f2 \qj \b0 \ri0 \fs20 \cf1 \i0 
+{\field {\*\fldinst HYPERLINK "#co_anchor_F51972127136_1" }{\fldrslt 
+{\super \f2 \strike0 \ul0 \b1 \sa0 \sb0 \fs20 \cf24 \i0 
+[5]
+}}}
+{\f2 \b0 \fs20 \cf5 \i0 
+{\*\bkmkstart co_anchor_B51972127136_1}{\*\bkmkend co_anchor_B51972127136_1}
+}
+{\f2 \strike0 \ul0 \b0 \sa0 \sb0 \fs20 \cf1 \i0 
+ We need not address these broad questions here. It is clear that Jackson\rquote s commitment rests on proceedings that did not purport to bring into play, indeed did not even consider relevant, any of the articulated bases for 
+}
+{\f2 \b1 \fs20 \cf1 \i0 
+{\*\bkmkstart co_pp_sp_780_738_1}{\*\bkmkend co_pp_sp_780_738_1}
+{\f2 \strike0 \ul0 \b1 \sa0 \sb0 \fs20 \cf1 \i0 
+*738
+}
+}
+{\f2 \strike0 \ul0 \b0 \sa0 \sb0 \fs20 \cf1 \i0 
+ exercise of Indiana\rquote s power of indefinite commitment. The state statutes contain at least two alternative methods for invoking this power. But Jackson was not afforded any \u8216\'3fformal commitment proceedings addressed to (his) ability to function in society,\rquote 
+}
+{\f2 \b0 \fs16 \cf1 \i0 
+{\*\bkmkstart co_footnoteReference_B025241972127136_ID}{\*\bkmkend co_footnoteReference_B025241972127136_ID}
+{\field {\*\fldinst HYPERLINK "#co_footnote_B025241972127136_1" }{\fldrslt 
+{\super \f2 \strike0 \ul0 \b0 \sa0 \sb0 \fs16 \cf5 \i0 
+24
+}}}
+}
+{\f2 \strike0 \ul0 \b0 \sa0 \sb0 \fs20 \cf1 \i0 
+ or to society\rquote s interest in his restraint, or to the State\rquote s ability to aid him in attaining competency through custodial care or compulsory treatment, the ostensible purpose of the commitment. At the least, due process requires that the nature and duration of commitment bear some reasonable relation to the purpose for which the individual is committed.
+\par 
+}
+}
+}
+{\f2 \strike0 \ul0 \b0 \sa0 \sb0 \fs20 \cf1 \i0 
+\u160\'3f
+\par 
+}
+{\li0 \f2 \qj \b0 \ri0 \fs20 \cf1 \i0 {
+{\trowd \lastrow \trleft0 
+\clbrdrt \clbrdrb \clbrdrl \trql \clvertalt \clwWidth600 \cellx600 
+\clpadb90 \clpadfb3 \clpadl90 \clpadfl3 \clbrdrt \clbrdrb \clbrdrr \trql \clwWidth9480 \cellx10080 
+\intbl 
+{\li0 \ri0 
+{\li0 \f2 \b0 \ql \ri0 \fs20 \cf1 \i0 
+{\f2 \b0 \fs20 \cf1 \i0 
+{\*\bkmkstart co_footnote_B025241972127136_1}{\*\bkmkend co_footnote_B025241972127136_1}
+{\field {\*\fldinst HYPERLINK "#co_footnoteReference_B025241972127136_ID" }{\fldrslt 
+{\super \f2 \strike0 \ul0 \b0 \sa0 \sb0 \fs20 \cf5 \i0 
+24
+}\f2 \super \strike0 \ul0 \b0 \sa0 \sb0 \fs20 \cf5 \i0 }}
+\par 
+}
+}
+}\f2 \li0 \b0 \ql \fs20 \ri0 \cf1 \i0 \intbl \cell \intbl 
+{\li0 \ri0 
+{\li0 \f2 \qj \b0 \ri0 \fs18 \cf1 \i0 
+{\li0 \f2 \qj \b0 \ri0 \fs18 \cf1 \i0 
+{\li0 \f2 \qj \b0 \ri0 \fs18 \cf1 \i0 
+{\field {\*\fldinst HYPERLINK "http://www.westlaw.com/Link/Document/FullText?findType=Y&serNum=1970102672&pubNum=350&originatingDoc=I6b48659d9c2511d9bc61beebb95be672&refType=RP&fi=co_pp_sp_350_918&originationContext=document&vr=3.0&rs=cblt1.0&transitionType=DocumentItem&contextData=(sc.Search)#co_pp_sp_350_918" }{\fldrslt 
+{\f2 \strike0 \ul0 \b0 \sa0 \sb0 \fs18 \cf5 \i0 
+In re Harmon, 425 F.2d 916, 918 (CA1 1970)
+}\f2 \strike0 \ul0 \b0 \sa0 \sb0 \fs18 \cf5 \i0 }}
+{\f2 \strike0 \ul0 \b0 \sa0 \sb0 \fs18 \cf1 \i0 
+.
+\par 
+}
+}
+}
+}
+}\f2 \li0 \strike0 \ul0 \b0 \qj \sa0 \sb0 \fs18 \ri0 \cf1 \i0 \intbl \cell \row }}\par 
+}
+{\li0 \f2 \qj \b0 \ri0 \fs20 \cf1 \i0 
+{\li0 \f2 \qj \b0 \ri0 \fs20 \cf1 \i0 
+{\field {\*\fldinst HYPERLINK "#co_anchor_F61972127136_1" }{\fldrslt 
+{\super \f2 \strike0 \ul0 \b1 \sa0 \sb0 \fs20 \cf24 \i0 
+[6]
+}}}
+{\f2 \b0 \fs20 \cf5 \i0 
+{\*\bkmkstart co_anchor_B61972127136_1}{\*\bkmkend co_anchor_B61972127136_1}
+}
+{\f2 \strike0 \ul0 \b0 \sa0 \sb0 \fs20 \cf1 \i0 
+ We hold, consequently, that a person charged by a State with a criminal offense who is committed solely on account of his incapacity to proceed to trial cannot be held more than the reasonable period of time necessary to determine whether there is a substantial probability that he will attain that capacity in the foreseeable future. If it is determined that this is not the case, then the State must either institute the customary civil commitment proceeding that would be required to commit indefinitely any other citizen, or release the defendant.
+}
+{\f2 \b0 \fs16 \cf1 \i0 
+{\*\bkmkstart co_footnoteReference_B026251972127136_ID}{\*\bkmkend co_footnoteReference_B026251972127136_ID}
+{\field {\*\fldinst HYPERLINK "#co_footnote_B026251972127136_1" }{\fldrslt 
+{\super \f2 \strike0 \ul0 \b0 \sa0 \sb0 \fs16 \cf5 \i0 
+25
+}}}
+}
+{\f2 \strike0 \ul0 \b0 \sa0 \sb0 \fs20 \cf1 \i0 
+ Furthermore, even if it is determined that the defendant probably soon will be able to stand trial, his continued commitment must be justified by progress toward that goal. In light of differing state facilities and procedures and a lack of evidence in this record, we do not think it appropriate for us to attempt to prescribe arbitrary time limits. We note, however, that petitioner Jackson has now been confined for three and one-half years on a record that sufficiently establishes 
+}
+{\f2 \b1 \fs20 \cf1 \i0 
+{\*\bkmkstart co_pp_sp_780_739_1}{\*\bkmkend co_pp_sp_780_739_1}
+{\f2 \strike0 \ul0 \b1 \sa0 \sb0 \fs20 \cf1 \i0 
+*739
+}
+}
+{\f2 \strike0 \ul0 \b0 \sa0 \sb0 \fs20 \cf1 \i0 
+ the lack of a substantial probability that he will ever be able to participate fully in a trial.
+\par 
+}
+}
+}
+{\f2 \strike0 \ul0 \b0 \sa0 \sb0 \fs20 \cf1 \i0 
+\u160\'3f
+\par 
+}
+{\li0 \f2 \qj \b0 \ri0 \fs20 \cf1 \i0 {
+{\trowd \lastrow \trleft0 
+\clbrdrt \clbrdrb \clbrdrl \trql \clvertalt \clwWidth600 \cellx600 
+\clpadb90 \clpadfb3 \clpadl90 \clpadfl3 \clbrdrt \clbrdrb \clbrdrr \trql \clwWidth9480 \cellx10080 
+\intbl 
+{\li0 \ri0 
+{\li0 \f2 \b0 \ql \ri0 \fs20 \cf1 \i0 
+{\f2 \b0 \fs20 \cf1 \i0 
+{\*\bkmkstart co_footnote_B026251972127136_1}{\*\bkmkend co_footnote_B026251972127136_1}
+{\field {\*\fldinst HYPERLINK "#co_footnoteReference_B026251972127136_ID" }{\fldrslt 
+{\super \f2 \strike0 \ul0 \b0 \sa0 \sb0 \fs20 \cf5 \i0 
+25
+}\f2 \super \strike0 \ul0 \b0 \sa0 \sb0 \fs20 \cf5 \i0 }}
+\par 
+}
+}
+}\f2 \li0 \b0 \ql \fs20 \ri0 \cf1 \i0 \intbl \cell \intbl 
+{\li0 \ri0 
+{\li0 \f2 \qj \b0 \ri0 \fs18 \cf1 \i0 
+{\li0 \f2 \qj \b0 \ri0 \fs18 \cf1 \i0 
+{\li0 \f2 \qj \b0 \ri0 \fs18 \cf1 \i0 
+{\f2 \strike0 \ul0 \b0 \sa0 \sb0 \fs18 \cf1 \i0 
+In this case, of course, Jackson or the State may seek his commitment under either the general civil commitment statutes or under those for the commitment of the feebleminded.
+\par 
+}
+}
+}
+}
+}\f2 \li0 \strike0 \ul0 \b0 \qj \sa0 \sb0 \fs18 \ri0 \cf1 \i0 \intbl \cell \row }}\par 
+}
+{\li0 \f2 \qj \b0 \ri0 \fs20 \cf1 \i0 
+{\li0 \f2 \qj \b0 \ri0 \fs20 \cf1 \i0 
+{\f2 \strike0 \ul0 \b0 \sa0 \sb200 \fs20 \cf1 \i0 
+These conclusions make it unnecessary for us to reach petitioner\rquote s Eighth-Fourteenth Amendment claim.
+\par 
+}
+}
+}
+}
+{\li0 \f2 \qj \b0 \ri0 \fs20 \cf1 \i0 
+{\*\bkmkstart co_anchor_I4f2b27400e3911e498db8b09b4f04}{\*\bkmkend co_anchor_I4f2b27400e3911e498db8b09b4f04}
+\par 
+{\li0 \f2 \b1 \ri0 \fs20 \cf1 \qc \i0 
+{\f2 \b1 \fs20 \cf1 \i0 
+{\f2 \strike0 \ul0 \b1 \sa200 \sb400 \fs20 \cf1 \i0 
+IV
+\par 
+}
+}
+}
+{\li0 \f2 \b1 \ri0 \fs20 \cf1 \qc \i0 
+{\f2 \b1 \fs20 \cf1 \i0 
+{\f2 \strike0 \ul0 \b1 \sa200 \sb400 \fs20 \cf1 \i0 
+DISPOSITION OF THE CHARGES
+\par 
+}
+}
+}
+{\li0 \f2 \qj \b0 \ri0 \fs20 \cf1 \i0 
+{\li0 \f2 \qj \b0 \ri0 \fs20 \cf1 \i0 
+{\f2 \strike0 \ul0 \b0 \sa0 \sb200 \fs20 \cf1 \i0 
+Petitioner also urges that fundamental fairness requires that the charges against him now be dismissed. The thrust of his argument is that the record amply establishes his lack of criminal responsibility at the time the crimes are alleged to have been committed. The Indiana court did not discuss this question. Apparently it believed that by reason of Jackson\rquote s incompetency commitment the State was entitled to hold the charges pending indefinitely. On this record, Jackson\rquote s claim is a substantial one. For a number of reasons, however, we believe the issue is not sufficiently ripe for ultimate decision by us at this time.
+\par 
+}
+}
+}
+{\li0 \f2 \qj \b0 \ri0 \fs20 \cf1 \i0 
+{\li0 \f2 \qj \b0 \ri0 \fs20 \cf1 \i0 
+{\field {\*\fldinst HYPERLINK "#co_anchor_F71972127136_1" }{\fldrslt 
+{\super \f2 \strike0 \ul0 \b1 \sa0 \sb0 \fs20 \cf24 \i0 
+[7]
+}}}
+{\f2 \b0 \fs20 \cf5 \i0 
+{\*\bkmkstart co_anchor_B71972127136_1}{\*\bkmkend co_anchor_B71972127136_1}
+}
+{\f2 \strike0 \ul0 \b0 \sa0 \sb0 \fs20 \cf1 \i0 
+ A. Petitioner argues that he has already made out a complete insanity defense. Jackson\rquote s criminal responsibility at the time of the alleged offenses, however, is a distinct issue from his competency to stand trial. The competency hearing below was not directed to criminal responsibility, and evidence relevant to it was presented only incidentally.
+}
+{\f2 \b0 \fs16 \cf1 \i0 
+{\*\bkmkstart co_footnoteReference_B027261972127136_ID}{\*\bkmkend co_footnoteReference_B027261972127136_ID}
+{\field {\*\fldinst HYPERLINK "#co_footnote_B027261972127136_1" }{\fldrslt 
+{\super \f2 \strike0 \ul0 \b0 \sa0 \sb0 \fs16 \cf5 \i0 
+26
+}}}
+}
+{\f2 \strike0 \ul0 \b0 \sa0 \sb0 \fs20 \cf1 \i0 
+ Thus, in any event, we would 
+}
+{\f2 \b1 \fs20 \cf1 \i0 
+{\*\bkmkstart co_pp_sp_708_1859_1}{\*\bkmkend co_pp_sp_708_1859_1}
+{\f2 \strike0 \ul0 \b1 \sa0 \sb0 \fs20 \cf1 \i0 
+**1859
+}
+}
+{\f2 \strike0 \ul0 \b0 \sa0 \sb0 \fs20 \cf1 \i0 
+ have to remand for further consideration of Jackson\rquote s condition in the light of Indiana\rquote s law of criminal responsibility.
+\par 
+}
+}
+}
+{\f2 \strike0 \ul0 \b0 \sa0 \sb0 \fs20 \cf1 \i0 
+\u160\'3f
+\par 
+}
+{\li0 \f2 \qj \b0 \ri0 \fs20 \cf1 \i0 {
+{\trowd \lastrow \trleft0 
+\clbrdrt \clbrdrb \clbrdrl \trql \clvertalt \clwWidth600 \cellx600 
+\clpadb90 \clpadfb3 \clpadl90 \clpadfl3 \clbrdrt \clbrdrb \clbrdrr \trql \clwWidth9480 \cellx10080 
+\intbl 
+{\li0 \ri0 
+{\li0 \f2 \b0 \ql \ri0 \fs20 \cf1 \i0 
+{\f2 \b0 \fs20 \cf1 \i0 
+{\*\bkmkstart co_footnote_B027261972127136_1}{\*\bkmkend co_footnote_B027261972127136_1}
+{\field {\*\fldinst HYPERLINK "#co_footnoteReference_B027261972127136_ID" }{\fldrslt 
+{\super \f2 \strike0 \ul0 \b0 \sa0 \sb0 \fs20 \cf5 \i0 
+26
+}\f2 \super \strike0 \ul0 \b0 \sa0 \sb0 \fs20 \cf5 \i0 }}
+\par 
+}
+}
+}\f2 \li0 \b0 \ql \fs20 \ri0 \cf1 \i0 \intbl \cell \intbl 
+{\li0 \ri0 
+{\li0 \f2 \qj \b0 \ri0 \fs18 \cf1 \i0 
+{\li0 \f2 \qj \b0 \ri0 \fs18 \cf1 \i0 
+{\li0 \f2 \qj \b0 \ri0 \fs18 \cf1 \i0 
+{\f2 \strike0 \ul0 \b0 \sa0 \sb0 \fs18 \cf1 \i0 
+One doctor testified that Jackson \u8216\'3fprobably knows in a general way the basic differences between right and wrong.\u8217\'3f The other doctor agreed, but also testified that Jackson probably had no grasp whatsoever of abstract concepts such as time, \u8216\'3flike simple things of yesterday and tomorrow.\u8217\'3f
+\par 
+}
+}
+}
+}
+}\f2 \li0 \strike0 \ul0 \b0 \qj \sa0 \sb0 \fs18 \ri0 \cf1 \i0 \intbl \cell \row }}\par 
+}
+{\li0 \f2 \qj \b0 \ri0 \fs20 \cf1 \i0 
+{\li0 \f2 \qj \b0 \ri0 \fs20 \cf1 \i0 
+{\f2 \strike0 \ul0 \b0 \fs20 \cf1 \i0 
+}
+{\f2 \b1 \fs20 \cf1 \i0 
+{\*\bkmkstart co_pp_sp_780_740_1}{\*\bkmkend co_pp_sp_780_740_1}
+{\f2 \strike0 \ul0 \b1 \sa0 \sb0 \fs20 \cf1 \i0 
+*740
+}
+}
+{\f2 \strike0 \ul0 \b0 \sa0 \sb0 \fs20 \cf1 \i0 
+ 
+}
+{\field {\*\fldinst HYPERLINK "#co_anchor_F81972127136_1" }{\fldrslt 
+{\super \f2 \strike0 \ul0 \b1 \sa0 \sb0 \fs20 \cf24 \i0 
+[8]
+}}}
+{\f2 \b0 \fs20 \cf5 \i0 
+{\*\bkmkstart co_anchor_B81972127136_1}{\*\bkmkend co_anchor_B81972127136_1}
+}
+{\f2 \strike0 \ul0 \b0 \sa0 \sb0 \fs20 \cf1 \i0 
+ B. Dismissal of charges against an incompetent accused has usually been thought to be justified on grounds not squarely presented here: particularly, the Sixth-Fourteenth Amendment right to a speedy trial,
+}
+{\f2 \b0 \fs16 \cf1 \i0 
+{\*\bkmkstart co_footnoteReference_B028271972127136_ID}{\*\bkmkend co_footnoteReference_B028271972127136_ID}
+{\field {\*\fldinst HYPERLINK "#co_footnote_B028271972127136_1" }{\fldrslt 
+{\super \f2 \strike0 \ul0 \b0 \sa0 \sb0 \fs16 \cf5 \i0 
+27
+}}}
+}
+{\f2 \strike0 \ul0 \b0 \sa0 \sb0 \fs20 \cf1 \i0 
+ or the denial of due process inherent in holding pending criminal charges indefinitely over the head of one who will never have a chance to prove his innocence.
+}
+{\f2 \b0 \fs16 \cf1 \i0 
+{\*\bkmkstart co_footnoteReference_B029281972127136_ID}{\*\bkmkend co_footnoteReference_B029281972127136_ID}
+{\field {\*\fldinst HYPERLINK "#co_footnote_B029281972127136_1" }{\fldrslt 
+{\super \f2 \strike0 \ul0 \b0 \sa0 \sb0 \fs16 \cf5 \i0 
+28
+}}}
+}
+{\f2 \strike0 \ul0 \b0 \sa0 \sb0 \fs20 \cf1 \i0 
+ Jackson did not present the Sixth-Fourteenth Amendment issue to the state courts. Nor did the highest state court rule on the due process issue, if indeed it was presented to that court in precisely the above-described form. We think, in light of our holdings in Parts II and III, that the Indiana courts should have the first opportunity to determine these issues.
+\par 
+}
+}
+}
+{\f2 \strike0 \ul0 \b0 \sa0 \sb0 \fs20 \cf1 \i0 
+\u160\'3f
+\par 
+}
+{\li0 \f2 \qj \b0 \ri0 \fs20 \cf1 \i0 {
+{\trowd \lastrow \trleft0 
+\clbrdrt \clbrdrb \clbrdrl \trql \clvertalt \clwWidth600 \cellx600 
+\clpadb90 \clpadfb3 \clpadl90 \clpadfl3 \clbrdrt \clbrdrb \clbrdrr \trql \clwWidth9480 \cellx10080 
+\intbl 
+{\li0 \ri0 
+{\li0 \f2 \b0 \ql \ri0 \fs20 \cf1 \i0 
+{\f2 \b0 \fs20 \cf1 \i0 
+{\*\bkmkstart co_footnote_B028271972127136_1}{\*\bkmkend co_footnote_B028271972127136_1}
+{\field {\*\fldinst HYPERLINK "#co_footnoteReference_B028271972127136_ID" }{\fldrslt 
+{\super \f2 \strike0 \ul0 \b0 \sa0 \sb0 \fs20 \cf5 \i0 
+27
+}\f2 \super \strike0 \ul0 \b0 \sa0 \sb0 \fs20 \cf5 \i0 }}
+\par 
+}
+}
+}\f2 \li0 \b0 \ql \fs20 \ri0 \cf1 \i0 \intbl \cell \intbl 
+{\li0 \ri0 
+{\li0 \f2 \qj \b0 \ri0 \fs18 \cf1 \i0 
+{\li0 \f2 \qj \b0 \ri0 \fs18 \cf1 \i0 
+{\li0 \f2 \qj \b0 \ri0 \fs18 \cf1 \i0 
+{\field {\*\fldinst HYPERLINK "http://www.westlaw.com/Link/Document/FullText?findType=Y&serNum=1970123607&pubNum=578&originatingDoc=I6b48659d9c2511d9bc61beebb95be672&refType=RP&fi=co_pp_sp_578_112&originationContext=document&vr=3.0&rs=cblt1.0&transitionType=DocumentItem&contextData=(sc.Search)#co_pp_sp_578_112" }{\fldrslt 
+{\f2 \strike0 \ul0 \b0 \sa0 \sb0 \fs18 \cf5 \i0 
+People ex rel. Myers v. Briggs, 46 Ill.2d 281, 287\u8212\'3f288, 263 N.E.2d 109, 112\u8212\'3f113 (1970)
+}\f2 \strike0 \ul0 \b0 \sa0 \sb0 \fs18 \cf5 \i0 }}
+{\f2 \strike0 \ul0 \b0 \sa0 \sb0 \fs18 \cf1 \i0 
+; 
+}
+{\field {\*\fldinst HYPERLINK "http://www.westlaw.com/Link/Document/FullText?findType=Y&serNum=1970114698&pubNum=345&originatingDoc=I6b48659d9c2511d9bc61beebb95be672&refType=RP&fi=co_pp_sp_345_68&originationContext=document&vr=3.0&rs=cblt1.0&transitionType=DocumentItem&contextData=(sc.Search)#co_pp_sp_345_68" }{\fldrslt 
+{\f2 \strike0 \ul0 \b0 \sa0 \sb0 \fs18 \cf5 \i0 
+United States ex rel. Wolfersdorf v. Johnston, 317 F.Supp. 66, 68 (S.D.N.Y.1970)
+}\f2 \strike0 \ul0 \b0 \sa0 \sb0 \fs18 \cf5 \i0 }}
+{\f2 \strike0 \ul0 \b0 \sa0 \sb0 \fs18 \cf1 \i0 
+; 
+}
+{\field {\*\fldinst HYPERLINK "http://www.westlaw.com/Link/Document/FullText?findType=Y&serNum=1969115845&pubNum=345&originatingDoc=I6b48659d9c2511d9bc61beebb95be672&refType=RP&fi=co_pp_sp_345_6&originationContext=document&vr=3.0&rs=cblt1.0&transitionType=DocumentItem&contextData=(sc.Search)#co_pp_sp_345_6" }{\fldrslt 
+{\f2 \strike0 \ul0 \b0 \sa0 \sb0 \fs18 \cf5 \i0 
+United States v. Jackson, 306 F.Supp. 4, 6 (N.D.Cal.1969)
+}\f2 \strike0 \ul0 \b0 \sa0 \sb0 \fs18 \cf5 \i0 }}
+{\f2 \strike0 \ul0 \b0 \sa0 \sb0 \fs18 \cf1 \i0 
+; see Foote, supra, n. 14 at 838\u8212\'3f839; D.C. Report 145\u8212\'3f146 (Recommendation No. 16).
+\par 
+}
+}
+}
+}
+}\f2 \li0 \strike0 \ul0 \b0 \qj \sa0 \sb0 \fs18 \ri0 \cf1 \i0 \intbl \cell \row }}\par 
+}
+{\li0 \f2 \qj \b0 \ri0 \fs20 \cf1 \i0 {
+{\trowd \lastrow \trleft0 
+\clbrdrt \clbrdrb \clbrdrl \trql \clvertalt \clwWidth600 \cellx600 
+\clpadb90 \clpadfb3 \clpadl90 \clpadfl3 \clbrdrt \clbrdrb \clbrdrr \trql \clwWidth9480 \cellx10080 
+\intbl 
+{\li0 \ri0 
+{\li0 \f2 \b0 \ql \ri0 \fs20 \cf1 \i0 
+{\f2 \b0 \fs20 \cf1 \i0 
+{\*\bkmkstart co_footnote_B029281972127136_1}{\*\bkmkend co_footnote_B029281972127136_1}
+{\field {\*\fldinst HYPERLINK "#co_footnoteReference_B029281972127136_ID" }{\fldrslt 
+{\super \f2 \strike0 \ul0 \b0 \sa0 \sb0 \fs20 \cf5 \i0 
+28
+}\f2 \super \strike0 \ul0 \b0 \sa0 \sb0 \fs20 \cf5 \i0 }}
+\par 
+}
+}
+}\f2 \li0 \b0 \ql \fs20 \ri0 \cf1 \i0 \intbl \cell \intbl 
+{\li0 \ri0 
+{\li0 \f2 \qj \b0 \ri0 \fs18 \cf1 \i0 
+{\li0 \f2 \qj \b0 \ri0 \fs18 \cf1 \i0 
+{\li0 \f2 \qj \b0 \ri0 \fs18 \cf1 \i0 
+{\f2 \strike0 \ul0 \b0 \sa0 \sb0 \fs18 \cf1 \i0 
+See cases cited in n. 27; N.Y. Report 119\u8212\'3f121 (Recommendation No. 15); D.C. Report 52\u8212\'3f53; Model Penal Code s 4.06(2) (Proposed Official Draft 1962).
+\par 
+}
+}
+}
+}
+}\f2 \li0 \strike0 \ul0 \b0 \qj \sa0 \sb0 \fs18 \ri0 \cf1 \i0 \intbl \cell \row }}\par 
+}
+{\li0 \f2 \qj \b0 \ri0 \fs20 \cf1 \i0 
+{\li0 \f2 \qj \b0 \ri0 \fs20 \cf1 \i0 
+{\f2 \strike0 \ul0 \b0 \sa0 \sb0 \fs20 \cf1 \i0 
+C. Both courts and commentators have noted the desirability of permitting some proceedings to go forward despite the defendant\rquote s incompetency.
+}
+{\f2 \b0 \fs16 \cf1 \i0 
+{\*\bkmkstart co_footnoteReference_B030291972127136_ID}{\*\bkmkend co_footnoteReference_B030291972127136_ID}
+{\field {\*\fldinst HYPERLINK "#co_footnote_B030291972127136_1" }{\fldrslt 
+{\super \f2 \strike0 \ul0 \b0 \sa0 \sb0 \fs16 \cf5 \i0 
+29
+}}}
+}
+{\f2 \strike0 \ul0 \b0 \sa0 \sb0 \fs20 \cf1 \i0 
+ For instance, s 4.06(3) of the Model Penal Code would permit an incompetent accused\rquote s attorney to contest any issue \u8216\'3fsusceptible of fair determination prior to trial and without the personal participation of the defendant.\u8217\'3f An alternative draft of s 4.06(4) of the Model Penal Code would also permit an evidentiary hearing at which certain 
+}
+{\f2 \b1 \fs20 \cf1 \i0 
+{\*\bkmkstart co_pp_sp_780_741_1}{\*\bkmkend co_pp_sp_780_741_1}
+{\f2 \strike0 \ul0 \b1 \sa0 \sb0 \fs20 \cf1 \i0 
+*741
+}
+}
+{\f2 \strike0 \ul0 \b0 \sa0 \sb0 \fs20 \cf1 \i0 
+ defenses, not including lack of criminal responsibility, could be raised by defense counsel on the basis of which the court might quash the indictment. Some States have statutory provisions permitting pretrial motions to be made or even allowing the incompetent defendant a trial at which to establish his innocence, without permitting a conviction.
+}
+{\f2 \b0 \fs16 \cf1 \i0 
+{\*\bkmkstart co_footnoteReference_B031301972127136_ID}{\*\bkmkend co_footnoteReference_B031301972127136_ID}
+{\field {\*\fldinst HYPERLINK "#co_footnote_B031301972127136_1" }{\fldrslt 
+{\super \f2 \strike0 \ul0 \b0 \sa0 \sb0 \fs16 \cf5 \i0 
+30
+}}}
+}
+{\f2 \strike0 \ul0 \b0 \sa0 \sb0 \fs20 \cf1 \i0 
+ We do not read this Court\rquote s previous decisions
+}
+{\f2 \b0 \fs16 \cf1 \i0 
+{\*\bkmkstart co_footnoteReference_B032311972127136_ID}{\*\bkmkend co_footnoteReference_B032311972127136_ID}
+{\field {\*\fldinst HYPERLINK "#co_footnote_B032311972127136_1" }{\fldrslt 
+{\super \f2 \strike0 \ul0 \b0 \sa0 \sb0 \fs16 \cf5 \i0 
+31
+}}}
+}
+{\f2 \strike0 \ul0 \b0 \sa0 \sb200 \fs20 \cf1 \i0 
+ to preclude the States from allowing at a minimum, an incompetent defendant to raise certain defenses such as insufficiency of the indictment, or make certain pretrial motions through counsel. Of course, if the Indiana courts conclude that Jackson was almost certainly not capable of criminal responsibility when the offenses were committed, dismissal of the charges might be warranted. But even if this is not the case, Jackson may have other good defenses that could sustain dismissal or acquittal and that might now be asserted. We do not know if Indiana would approve procedures such as those mentioned here, but these possibilities will be open on remand.
+\par 
+}
+}
+}
+{\li0 \f2 \qj \b0 \ri0 \fs20 \cf1 \i0 {
+{\trowd \lastrow \trleft0 
+\clbrdrt \clbrdrb \clbrdrl \trql \clvertalt \clwWidth600 \cellx600 
+\clpadb90 \clpadfb3 \clpadl90 \clpadfl3 \clbrdrt \clbrdrb \clbrdrr \trql \clwWidth9480 \cellx10080 
+\intbl 
+{\li0 \ri0 
+{\li0 \f2 \b0 \ql \ri0 \fs20 \cf1 \i0 
+{\f2 \b0 \fs20 \cf1 \i0 
+{\*\bkmkstart co_footnote_B030291972127136_1}{\*\bkmkend co_footnote_B030291972127136_1}
+{\field {\*\fldinst HYPERLINK "#co_footnoteReference_B030291972127136_ID" }{\fldrslt 
+{\super \f2 \strike0 \ul0 \b0 \sa0 \sb0 \fs20 \cf5 \i0 
+29
+}\f2 \super \strike0 \ul0 \b0 \sa0 \sb0 \fs20 \cf5 \i0 }}
+\par 
+}
+}
+}\f2 \li0 \b0 \ql \fs20 \ri0 \cf1 \i0 \intbl \cell \intbl 
+{\li0 \ri0 
+{\li0 \f2 \qj \b0 \ri0 \fs18 \cf1 \i0 
+{\li0 \f2 \qj \b0 \ri0 \fs18 \cf1 \i0 
+{\li0 \f2 \qj \b0 \ri0 \fs18 \cf1 \i0 
+{\field {\*\fldinst HYPERLINK "http://www.westlaw.com/Link/Document/FullText?findType=Y&serNum=1970123607&pubNum=578&originatingDoc=I6b48659d9c2511d9bc61beebb95be672&refType=RP&fi=co_pp_sp_578_113&originationContext=document&vr=3.0&rs=cblt1.0&transitionType=DocumentItem&contextData=(sc.Search)#co_pp_sp_578_113" }{\fldrslt 
+{\f2 \strike0 \ul0 \b0 \sa0 \sb0 \fs18 \cf5 \i0 
+People ex rel. Myers v. Briggs, supra, 46 Ill.2d, at 288, 263 N.E.2d, at 113;
+}\f2 \strike0 \ul0 \b0 \sa0 \sb0 \fs18 \cf5 \i0 }}
+{\f2 \strike0 \ul0 \b0 \sa0 \sb0 \fs18 \cf1 \i0 
+ 
+}
+{\field {\*\fldinst HYPERLINK "http://www.westlaw.com/Link/Document/FullText?findType=Y&serNum=1970127605&pubNum=602&originatingDoc=I6b48659d9c2511d9bc61beebb95be672&refType=RP&originationContext=document&vr=3.0&rs=cblt1.0&transitionType=DocumentItem&contextData=(sc.Search)" }{\fldrslt 
+{\f2 \strike0 \ul0 \b0 \sa0 \sb0 \fs18 \cf5 \i0 
+Neely v. Hogan, 62 Misc.2d 1056, 310 N.Y.S.2d 63 (1970)
+}\f2 \strike0 \ul0 \b0 \sa0 \sb0 \fs18 \cf5 \i0 }}
+{\f2 \strike0 \ul0 \b0 \sa0 \sb0 \fs18 \cf1 \i0 
+; N.Y. Report 115\u8212\'3f123 (Recommendation No. 13); D.C. Report 143\u8212\'3f144 (Recommendation No. 15); Foote, supra, n. 14, at 841\u8212\'3f845; Model Penal Code s 4.06 (alternative subsections 3, 4) (Proposed Official Draft 1962); ABF Study 423.
+\par 
+}
+}
+}
+}
+}\f2 \li0 \strike0 \ul0 \b0 \qj \sa0 \sb0 \fs18 \ri0 \cf1 \i0 \intbl \cell \row }}\par 
+}
+{\li0 \f2 \qj \b0 \ri0 \fs20 \cf1 \i0 {
+{\trowd \lastrow \trleft0 
+\clbrdrt \clbrdrb \clbrdrl \trql \clvertalt \clwWidth600 \cellx600 
+\clpadb90 \clpadfb3 \clpadl90 \clpadfl3 \clbrdrt \clbrdrb \clbrdrr \trql \clwWidth9480 \cellx10080 
+\intbl 
+{\li0 \ri0 
+{\li0 \f2 \b0 \ql \ri0 \fs20 \cf1 \i0 
+{\f2 \b0 \fs20 \cf1 \i0 
+{\*\bkmkstart co_footnote_B031301972127136_1}{\*\bkmkend co_footnote_B031301972127136_1}
+{\field {\*\fldinst HYPERLINK "#co_footnoteReference_B031301972127136_ID" }{\fldrslt 
+{\super \f2 \strike0 \ul0 \b0 \sa0 \sb0 \fs20 \cf5 \i0 
+30
+}\f2 \super \strike0 \ul0 \b0 \sa0 \sb0 \fs20 \cf5 \i0 }}
+\par 
+}
+}
+}\f2 \li0 \b0 \ql \fs20 \ri0 \cf1 \i0 \intbl \cell \intbl 
+{\li0 \ri0 
+{\li0 \f2 \qj \b0 \ri0 \fs18 \cf1 \i0 
+{\li0 \f2 \qj \b0 \ri0 \fs18 \cf1 \i0 
+{\li0 \f2 \qj \b0 \ri0 \fs18 \cf1 \i0 
+{\field {\*\fldinst HYPERLINK "http://www.westlaw.com/Link/Document/FullText?findType=L&pubNum=1000260&cite=WIST971.14&originatingDoc=I6b48659d9c2511d9bc61beebb95be672&refType=LQ&originationContext=document&vr=3.0&rs=cblt1.0&transitionType=DocumentItem&contextData=(sc.Search)" }{\fldrslt 
+{\f2 \strike0 \ul0 \b0 \sa0 \sb0 \fs18 \cf5 \i0 
+Wis.Stat.Ann. s 971.14(6) (1971)
+}\f2 \strike0 \ul0 \b0 \sa0 \sb0 \fs18 \cf5 \i0 }}
+{\f2 \strike0 \ul0 \b0 \sa0 \sb0 \fs18 \cf1 \i0 
+; 
+}
+{\field {\*\fldinst HYPERLINK "http://www.westlaw.com/Link/Document/FullText?findType=L&pubNum=1000300&cite=NYCMS730.60&originatingDoc=I6b48659d9c2511d9bc61beebb95be672&refType=LQ&originationContext=document&vr=3.0&rs=cblt1.0&transitionType=DocumentItem&contextData=(sc.Search)" }{\fldrslt 
+{\f2 \strike0 \ul0 \b0 \sa0 \sb0 \fs18 \cf5 \i0 
+N.Y.Crim.Proc.Law s 730.60(5) (1971)
+}\f2 \strike0 \ul0 \b0 \sa0 \sb0 \fs18 \cf5 \i0 }}
+{\f2 \strike0 \ul0 \b0 \sa0 \sb0 \fs18 \cf1 \i0 
+; 
+}
+{\field {\*\fldinst HYPERLINK "http://www.westlaw.com/Link/Document/FullText?findType=L&pubNum=1000042&cite=MAST123S17&originatingDoc=I6b48659d9c2511d9bc61beebb95be672&refType=LQ&originationContext=document&vr=3.0&rs=cblt1.0&transitionType=DocumentItem&contextData=(sc.Search)" }{\fldrslt 
+{\f2 \strike0 \ul0 \b0 \sa0 \sb0 \fs18 \cf5 \i0 
+Mass.Gen.Laws, c. 123, s 17 (Supp.1972)
+}\f2 \strike0 \ul0 \b0 \sa0 \sb0 \fs18 \cf5 \i0 }}
+{\f2 \strike0 \ul0 \b0 \sa0 \sb0 \fs18 \cf1 \i0 
+; Mont.Rev.Code Ann. s 95\u8212\'3f506(c) (1969); Md.Ann.Code, Art. 59, s 24(a) (1972). See Reg. v. Roberts, (1953) 3 W.L.R. 178, (1953) 2 All.E.R. 340 (Devlin, J.).
+\par 
+}
+}
+}
+}
+}\f2 \li0 \strike0 \ul0 \b0 \qj \sa0 \sb0 \fs18 \ri0 \cf1 \i0 \intbl \cell \row }}\par 
+}
+{\li0 \f2 \qj \b0 \ri0 \fs20 \cf1 \i0 {
+{\trowd \lastrow \trleft0 
+\clbrdrt \clbrdrb \clbrdrl \trql \clvertalt \clwWidth600 \cellx600 
+\clpadb90 \clpadfb3 \clpadl90 \clpadfl3 \clbrdrt \clbrdrb \clbrdrr \trql \clwWidth9480 \cellx10080 
+\intbl 
+{\li0 \ri0 
+{\li0 \f2 \b0 \ql \ri0 \fs20 \cf1 \i0 
+{\f2 \b0 \fs20 \cf1 \i0 
+{\*\bkmkstart co_footnote_B032311972127136_1}{\*\bkmkend co_footnote_B032311972127136_1}
+{\field {\*\fldinst HYPERLINK "#co_footnoteReference_B032311972127136_ID" }{\fldrslt 
+{\super \f2 \strike0 \ul0 \b0 \sa0 \sb0 \fs20 \cf5 \i0 
+31
+}\f2 \super \strike0 \ul0 \b0 \sa0 \sb0 \fs20 \cf5 \i0 }}
+\par 
+}
+}
+}\f2 \li0 \b0 \ql \fs20 \ri0 \cf1 \i0 \intbl \cell \intbl 
+{\li0 \ri0 
+{\li0 \f2 \qj \b0 \ri0 \fs18 \cf1 \i0 
+{\li0 \f2 \qj \b0 \ri0 \fs18 \cf1 \i0 
+{\li0 \f2 \qj \b0 \ri0 \fs18 \cf1 \i0 
+{\f2 \strike0 \ul0 \b0 \sa0 \sb0 \fs18 \cf1 \i0 
+See 
+}
+{\field {\*\fldinst HYPERLINK "http://www.westlaw.com/Link/Document/FullText?findType=Y&serNum=1966104350&pubNum=708&originatingDoc=I6b48659d9c2511d9bc61beebb95be672&refType=RP&originationContext=document&vr=3.0&rs=cblt1.0&transitionType=DocumentItem&contextData=(sc.Search)" }{\fldrslt 
+{\f2 \strike0 \ul0 \b0 \sa0 \sb0 \fs18 \cf5 \i0 
+Pate v. Robinson, 383 U.S. 375, 86 S.Ct. 836, 15 L.Ed.2d 815 (1966)
+}\f2 \strike0 \ul0 \b0 \sa0 \sb0 \fs18 \cf5 \i0 }}
+{\f2 \strike0 \ul0 \b0 \sa0 \sb0 \fs18 \cf1 \i0 
+; 
+}
+{\field {\*\fldinst HYPERLINK "http://www.westlaw.com/Link/Document/FullText?findType=Y&serNum=1956201274&pubNum=708&originatingDoc=I6b48659d9c2511d9bc61beebb95be672&refType=RP&originationContext=document&vr=3.0&rs=cblt1.0&transitionType=DocumentItem&contextData=(sc.Search)" }{\fldrslt 
+{\f2 \strike0 \ul0 \b0 \sa0 \sb0 \fs18 \cf5 \i0 
+Bishop v. United States, 350 U.S. 961, 76 S.Ct. 440, 100 L.Ed. 835 (1956)
+}\f2 \strike0 \ul0 \b0 \sa0 \sb0 \fs18 \cf5 \i0 }}
+{\f2 \strike0 \ul0 \b0 \sa0 \sb0 \fs18 \cf1 \i0 
+.
+\par 
+}
+}
+}
+}
+}\f2 \li0 \strike0 \ul0 \b0 \qj \sa0 \sb0 \fs18 \ri0 \cf1 \i0 \intbl \cell \row }}\par 
+}
+{\li0 \f2 \qj \b0 \ri0 \fs20 \cf1 \i0 
+{\li0 \f2 \qj \b0 \ri0 \fs20 \cf1 \i0 
+{\f2 \strike0 \ul0 \b0 \sa0 \sb200 \fs20 \cf1 \i0 
+Reversed and remanded.
+\par 
+}
+}
+}
+}
+}
+{\li0 \f2 \qj \b0 \ri0 \fs20 \cf1 \i0 
+{\li0 \f2 \qj \b0 \ri0 \fs20 \cf1 \i0 
+{\f2 \strike0 \ul0 \b0 \sa0 \sb600 \fs20 \cf1 \i0 
+Mr. Justice POWELL and Mr. Justice REHNQUIST took no part in the consideration or decision of this case.
+\par 
+}
+}
+}
+}
+}
+}
+{\li0 \f2 \qj \b0 \ri0 \fs20 \cf1 \i0 
+{\li0 \f2 \qj \b1 \ri0 \fs20 \cf24 \i0 
+{\*\bkmkstart co_allCitations_1}{\*\bkmkend co_allCitations_1}
+{\f2 \strike0 \ul0 \b1 \sa200 \sb400 \fs20 \cf24 \i0 
+All Citations
+\par 
+}
+}
+{\f2 \strike0 \ul0 \b0 \sa0 \sb0 \fs20 \cf1 \i0 
+406 U.S. 715, 92 S.Ct. 1845, 32 L.Ed.2d 435
+\par 
+}
+}
+{\li0 \f2 \qj \b0 \ri0 \fs20 \cf1 \i0 {
+{\trowd \lastrow \trleft0 
+\clpadt24 \clpadft3 \clpadl100 \clpadfl3 \clpadr24 \clpadfr3 \clbrdrt \brdrw10 \brdrcf26 \brdrs \clbrdrb \clbrdrl \trql \clwWidth4320 \cellx4320 
+\clpadt24 \clpadft3 \clpadl100 \clpadfl3 \clpadr24 \clpadfr3 \clbrdrt \brdrw10 \brdrcf26 \brdrs \clbrdrb \clbrdrr \trql \clwWidth5760 \cellx10080 
+\intbl 
+{\li24 \ri24 
+{\li24 \f2 \b1 \ql \ri24 \fs16 \cf26 \i0 
+{\f2 \strike0 \ul0 \b1 \sa0 \sb0 \fs16 \cf26 \i0 
+End of Document
+\par 
+}
+}
+}\f2 \li24 \strike0 \ul0 \b1 \sa0 \ql \sb0 \fs16 \ri24 \cf26 \i0 \intbl \cell \intbl 
+{\li24 \ri24 
+{\li24 \f2 \b0 \ri24 \fs16 \cf26 \qr \i0 
+{\f2 \strike0 \ul0 \b0 \sa0 \sb0 \fs16 \cf26 \i0 
+\u169\'3f 2015 Thomson Reuters. No claim to original U.S. Government Works.
+\par 
+}
+}
+}\f2 \li24 \strike0 \ul0 \b0 \sa0 \sb0 \fs16 \ri24 \cf26 \i0 \qr \intbl \cell \row }}\par 
+}
+}\sect }

@@ -1,0 +1,1891 @@
+{\rtf1 \ansi 
+{\colortbl;
+\red0\green0\blue0;
+\red255\green255\blue255;
+\red255\green0\blue0;
+\red0\green255\blue0;
+\red0\green0\blue255;
+\red0\green255\blue255;
+\red255\green0\blue255;
+\red255\green255\blue0;
+\red0\green0\blue128;
+\red0\green128\blue128;
+\red0\green128\blue0;
+\red128\green0\blue128;
+\red128\green0\blue0;
+\red128\green128\blue0;
+\red128\green128\blue128;
+\red192\green192\blue192;
+\red170\green170\blue170;
+\red85\green85\blue85;
+\red37\green37\blue37;
+\red119\green119\blue119;
+\red247\green247\blue247;
+\red203\green203\blue203;
+\red245\green245\blue245;
+\red255\green255\blue174;
+\red254\green254\blue0;
+\red190\green190\blue252;
+\red204\green204\blue204;
+\red236\green236\blue236;
+\red187\green187\blue187;
+\red227\green227\blue227;
+\red20\green93\blue164;
+\red105\green105\blue105;
+\red229\green243\blue255;
+\red179\green218\blue255;
+\red240\green248\blue255;
+\red127\green127\blue127;
+\red223\green223\blue223;
+\red239\green239\blue239;
+\red238\green238\blue238;
+\red204\green255\blue255;
+\red80\green80\blue80;
+\red58\green58\blue58;
+\red120\green162\blue47;
+\red246\green246\blue246;
+\red71\green120\blue194;
+\red151\green151\blue151;
+\red255\green210\blue183;
+\red255\green255\blue102;
+}
+{\fonttbl {
+\f0 Arial;}{
+\f1 Symbol;}{
+\f2 Times New Roman;}{
+\f3 georgia;}{
+\f4 sans-serif;}{
+\f5 serif;}
+}
+{\*\generator Apache XML Graphics RTF Library;}
+\fet0 \ftnbj \paperw12240 \paperh15840 \margt1800 \margb1080 \margl1080 \margr1080 \headery720 \footery720 \itap0 \cols1 
+\sectd {\header {
+{\trowd \ltrrow \trleft0 
+\clpadb60 \clpadfb3 \clpadl400 \clpadfl3 \clbrdrt \clbrdrl \clbrdrr \trql \clvertalb \clwWidth9380 \cellx9380 
+\intbl 
+{\li0 \f0 \b0 \ri0 \fs18 \cf1 \qc \i0 
+{\f0 \strike0 \ul0 \b0 \fs18 \cf1 \i0 
+}
+{\f0 \b1 \fs18 \cf1 \i0 
+{\f0 \strike0 \ul0 \b1 \sa0 \sb0 \fs18 \cf1 \i0 
+Libgober, Brian
+}
+}
+{\f0 \strike0 \ul0 \b0 \sa0 \sb0 \fs18 \cf1 \i0 
+ 
+}
+{\f0 \b1 \fs18 \cf1 \i0 
+{\f0 \strike0 \ul0 \b1 \sa0 \sb0 \fs18 \cf1 \i0 
+7/14/2015
+}
+}
+{\f0 \strike0 \ul0 \b0 \fs18 \cf1 \i0 
+\par 
+}
+}
+{\li0 \f0 \b0 \ri0 \fs18 \cf1 \qc \i0 
+{\f0 \strike0 \ul0 \b0 \fs18 \cf1 \i0 
+}
+{\f0 \b1 \fs18 \cf1 \i0 
+{\f0 \strike0 \ul0 \b1 \sa0 \sb0 \fs18 \cf1 \i0 
+For Educational Use Only
+}
+}
+{\f0 \strike0 \ul0 \b0 \fs18 \cf1 \i0 
+}
+}\f0 \li0 \strike0 \ul0 \b0 \sa0 \sb0 \fs18 \ri0 \cf1 \i0 \qc \intbl \cell \row }
+{\trowd \ltrrow \trleft0 
+\clpadb60 \clpadfb3 \clpadl400 \clpadfl3 \clbrdrb \brdrw20 \brdrcf17 \brdrs \clbrdrl \trql \clvertalb \clwWidth9380 \cellx9380 
+\clpadb60 \clpadfb3 \clpadl400 \clpadfl3 \clbrdrb \brdrw20 \brdrcf17 \brdrs \clbrdrr \trql \clwWidth700 \cellx10080 
+\intbl 
+{\li0 \f0 \b0 \ql \ri0 \fs18 \cf1 \i0 
+{\f0 \strike0 \ul0 \b0 \fs18 \cf1 \i0 
+}
+{\f0 \b1 \fs18 \cf18 \i0 
+{\f0 \strike0 \ul0 \b1 \sa0 \sb0 \fs18 \cf18 \i0 
+Swarb v. Lennox, 405 U.S. 191 (1972)
+}
+}
+{\f0 \strike0 \ul0 \b0 \fs18 \cf1 \i0 
+}
+}\f0 \li0 \strike0 \ul0 \b0 \sa0 \ql \sb0 \fs18 \ri0 \cf1 \i0 \intbl \cell \intbl 
+{\li0 \f0 \b0 \ri0 \fs18 \cf1 \qr \i0 
+}\f0 \li0 \b0 \fs18 \ri0 \cf1 \i0 \qr \intbl \cell \row }
+{\trowd \lastrow \trleft0 
+\clbrdrb \clbrdrl \trql \clwWidth10080 \cellx10080 
+\intbl 
+{\li0 \f0 \b0 \ql \ri0 \fs18 \cf1 \i0 
+{\f0 \strike0 \ul0 \b0 \sa0 \sb0 \fs18 \cf1 \i0 
+92 S.Ct. 767, 31 L.Ed.2d 138
+}
+}\f0 \li0 \strike0 \ul0 \b0 \sa0 \ql \sb0 \fs18 \ri0 \cf1 \i0 \intbl \cell \row }}\par }{\footer {
+{\trowd \lastrow \trleft0 
+\clpadl60 \clpadfl3 \clbrdrt \brdrw20 \brdrcf17 \brdrs \clbrdrb \clbrdrl \trql \clvertalb \clwWidth9300 \cellx9300 
+\clpadl60 \clpadfl3 \clbrdrt \brdrw20 \brdrcf17 \brdrs \clbrdrb \clbrdrr \trql \clwWidth700 \cellx10000 
+\intbl 
+{\li0 \f0 \b0 \ql \ri0 \fs20 \cf17 \i0 
+{\f0 \strike0 \ul0 \b0 \fs20 \cf17 \i0 
+}
+{\*\shppict {\pict \pngblip \picw78 \pich10 \picwgoal1170 \pichgoal150 89504e470d0a1a0a0000000d494844520000004e0000000a08030000002dbd985500000300504c5445fffffffffdfbfffcf9fdfdfdfafafafffffefffcf8f6f6f6f3f3f3fffdfae2e2e2fff5e8fffaf3fff7ecffa631bbbbbb7f7f7f7676766b6b6bffca849e9e9ef8f8f8ffbf6afffefdff9712fcfcfca4a4a4969696ff9202ffb452fff5e6ff970dfefefeffad41e1e1e1ffe9cd949494ffe6c5fff6e96f6f6fffe6c6ffebd0fff1e0d2d2d2ffd399ff950efff9f2ff9f26fff3e3fff9f0ffd092fff2e1ffb555ffe7c7fff3e4ff8500ffe0b8ffb6558b8b8bffce8dffebd1ff9408929292ffddb0ff9c19ff9811ffb95cfff8eeffecd3cccccc8e8e8effeed8ffa42d626262c9c9c9666666ffe2bcddddddfffbf7ffa32aff970eeaeaea686868dadadaffab3a9a9a9a6d6d6effe8c9878787e3e3e3ff9f20f5f5f5b7b7b7efefef868686ffc77cffe4c1ff9912ffc272ff93056c6c6cffeed7ffd296ffab3d818181ff930aff9e1effaf47fffbf5fff0dbff9100cfcfcfff930cffeacf7a7a7affcf90f7f7f7fbfbfbffa835ff9814ffa32effe9cc676767ffc67afff2e2ffb048ff9509ffdbade0e0e0ffa939ffe5c3dcdcdcffc170ffe8cab3b3b3ffb047f1f1f18c8c8cfffefeffecd4feedd7e8e8e8ffb656ffe2bbfff1df898989ff9b17ffcd8affefdac3c3c3bdbdbdffe1baffc06cffa431fff7edf9f9f9ecececffaf44fff0dd787878ff9919d9d9d9ff8f01ffd8a4727272737373e5e5e5ffe2bdffd9a7646464fffaf2ffdbab686b6effc172ffe9caffe3c0ffdcafffc374ffc477ff981dfffdf9f5f4f2ffb34efff3e2ffe4bfff9e22ffa227fefdfdffc578f1eae1ffeccf6a6a6bff9102ff9201ff9101fffcf775797e7c7c7cff9203dedede5d5d5d6b6c6dffbb60ffbc62707070ffa42bffd49bff9f29ffb04affefdcfff7ebf2f2f2ff950af6f2eeffdfb4696969ffd298ffddb2ff9916ffe1bcff9a0bffa128ffa329b0b0b0ff9d20ff9d23bfbfbfb4b4b4ffb24bff9409ffd49c727375ffa62fffe3bedbdbdbb9b9b96a6a6a6e72776e6e6effaa39ffa024ffa324fffefcfff4e5ff9c29ffb351ff9f2bffe3bc919191ff8d03ffa42eff8f02fffaf4fffaf5ff9000ffa22b9843d85d000000097048597300000b1300000b1301009a9c18000002f94944415478da633e95a6ba9b6145fce75b0c8c738f7e674000469effff94ef474d674003a271ebfb81141777f065646196999b9925be30c9143d6260ed71b36060d04fb444960f2b656160adb364c000f5698140d2396b2d8aa8583d83c63757e6edfd8f8eb05c2aaa5af07572e68975da33e57731743dc9f30b5e7f2aaa7a26b7d495df7e29d2e9b7dfae7b739fc159faf93fc67d39cf24d77b5c665067bcf487c39fe9d35fa5ee4d0ca52f1c623803b74ebdc4747dc56606dd4927eee9306cd1fb9af989e9ee62d68d2c3d812bf6b0787c946766906678f274bf5f95fb79a0cf1c1975189ce55e687e137eadc060f6eef732f9a267d9ecca65920c4bf74edc55a9323d7e373343cd8aaf5bb927685c78e2c7fd756b72b7c4cde52fc2d64e79bee2bfc8835d7c375efd4edefb60e7f4af6aff2eb19ee438d12a9075eff6f92d4a93e73a099c3c6a5d2078ad74b7a2dbe55b1322f53608b77e616066d065babd73d7fbfedddedf9cf75dfb15fa826d8d22efcb775ffe4c906afe23f6ebc7ef4382761ef2f14bbb27adcd79b8e0b7f6b1b2a2e2afcf56fdf35862567859239d71fe8be737ecfc03ff7dfcb2ea0b03d0b853bdc7f337ff3ac117579ba8f4496fd59f5b3c17aee60845ef7c789bf7a5e217e1b7d6cf04ef4f17b9bf76eb937ce5ab562a522553eefefcedf38d3175d3aa3dc5ff8b6fdcfdf76163ea7f063ed6770c20e3fe5b4a1dbef35754fe586ad4199949b3167e7ff8f6997d6c6f8cc67df19b7c4b767cf9a3b9e7c9ec2fa72e4eb812de7ff7cccf49cb3453b632dc15fac5cc7d67f12bf7947bffb9ae9b38ec6510fffe196cdcbfcf776c0e00d3c549a34de5ef3ebd60e4fb94f76fbe3aefde93fa4f1ff3eb1dac3a96bc6d91afec8c4dcbf62de08cb8f8f6595154ea4f86bffcb378a630fefc732cf2c674068b1ad675d3755245affe071ac7a0b1f5d01186af162577775c559338eb20bf37fba9e4b4036b3a6ae51edd3eb5a780e3fc5d0fd588fab5ea9783186456dc3c75fb8bc86d0686f7ed2b0e04293cb0d9df59fee5c45bd5363115a309e5071800dbb45cde95f0d3420000000049454e44ae426082}}
+{\f0 \strike0 \ul0 \b0 \sa0 \sb0 \fs20 \cf17 \i0 
+ \u169\'3f 2015 Thomson Reuters. No claim to original U.S. Government Works.
+}
+}\f0 \li0 \strike0 \ul0 \b0 \sa0 \ql \sb0 \fs20 \ri0 \cf17 \i0 \intbl \cell \intbl 
+{\li0 \f0 \b0 \ri0 \fs20 \cf17 \qr \i0 
+{\b0 \i0 \ul0 \fs20 \f0 \chpgn }
+}\f0 \li0 \strike0 \ul0 \b0 \fs20 \ri0 \cf17 \i0 \qr \intbl \cell \row }}\par }
+{\li0 \f2 \qj \b0 \ri0 \fs20 \par}\sect\sbknone\pgncont\cols1{ \cf1 \i0 
+{\*\bkmkstart co_document_1}{\*\bkmkend co_document_1}
+{\f2 \b0 \fs20 \cf1 \i0 
+{\*\bkmkstart I0a4069429bf011d991d0cc6b54f12d4d_Target}{\*\bkmkend I0a4069429bf011d991d0cc6b54f12d4d_Target}
+\par 
+}
+{\li0 \f3 \b0 \ri0 \fs20 \cf1 \qc \i0 
+{\f3 \strike0 \ul0 \b0 \sa0 \sb0 \fs20 \cf1 \i0 
+92 S.Ct. 767
+\par 
+}
+}
+{\li0 \f3 \b0 \ri0 \fs20 \cf1 \qc \i0 
+{\li0 \f3 \b0 \ri0 \fs20 \cf1 \qc \i0 
+{\f3 \strike0 \ul0 \b0 \sa0 \sb0 \fs20 \cf1 \i0 
+Supreme Court of the United States
+\par 
+}
+}
+}
+{\li100 \f3 \b0 \ri100 \fs20 \cf19 \qc \i0 
+{\li100 \f3 \b0 \ri100 \fs20 \cf19 \qc \i0 
+{\li100 \f3 \b0 \ri100 \fs20 \cf19 \qc \i0 
+{\f3 \strike0 \ul0 \b0 \sa0 \sb200 \fs20 \cf19 \i0 
+Nellie SWARB et al., Appellants,
+\par 
+}
+}
+{\li100 \f3 \b0 \ri100 \fs20 \cf19 \qc \i0 
+{\f3 \strike0 \ul0 \b0 \sa0 \sb0 \fs20 \cf19 \i0 
+v.
+\par 
+}
+}
+{\li100 \f3 \b0 \ri100 \fs20 \cf19 \qc \i0 
+{\f3 \strike0 \ul0 \b0 \sa200 \sb0 \fs20 \cf19 \i0 
+William M. LENNOX et al.
+\par 
+}
+}
+}
+}
+{\li0 \f2 \b0 \ri0 \fs20 \cf1 \qc \i0 
+{\f2 \b0 \fs20 \cf1 \i0 
+{\f3 \b0 \fs20 \cf1 \i0 
+{\f3 \strike0 \ul0 \b0 \sa0 \sb0 \fs20 \cf1 \i0 
+No. 70\u8212\'3f6.
+}
+}
+}
+{\f3 \b0 \fs20 \cf1 \i0 
+{\f3 \b0 \fs20 \cf1 \i0 
+{\f3 \strike0 \ul0 \b0 \sa0 \sb0 \fs20 \cf1 \i0 
+ | 
+}
+}
+{\f3 \b0 \fs20 \cf1 \i0 
+{\f3 \strike0 \ul0 \b0 \sa0 \sb0 \fs20 \cf1 \i0 
+Argued Nov. 9, 1971.
+}
+}
+{\f3 \b0 \fs20 \cf1 \i0 
+{\f3 \strike0 \ul0 \b0 \sa0 \sb0 \fs20 \cf1 \i0 
+ | 
+}
+}
+{\f3 \b0 \fs20 \cf1 \i0 
+{\f3 \strike0 \ul0 \b0 \sa200 \sb0 \fs20 \cf1 \i0 
+Decided Feb. 24, 1972.
+\par 
+}
+}
+}
+}
+{\li0 \f2 \qj \b0 \ri0 \fs20 \cf1 \i0 
+{\li0 \f2 \qj \b0 \ri0 \fs20 \cf1 \i0 
+{\li0 \f2 \qj \b0 \ri0 \fs20 \cf1 \i0 
+{\f2 \strike0 \ul0 \b0 \sa0 \sb0 \fs20 \cf1 \i0 
+Class action brought attacking Pennsylvania confession of judgment procedure. A three-judge United States District Court for the Eastern District of Pennsylvania, 
+}
+{\field {\*\fldinst HYPERLINK "http://www.westlaw.com/Link/Document/FullText?findType=Y&serNum=1970105956&pubNum=345&originatingDoc=I0a4069429bf011d991d0cc6b54f12d4d&refType=RP&originationContext=document&vr=3.0&rs=cblt1.0&transitionType=DocumentItem&contextData=(sc.Search)" }{\fldrslt 
+{\f2 \strike0 \ul0 \b0 \sa0 \sb0 \fs20 \cf5 \i0 
+314 F.Supp. 1091,
+}}}
+{\f2 \strike0 \ul0 \b0 \sa0 \sb200 \fs20 \cf1 \i0 
+ entered decree granting partial relief to the plaintiffs and only the plaintiffs appealed. Probable jurisdiction was noted. The Supreme Court, Mr. Justice Blackmun, held that Pennsylvania rules and statute respecting cognovit provisions are not unconstitutional on their face, and where named defendant and intervenors took no cross appeal from decree providing, among other things, that no judgment-of-confession might be entered against individual natural Pennsylvania residents with incomes of less than $10,000 a year, affirmance of district court\rquote s judgment did not mean that the district court\rquote s judgment and opinion were approved by the United States Supreme Court as to other aspects and details which were not before Supreme Court.
+\par 
+}
+}
+}
+{\f2 \strike0 \ul0 \b0 \sa0 \sb0 \fs20 \cf1 \i0 
+\u160\'3f
+\par 
+}
+{\li0 \f2 \qj \b0 \ri0 \fs20 \cf1 \i0 
+{\li0 \f2 \qj \b0 \ri0 \fs20 \cf1 \i0 
+{\f2 \strike0 \ul0 \b0 \sa0 \sb0 \fs20 \cf1 \i0 
+Affirmed.
+\par 
+}
+}
+}
+{\f2 \strike0 \ul0 \b0 \sa0 \sb0 \fs20 \cf1 \i0 
+\u160\'3f
+\par 
+}
+{\li0 \f2 \qj \b0 \ri0 \fs20 \cf1 \i0 
+{\li0 \f2 \qj \b0 \ri0 \fs20 \cf1 \i0 
+{\f2 \strike0 \ul0 \b0 \sa0 \sb0 \fs20 \cf1 \i0 
+Mr. Justice Powell and Mr. Justice Rehnquist took no part in consideration or decision of the case.
+\par 
+}
+}
+}
+{\f2 \strike0 \ul0 \b0 \sa0 \sb0 \fs20 \cf1 \i0 
+\u160\'3f
+\par 
+}
+{\li0 \f2 \qj \b0 \ri0 \fs20 \cf1 \i0 
+{\li0 \f2 \qj \b0 \ri0 \fs20 \cf1 \i0 
+{\f2 \strike0 \ul0 \b0 \sa0 \sb0 \fs20 \cf1 \i0 
+Mr. Justice White filed a concurring opinion.
+\par 
+}
+}
+}
+{\f2 \strike0 \ul0 \b0 \sa0 \sb0 \fs20 \cf1 \i0 
+\u160\'3f
+\par 
+}
+{\li0 \f2 \qj \b0 \ri0 \fs20 \cf1 \i0 
+{\li0 \f2 \qj \b0 \ri0 \fs20 \cf1 \i0 
+{\f2 \strike0 \ul0 \b0 \sa0 \sb0 \fs20 \cf1 \i0 
+Mr. Justice Douglas filed an opinion dissenting in part.
+\par 
+}
+}
+}
+{\f2 \strike0 \ul0 \b0 \sa0 \sb0 \fs20 \cf1 \i0 
+\u160\'3f
+\par 
+}
+}
+{\li0 \f2 \qj \b0 \ri0 \fs20 \cf1 \i0 
+{\li0 \f2 \qj \b0 \ri0 \fs20 \cf1 \i0 
+{\li0 \f2 \qj \b0 \ri0 \fs20 \cf1 \i0 
+{\f2 \strike0 \ul0 \b0 \fs20 \cf1 \i0 
+}
+{\f2 \b1 \fs20 \cf1 \i0 
+{\*\bkmkstart co_pp_sp_708_767_1}{\*\bkmkend co_pp_sp_708_767_1}
+{\f2 \strike0 \ul0 \b1 \sa0 \sb0 \fs20 \cf1 \i0 
+**767
+}
+}
+{\f2 \strike0 \ul0 \b0 \sa0 \sb0 \fs20 \cf1 \i0 
+ 
+}
+{\f2 \b1 \fs20 \cf1 \i0 
+{\*\bkmkstart co_pp_sp_780_191_1}{\*\bkmkend co_pp_sp_780_191_1}
+{\f2 \strike0 \ul0 \b1 \sa0 \sb0 \fs20 \cf1 \i0 
+*191
+}
+}
+{\f2 \strike0 \ul0 \b0 \sa0 \sb0 \fs20 \cf1 \i0 
+ Syllabus
+}
+{\f2 \b0 \fs16 \cf1 \i0 
+{\*\bkmkstart co_footnoteReference_B0011972127069_ID0E}{\*\bkmkend co_footnoteReference_B0011972127069_ID0E}
+{\field {\*\fldinst HYPERLINK "#co_footnote_B0011972127069_1" }{\fldrslt 
+{\super \f2 \strike0 \ul0 \b0 \sa0 \sb0 \fs16 \cf5 \i0 
+*
+}}}
+\par 
+}
+}
+}
+{\f2 \strike0 \ul0 \b0 \sa0 \sb0 \fs20 \cf1 \i0 
+\u160\'3f
+\par 
+}
+{\li0 \f2 \qj \b0 \ri0 \fs20 \cf1 \i0 {
+{\trowd \lastrow \trleft0 
+\clbrdrt \clbrdrb \clbrdrl \trql \clvertalt \clwWidth600 \cellx600 
+\clpadb90 \clpadfb3 \clpadl90 \clpadfl3 \clbrdrt \clbrdrb \clbrdrr \trql \clwWidth9480 \cellx10080 
+\intbl 
+{\li0 \ri0 
+{\li0 \f2 \b0 \ql \ri0 \fs20 \cf1 \i0 
+{\f2 \b0 \fs20 \cf1 \i0 
+{\*\bkmkstart co_footnote_B0011972127069_1}{\*\bkmkend co_footnote_B0011972127069_1}
+{\field {\*\fldinst HYPERLINK "#co_footnoteReference_B0011972127069_ID0E" }{\fldrslt 
+{\super \f2 \strike0 \ul0 \b0 \sa0 \sb0 \fs20 \cf5 \i0 
+*
+}\f2 \super \strike0 \ul0 \b0 \sa0 \sb0 \fs20 \cf5 \i0 }}
+\par 
+}
+}
+}\f2 \li0 \b0 \ql \fs20 \ri0 \cf1 \i0 \intbl \cell \intbl 
+{\li0 \ri0 
+{\li0 \f2 \qj \b0 \ri0 \fs18 \cf1 \i0 
+{\li0 \f2 \qj \b0 \ri0 \fs18 \cf1 \i0 
+{\li0 \f2 \qj \b0 \ri0 \fs18 \cf1 \i0 
+{\f2 \strike0 \ul0 \b0 \sa0 \sb0 \fs18 \cf1 \i0 
+The syllabus constitutes no part of the opinion of the Court but has been prepared by the Reporter of Decisions for the convenience of the reader. See 
+}
+{\field {\*\fldinst HYPERLINK "http://www.westlaw.com/Link/Document/FullText?findType=Y&serNum=1906101604&pubNum=708&originatingDoc=I0a4069429bf011d991d0cc6b54f12d4d&refType=RP&fi=co_pp_sp_708_287&originationContext=document&vr=3.0&rs=cblt1.0&transitionType=DocumentItem&contextData=(sc.Search)#co_pp_sp_708_287" }{\fldrslt 
+{\f2 \strike0 \ul0 \b0 \sa0 \sb0 \fs18 \cf5 \i0 
+United States v. Detroit Timber & Lumber Co., 200 U.S. 321, 337, 26 S.Ct. 282, 287, 50 L.Ed. 499
+}\f2 \strike0 \ul0 \b0 \sa0 \sb0 \fs18 \cf5 \i0 }}
+{\f2 \strike0 \ul0 \b0 \sa0 \sb0 \fs18 \cf1 \i0 
+.
+\par 
+}
+}
+}
+}
+}\f2 \li0 \strike0 \ul0 \b0 \qj \sa0 \sb0 \fs18 \ri0 \cf1 \i0 \intbl \cell \row }}\par 
+}
+{\li0 \f2 \qj \b0 \ri0 \fs20 \cf1 \i0 
+{\li0 \f2 \qj \b0 \ri0 \fs20 \cf1 \i0 
+{\f2 \strike0 \ul0 \b0 \sa0 \sb0 \fs20 \cf1 \i0 
+Appellants (hereafter plaintiffs), purporting to act on behalf of a class consisting of all Pennsylvania residents 
+}
+{\f2 \b1 \fs20 \cf1 \i0 
+{\*\bkmkstart co_pp_sp_708_768_1}{\*\bkmkend co_pp_sp_708_768_1}
+{\f2 \strike0 \ul0 \b1 \sa0 \sb0 \fs20 \cf1 \i0 
+**768
+}
+}
+{\f2 \strike0 \ul0 \b0 \sa0 \sb0 \fs20 \cf1 \i0 
+ who signed documents containing cognovit provisions leading, or that could lead, to confessed judgments in Philadelphia, brought this action challenging the Pennsylvania system as unconstitutional on its face as violative of due process. The three-judge District Court held that: the Pennsylvania system leading to confessed judgments and execution complies with due process only if \u8216\'3fthere has been an understanding and voluntary consent of the debtor in signing the document\u8217\'3f; plaintiffs did not sustain their burden of proof with respect to lack of valid consent in the execution of bonds and warrants of attorney accompanying mortgages; the record did not establish that the action could be maintained on behalf of natural persons with incomes over $10,000, but an action could be maintained for those who earn less than $10,000 and who signed consumer financing or lease contracts containing cognovit provisions; there was no intentional waiver of known rights by members of that class in executing confession of judgment clauses; and no judgment by confession might be entered after November 1, 1970, as to a member of the recognized class unless it is shown that the debtor \u8216\'3fintentionally, understandingly, and voluntarily waived\u8217\'3f his rights; and the court declared the Pennsylvania practice of confessing judgments to be unconstitutional, prospectively effective as noted, as applied to the designated class, and enjoined entry of any confessed judgment against a member of the class absent a showing of the required waiver. The plaintiffs appealed, claiming that the entire Pennsylvania scheme is unconstitutional on its face. Held:
+\par 
+}
+}
+}
+{\f2 \strike0 \ul0 \b0 \sa0 \sb0 \fs20 \cf1 \i0 
+\u160\'3f
+\par 
+}
+{\li0 \f2 \qj \b0 \ri0 \fs20 \cf1 \i0 
+{\li0 \f2 \qj \b0 \ri0 \fs20 \cf1 \i0 
+{\f2 \strike0 \ul0 \b0 \sa0 \sb0 \fs20 \cf1 \i0 
+1. The Pennsylvania rules and statutes relating to cognovit provisions are not unconstitutional on their face, as under appropriate circumstances, a cognovit debtor may be held effectively and legally to have waived the rights he would possess if the document he signed had contained no cognovit provision. 
+}
+{\field {\*\fldinst HYPERLINK "http://www.westlaw.com/Link/Document/FullText?findType=Y&serNum=1972127071&pubNum=660&originatingDoc=I0a4069429bf011d991d0cc6b54f12d4d&refType=RP&originationContext=document&vr=3.0&rs=cblt1.0&transitionType=DocumentItem&contextData=(sc.Search)" }{\fldrslt 
+{\f2 \strike0 \ul0 \b0 \sa0 \sb0 \fs20 \cf5 \i0 
+D. H. Overmyer Co. v. Frick Co., 405 U.S. 174, 92 S.Ct. 775, 31 L.Ed.2d 124. P. 772
+}}}
+{\f2 \strike0 \ul0 \b0 \sa0 \sb0 \fs20 \cf1 \i0 
+.
+\par 
+}
+}
+}
+{\f2 \strike0 \ul0 \b0 \sa0 \sb0 \fs20 \cf1 \i0 
+\u160\'3f
+\par 
+}
+{\li0 \f2 \qj \b0 \ri0 \fs20 \cf1 \i0 
+{\li0 \f2 \qj \b0 \ri0 \fs20 \cf1 \i0 
+{\f2 \strike0 \ul0 \b0 \sa0 \sb0 \fs20 \cf1 \i0 
+2. In light of the fact that the named defendants and the intervenors have taken no cross appeal, the affirmance of the judgment 
+}
+{\f2 \b1 \fs20 \cf1 \i0 
+{\*\bkmkstart co_pp_sp_780_192_1}{\*\bkmkend co_pp_sp_780_192_1}
+{\f2 \strike0 \ul0 \b1 \sa0 \sb0 \fs20 \cf1 \i0 
+*192
+}
+}
+{\f2 \strike0 \ul0 \b0 \sa0 \sb0 \fs20 \cf1 \i0 
+ below does not mean that the District Court\rquote s opinion and judgment are approved as to other aspects and details that were not before this Court. P. 772.
+\par 
+}
+}
+}
+{\f2 \strike0 \ul0 \b0 \sa0 \sb0 \fs20 \cf1 \i0 
+\u160\'3f
+\par 
+}
+{\li0 \f2 \qj \b0 \ri0 \fs20 \cf1 \i0 
+{\li0 \f2 \qj \b0 \ri0 \fs20 \cf1 \i0 
+{\field {\*\fldinst HYPERLINK "http://www.westlaw.com/Link/Document/FullText?findType=Y&serNum=1970105956&pubNum=345&originatingDoc=I0a4069429bf011d991d0cc6b54f12d4d&refType=RP&originationContext=document&vr=3.0&rs=cblt1.0&transitionType=DocumentItem&contextData=(sc.Search)" }{\fldrslt 
+{\f2 \strike0 \ul0 \b0 \sa0 \sb0 \fs20 \cf5 \i0 
+314 F.Supp. 1091,
+}}}
+{\f2 \strike0 \ul0 \b0 \sa0 \sb0 \fs20 \cf1 \i0 
+ affirmed.
+\par 
+}
+}
+}
+{\f2 \strike0 \ul0 \b0 \sa0 \sb0 \fs20 \cf1 \i0 
+\u160\'3f
+\par 
+}
+}
+{\li0 \f2 \qj \b1 \ri0 \fs20 \cf19 \i0 
+{\*\bkmkstart co_attorneysAndLawFirms_1}{\*\bkmkend co_attorneysAndLawFirms_1}
+{\f2 \strike0 \ul0 \b1 \sa200 \sb200 \fs20 \cf19 \i0 
+Attorneys and Law Firms
+\par 
+}
+}
+{\li0 \f2 \qj \b0 \ri0 \fs20 \cf1 \i0 
+{\li0 \f2 \qj \b0 \ri0 \fs20 \cf1 \i0 
+{\f2 \strike0 \ul0 \b0 \sa0 \sb0 \fs20 \cf1 \i0 
+David A. Scholl, Philadelphia, Pa., for appellants, pro hac vice, by special leave of Court.
+\par 
+}
+}
+{\li0 \f2 \qj \b0 \ri0 \fs20 \cf1 \i0 
+{\f2 \strike0 \ul0 \b0 \sa0 \sb200 \fs20 \cf1 \i0 
+Philip C. Patterson, Philadelphia, Pa., for appellees.
+\par 
+}
+}
+{\li0 \f2 \qj \b0 \ri0 \fs20 \cf1 \i0 
+{\f2 \strike0 \ul0 \b0 \sa0 \sb200 \fs20 \cf1 \i0 
+William L. Matz, Philadelphia, Pa., for Pennsylvania Savings and Loan League, as amicus curiae.
+\par 
+}
+}
+}
+{\li0 \f2 \qj \b0 \ri0 \fs20 \cf1 \i0 
+{\li0 \f2 \qj \b1 \ri0 \fs20 \cf19 \i0 
+{\*\bkmkstart co_opinion_1}{\*\bkmkend co_opinion_1}
+{\f2 \strike0 \ul0 \b1 \sa0 \sb200 \fs20 \cf19 \i0 
+Opinion
+\par 
+}
+}
+{\li0 \f2 \qj \b0 \ri0 \fs20 \cf1 \i0 
+{\li0 \f2 \qj \b0 \ri0 \fs20 \cf1 \i0 
+{\li0 \f2 \qj \b0 \ri0 \fs20 \cf1 \i0 
+{\li0 \f2 \qj \b0 \ri0 \fs20 \cf1 \i0 
+{\f2 \strike0 \ul0 \b0 \fs20 \cf1 \i0 
+}
+{\f2 \b1 \fs20 \cf1 \i0 
+{\*\bkmkstart co_pp_sp_780_193_1}{\*\bkmkend co_pp_sp_780_193_1}
+{\f2 \strike0 \ul0 \b1 \sa0 \sb0 \fs20 \cf1 \i0 
+*193
+}
+}
+{\f2 \strike0 \ul0 \b0 \sa200 \sb200 \fs20 \cf1 \i0 
+ Mr. Justice BLACKMUN delivered the opinion of the Court.
+\par 
+}
+}
+}
+{\li0 \f2 \qj \b0 \ri0 \fs20 \cf1 \i0 
+{\li0 \f2 \qj \b0 \ri0 \fs20 \cf1 \i0 
+{\*\bkmkstart co_anchor_I280cf797123d11e498db8b09b4f04}{\*\bkmkend co_anchor_I280cf797123d11e498db8b09b4f04}
+\par 
+{\li0 \f2 \qj \b0 \ri0 \fs20 \cf1 \i0 
+{\li0 \f2 \qj \b0 \ri0 \fs20 \cf1 \i0 
+{\f2 \strike0 \ul0 \b0 \sa0 \sb0 \fs20 \cf1 \i0 
+This appeal, heard as a companion to 
+}
+{\field {\*\fldinst HYPERLINK "http://www.westlaw.com/Link/Document/FullText?findType=Y&serNum=1972127071&pubNum=708&originatingDoc=I0a4069429bf011d991d0cc6b54f12d4d&refType=RP&originationContext=document&vr=3.0&rs=cblt1.0&transitionType=DocumentItem&contextData=(sc.Search)" }{\fldrslt 
+{\f2 \strike0 \ul0 \b0 \sa0 \sb0 \fs20 \cf5 \i0 
+D. H. Overmyer Co. v. Frick Co., 405 U.S. 174, 92 S.Ct. 775, 31 L.Ed.2d 124,
+}}}
+{\f2 \strike0 \ul0 \b0 \sa0 \sb0 \fs20 \cf1 \i0 
+ decided today, also purports to raise for the Court the issue of the due process validity of cognovit provisions. The system under challenge in this case is that of Pennsylvania.
+}
+{\f2 \b0 \fs16 \cf1 \i0 
+{\*\bkmkstart co_footnoteReference_B00211972127069_ID0}{\*\bkmkend co_footnoteReference_B00211972127069_ID0}
+{\field {\*\fldinst HYPERLINK "#co_footnote_B00211972127069_1" }{\fldrslt 
+{\super \f2 \strike0 \ul0 \b0 \sa0 \sb0 \fs16 \cf5 \i0 
+1
+}}}
+}
+{\f2 \strike0 \ul0 \b0 \sa0 \sb0 \fs20 \cf1 \i0 
+ The three-judge District Court, with one judge dissenting in part because, in his view, the court did not go far enough, refrained from declaring the Commonwealth\rquote s rules and statutes unconstitutional on their face and granted declaratory and injunctive 
+}
+{\f2 \b1 \fs20 \cf1 \i0 
+{\*\bkmkstart co_pp_sp_708_769_1}{\*\bkmkend co_pp_sp_708_769_1}
+{\f2 \strike0 \ul0 \b1 \sa0 \sb0 \fs20 \cf1 \i0 
+**769
+}
+}
+{\f2 \strike0 \ul0 \b0 \sa0 \sb0 \fs20 \cf1 \i0 
+ relief only for a limited class of cognovit signers. 
+}
+{\field {\*\fldinst HYPERLINK "http://www.westlaw.com/Link/Document/FullText?findType=Y&serNum=1970105956&pubNum=345&originatingDoc=I0a4069429bf011d991d0cc6b54f12d4d&refType=RP&originationContext=document&vr=3.0&rs=cblt1.0&transitionType=DocumentItem&contextData=(sc.Search)" }{\fldrslt 
+{\f2 \strike0 \ul0 \b0 \sa0 \sb0 \fs20 \cf5 \i0 
+314 F.Supp. 1091 (ED Pa. 1970)
+}}}
+{\f2 \strike0 \ul0 \b0 \sa0 \sb0 \fs20 \cf1 \i0 
+. The plaintiffs, but not the defendants, appealed. We noted probable jurisdiction the same day certiorari was granted in Overmyer. 
+}
+{\field {\*\fldinst HYPERLINK "http://www.westlaw.com/Link/Document/FullText?findType=Y&serNum=1971242180&pubNum=708&originatingDoc=I0a4069429bf011d991d0cc6b54f12d4d&refType=RP&originationContext=document&vr=3.0&rs=cblt1.0&transitionType=DocumentItem&contextData=(sc.Search)" }{\fldrslt 
+{\f2 \strike0 \ul0 \b0 \sa0 \sb0 \fs20 \cf5 \i0 
+401 U.S. 991, 91 S.Ct. 1220.
+}}}
+{\f2 \strike0 \ul0 \b0 \sa0 \sb0 \fs20 \cf1 \i0 
+ 
+}
+{\field {\*\fldinst HYPERLINK "http://www.westlaw.com/Link/Document/FullText?findType=Y&serNum=1971242180&pubNum=471&originatingDoc=I0a4069429bf011d991d0cc6b54f12d4d&refType=RP&originationContext=document&vr=3.0&rs=cblt1.0&transitionType=DocumentItem&contextData=(sc.Search)" }{\fldrslt 
+{\f2 \strike0 \ul0 \b0 \sa0 \sb0 \fs20 \cf5 \i0 
+28 L.Ed.2d 529
+}}}
+{\f2 \strike0 \ul0 \b0 \sa0 \sb200 \fs20 \cf1 \i0 
+.
+\par 
+}
+}
+}
+{\li0 \f2 \qj \b0 \ri0 \fs20 \cf1 \i0 {
+{\trowd \lastrow \trleft0 
+\clbrdrt \clbrdrb \clbrdrl \trql \clvertalt \clwWidth600 \cellx600 
+\clpadb90 \clpadfb3 \clpadl90 \clpadfl3 \clbrdrt \clbrdrb \clbrdrr \trql \clwWidth9480 \cellx10080 
+\intbl 
+{\li0 \ri0 
+{\li0 \f2 \b0 \ql \ri0 \fs20 \cf1 \i0 
+{\f2 \b0 \fs20 \cf1 \i0 
+{\*\bkmkstart co_footnote_B00211972127069_1}{\*\bkmkend co_footnote_B00211972127069_1}
+{\field {\*\fldinst HYPERLINK "#co_footnoteReference_B00211972127069_ID0" }{\fldrslt 
+{\super \f2 \strike0 \ul0 \b0 \sa0 \sb0 \fs20 \cf5 \i0 
+1
+}\f2 \super \strike0 \ul0 \b0 \sa0 \sb0 \fs20 \cf5 \i0 }}
+\par 
+}
+}
+}\f2 \li0 \b0 \ql \fs20 \ri0 \cf1 \i0 \intbl \cell \intbl 
+{\li0 \ri0 
+{\li0 \f2 \qj \b0 \ri0 \fs18 \cf1 \i0 
+{\li0 \f2 \qj \b0 \ri0 \fs18 \cf1 \i0 
+{\li0 \f2 \qj \b0 \ri0 \fs18 \cf1 \i0 
+{\field {\*\fldinst HYPERLINK "http://www.westlaw.com/Link/Document/FullText?findType=L&pubNum=1000262&cite=PASTRCPR2950&originatingDoc=I0a4069429bf011d991d0cc6b54f12d4d&refType=LQ&originationContext=document&vr=3.0&rs=cblt1.0&transitionType=DocumentItem&contextData=(sc.Search)" }{\fldrslt 
+{\f2 \strike0 \ul0 \b0 \sa0 \sb0 \fs18 \cf5 \i0 
+Pa.Rules Civ.Proc. 2950
+}\f2 \strike0 \ul0 \b0 \sa0 \sb0 \fs18 \cf5 \i0 }}
+{\f2 \strike0 \ul0 \b0 \sa0 \sb0 \fs18 \cf1 \i0 
+\u8212\'3f
+}
+{\field {\*\fldinst HYPERLINK "http://www.westlaw.com/Link/Document/FullText?findType=L&pubNum=1000262&cite=PASTRCPR2976&originatingDoc=I0a4069429bf011d991d0cc6b54f12d4d&refType=LQ&originationContext=document&vr=3.0&rs=cblt1.0&transitionType=DocumentItem&contextData=(sc.Search)" }{\fldrslt 
+{\f2 \strike0 \ul0 \b0 \sa0 \sb0 \fs18 \cf5 \i0 
+2976
+}\f2 \strike0 \ul0 \b0 \sa0 \sb0 \fs18 \cf5 \i0 }}
+{\f2 \strike0 \ul0 \b0 \sa0 \sb0 \fs18 \cf1 \i0 
+, effective Jan. 1, 1970, 12 P.S. Appendix (which, by the Act of June 21, 1937, Pa.Laws 1982, have the effect of state statutes); Act of Apr. 14, 1834, Pa.Stat.Ann., Tit. 17 s 1482, subd. III; Act of Feb. 24, 1806, Pa.Stat.Ann., Tit. 12, s 739; Act of Mar. 21, 1806, Pa.Stat.Ann., Tit. 12, s 738. By Rule 2976, Pa.Stat.Ann., Tit. 12, s 739 is suspended \u8216\'3fonly insofar as it may be inconsistent with these rules,\u8217\'3f and Pa.Stat.Ann., Tit. 12, s 738 is suspended in its application to actions to confess judgment for money or for possession of real property.
+\par 
+}
+}
+}
+}
+}\f2 \li0 \strike0 \ul0 \b0 \qj \sa0 \sb0 \fs18 \ri0 \cf1 \i0 \intbl \cell \row }}\par 
+}
+}
+{\li0 \f2 \qj \b0 \ri0 \fs20 \cf1 \i0 
+{\*\bkmkstart co_anchor_I280cf798123d11e498db8b09b4f04}{\*\bkmkend co_anchor_I280cf798123d11e498db8b09b4f04}
+\par 
+{\li0 \f2 \b1 \ri0 \fs20 \cf1 \qc \i0 
+{\f2 \b1 \fs20 \cf1 \i0 
+{\f2 \strike0 \ul0 \b1 \sa200 \sb400 \fs20 \cf1 \i0 
+I
+\par 
+}
+}
+}
+{\li0 \f2 \qj \b0 \ri0 \fs20 \cf1 \i0 
+{\li0 \f2 \qj \b0 \ri0 \fs20 \cf1 \i0 
+{\f2 \strike0 \ul0 \b0 \sa0 \sb200 \fs20 \cf1 \i0 
+The cognovit system is firmly entrenched in Pennsylvania and has long been in effect there.
+\par 
+}
+}
+}
+{\li0 \f2 \qj \b0 \ri0 \fs20 \cf1 \i0 
+{\li0 \f2 \qj \b0 \ri0 \fs20 \cf1 \i0 
+{\f2 \strike0 \ul0 \b0 \sa0 \sb0 \fs20 \cf1 \i0 
+A confession of judgment for money \u8216\'3fmay be entered by the prothonotary . . . without the agency of an attorney and without the filing of a complaint, declaration or confession, for the amount which may appear to be due from the face of the instrument,\u8217\'3f 
+}
+{\field {\*\fldinst HYPERLINK "http://www.westlaw.com/Link/Document/FullText?findType=L&pubNum=1000262&cite=PASTRCPR2951&originatingDoc=I0a4069429bf011d991d0cc6b54f12d4d&refType=LQ&originationContext=document&vr=3.0&rs=cblt1.0&transitionType=DocumentItem&contextData=(sc.Search)" }{\fldrslt 
+{\f2 \strike0 \ul0 \b0 \sa0 \sb0 \fs20 \cf5 \i0 
+Pa.Rule Civ.Proc. 2951(a)
+}}}
+{\f2 \strike0 \ul0 \b0 \sa0 \sb0 \fs20 \cf1 \i0 
+, except that the action must be instituted by a complaint if the instrument is more than 10 years 
+}
+{\f2 \b1 \fs20 \cf1 \i0 
+{\*\bkmkstart co_pp_sp_780_194_1}{\*\bkmkend co_pp_sp_780_194_1}
+{\f2 \strike0 \ul0 \b1 \sa0 \sb0 \fs20 \cf1 \i0 
+*194
+}
+}
+{\f2 \strike0 \ul0 \b0 \sa0 \sb0 \fs20 \cf1 \i0 
+ old or cannot be produced for filing, \u8216\'3for if it requires the occurrence of a default or condition precedent before judgment may be entered.\u8217\'3f 
+}
+{\field {\*\fldinst HYPERLINK "http://www.westlaw.com/Link/Document/FullText?findType=L&pubNum=1000262&cite=PASTRCPR2951&originatingDoc=I0a4069429bf011d991d0cc6b54f12d4d&refType=LQ&originationContext=document&vr=3.0&rs=cblt1.0&transitionType=DocumentItem&contextData=(sc.Search)" }{\fldrslt 
+{\f2 \strike0 \ul0 \b0 \sa0 \sb0 \fs20 \cf5 \i0 
+Rules 2951(c) and (d)
+}}}
+{\f2 \strike0 \ul0 \b0 \sa0 \sb0 \fs20 \cf1 \i0 
+. In an action instituted by a complaint, the plaintiff shall file a confession of judgment substantially in a prescribed form, and the attorney for the plaintiff \u8216\'3fmay sign the confession as attorney for the defendant\u8217\'3f unless a statute or the instrument provides otherwise. Rule 2955. The prothonotary enters judgment \u8216\'3fin conformity with the confession.\u8217\'3f Rule 2956.
+}
+{\f2 \b0 \fs16 \cf1 \i0 
+{\*\bkmkstart co_footnoteReference_B00321972127069_ID0}{\*\bkmkend co_footnoteReference_B00321972127069_ID0}
+{\field {\*\fldinst HYPERLINK "#co_footnote_B00321972127069_1" }{\fldrslt 
+{\super \f2 \strike0 \ul0 \b0 \sa0 \sb0 \fs16 \cf5 \i0 
+2
+}}}
+}
+{\f2 \strike0 \ul0 \b0 \sa0 \sb200 \fs20 \cf1 \i0 
+ The amount due, interest, attorneys\rquote  fees, and costs may be included by the plaintiff in the praecipe for a writ of execution. Rule 2957.
+\par 
+}
+}
+}
+{\li0 \f2 \qj \b0 \ri0 \fs20 \cf1 \i0 {
+{\trowd \lastrow \trleft0 
+\clbrdrt \clbrdrb \clbrdrl \trql \clvertalt \clwWidth600 \cellx600 
+\clpadb90 \clpadfb3 \clpadl90 \clpadfl3 \clbrdrt \clbrdrb \clbrdrr \trql \clwWidth9480 \cellx10080 
+\intbl 
+{\li0 \ri0 
+{\li0 \f2 \b0 \ql \ri0 \fs20 \cf1 \i0 
+{\f2 \b0 \fs20 \cf1 \i0 
+{\*\bkmkstart co_footnote_B00321972127069_1}{\*\bkmkend co_footnote_B00321972127069_1}
+{\field {\*\fldinst HYPERLINK "#co_footnoteReference_B00321972127069_ID0" }{\fldrslt 
+{\super \f2 \strike0 \ul0 \b0 \sa0 \sb0 \fs20 \cf5 \i0 
+2
+}\f2 \super \strike0 \ul0 \b0 \sa0 \sb0 \fs20 \cf5 \i0 }}
+\par 
+}
+}
+}\f2 \li0 \b0 \ql \fs20 \ri0 \cf1 \i0 \intbl \cell \intbl 
+{\li0 \ri0 
+{\li0 \f2 \qj \b0 \ri0 \fs18 \cf1 \i0 
+{\li0 \f2 \qj \b0 \ri0 \fs18 \cf1 \i0 
+{\li0 \f2 \qj \b0 \ri0 \fs18 \cf1 \i0 
+{\f2 \strike0 \ul0 \b0 \sa0 \sb0 \fs18 \cf1 \i0 
+Prior to the effective date of Rules 2950\u8212\'3f2976, Pa.Stat.Ann., Tit. 12, s 738 provided that it \u8216\'3fshall be the duty\u8217\'3f of the prothonotary to enter an application and \u8216\'3fon confession in writing . . . he shall enter judgment . . ..\u8217\'3f
+\par 
+}
+}
+}
+}
+}\f2 \li0 \strike0 \ul0 \b0 \qj \sa0 \sb0 \fs18 \ri0 \cf1 \i0 \intbl \cell \row }}\par 
+}
+{\li0 \f2 \qj \b0 \ri0 \fs20 \cf1 \i0 
+{\li0 \f2 \qj \b0 \ri0 \fs20 \cf1 \i0 
+{\f2 \strike0 \ul0 \b0 \sa0 \sb200 \fs20 \cf1 \i0 
+Within 20 days after the entry of judgment the plaintiff shall mail the defendant written notice. Failure to do this, however, does not affect the judgment lien. Rule 2958(a). Within the same 20 days the plaintiff may issue a writ of execution and may do so even if the notice is not yet mailed. Rule 2958(b). If an affidavit of mailing is not filed within the 20-day period, the writ of execution may not issue until 20 days after the affidavit of mailing has been filed. Rule 2958(c).
+\par 
+}
+}
+}
+{\li0 \f2 \qj \b0 \ri0 \fs20 \cf1 \i0 
+{\li0 \f2 \qj \b0 \ri0 \fs20 \cf1 \i0 
+{\f2 \strike0 \ul0 \b0 \sa0 \sb200 \fs20 \cf1 \i0 
+Relief from a judgment by confession may be sought by a petition asserting \u8216\'3f(a)ll grounds for relief whether to strike off the judgment or to open it . . .. Rule 2959(a). If the petition states prima facie grounds for relief, the court issues a rule to show cause and may grant a stay. A defendant \u8216\'3fwaives all defenses and objections\rquote  not included in the petition. The court \u8216\'3fshall dispose of the rule on petition and answer, and on any testimony, depositions, admissions and other evidence.\u8217\'3f Rules 2959 (b), (c), and (e). If the judgment is opened in whole or in part, the issues are then tried. Rule 2960.
+\par 
+}
+}
+}
+{\li0 \f2 \qj \b0 \ri0 \fs20 \cf1 \i0 
+{\li0 \f2 \qj \b0 \ri0 \fs20 \cf1 \i0 
+{\f2 \strike0 \ul0 \b0 \fs20 \cf1 \i0 
+}
+{\f2 \b1 \fs20 \cf1 \i0 
+{\*\bkmkstart co_pp_sp_780_195_1}{\*\bkmkend co_pp_sp_780_195_1}
+{\f2 \strike0 \ul0 \b1 \sa0 \sb0 \fs20 \cf1 \i0 
+*195
+}
+}
+{\f2 \strike0 \ul0 \b0 \sa0 \sb200 \fs20 \cf1 \i0 
+ The procedure for confession of judgment for possession of real property is essentially the same except that the action shall be commenced by filing a complaint. Rules 2970\u8212\'3f2973.
+\par 
+}
+}
+}
+{\li0 \f2 \qj \b0 \ri0 \fs20 \cf1 \i0 
+{\li0 \f2 \qj \b0 \ri0 \fs20 \cf1 \i0 
+{\field {\*\fldinst HYPERLINK "#co_anchor_F11972127069_1" }{\fldrslt 
+{\super \f2 \strike0 \ul0 \b1 \sa0 \sb0 \fs20 \cf19 \i0 
+[1]
+}}}
+{\f2 \b0 \fs20 \cf5 \i0 
+{\*\bkmkstart co_anchor_B11972127069_1}{\*\bkmkend co_anchor_B11972127069_1}
+}
+{\f2 \strike0 \ul0 \b0 \sa0 \sb0 \fs20 \cf1 \i0 
+ The prothonotary specifically is given power to \u8216\'3fenter judgments at the instance of plaintiffs, upon the confessions of defendants.\u8217\'3f Pa.Stat.Ann., Tit. 17, s 1482. The prothonotary is the clerk of the court of common pleas. He has no judicial function. It has been said that his power is derived from the instrument under which he acts and not from his office, 
+}
+{\field {\*\fldinst HYPERLINK "http://www.westlaw.com/Link/Document/FullText?findType=Y&serNum=1968108966&pubNum=162&originatingDoc=I0a4069429bf011d991d0cc6b54f12d4d&refType=RP&fi=co_pp_sp_162_826&originationContext=document&vr=3.0&rs=cblt1.0&transitionType=DocumentItem&contextData=(sc.Search)#co_pp_sp_162_826" }{\fldrslt 
+{\f2 \strike0 \ul0 \b0 \sa0 \sb0 \fs20 \cf5 \i0 
+Smith v. Safeguard Mut. Ins. Co., 212 Pa.Super. 83, 87, 239 A.2d 824, 826 (1968)
+}}}
+{\f2 \strike0 \ul0 \b0 \sa0 \sb0 \fs20 \cf1 \i0 
+, and that his entry of judgment is a ministerial act, 
+}
+{\field {\*\fldinst HYPERLINK "http://www.westlaw.com/Link/Document/FullText?findType=Y&serNum=1968109243&pubNum=162&originatingDoc=I0a4069429bf011d991d0cc6b54f12d4d&refType=RP&fi=co_pp_sp_162_68&originationContext=document&vr=3.0&rs=cblt1.0&transitionType=DocumentItem&contextData=(sc.Search)#co_pp_sp_162_68" }{\fldrslt 
+{\f2 \strike0 \ul0 \b0 \sa0 \sb0 \fs20 \cf5 \i0 
+Lenson v. Sandler, 430 Pa. 193, 197, 241 A.2d 66, 68 (1968)
+}}}
+{\f2 \strike0 \ul0 \b0 \sa0 \sb0 \fs20 \cf1 \i0 
+.
+\par 
+}
+}
+}
+{\f2 \strike0 \ul0 \b0 \sa0 \sb0 \fs20 \cf1 \i0 
+\u160\'3f
+\par 
+}
+{\li0 \f2 \qj \b0 \ri0 \fs20 \cf1 \i0 
+{\li0 \f2 \qj \b0 \ri0 \fs20 \cf1 \i0 
+{\field {\*\fldinst HYPERLINK "#co_anchor_F21972127069_1" }{\fldrslt 
+{\super \f2 \strike0 \ul0 \b1 \sa0 \sb0 \fs20 \cf19 \i0 
+[2]
+}}}
+{\f2 \b0 \fs20 \cf5 \i0 
+{\*\bkmkstart co_anchor_B21972127069_1}{\*\bkmkend co_anchor_B21972127069_1}
+}
+{\f2 \strike0 \ul0 \b0 \sa0 \sb0 \fs20 \cf1 \i0 
+ It has also been said that the confession of judgment procedure in Pennsylvania exists \u8216\'3findependent of statute.\u8217\'3f 
+}
+{\field {\*\fldinst HYPERLINK "http://www.westlaw.com/Link/Document/FullText?findType=Y&serNum=1926113567&pubNum=161&originatingDoc=I0a4069429bf011d991d0cc6b54f12d4d&refType=RP&fi=co_pp_sp_161_362&originationContext=document&vr=3.0&rs=cblt1.0&transitionType=DocumentItem&contextData=(sc.Search)#co_pp_sp_161_362" }{\fldrslt 
+{\f2 \strike0 \ul0 \b0 \sa0 \sb0 \fs20 \cf5 \i0 
+Equipment Corp. of America v. Primos Vanadium Co., 285 Pa. 432, 437, 132 A. 360, 362 (1926)
+}}}
+{\f2 \strike0 \ul0 \b0 \sa0 \sb0 \fs20 \cf1 \i0 
+; 
+}
+{\field {\*\fldinst HYPERLINK "http://www.westlaw.com/Link/Document/FullText?findType=Y&serNum=1822004118&pubNum=2704&originatingDoc=I0a4069429bf011d991d0cc6b54f12d4d&refType=RP&fi=co_pp_sp_2704_568&originationContext=document&vr=3.0&rs=cblt1.0&transitionType=DocumentItem&contextData=(sc.Search)#co_pp_sp_2704_568" }{\fldrslt 
+{\f2 \strike0 \ul0 \b0 \sa0 \sb0 \fs20 \cf5 \i0 
+Cook v. Gilbert, 8 Serg. & R. 567, 568 (1822)
+}}}
+{\f2 \strike0 \ul0 \b0 \sa0 \sb0 \fs20 \cf1 \i0 
+; 
+}
+{\field {\*\fldinst HYPERLINK "http://www.westlaw.com/Link/Document/FullText?findType=Y&serNum=1871017314&pubNum=651&originatingDoc=I0a4069429bf011d991d0cc6b54f12d4d&refType=RP&originationContext=document&vr=3.0&rs=cblt1.0&transitionType=DocumentItem&contextData=(sc.Search)" }{\fldrslt 
+{\f2 \strike0 \ul0 \b0 \sa0 \sb0 \fs20 \cf5 \i0 
+Hatch v. Stitt, 66 Pa. 264 (1870)
+}}}
+{\f2 \strike0 \ul0 \b0 \sa0 \sb0 \fs20 \cf1 \i0 
+.
+\par 
+}
+}
+}
+{\f2 \strike0 \ul0 \b0 \sa0 \sb0 \fs20 \cf1 \i0 
+\u160\'3f
+\par 
+}
+{\li0 \f2 \qj \b0 \ri0 \fs20 \cf1 \i0 
+{\li0 \f2 \qj \b0 \ri0 \fs20 \cf1 \i0 
+{\f2 \strike0 \ul0 \b0 \sa0 \sb0 \fs20 \cf1 \i0 
+It is apparent, therefore, that in Pennsylvania confession-of-judgment provisions 
+}
+{\f2 \b1 \fs20 \cf1 \i0 
+{\*\bkmkstart co_pp_sp_708_770_1}{\*\bkmkend co_pp_sp_708_770_1}
+{\f2 \strike0 \ul0 \b1 \sa0 \sb0 \fs20 \cf1 \i0 
+**770
+}
+}
+{\f2 \strike0 \ul0 \b0 \sa0 \sb200 \fs20 \cf1 \i0 
+ are given full procedural effect; that the plaintiff\rquote s attorney himself may effectuate the entire procedure; that the prothonotary, a nonjudicial officer, is the official utilized; that notice issues after the judgment is entered; and that execution upon the confessed judgment may be taken forthwith. The defendant may seek relief by way of a petition to strike the judgment or to open it, but he must assert prima facie grounds for this relief, and he achieves a trial only if he persuades the court to open. Meanwhile, the judgment and its lien remain.
+\par 
+}
+}
+}
+{\li0 \f2 \qj \b0 \ri0 \fs20 \cf1 \i0 
+{\li0 \f2 \qj \b0 \ri0 \fs20 \cf1 \i0 
+{\f2 \strike0 \ul0 \b0 \sa0 \sb0 \fs20 \cf1 \i0 
+The pervasive and drastic character of the Pennsylvania system has been noted. 
+}
+{\field {\*\fldinst HYPERLINK "http://www.westlaw.com/Link/Document/FullText?findType=Y&serNum=1953109939&pubNum=162&originatingDoc=I0a4069429bf011d991d0cc6b54f12d4d&refType=RP&fi=co_pp_sp_162_236&originationContext=document&vr=3.0&rs=cblt1.0&transitionType=DocumentItem&contextData=(sc.Search)#co_pp_sp_162_236" }{\fldrslt 
+{\f2 \strike0 \ul0 \b0 \sa0 \sb0 \fs20 \cf5 \i0 
+Cutler Corp. v. Latshaw, 374 Pa. 1, 4\u8212\'3f5, 97 A.2d 234, 236 (1953)
+}}}
+{\f2 \strike0 \ul0 \b0 \sa0 \sb0 \fs20 \cf1 \i0 
+. See 
+}
+{\f2 \b1 \fs20 \cf1 \i0 
+{\*\bkmkstart co_pp_sp_780_196_1}{\*\bkmkend co_pp_sp_780_196_1}
+{\f2 \strike0 \ul0 \b1 \sa0 \sb0 \fs20 \cf1 \i0 
+*196
+}
+}
+{\f2 \strike0 \ul0 \b0 \sa0 \sb0 \fs20 \cf1 \i0 
+ 
+}
+{\field {\*\fldinst HYPERLINK "http://www.westlaw.com/Link/Document/FullText?findType=Y&serNum=1961107315&pubNum=162&originatingDoc=I0a4069429bf011d991d0cc6b54f12d4d&refType=RP&originationContext=document&vr=3.0&rs=cblt1.0&transitionType=DocumentItem&contextData=(sc.Search)" }{\fldrslt 
+{\f2 \strike0 \ul0 \b0 \sa0 \sb0 \fs20 \cf5 \i0 
+Kine v. Forman, 404 Pa. 301, 172 A.2d 164 (1961)
+}}}
+{\f2 \strike0 \ul0 \b0 \sa0 \sb0 \fs20 \cf1 \i0 
+, and 
+}
+{\field {\*\fldinst HYPERLINK "http://www.westlaw.com/Link/Document/FullText?findType=Y&serNum=1969128035&pubNum=578&originatingDoc=I0a4069429bf011d991d0cc6b54f12d4d&refType=RP&originationContext=document&vr=3.0&rs=cblt1.0&transitionType=DocumentItem&contextData=(sc.Search)" }{\fldrslt 
+{\f2 \strike0 \ul0 \b0 \sa0 \sb0 \fs20 \cf5 \i0 
+Atlas Credit Corp. v. Ezrine, 25 N.Y.2d 219, 303 N.Y.S.2d 382, 250 N.E.2d 474 (1969)
+}}}
+{\f2 \strike0 \ul0 \b0 \sa0 \sb200 \fs20 \cf1 \i0 
+.
+\par 
+}
+}
+}
+}
+{\li0 \f2 \qj \b0 \ri0 \fs20 \cf1 \i0 
+{\*\bkmkstart co_anchor_I280cf799123d11e498db8b09b4f04}{\*\bkmkend co_anchor_I280cf799123d11e498db8b09b4f04}
+\par 
+{\li0 \f2 \b1 \ri0 \fs20 \cf1 \qc \i0 
+{\f2 \b1 \fs20 \cf1 \i0 
+{\f2 \strike0 \ul0 \b1 \sa200 \sb400 \fs20 \cf1 \i0 
+II
+\par 
+}
+}
+}
+{\li0 \f2 \qj \b0 \ri0 \fs20 \cf1 \i0 
+{\li0 \f2 \qj \b0 \ri0 \fs20 \cf1 \i0 
+{\f2 \strike0 \ul0 \b0 \sa0 \sb0 \fs20 \cf1 \i0 
+Seven individuals are the named plaintiffs in the original complaint filed in December 1969. Jurisdiction is based on the civil rights statutes, 
+}
+{\field {\*\fldinst HYPERLINK "http://www.westlaw.com/Link/Document/FullText?findType=L&pubNum=1000546&cite=28USCAS1343&originatingDoc=I0a4069429bf011d991d0cc6b54f12d4d&refType=LQ&originationContext=document&vr=3.0&rs=cblt1.0&transitionType=DocumentItem&contextData=(sc.Search)" }{\fldrslt 
+{\f2 \strike0 \ul0 \b0 \sa0 \sb0 \fs20 \cf5 \i0 
+28 U.S.C. s 1343
+}}}
+{\f2 \strike0 \ul0 \b0 \sa0 \sb0 \fs20 \cf1 \i0 
+ and 
+}
+{\field {\*\fldinst HYPERLINK "http://www.westlaw.com/Link/Document/FullText?findType=L&pubNum=1000546&cite=42USCAS1983&originatingDoc=I0a4069429bf011d991d0cc6b54f12d4d&refType=LQ&originationContext=document&vr=3.0&rs=cblt1.0&transitionType=DocumentItem&contextData=(sc.Search)" }{\fldrslt 
+{\f2 \strike0 \ul0 \b0 \sa0 \sb0 \fs20 \cf5 \i0 
+42 U.S.C. s 1983
+}}}
+{\f2 \strike0 \ul0 \b0 \sa0 \sb200 \fs20 \cf1 \i0 
+. The plaintiffs purport to act on behalf of a class consisting of all Pennsylvania residents who have signed documents containing cognovit provisions leading, or that could lead, to a confessed judgment in Philadelphia County. The defendants are the county\rquote s prothonotary and sheriff, the officials responsible, respectively, for the recording of confessed judgments and for executing upon them. The complaint alleges that each plaintiff has signed one or another type of consumer financing agreement pursuant to which his creditor has entered judgment; that each faces immediate judicial sale of his home or personal belongings; that the Pennsylvania rules and statutes are unconstitutional on their face because they deprive members of the class of procedural due process in the denial of notice and hearing before judgment; that the signing of the cognovit contract was not an intelligent and voluntary waiver of the right to notice and hearing; that the only recourse against the recorded judgment is an action to strike or reopen; and that such recourse is costly and burdensome to low income consumers, and denies them equal protection. The relief sought is a declaration that the Pennsylvania rules and statutes are unconstitutional, and an injunction against the defendants\rquote  \u8216\'3foperating under the above acts and rules.\u8217\'3f A three-judge court was requested.
+\par 
+}
+}
+}
+{\li0 \f2 \qj \b0 \ri0 \fs20 \cf1 \i0 
+{\li0 \f2 \qj \b0 \ri0 \fs20 \cf1 \i0 
+{\f2 \strike0 \ul0 \b0 \sa0 \sb0 \fs20 \cf1 \i0 
+The single District Judge entered a temporary restraining order staying execution of judgments against the seven plaintiffs. He also provided a procedure for adding 
+}
+{\f2 \b1 \fs20 \cf1 \i0 
+{\*\bkmkstart co_pp_sp_780_197_1}{\*\bkmkend co_pp_sp_780_197_1}
+{\f2 \strike0 \ul0 \b1 \sa0 \sb0 \fs20 \cf1 \i0 
+*197
+}
+}
+{\f2 \strike0 \ul0 \b0 \sa0 \sb200 \fs20 \cf1 \i0 
+ additional plaintiffs. The three-judge court continued and expanded the restraining order to stay all executions upon confessed judgments in the Commonwealth. A number of additional plaintiffs were added, and one original plaintiff was dismissed from the case. A group of finance companies was permitted to intervene.
+\par 
+}
+}
+}
+{\li0 \f2 \qj \b0 \ri0 \fs20 \cf1 \i0 
+{\li0 \f2 \qj \b0 \ri0 \fs20 \cf1 \i0 
+{\f2 \strike0 \ul0 \b0 \sa0 \sb200 \fs20 \cf1 \i0 
+Stipulations were made. One was between counsel for the plaintiffs and the city solicitor; another was between counsel for the plaintiffs and for the intervenor finance companies. These stipulations are not identical but they do overlap. They established the following:
+\par 
+}
+}
+}
+{\li0 \f2 \qj \b0 \ri0 \fs20 \cf1 \i0 
+{\li0 \f2 \qj \b0 \ri0 \fs20 \cf1 \i0 
+{\f2 \strike0 \ul0 \b0 \sa0 \sb200 \fs20 \cf1 \i0 
+1. Judgments by confession against the various plaintiffs had been entered ranging in amounts from $249.23 to $25,800.
+\par 
+}
+}
+}
+{\li0 \f2 \qj \b0 \ri0 \fs20 \cf1 \i0 
+{\li0 \f2 \qj \b0 \ri0 \fs20 \cf1 \i0 
+{\f2 \strike0 \ul0 \b0 \sa0 \sb200 \fs20 \cf1 \i0 
+2. If called as witnesses, the original plaintiffs would testify to the facts alleged in the complaint. Each would also testify as to his unawareness of the cognovit clause, his lack of understanding of its significance if he had read it, and his inability to bargain about it anyway.
+\par 
+}
+}
+}
+{\li0 \f2 \qj \b0 \ri0 \fs20 \cf1 \i0 
+{\li0 \f2 \qj \b0 \ri0 \fs20 \cf1 \i0 
+{\f2 \strike0 \ul0 \b0 \sa0 \sb200 \fs20 \cf1 \i0 
+3. If called, some of the plaintiffs would testify that they were encouraged not to read their contracts; that the judgments exceeded the debts because of the addition of penalties, costs, and fees; that they could not afford proceedings to strike or reopen; and that they believed they had meritorious defenses.
+\par 
+}
+}
+}
+{\li0 \f2 \qj \b0 \ri0 \fs20 \cf1 \i0 
+{\li0 \f2 \qj \b0 \ri0 \fs20 \cf1 \i0 
+{\f2 \strike0 \ul0 \b0 \fs20 \cf1 \i0 
+}
+{\f2 \b1 \fs20 \cf1 \i0 
+{\*\bkmkstart co_pp_sp_708_771_1}{\*\bkmkend co_pp_sp_708_771_1}
+{\f2 \strike0 \ul0 \b1 \sa0 \sb0 \fs20 \cf1 \i0 
+**771
+}
+}
+{\f2 \strike0 \ul0 \b0 \sa0 \sb200 \fs20 \cf1 \i0 
+ 4. The imposition and amount of sheriff\rquote s costs, bar association fee schedules, and necessary deposition and transcript costs in the cognovit procedure were acknowledged.
+\par 
+}
+}
+}
+{\li0 \f2 \qj \b0 \ri0 \fs20 \cf1 \i0 
+{\li0 \f2 \qj \b0 \ri0 \fs20 \cf1 \i0 
+{\f2 \strike0 \ul0 \b0 \sa0 \sb0 \fs20 \cf1 \i0 
+The three-judge court held a hearing. In addition to the appearance of counsel for the plaintiffs and for the intervenors, an assistant city solicitor of Philadelphia appeared for the named defendants, and a Deputy Attorney General appeared for the Commonwealth. The only plaintiff to testify was one of those added after the complaint had been filed. She was a postal 
+}
+{\f2 \b1 \fs20 \cf1 \i0 
+{\*\bkmkstart co_pp_sp_780_198_1}{\*\bkmkend co_pp_sp_780_198_1}
+{\f2 \strike0 \ul0 \b1 \sa0 \sb0 \fs20 \cf1 \i0 
+*198
+}
+}
+{\f2 \strike0 \ul0 \b0 \sa0 \sb200 \fs20 \cf1 \i0 
+ clerk who earned $6,100 annually and who had agreed with a door-to-door salesman to buy a carpet for $1,300. Her contract contained a cognovit clause pursuant to which a finance company had obtained a confessed judgment. A detective and a finance company officer were presented by the plaintiffs. They testified to the pervasiveness of cognovit clauses and the \u8216\'3fdisbelief and shock\u8217\'3f of those who had signed them.
+\par 
+}
+}
+}
+{\li0 \f2 \qj \b0 \ri0 \fs20 \cf1 \i0 
+{\li0 \f2 \qj \b0 \ri0 \fs20 \cf1 \i0 
+{\f2 \strike0 \ul0 \b0 \sa0 \sb200 \fs20 \cf1 \i0 
+The plaintiffs also introduced in evidence by stipulation a published report by David Caplovitz, Ph. D., Consumers in Trouble. This was a 1968 study of confessed-judgment debtors in four major Pennsylvania cities. It included 245 Philadelphia debtors. The study purported to show that 96% had annual incomes of less than $10,000, and 56% less than $6,000; that only 30% had graduated from high school; and that only 14% knew the contracts they signed contained cognovit clauses.
+\par 
+}
+}
+}
+{\li0 \f2 \qj \b0 \ri0 \fs20 \cf1 \i0 
+{\li0 \f2 \qj \b0 \ri0 \fs20 \cf1 \i0 
+{\f2 \strike0 \ul0 \b0 \sa0 \sb200 \fs20 \cf1 \i0 
+The only other witness at the hearing was one called by the intervenors. He was a finance company officer and testified as to the usual practice of making loans.
+\par 
+}
+}
+}
+{\li0 \f2 \qj \b0 \ri0 \fs20 \cf1 \i0 
+{\li0 \f2 \qj \b0 \ri0 \fs20 \cf1 \i0 
+{\f2 \strike0 \ul0 \b0 \sa0 \sb200 \fs20 \cf1 \i0 
+The three-judge District Court held:
+\par 
+}
+}
+}
+{\li0 \f2 \qj \b0 \ri0 \fs20 \cf1 \i0 
+{\li0 \f2 \qj \b0 \ri0 \fs20 \cf1 \i0 
+{\f2 \strike0 \ul0 \b0 \sa0 \sb0 \fs20 \cf1 \i0 
+1. The Pennsylvania system leading to confessed judgment and execution does comply with due process standards provided \u8216\'3fthere has been an understanding and voluntary consent of the debtor in signing the document.\u8217\'3f 
+}
+{\field {\*\fldinst HYPERLINK "http://www.westlaw.com/Link/Document/FullText?findType=Y&serNum=1970105956&pubNum=345&originatingDoc=I0a4069429bf011d991d0cc6b54f12d4d&refType=RP&fi=co_pp_sp_345_1095&originationContext=document&vr=3.0&rs=cblt1.0&transitionType=DocumentItem&contextData=(sc.Search)#co_pp_sp_345_1095" }{\fldrslt 
+{\f2 \strike0 \ul0 \b0 \sa0 \sb0 \fs20 \cf5 \i0 
+314 F.Supp., at 1095
+}}}
+{\f2 \strike0 \ul0 \b0 \sa0 \sb200 \fs20 \cf1 \i0 
+.
+\par 
+}
+}
+}
+{\li0 \f2 \qj \b0 \ri0 \fs20 \cf1 \i0 
+{\li0 \f2 \qj \b0 \ri0 \fs20 \cf1 \i0 
+{\f2 \strike0 \ul0 \b0 \sa0 \sb200 \fs20 \cf1 \i0 
+2. If, however, there is no such understanding consent, the procedure violates due process requirements of notice and an opportunity to be heard. Ibid.
+\par 
+}
+}
+}
+{\li0 \f2 \qj \b0 \ri0 \fs20 \cf1 \i0 
+{\li0 \f2 \qj \b0 \ri0 \fs20 \cf1 \i0 
+{\f2 \strike0 \ul0 \b0 \sa0 \sb0 \fs20 \cf1 \i0 
+3. The plaintiffs did not sustain their burden of proof with respect to the lack of valid consent in the execution of bonds and warrants of attorney accompanying mortgages. 
+}
+{\field {\*\fldinst HYPERLINK "http://www.westlaw.com/Link/Document/FullText?findType=Y&serNum=1970105956&originatingDoc=I0a4069429bf011d991d0cc6b54f12d4d&refType=RP&originationContext=document&vr=3.0&rs=cblt1.0&transitionType=DocumentItem&contextData=(sc.Search)" }{\fldrslt 
+{\f2 \strike0 \ul0 \b0 \sa0 \sb0 \fs20 \cf5 \i0 
+Id., at 1098
+}}}
+{\f2 \strike0 \ul0 \b0 \sa0 \sb200 \fs20 \cf1 \i0 
+.
+\par 
+}
+}
+}
+{\li0 \f2 \qj \b0 \ri0 \fs20 \cf1 \i0 
+{\li0 \f2 \qj \b0 \ri0 \fs20 \cf1 \i0 
+{\f2 \strike0 \ul0 \b0 \sa0 \sb0 \fs20 \cf1 \i0 
+4. The record did not establish that the action could be maintained as a class action on behalf of individual 
+}
+{\f2 \b1 \fs20 \cf1 \i0 
+{\*\bkmkstart co_pp_sp_780_199_1}{\*\bkmkend co_pp_sp_780_199_1}
+{\f2 \strike0 \ul0 \b1 \sa0 \sb0 \fs20 \cf1 \i0 
+*199
+}
+}
+{\f2 \strike0 \ul0 \b0 \sa0 \sb0 \fs20 \cf1 \i0 
+ natural persons with annual incomes of more than $10,000. 
+}
+{\field {\*\fldinst HYPERLINK "http://www.westlaw.com/Link/Document/FullText?findType=Y&serNum=1970105956&originatingDoc=I0a4069429bf011d991d0cc6b54f12d4d&refType=RP&originationContext=document&vr=3.0&rs=cblt1.0&transitionType=DocumentItem&contextData=(sc.Search)" }{\fldrslt 
+{\f2 \strike0 \ul0 \b0 \sa0 \sb0 \fs20 \cf5 \i0 
+Id., at 1098\u8212\'3f1099
+}}}
+{\f2 \strike0 \ul0 \b0 \sa0 \sb200 \fs20 \cf1 \i0 
+.
+\par 
+}
+}
+}
+{\li0 \f2 \qj \b0 \ri0 \fs20 \cf1 \i0 
+{\li0 \f2 \qj \b0 \ri0 \fs20 \cf1 \i0 
+{\f2 \strike0 \ul0 \b0 \sa0 \sb0 \fs20 \cf1 \i0 
+5. It could be maintained, however, as a class action on behalf of natural persons residing in Pennsylvania who earn less than $10,000 annually and who signed consumer financing or lease contracts containing cognovit provisions. 
+}
+{\field {\*\fldinst HYPERLINK "http://www.westlaw.com/Link/Document/FullText?findType=Y&serNum=1970105956&originatingDoc=I0a4069429bf011d991d0cc6b54f12d4d&refType=RP&originationContext=document&vr=3.0&rs=cblt1.0&transitionType=DocumentItem&contextData=(sc.Search)" }{\fldrslt 
+{\f2 \strike0 \ul0 \b0 \sa0 \sb0 \fs20 \cf5 \i0 
+Id., at 1099
+}}}
+{\f2 \strike0 \ul0 \b0 \sa0 \sb200 \fs20 \cf1 \i0 
+.
+\par 
+}
+}
+}
+{\li0 \f2 \qj \b0 \ri0 \fs20 \cf1 \i0 
+{\li0 \f2 \qj \b0 \ri0 \fs20 \cf1 \i0 
+{\f2 \strike0 \ul0 \b0 \sa0 \sb0 \fs20 \cf1 \i0 
+6. There was no intentional waiver of known rights by members of that class in executing confession-of-judgment clauses. These were the right to have prejudgment notice and hearing, the right to have the burden of proof on the creditor, and the right to avoid the expenses attendant upon opening or striking a confessed judgment. Since the Pennsylvania procedure with respect to the designated class was based upon a waiver concept without adequate understanding, it was violative of due process. 
+}
+{\field {\*\fldinst HYPERLINK "http://www.westlaw.com/Link/Document/FullText?findType=Y&serNum=1970105956&originatingDoc=I0a4069429bf011d991d0cc6b54f12d4d&refType=RP&originationContext=document&vr=3.0&rs=cblt1.0&transitionType=DocumentItem&contextData=(sc.Search)" }{\fldrslt 
+{\f2 \strike0 \ul0 \b0 \sa0 \sb0 \fs20 \cf5 \i0 
+Id., at 1100
+}}}
+{\f2 \strike0 \ul0 \b0 \sa0 \sb200 \fs20 \cf1 \i0 
+.
+\par 
+}
+}
+}
+{\li0 \f2 \qj \b0 \ri0 \fs20 \cf1 \i0 
+{\li0 \f2 \qj \b0 \ri0 \fs20 \cf1 \i0 
+{\f2 \strike0 \ul0 \b0 \sa0 \sb0 \fs20 \cf1 \i0 
+7. It was not the federal court\rquote s function to dictate to Pennsylvania \u8216\'3fexactly what constitutes understanding waiver.\u8217\'3f Ibid. Where the debtor is an attorney, an affidavit to that effect may be all that is necessary to prove understanding, but where the debtor is not a high school graduate more proof \u8216\'3fmay be required.\u8217\'3f 
+}
+{\field {\*\fldinst HYPERLINK "http://www.westlaw.com/Link/Document/FullText?findType=Y&serNum=1970105956&originatingDoc=I0a4069429bf011d991d0cc6b54f12d4d&refType=RP&originationContext=document&vr=3.0&rs=cblt1.0&transitionType=DocumentItem&contextData=(sc.Search)" }{\fldrslt 
+{\f2 \strike0 \ul0 \b0 \sa0 \sb0 \fs20 \cf5 \i0 
+Id., at 1101
+}}}
+{\f2 \strike0 \ul0 \b0 \sa0 \sb0 \fs20 \cf1 \i0 
+. A \u8216\'3fstatewide rule or legislation providing for the filing of proof of intentional, understanding and voluntary consent,\u8217\'3f in order to comply with the court\rquote s opinion, was among the methods available to the State to permit continued use of the confession-of-judgment clause. 
+}
+{\field {\*\fldinst HYPERLINK "http://www.westlaw.com/Link/Document/FullText?findType=Y&serNum=1970105956&originatingDoc=I0a4069429bf011d991d0cc6b54f12d4d&refType=RP&originationContext=document&vr=3.0&rs=cblt1.0&transitionType=DocumentItem&contextData=(sc.Search)" }{\fldrslt 
+{\f2 \strike0 \ul0 \b0 \sa0 \sb0 \fs20 \cf5 \i0 
+Id., at 1100\u8212\'3f1101, n. 24
+}}}
+{\f2 \strike0 \ul0 \b0 \sa0 \sb200 \fs20 \cf1 \i0 
+.
+\par 
+}
+}
+}
+{\li0 \f2 \qj \b0 \ri0 \fs20 \cf1 \i0 
+{\li0 \f2 \qj \b0 \ri0 \fs20 \cf1 \i0 
+{\f2 \strike0 \ul0 \b0 \fs20 \cf1 \i0 
+}
+{\f2 \b1 \fs20 \cf1 \i0 
+{\*\bkmkstart co_pp_sp_708_772_1}{\*\bkmkend co_pp_sp_708_772_1}
+{\f2 \strike0 \ul0 \b1 \sa0 \sb0 \fs20 \cf1 \i0 
+**772
+}
+}
+{\f2 \strike0 \ul0 \b0 \sa0 \sb0 \fs20 \cf1 \i0 
+ 8. No judgment by confession may be entered as to a member of the recognized class after November 1, 1970, unless it is shown that at the time of executing the document the debtor \u8216\'3fintentionally, understandingly, and voluntarily waived\u8217\'3f his rights lost under the Pennsylvania law. 
+}
+{\field {\*\fldinst HYPERLINK "http://www.westlaw.com/Link/Document/FullText?findType=Y&serNum=1970105956&originatingDoc=I0a4069429bf011d991d0cc6b54f12d4d&refType=RP&originationContext=document&vr=3.0&rs=cblt1.0&transitionType=DocumentItem&contextData=(sc.Search)" }{\fldrslt 
+{\f2 \strike0 \ul0 \b0 \sa0 \sb0 \fs20 \cf5 \i0 
+Id., at 1102\u8212\'3f1103
+}}}
+{\f2 \strike0 \ul0 \b0 \sa0 \sb200 \fs20 \cf1 \i0 
+.
+\par 
+}
+}
+}
+{\li0 \f2 \qj \b0 \ri0 \fs20 \cf1 \i0 
+{\li0 \f2 \qj \b0 \ri0 \fs20 \cf1 \i0 
+{\f2 \strike0 \ul0 \b0 \fs20 \cf1 \i0 
+}
+{\f2 \b1 \fs20 \cf1 \i0 
+{\*\bkmkstart co_pp_sp_780_200_1}{\*\bkmkend co_pp_sp_780_200_1}
+{\f2 \strike0 \ul0 \b1 \sa0 \sb0 \fs20 \cf1 \i0 
+*200
+}
+}
+{\f2 \strike0 \ul0 \b0 \sa0 \sb200 \fs20 \cf1 \i0 
+ 9. Liens of judgments recorded prior to June 1, 1970 (the date of the filing of the court\rquote s opinion), were preserved. A confessed judgment on a contract signed before June 1 could be entered between that date and November 1, but could not be executed upon without a prior hearing to determine the validity of the waiver.
+\par 
+}
+}
+}
+{\li0 \f2 \qj \b0 \ri0 \fs20 \cf1 \i0 
+{\li0 \f2 \qj \b0 \ri0 \fs20 \cf1 \i0 
+{\f2 \strike0 \ul0 \b0 \sa0 \sb0 \fs20 \cf1 \i0 
+The court then declared the Pennsylvania practice of confessing judgments to be unconstitutional, prospectively effective as of the dates stated, as applied to the class designated, and enjoined the entry of any confessed judgment against a member of the class in the absence of a showing of the required waiver.
+}
+{\f2 \b0 \fs16 \cf1 \i0 
+{\*\bkmkstart co_footnoteReference_B00431972127069_ID0}{\*\bkmkend co_footnoteReference_B00431972127069_ID0}
+{\field {\*\fldinst HYPERLINK "#co_footnote_B00431972127069_1" }{\fldrslt 
+{\super \f2 \strike0 \ul0 \b0 \sa0 \sb0 \fs16 \cf5 \i0 
+3
+}}}
+}
+{\f2 \strike0 \ul0 \b0 \sa0 \sb0 \fs20 \cf1 \i0 
+ 
+}
+{\field {\*\fldinst HYPERLINK "http://www.westlaw.com/Link/Document/FullText?findType=Y&serNum=1970105956&originatingDoc=I0a4069429bf011d991d0cc6b54f12d4d&refType=RP&originationContext=document&vr=3.0&rs=cblt1.0&transitionType=DocumentItem&contextData=(sc.Search)" }{\fldrslt 
+{\f2 \strike0 \ul0 \b0 \sa0 \sb0 \fs20 \cf5 \i0 
+Id., at 1103
+}}}
+{\f2 \strike0 \ul0 \b0 \sa0 \sb0 \fs20 \cf1 \i0 
+. The judge dissenting did so as to the limitation of relief to those earning less than $10,000 annually. 
+}
+{\field {\*\fldinst HYPERLINK "http://www.westlaw.com/Link/Document/FullText?findType=Y&serNum=1970105956&originatingDoc=I0a4069429bf011d991d0cc6b54f12d4d&refType=RP&originationContext=document&vr=3.0&rs=cblt1.0&transitionType=DocumentItem&contextData=(sc.Search)" }{\fldrslt 
+{\f2 \strike0 \ul0 \b0 \sa0 \sb0 \fs20 \cf5 \i0 
+Id., at 1102
+}}}
+{\f2 \strike0 \ul0 \b0 \sa0 \sb200 \fs20 \cf1 \i0 
+.
+\par 
+}
+}
+}
+{\li0 \f2 \qj \b0 \ri0 \fs20 \cf1 \i0 {
+{\trowd \lastrow \trleft0 
+\clbrdrt \clbrdrb \clbrdrl \trql \clvertalt \clwWidth600 \cellx600 
+\clpadb90 \clpadfb3 \clpadl90 \clpadfl3 \clbrdrt \clbrdrb \clbrdrr \trql \clwWidth9480 \cellx10080 
+\intbl 
+{\li0 \ri0 
+{\li0 \f2 \b0 \ql \ri0 \fs20 \cf1 \i0 
+{\f2 \b0 \fs20 \cf1 \i0 
+{\*\bkmkstart co_footnote_B00431972127069_1}{\*\bkmkend co_footnote_B00431972127069_1}
+{\field {\*\fldinst HYPERLINK "#co_footnoteReference_B00431972127069_ID0" }{\fldrslt 
+{\super \f2 \strike0 \ul0 \b0 \sa0 \sb0 \fs20 \cf5 \i0 
+3
+}\f2 \super \strike0 \ul0 \b0 \sa0 \sb0 \fs20 \cf5 \i0 }}
+\par 
+}
+}
+}\f2 \li0 \b0 \ql \fs20 \ri0 \cf1 \i0 \intbl \cell \intbl 
+{\li0 \ri0 
+{\li0 \f2 \qj \b0 \ri0 \fs18 \cf1 \i0 
+{\li0 \f2 \qj \b0 \ri0 \fs18 \cf1 \i0 
+{\li0 \f2 \qj \b0 \ri0 \fs18 \cf1 \i0 
+{\f2 \strike0 \ul0 \b0 \sa0 \sb0 \fs18 \cf1 \i0 
+Compare the result reached with respect to the Delaware system in Osmond v. Spence, 327 F.Supp. 1949 (Del.1971).
+\par 
+}
+}
+}
+}
+}\f2 \li0 \strike0 \ul0 \b0 \qj \sa0 \sb0 \fs18 \ri0 \cf1 \i0 \intbl \cell \row }}\par 
+}
+}
+{\li0 \f2 \qj \b0 \ri0 \fs20 \cf1 \i0 
+{\*\bkmkstart co_anchor_I280cf79a123d11e498db8b09b4f04}{\*\bkmkend co_anchor_I280cf79a123d11e498db8b09b4f04}
+\par 
+{\li0 \f2 \b1 \ri0 \fs20 \cf1 \qc \i0 
+{\f2 \b1 \fs20 \cf1 \i0 
+{\f2 \strike0 \ul0 \b1 \sa200 \sb400 \fs20 \cf1 \i0 
+III
+\par 
+}
+}
+}
+{\li0 \f2 \qj \b0 \ri0 \fs20 \cf1 \i0 
+{\li0 \f2 \qj \b0 \ri0 \fs20 \cf1 \i0 
+{\field {\*\fldinst HYPERLINK "#co_anchor_F31972127069_1" }{\fldrslt 
+{\super \f2 \strike0 \ul0 \b1 \sa0 \sb0 \fs20 \cf19 \i0 
+[3]
+}}}
+{\f2 \b0 \fs20 \cf5 \i0 
+{\*\bkmkstart co_anchor_B31972127069_1}{\*\bkmkend co_anchor_B31972127069_1}
+}
+{\f2 \strike0 \ul0 \b0 \sa0 \sb0 \fs20 \cf1 \i0 
+ From this judgment only the plaintiffs appeal. Their claim is that the District Court erred in confining the relief it granted to certain members of the appellants\rquote  proffered class and that the court should have declared the Pennsylvania rules and statutes unconstitutional on their face. A holding of facial unconstitutionality, of course, wholly apart from any class consideration, would afford relief to every Pennsylvania cognovit obligor. Today\rquote s decision in Overmyer, although it concerns a corporate and not an individual debtor, is adverse to this contention of the plaintiff-appellants. In Overmyer it is recognized, as the District Court in this case recognized, that, under appropriate circumstances, a cognovit debtor may be held effectively and legally to have waived those rights he would possess if the document he signed had contained no cognovit provision.
+\par 
+}
+}
+}
+{\f2 \strike0 \ul0 \b0 \sa0 \sb0 \fs20 \cf1 \i0 
+\u160\'3f
+\par 
+}
+{\li0 \f2 \qj \b0 \ri0 \fs20 \cf1 \i0 
+{\li0 \f2 \qj \b0 \ri0 \fs20 \cf1 \i0 
+{\f2 \strike0 \ul0 \b0 \sa0 \sb200 \fs20 \cf1 \i0 
+On the plaintiff-appellants\rquote  appeal therefore, the judgment of the District Court must be affirmed.
+\par 
+}
+}
+}
+{\li0 \f2 \qj \b0 \ri0 \fs20 \cf1 \i0 
+{\li0 \f2 \qj \b0 \ri0 \fs20 \cf1 \i0 
+{\f2 \strike0 \ul0 \b0 \fs20 \cf1 \i0 
+}
+{\f2 \b1 \fs20 \cf1 \i0 
+{\*\bkmkstart co_pp_sp_780_201_1}{\*\bkmkend co_pp_sp_780_201_1}
+{\f2 \strike0 \ul0 \b1 \sa0 \sb0 \fs20 \cf1 \i0 
+*201
+}
+}
+{\f2 \strike0 \ul0 \b0 \sa0 \sb0 \fs20 \cf1 \i0 
+ 
+}
+{\field {\*\fldinst HYPERLINK "#co_anchor_F41972127069_1" }{\fldrslt 
+{\super \f2 \strike0 \ul0 \b1 \sa0 \sb0 \fs20 \cf19 \i0 
+[4]
+}}}
+{\f2 \b0 \fs20 \cf5 \i0 
+{\*\bkmkstart co_anchor_B41972127069_1}{\*\bkmkend co_anchor_B41972127069_1}
+}
+{\f2 \strike0 \ul0 \b0 \sa0 \sb0 \fs20 \cf1 \i0 
+ 
+}
+{\field {\*\fldinst HYPERLINK "#co_anchor_F51972127069_1" }{\fldrslt 
+{\super \f2 \strike0 \ul0 \b1 \sa0 \sb0 \fs20 \cf19 \i0 
+[5]
+}}}
+{\f2 \b0 \fs20 \cf5 \i0 
+{\*\bkmkstart co_anchor_B51972127069_1}{\*\bkmkend co_anchor_B51972127069_1}
+}
+{\f2 \strike0 \ul0 \b0 \sa0 \sb0 \fs20 \cf1 \i0 
+ This affirmance, however, does not mean that the District Court\rquote s opinion and judgment are approved as to their other aspects and details that are not before us. As has been noted, the named defendants and the intervenors have taken no cross appeal. Furthermore, the Pennsylvania Attorney General\rquote s office, apparently due to an interim personnel change, no longer supports the position taken at the trial by the city solicitor and the deputy attorney general and, not choosing to pursue its customarily assumed duty to defend the Commonwealth\rquote s legislation, now joins the appellants in urging here that the rules and statutes are facially invalid. With the Attorney General taking this position, argument on the side of the defendant-appellees has been presented to us only by the intervenor finance companies and by amici. The permissible reach of this opposition, however, coincides with and goes no further than the extent of the appellants\rquote  appeal. In the absence of a cross appeal, the opposition is in no position to attack those portions of the District Court\rquote s judgment that are favorable to the plaintiff-appellants.
+\par 
+}
+}
+}
+{\f2 \strike0 \ul0 \b0 \sa0 \sb0 \fs20 \cf1 \i0 
+\u160\'3f
+\par 
+}
+}
+{\li0 \f2 \qj \b0 \ri0 \fs20 \cf1 \i0 
+{\*\bkmkstart co_anchor_I280cf79b123d11e498db8b09b4f04}{\*\bkmkend co_anchor_I280cf79b123d11e498db8b09b4f04}
+\par 
+{\li0 \f2 \b1 \ri0 \fs20 \cf1 \qc \i0 
+{\f2 \b1 \fs20 \cf1 \i0 
+{\f2 \strike0 \ul0 \b1 \sa200 \sb400 \fs20 \cf1 \i0 
+IV
+\par 
+}
+}
+}
+{\li0 \f2 \qj \b0 \ri0 \fs20 \cf1 \i0 
+{\li0 \f2 \qj \b0 \ri0 \fs20 \cf1 \i0 
+{\f2 \strike0 \ul0 \b0 \sa0 \sb200 \fs20 \cf1 \i0 
+The decision in Overmyer and the disposition of the present appeal prompt the following observations:
+\par 
+}
+}
+}
+{\li0 \f2 \qj \b0 \ri0 \fs20 \cf1 \i0 
+{\li0 \f2 \qj \b0 \ri0 \fs20 \cf1 \i0 
+{\f2 \strike0 \ul0 \b0 \sa0 \sb0 \fs20 \cf1 \i0 
+1. In our second concluding comment in 
+}
+{\field {\*\fldinst HYPERLINK "http://www.westlaw.com/Link/Document/FullText?findType=Y&serNum=1972127071&pubNum=708&originatingDoc=I0a4069429bf011d991d0cc6b54f12d4d&refType=RP&fi=co_pp_sp_708_783&originationContext=document&vr=3.0&rs=cblt1.0&transitionType=DocumentItem&contextData=(sc.Search)#co_pp_sp_708_783" }{\fldrslt 
+{\f2 \strike0 \ul0 \b0 \sa0 \sb0 \fs20 \cf5 \i0 
+Overmyer, supra, 405 U.S., at 188, 92 S.Ct., at 783,
+}}}
+{\f2 \strike0 \ul0 \b0 \sa0 \sb0 \fs20 \cf1 \i0 
+ we state that the decision is \u8216\'3fnot controlling precedent for other facts of other cases,\u8217\'3f and we refer to contracts of adhesion, to bargaining power disparity, and to the absence of anything received in return for a cognovit provision. When factors of this kind are present, we indicate, \u8216\'3fother legal consequences may 
+}
+{\f2 \b1 \fs20 \cf1 \i0 
+{\*\bkmkstart co_pp_sp_708_773_1}{\*\bkmkend co_pp_sp_708_773_1}
+{\f2 \strike0 \ul0 \b1 \sa0 \sb0 \fs20 \cf1 \i0 
+**773
+}
+}
+{\f2 \strike0 \ul0 \b0 \sa0 \sb200 \fs20 \cf1 \i0 
+ ensue.\u8217\'3f That caveat has possible pertinency for participants in the Pennsylvania system.
+\par 
+}
+}
+}
+{\li0 \f2 \qj \b0 \ri0 \fs20 \cf1 \i0 
+{\li0 \f2 \qj \b0 \ri0 \fs20 \cf1 \i0 
+{\f2 \strike0 \ul0 \b0 \sa0 \sb0 \fs20 \cf1 \i0 
+2. Overmyer necessarily reveals some discomfiture on our part with respect to the present case. However that 
+}
+{\f2 \b1 \fs20 \cf1 \i0 
+{\*\bkmkstart co_pp_sp_780_202_1}{\*\bkmkend co_pp_sp_780_202_1}
+{\f2 \strike0 \ul0 \b1 \sa0 \sb0 \fs20 \cf1 \i0 
+*202
+}
+}
+{\f2 \strike0 \ul0 \b0 \sa0 \sb200 \fs20 \cf1 \i0 
+ may be, the impact and effect of Overmyer upon the Pennsylvania system are not to be delineated in the one-sided appeal in this case and we make no attempt to do so.
+\par 
+}
+}
+}
+{\li0 \f2 \qj \b0 \ri0 \fs20 \cf1 \i0 
+{\li0 \f2 \qj \b0 \ri0 \fs20 \cf1 \i0 
+{\f2 \strike0 \ul0 \b0 \sa0 \sb200 \fs20 \cf1 \i0 
+3. Problems of this kind are peculiarly appropriate grist for the legislative mill.
+\par 
+}
+}
+}
+{\li0 \f2 \qj \b0 \ri0 \fs20 \cf1 \i0 
+{\li0 \f2 \qj \b0 \ri0 \fs20 \cf1 \i0 
+{\f2 \strike0 \ul0 \b0 \sa0 \sb200 \fs20 \cf1 \i0 
+On the appellants\rquote  appeal, the judgment of the District Court is affirmed. The stay heretofore granted by the Circuit Justice is dissolved.
+\par 
+}
+}
+}
+{\li0 \f2 \qj \b0 \ri0 \fs20 \cf1 \i0 
+{\li0 \f2 \qj \b0 \ri0 \fs20 \cf1 \i0 
+{\f2 \strike0 \ul0 \b0 \sa0 \sb200 \fs20 \cf1 \i0 
+It is so ordered.
+\par 
+}
+}
+}
+{\li0 \f2 \qj \b0 \ri0 \fs20 \cf1 \i0 
+{\li0 \f2 \qj \b0 \ri0 \fs20 \cf1 \i0 
+{\f2 \strike0 \ul0 \b0 \sa0 \sb200 \fs20 \cf1 \i0 
+Affirmed.
+\par 
+}
+}
+}
+}
+}
+{\li0 \f2 \qj \b0 \ri0 \fs20 \cf1 \i0 
+{\li0 \f2 \qj \b0 \ri0 \fs20 \cf1 \i0 
+{\f2 \strike0 \ul0 \b0 \sa0 \sb600 \fs20 \cf1 \i0 
+Mr. Justice POWELL and Mr. Justice REHNQUIST took no part in the consideration or decision of this case.
+\par 
+}
+}
+}
+}
+}
+}
+{\li0 \f2 \qj \b0 \ri0 \fs20 \cf1 \i0 
+{\li0 \f2 \qj \b1 \ri0 \fs20 \cf19 \i0 
+{\*\bkmkstart co_concurrance_opinion_1}{\*\bkmkend co_concurrance_opinion_1}
+\par 
+}
+{\li0 \f2 \qj \b0 \ri0 \fs20 \cf1 \i0 
+{\li0 \f2 \qj \b0 \ri0 \fs20 \cf1 \i0 
+{\li0 \f2 \qj \b0 \ri0 \fs20 \cf1 \i0 
+{\li0 \f2 \qj \b0 \ri0 \fs20 \cf1 \i0 
+{\f2 \strike0 \ul0 \b0 \sa0 \sb400 \fs20 \cf1 \i0 
+Mr. Justice WHITE, concurring.
+\par 
+}
+}
+}
+{\li0 \f2 \qj \b0 \ri0 \fs20 \cf1 \i0 
+{\li0 \f2 \qj \b0 \ri0 \fs20 \cf1 \i0 
+{\*\bkmkstart co_anchor_I280cf7a1123d11e498db8b09b4f04}{\*\bkmkend co_anchor_I280cf7a1123d11e498db8b09b4f04}
+\par 
+{\li0 \f2 \qj \b0 \ri0 \fs20 \cf1 \i0 
+{\li0 \f2 \qj \b0 \ri0 \fs20 \cf1 \i0 
+{\f2 \strike0 \ul0 \b0 \sa0 \sb200 \fs20 \cf1 \i0 
+I join in the opinion of the Court and add these comments about a narrow aspect of the case.
+\par 
+}
+}
+}
+{\li0 \f2 \qj \b0 \ri0 \fs20 \cf1 \i0 
+{\li0 \f2 \qj \b0 \ri0 \fs20 \cf1 \i0 
+{\f2 \strike0 \ul0 \b0 \sa0 \sb0 \fs20 \cf1 \i0 
+It is true that this Court has no jurisdiction of that portion of the District Court\rquote s judgment from which no appeal or cross-appeal was taken. 
+}
+{\field {\*\fldinst HYPERLINK "http://www.westlaw.com/Link/Document/FullText?findType=Y&serNum=1937122978&pubNum=708&originatingDoc=I0a4069429bf011d991d0cc6b54f12d4d&refType=RP&fi=co_pp_sp_708_327&originationContext=document&vr=3.0&rs=cblt1.0&transitionType=DocumentItem&contextData=(sc.Search)#co_pp_sp_708_327" }{\fldrslt 
+{\f2 \strike0 \ul0 \b0 \sa0 \sb0 \fs20 \cf5 \i0 
+Morley Construction Co. v. Maryland Casualty Co., 300 U.S. 185, 191\u8212\'3f192, 57 S.Ct. 325, 327\u8212\'3f328, 81 L.Ed. 593 (1937)
+}}}
+{\f2 \strike0 \ul0 \b0 \sa0 \sb0 \fs20 \cf1 \i0 
+; cf. 
+}
+{\field {\*\fldinst HYPERLINK "http://www.westlaw.com/Link/Document/FullText?findType=Y&serNum=1960122478&pubNum=708&originatingDoc=I0a4069429bf011d991d0cc6b54f12d4d&refType=RP&fi=co_pp_sp_708_526&originationContext=document&vr=3.0&rs=cblt1.0&transitionType=DocumentItem&contextData=(sc.Search)#co_pp_sp_708_526" }{\fldrslt 
+{\f2 \strike0 \ul0 \b0 \sa0 \sb0 \fs20 \cf5 \i0 
+United States v. Raines, 362 U.S. 17, 27 n. 7, 80 S.Ct. 519, 526, 4 L.Ed.2d 524 (1960)
+}}}
+{\f2 \strike0 \ul0 \b0 \sa0 \sb0 \fs20 \cf1 \i0 
+. But it is also well established that the prevailing party below need not cross-appeal to entitle him to support the judgment in his favor on grounds expressly rejected by the court below. 
+}
+{\field {\*\fldinst HYPERLINK "http://www.westlaw.com/Link/Document/FullText?findType=Y&serNum=1947117582&pubNum=708&originatingDoc=I0a4069429bf011d991d0cc6b54f12d4d&refType=RP&originationContext=document&vr=3.0&rs=cblt1.0&transitionType=DocumentItem&contextData=(sc.Search)" }{\fldrslt 
+{\f2 \strike0 \ul0 \b0 \sa0 \sb0 \fs20 \cf5 \i0 
+Walling v. General Industries Co., 330 U.S. 545, 67 S.Ct. 883, 91 L.Ed. 1088 (1947)
+}}}
+{\f2 \strike0 \ul0 \b0 \sa0 \sb0 \fs20 \cf1 \i0 
+; 
+}
+{\field {\*\fldinst HYPERLINK "http://www.westlaw.com/Link/Document/FullText?findType=Y&serNum=1931123134&pubNum=708&originatingDoc=I0a4069429bf011d991d0cc6b54f12d4d&refType=RP&fi=co_pp_sp_708_244&originationContext=document&vr=3.0&rs=cblt1.0&transitionType=DocumentItem&contextData=(sc.Search)#co_pp_sp_708_244" }{\fldrslt 
+{\f2 \strike0 \ul0 \b0 \sa0 \sb0 \fs20 \cf5 \i0 
+Langnes v. Green, 282 U.S. 531, 534\u8212\'3f539, 51 S.Ct. 243, 244\u8212\'3f246, 75 L.Ed. 520 (1931)
+}}}
+{\f2 \strike0 \ul0 \b0 \sa0 \sb0 \fs20 \cf1 \i0 
+; 
+}
+{\field {\*\fldinst HYPERLINK "http://www.westlaw.com/Link/Document/FullText?findType=Y&serNum=1924124102&pubNum=708&originatingDoc=I0a4069429bf011d991d0cc6b54f12d4d&refType=RP&fi=co_pp_sp_708_563&originationContext=document&vr=3.0&rs=cblt1.0&transitionType=DocumentItem&contextData=(sc.Search)#co_pp_sp_708_563" }{\fldrslt 
+{\f2 \strike0 \ul0 \b0 \sa0 \sb0 \fs20 \cf5 \i0 
+United States v. American Railway Express Co., 265 U.S. 425, 435\u8212\'3f436, 44 S.Ct. 560, 563\u8212\'3f564, 68 L.Ed. 1087 (1924)
+}}}
+{\f2 \strike0 \ul0 \b0 \sa0 \sb0 \fs20 \cf1 \i0 
+; and the Court may notice a plain error in the record that disposes of a judgment before it.
+}
+{\f2 \strike0 \ul0 \b0 \sa0 \sb0 \fs20 \cf1 \i0 
+ 
+}
+{\field {\*\fldinst HYPERLINK "http://www.westlaw.com/Link/Document/FullText?findType=Y&serNum=1878199070&pubNum=780&originatingDoc=I0a4069429bf011d991d0cc6b54f12d4d&refType=RP&originationContext=document&vr=3.0&rs=cblt1.0&transitionType=DocumentItem&contextData=(sc.Search)" }{\fldrslt 
+{\f2 \strike0 \ul0 \b0 \sa0 \sb0 \fs20 \cf5 \i0 
+Reynolds v. United States, 98 U.S. 145,
+}}}
+{\f2 \strike0 \ul0 \b0 \sa0 \sb0 \fs20 \cf1 \i0 
+ addendum n. to op., pp. 168\u8212\'3f169, 
+}
+{\field {\*\fldinst HYPERLINK "http://www.westlaw.com/Link/Document/FullText?findType=Y&serNum=1878199070&pubNum=470&originatingDoc=I0a4069429bf011d991d0cc6b54f12d4d&refType=RP&originationContext=document&vr=3.0&rs=cblt1.0&transitionType=DocumentItem&contextData=(sc.Search)" }{\fldrslt 
+{\f2 \strike0 \ul0 \b0 \sa0 \sb0 \fs20 \cf5 \i0 
+25 L.Ed. 244 (1879)
+}}}
+{\f2 \strike0 \ul0 \b0 \sa0 \sb0 \fs20 \cf1 \i0 
+. Thus, despite the fact that appellee-intervenors did not cross-appeal, they were free to support that part of the judgment in their favor on grounds that were presented and rejected by the District Court 
+}
+{\f2 \b1 \fs20 \cf1 \i0 
+{\*\bkmkstart co_pp_sp_780_203_1}{\*\bkmkend co_pp_sp_780_203_1}
+{\f2 \strike0 \ul0 \b1 \sa0 \sb0 \fs20 \cf1 \i0 
+*203
+}
+}
+{\f2 \strike0 \ul0 \b0 \sa0 \sb200 \fs20 \cf1 \i0 
+ in arriving at an adverse judgment on other aspects of the case. Those grounds, if sustained, would not affect the finality of the unappealed judgment, but they would, if sufficient, be available to support the judgment of the District Court insofar as it is challenged here. Nothing to the contrary is to be inferred from our affirmance of that judgment on other grounds. At least that is my understanding of the Court\rquote s opinion, which I join.
+\par 
+}
+}
+}
+}
+}
+}
+}
+}
+{\li0 \f2 \qj \b0 \ri0 \fs20 \cf1 \i0 
+{\li0 \f2 \qj \b1 \ri0 \fs20 \cf19 \i0 
+{\*\bkmkstart co_dissent_opinion_1}{\*\bkmkend co_dissent_opinion_1}
+\par 
+}
+{\li0 \f2 \qj \b0 \ri0 \fs20 \cf1 \i0 
+{\li0 \f2 \qj \b0 \ri0 \fs20 \cf1 \i0 
+{\li0 \f2 \qj \b0 \ri0 \fs20 \cf1 \i0 
+{\li0 \f2 \qj \b0 \ri0 \fs20 \cf1 \i0 
+{\f2 \strike0 \ul0 \b0 \sa0 \sb200 \fs20 \cf1 \i0 
+Mr. Justice DOUGLAS, dissenting in part.
+\par 
+}
+}
+}
+{\li0 \f2 \qj \b0 \ri0 \fs20 \cf1 \i0 
+{\li0 \f2 \qj \b0 \ri0 \fs20 \cf1 \i0 
+{\*\bkmkstart co_anchor_I280cf7a6123d11e498db8b09b4f04}{\*\bkmkend co_anchor_I280cf7a6123d11e498db8b09b4f04}
+\par 
+{\li0 \f2 \qj \b0 \ri0 \fs20 \cf1 \i0 
+{\li0 \f2 \qj \b0 \ri0 \fs20 \cf1 \i0 
+{\f2 \strike0 \ul0 \b0 \sa0 \sb200 \fs20 \cf1 \i0 
+Pennsylvania permits creditors to extract from debtors their consent to a confession-of-judgment procedure which, while not rendering debtors completely defenseless, deprives them of many of the safeguards of ordinary civil procedure. A group of low-income plaintiffs asked the three-judge court below to enjoin the further operation of this scheme on the ground that debtors who consented to this abbreviated form of justice did so unwittingly or did so out of compulsion supplied by the standard form of adhesion contracts. The District Court granted limited relief, holding that the scheme worked a denial of procedural due process only when applied to individual debtors who earned less than $10,000 annually and who entered into nonmortgage credit transactions, except where it is shown prior to judgment that their waivers had been knowing and voluntary. The plaintiffs have appealed, arguing that the lower court should have invalidated the regime on its face and that, in any event, class relief was wrongly denied both to persons earning more than $10,000 yearly and to home mortgagors.
+\par 
+}
+}
+}
+{\li0 \f2 \qj \b0 \ri0 \fs20 \cf1 \i0 
+{\li0 \f2 \qj \b0 \ri0 \fs20 \cf1 \i0 
+{\f2 \strike0 \ul0 \b0 \sa0 \sb0 \fs20 \cf1 \i0 
+The Commonwealth did not cross-appeal but instead now confesses that the 
+}
+{\f2 \b1 \fs20 \cf1 \i0 
+{\*\bkmkstart co_pp_sp_708_774_1}{\*\bkmkend co_pp_sp_708_774_1}
+{\f2 \strike0 \ul0 \b1 \sa0 \sb0 \fs20 \cf1 \i0 
+**774
+}
+}
+{\f2 \strike0 \ul0 \b0 \sa0 \sb0 \fs20 \cf1 \i0 
+ scheme is unconstitutional and agrees substantially with the appellants. Various lending institutions intervened below but have not taken 
+}
+{\f2 \b1 \fs20 \cf1 \i0 
+{\*\bkmkstart co_pp_sp_780_204_1}{\*\bkmkend co_pp_sp_780_204_1}
+{\f2 \strike0 \ul0 \b1 \sa0 \sb0 \fs20 \cf1 \i0 
+*204
+}
+}
+{\f2 \strike0 \ul0 \b0 \sa0 \sb0 \fs20 \cf1 \i0 
+ cross-appeals.
+}
+{\f2 \b0 \fs16 \cf1 \i0 
+{\*\bkmkstart co_footnoteReference_B00511972127069_ID0}{\*\bkmkend co_footnoteReference_B00511972127069_ID0}
+{\field {\*\fldinst HYPERLINK "#co_footnote_B00511972127069_1" }{\fldrslt 
+{\super \f2 \strike0 \ul0 \b0 \sa0 \sb0 \fs16 \cf5 \i0 
+1
+}}}
+}
+{\f2 \strike0 \ul0 \b0 \sa0 \sb200 \fs20 \cf1 \i0 
+ When the appeal was filed in this Court, they did, however, file a motion to dismiss that contained an argument on the law governing the main facets of the case. Moreover, at the request of this Court they filed a brief, maintaining that the District Court correctly excluded mortgage borrowers and consumer borrowers with incomes in excess of $10,000 from the class benefitied by the decree and that it incorrectly found that the Pennsylvania cognovit procedure was unconstitutional unless the debtor knowingly and understandingly consented to the authorization to confess judgment.
+\par 
+}
+}
+}
+{\li0 \f2 \qj \b0 \ri0 \fs20 \cf1 \i0 {
+{\trowd \lastrow \trleft0 
+\clbrdrt \clbrdrb \clbrdrl \trql \clvertalt \clwWidth600 \cellx600 
+\clpadb90 \clpadfb3 \clpadl90 \clpadfl3 \clbrdrt \clbrdrb \clbrdrr \trql \clwWidth9480 \cellx10080 
+\intbl 
+{\li0 \ri0 
+{\li0 \f2 \b0 \ql \ri0 \fs20 \cf1 \i0 
+{\f2 \b0 \fs20 \cf1 \i0 
+{\*\bkmkstart co_footnote_B00511972127069_1}{\*\bkmkend co_footnote_B00511972127069_1}
+{\field {\*\fldinst HYPERLINK "#co_footnoteReference_B00511972127069_ID0" }{\fldrslt 
+{\super \f2 \strike0 \ul0 \b0 \sa0 \sb0 \fs20 \cf5 \i0 
+1
+}\f2 \super \strike0 \ul0 \b0 \sa0 \sb0 \fs20 \cf5 \i0 }}
+\par 
+}
+}
+}\f2 \li0 \b0 \ql \fs20 \ri0 \cf1 \i0 \intbl \cell \intbl 
+{\li0 \ri0 
+{\li0 \f2 \qj \b0 \ri0 \fs18 \cf1 \i0 
+{\li0 \f2 \qj \b0 \ri0 \fs18 \cf1 \i0 
+{\li0 \f2 \qj \b0 \ri0 \fs18 \cf1 \i0 
+{\f2 \strike0 \ul0 \b0 \sa0 \sb0 \fs18 \cf1 \i0 
+The absence of a cross-appeal means only that the appellate court will not upset any portion of the lower court\rquote s judgment not challenged by the appeal. As stated by Mr. Justice Cardozo in 
+}
+{\field {\*\fldinst HYPERLINK "http://www.westlaw.com/Link/Document/FullText?findType=Y&serNum=1937122978&pubNum=708&originatingDoc=I0a4069429bf011d991d0cc6b54f12d4d&refType=RP&fi=co_pp_sp_708_327&originationContext=document&vr=3.0&rs=cblt1.0&transitionType=DocumentItem&contextData=(sc.Search)#co_pp_sp_708_327" }{\fldrslt 
+{\f2 \strike0 \ul0 \b0 \sa0 \sb0 \fs18 \cf5 \i0 
+Morley Construction Co. v. Maryland Casualty Co., 300 U.S. 185, 191\u8212\'3f192, 57 S.Ct. 325, 327, 81 L.Ed. 593
+}\f2 \strike0 \ul0 \b0 \sa0 \sb0 \fs18 \cf5 \i0 }}
+{\f2 \strike0 \ul0 \b0 \sa0 \sb0 \fs18 \cf1 \i0 
+:
+\par 
+}
+}
+{\li0 \f2 \qj \b0 \ri0 \fs18 \cf1 \i0 
+{\f2 \strike0 \ul0 \b0 \sa0 \sb0 \fs18 \cf1 \i0 
+\u8216\'3fWithout a cross-appeal, an appellee may \u8216\'3furge in support of a decree any matter appearing in the record although his argument may involve an attack upon the reasoning of the lower court or an insistence upon matter overlooked or ignored by it.\u8217\'3f 
+}
+{\field {\*\fldinst HYPERLINK "http://www.westlaw.com/Link/Document/FullText?findType=Y&serNum=1924124102&pubNum=708&originatingDoc=I0a4069429bf011d991d0cc6b54f12d4d&refType=RP&fi=co_pp_sp_708_564&originationContext=document&vr=3.0&rs=cblt1.0&transitionType=DocumentItem&contextData=(sc.Search)#co_pp_sp_708_564" }{\fldrslt 
+{\f2 \strike0 \ul0 \b0 \sa0 \sb0 \fs18 \cf5 \i0 
+United States v. American Railway Express Co., 265 U.S. 425, 435, 44 S.Ct. 560, 564, 68 L.Ed. 1087.
+}\f2 \strike0 \ul0 \b0 \sa0 \sb0 \fs18 \cf5 \i0 }}
+{\f2 \strike0 \ul0 \b0 \sa0 \sb0 \fs18 \cf1 \i0 
+ What he may not do in the absence of a cross-appeal is to \u8216\'3fattack the decree with a view either to enlarging his own rights thereunder or of lessening the rights of his adversary, whether what he seeks is to correct an error or to supplement the decree with respect to a matter not dealt with below.\u8217\'3f Ibid. The rule is inveterate and certain. . . . Findings may be revised at the instance of an appellant, if they are against the weight of evidence, where the case is one in equity. This does not mean that they are subject to like revision in behalf of appellees, at all events in circumstances where a revision of the findings carries with it as an incident a revision of the judgment. There is no need at this time to fix the limits of the rule more sharply. \u8216\'3fWhere each party appeals each may assign error, but where only one party appeals the other is bound by the decree in the court below, and he cannot assign error in the appellate court, nor can he be heard if the proceedings in the appeal are correct, except in support of the decree from which the appeal of the other party is taken.\u8216\'3f\u8216\'3f
+\par 
+}
+}
+}
+}
+}\f2 \li0 \strike0 \ul0 \b0 \qj \sa0 \sb0 \fs18 \ri0 \cf1 \i0 \intbl \cell \row }}\par 
+}
+{\li0 \f2 \qj \b0 \ri0 \fs20 \cf1 \i0 
+{\li0 \f2 \qj \b0 \ri0 \fs20 \cf1 \i0 
+{\f2 \strike0 \ul0 \b0 \fs20 \cf1 \i0 
+}
+{\f2 \b1 \fs20 \cf1 \i0 
+{\*\bkmkstart co_pp_sp_780_205_1}{\*\bkmkend co_pp_sp_780_205_1}
+{\f2 \strike0 \ul0 \b1 \sa0 \sb0 \fs20 \cf1 \i0 
+*205
+}
+}
+{\f2 \strike0 \ul0 \b0 \sa0 \sb200 \fs20 \cf1 \i0 
+ The appellees are the county\rquote s prothonotary and sheriff and they are represented here by the Attorney General of Pennsylvania who concedes before us that the State\rquote s statutes in question are unconstitutional. No one suggests, however, that there is lacking a case or controversy. Appellants say the District Court did not go far enough. Whether we affirm, modify, or reverse, the decree of the District Court has an ongoing life. It has not become moot. Large interests ride on the outcome of this important litigation.
+\par 
+}
+}
+}
+{\li0 \f2 \qj \b0 \ri0 \fs20 \cf1 \i0 
+{\li0 \f2 \qj \b0 \ri0 \fs20 \cf1 \i0 
+{\f2 \strike0 \ul0 \b0 \sa0 \sb0 \fs20 \cf1 \i0 
+It is said, however, that the case is not appropriate for review. We refuse to let confessions of error conclusively govern the disposition of cases, acting only after our examination of the record.
+}
+{\f2 \b0 \fs16 \cf1 \i0 
+{\*\bkmkstart co_footnoteReference_B00621972127069_ID0}{\*\bkmkend co_footnoteReference_B00621972127069_ID0}
+{\field {\*\fldinst HYPERLINK "#co_footnote_B00621972127069_1" }{\fldrslt 
+{\super \f2 \strike0 \ul0 \b0 \sa0 \sb0 \fs16 \cf5 \i0 
+2
+}}}
+}
+{\f2 \strike0 \ul0 \b0 \sa0 \sb0 \fs20 \cf1 \i0 
+ We have remanded for reconsideration in light of a confession of error. In 
+}
+{\field {\*\fldinst HYPERLINK "http://www.westlaw.com/Link/Document/FullText?findType=Y&serNum=1942123212&pubNum=708&originatingDoc=I0a4069429bf011d991d0cc6b54f12d4d&refType=RP&originationContext=document&vr=3.0&rs=cblt1.0&transitionType=DocumentItem&contextData=(sc.Search)" }{\fldrslt 
+{\f2 \strike0 \ul0 \b0 \sa0 \sb0 \fs20 \cf5 \i0 
+Young v. United States, 315 U.S. 257, 62 S.Ct. 510, 86 L.Ed. 832 (1942)
+}}}
+{\f2 \strike0 \ul0 \b0 \sa0 \sb200 \fs20 \cf1 \i0 
+, however, we declined to remand but instead incorporated into our holding the theory advanced by the Solicitor General in support of the petitioner. Obviously a remand does not bind the courts to the parties\rquote  view as to what the law is.
+\par 
+}
+}
+}
+{\li0 \f2 \qj \b0 \ri0 \fs20 \cf1 \i0 {
+{\trowd \lastrow \trleft0 
+\clbrdrt \clbrdrb \clbrdrl \trql \clvertalt \clwWidth600 \cellx600 
+\clpadb90 \clpadfb3 \clpadl90 \clpadfl3 \clbrdrt \clbrdrb \clbrdrr \trql \clwWidth9480 \cellx10080 
+\intbl 
+{\li0 \ri0 
+{\li0 \f2 \b0 \ql \ri0 \fs20 \cf1 \i0 
+{\f2 \b0 \fs20 \cf1 \i0 
+{\*\bkmkstart co_footnote_B00621972127069_1}{\*\bkmkend co_footnote_B00621972127069_1}
+{\field {\*\fldinst HYPERLINK "#co_footnoteReference_B00621972127069_ID0" }{\fldrslt 
+{\super \f2 \strike0 \ul0 \b0 \sa0 \sb0 \fs20 \cf5 \i0 
+2
+}\f2 \super \strike0 \ul0 \b0 \sa0 \sb0 \fs20 \cf5 \i0 }}
+\par 
+}
+}
+}\f2 \li0 \b0 \ql \fs20 \ri0 \cf1 \i0 \intbl \cell \intbl 
+{\li0 \ri0 
+{\li0 \f2 \qj \b0 \ri0 \fs18 \cf1 \i0 
+{\li0 \f2 \qj \b0 \ri0 \fs18 \cf1 \i0 
+{\li0 \f2 \qj \b0 \ri0 \fs18 \cf1 \i0 
+{\field {\*\fldinst HYPERLINK "http://www.westlaw.com/Link/Document/FullText?findType=Y&serNum=1965206201&pubNum=708&originatingDoc=I0a4069429bf011d991d0cc6b54f12d4d&refType=RP&originationContext=document&vr=3.0&rs=cblt1.0&transitionType=DocumentItem&contextData=(sc.Search)" }{\fldrslt 
+{\f2 \strike0 \ul0 \b0 \sa0 \sb0 \fs18 \cf5 \i0 
+Mayberry v. Pennsylvania, 382 U.S. 286, 86 S.Ct. 438, 15 L.Ed.2d 336 (1965)
+}\f2 \strike0 \ul0 \b0 \sa0 \sb0 \fs18 \cf5 \i0 }}
+{\f2 \strike0 \ul0 \b0 \sa0 \sb0 \fs18 \cf1 \i0 
+; 
+}
+{\field {\*\fldinst HYPERLINK "http://www.westlaw.com/Link/Document/FullText?findType=Y&serNum=1963201888&pubNum=708&originatingDoc=I0a4069429bf011d991d0cc6b54f12d4d&refType=RP&originationContext=document&vr=3.0&rs=cblt1.0&transitionType=DocumentItem&contextData=(sc.Search)" }{\fldrslt 
+{\f2 \strike0 \ul0 \b0 \sa0 \sb0 \fs18 \cf5 \i0 
+Nicholson v. Boles, 375 U.S. 25, 84 S.Ct. 89, 11 L.Ed.2d 43 (1963)
+}\f2 \strike0 \ul0 \b0 \sa0 \sb0 \fs18 \cf5 \i0 }}
+{\f2 \strike0 \ul0 \b0 \sa0 \sb0 \fs18 \cf1 \i0 
+. See R. Stern & E. Gressman, Supreme Court Practice 224\u8212\'3f225 (4th ed. 1969).
+\par 
+}
+}
+}
+}
+}\f2 \li0 \strike0 \ul0 \b0 \qj \sa0 \sb0 \fs18 \ri0 \cf1 \i0 \intbl \cell \row }}\par 
+}
+{\li0 \f2 \qj \b0 \ri0 \fs20 \cf1 \i0 
+{\li0 \f2 \qj \b0 \ri0 \fs20 \cf1 \i0 
+{\f2 \strike0 \ul0 \b0 \sa0 \sb0 \fs20 \cf1 \i0 
+\u8216\'3fThe considered judgment of the law enforcement officers that reversible error has been committed is entitled to great weight, but our judicial obligations compel us to examine independently the errors confessed.\u8217\'3f 
+}
+{\field {\*\fldinst HYPERLINK "http://www.westlaw.com/Link/Document/FullText?findType=Y&serNum=1942123212&pubNum=708&originatingDoc=I0a4069429bf011d991d0cc6b54f12d4d&refType=RP&fi=co_pp_sp_708_511&originationContext=document&vr=3.0&rs=cblt1.0&transitionType=DocumentItem&contextData=(sc.Search)#co_pp_sp_708_511" }{\fldrslt 
+{\f2 \strike0 \ul0 \b0 \sa0 \sb0 \fs20 \cf5 \i0 
+Id., at 258\u8212\'3f259, 62 S.Ct., at 511
+}}}
+{\f2 \strike0 \ul0 \b0 \sa0 \sb0 \fs20 \cf1 \i0 
+.
+\par 
+}
+}
+{\li0 \f2 \qj \b0 \ri0 \fs20 \cf1 \i0 
+{\f2 \strike0 \ul0 \b0 \sa0 \sb0 \fs20 \cf1 \i0 
+As we stated in 
+}
+{\field {\*\fldinst HYPERLINK "http://www.westlaw.com/Link/Document/FullText?findType=Y&pubNum=780&cite=392US40&originatingDoc=I0a4069429bf011d991d0cc6b54f12d4d&refType=RP&fi=co_pp_sp_780_58&originationContext=document&vr=3.0&rs=cblt1.0&transitionType=DocumentItem&contextData=(sc.Search)#co_pp_sp_780_58" }{\fldrslt 
+{\f2 \strike0 \ul0 \b0 \sa0 \sb0 \fs20 \cf5 \i0 
+Sibron v. New York, 392 U.S. 40, 58,
+}}}
+{\f2 \strike0 \ul0 \b0 \sa0 \sb0 \fs20 \cf1 \i0 
+ 
+}
+{\field {\*\fldinst HYPERLINK "http://www.westlaw.com/Link/Document/FullText?findType=Y&serNum=1968131213&pubNum=708&originatingDoc=I0a4069429bf011d991d0cc6b54f12d4d&refType=RP&fi=co_pp_sp_708_1900&originationContext=document&vr=3.0&rs=cblt1.0&transitionType=DocumentItem&contextData=(sc.Search)#co_pp_sp_708_1900" }{\fldrslt 
+{\f2 \strike0 \ul0 \b0 \sa0 \sb0 \fs20 \cf5 \i0 
+88 S.Ct. 1889, 1900, 20 L.Ed.2d 917
+}}}
+{\f2 \strike0 \ul0 \b0 \sa0 \sb0 \fs20 \cf1 \i0 
+:
+\par 
+}
+}
+{\li0 \f2 \qj \b0 \ri0 \fs20 \cf1 \i0 
+{\li0 \f2 \qj \b0 \ri0 \fs20 \cf1 \i0 
+{\li800 \f2 \qj \b0 \ri800 \fs20 \cf1 \i0 
+{\li800 \f2 \qj \b0 \ri800 \fs20 \cf1 \i0 
+{\f2 \strike0 \ul0 \b0 \sa0 \sb0 \fs20 \cf1 \i0 
+\u8216\'3fIt is the uniform practice of this Court to conduct its own examination of the record in all cases where the 
+}
+{\f2 \b1 \fs20 \cf1 \i0 
+{\*\bkmkstart co_pp_sp_708_775_1}{\*\bkmkend co_pp_sp_708_775_1}
+{\f2 \strike0 \ul0 \b1 \sa0 \sb0 \fs20 \cf1 \i0 
+**775
+}
+}
+{\f2 \strike0 \ul0 \b0 \sa50 \sb50 \fs20 \cf1 \i0 
+ Federal Government or a State confesses that a conviction has been erroneously obtained.\u8217\'3f
+\par 
+}
+}
+}
+}
+}
+{\f2 \strike0 \ul0 \b0 \sa0 \sb0 \fs20 \cf1 \i0 
+\u160\'3f
+\par 
+}
+}
+{\f2 \strike0 \ul0 \b0 \sa0 \sb0 \fs20 \cf1 \i0 
+\u160\'3f
+\par 
+}
+{\li0 \f2 \qj \b0 \ri0 \fs20 \cf1 \i0 
+{\li0 \f2 \qj \b0 \ri0 \fs20 \cf1 \i0 
+{\f2 \strike0 \ul0 \b0 \fs20 \cf1 \i0 
+}
+{\f2 \b1 \fs20 \cf1 \i0 
+{\*\bkmkstart co_pp_sp_780_206_1}{\*\bkmkend co_pp_sp_780_206_1}
+{\f2 \strike0 \ul0 \b1 \sa0 \sb0 \fs20 \cf1 \i0 
+*206
+}
+}
+{\f2 \strike0 \ul0 \b0 \sa0 \sb0 \fs20 \cf1 \i0 
+ That is the practice in civil cases also. 
+}
+{\field {\*\fldinst HYPERLINK "http://www.westlaw.com/Link/Document/FullText?findType=Y&serNum=1951201797&pubNum=708&originatingDoc=I0a4069429bf011d991d0cc6b54f12d4d&refType=RP&originationContext=document&vr=3.0&rs=cblt1.0&transitionType=DocumentItem&contextData=(sc.Search)" }{\fldrslt 
+{\f2 \strike0 \ul0 \b0 \sa0 \sb0 \fs20 \cf5 \i0 
+Cates v. Haderlein, 342 U.S. 804, 72 S.Ct. 47, 96 L.Ed. 609
+}}}
+{\f2 \strike0 \ul0 \b0 \sa0 \sb200 \fs20 \cf1 \i0 
+.
+\par 
+}
+}
+}
+{\li0 \f2 \qj \b0 \ri0 \fs20 \cf1 \i0 
+{\li0 \f2 \qj \b0 \ri0 \fs20 \cf1 \i0 
+{\f2 \strike0 \ul0 \b0 \sa0 \sb0 \fs20 \cf1 \i0 
+Moreover, once a case is properly here, our disposition does not necessarily follow the recommendations or concessions of the parties. 
+}
+{\field {\*\fldinst HYPERLINK "http://www.westlaw.com/Link/Document/FullText?findType=Y&serNum=1969133010&pubNum=708&originatingDoc=I0a4069429bf011d991d0cc6b54f12d4d&refType=RP&fi=co_pp_sp_708_1862&originationContext=document&vr=3.0&rs=cblt1.0&transitionType=DocumentItem&contextData=(sc.Search)#co_pp_sp_708_1862" }{\fldrslt 
+{\f2 \strike0 \ul0 \b0 \sa0 \sb0 \fs20 \cf5 \i0 
+Utah Public Service Comm\rquote n v. El Paso Natural Gas Co., 395 U.S. 464, 468\u8212\'3f469, 89 S.Ct. 1860, 1862, 23 L.Ed.2d 474.
+}}}
+{\f2 \strike0 \ul0 \b0 \sa0 \sb200 \fs20 \cf1 \i0 
+ In that case, the appellant changed its view of the merits after the case reached us and, like the appellee, thought the appeal should be dismissed. An amicus, however, presented contrary views. We concluded that the decree of the District Court, after our prior remand, did not comply with our order. Consensus of the parties does not, in other words, control our decisionmaking process.
+}
+{\f2 \b0 \fs16 \cf1 \i0 
+{\*\bkmkstart co_footnoteReference_B00731972127069_ID0}{\*\bkmkend co_footnoteReference_B00731972127069_ID0}
+{\field {\*\fldinst HYPERLINK "#co_footnote_B00731972127069_1" }{\fldrslt 
+{\super \f2 \strike0 \ul0 \b0 \sa0 \sb0 \fs16 \cf5 \i0 
+3
+}}}
+\par 
+}
+}
+}
+{\li0 \f2 \qj \b0 \ri0 \fs20 \cf1 \i0 {
+{\trowd \lastrow \trleft0 
+\clbrdrt \clbrdrb \clbrdrl \trql \clvertalt \clwWidth600 \cellx600 
+\clpadb90 \clpadfb3 \clpadl90 \clpadfl3 \clbrdrt \clbrdrb \clbrdrr \trql \clwWidth9480 \cellx10080 
+\intbl 
+{\li0 \ri0 
+{\li0 \f2 \b0 \ql \ri0 \fs20 \cf1 \i0 
+{\f2 \b0 \fs20 \cf1 \i0 
+{\*\bkmkstart co_footnote_B00731972127069_1}{\*\bkmkend co_footnote_B00731972127069_1}
+{\field {\*\fldinst HYPERLINK "#co_footnoteReference_B00731972127069_ID0" }{\fldrslt 
+{\super \f2 \strike0 \ul0 \b0 \sa0 \sb0 \fs20 \cf5 \i0 
+3
+}\f2 \super \strike0 \ul0 \b0 \sa0 \sb0 \fs20 \cf5 \i0 }}
+\par 
+}
+}
+}\f2 \li0 \b0 \ql \fs20 \ri0 \cf1 \i0 \intbl \cell \intbl 
+{\li0 \ri0 
+{\li0 \f2 \qj \b0 \ri0 \fs18 \cf1 \i0 
+{\li0 \f2 \qj \b0 \ri0 \fs18 \cf1 \i0 
+{\li0 \f2 \qj \b0 \ri0 \fs18 \cf1 \i0 
+{\f2 \strike0 \ul0 \b0 \sa0 \sb0 \fs18 \cf1 \i0 
+Cf. 
+}
+{\field {\*\fldinst HYPERLINK "http://www.westlaw.com/Link/Document/FullText?findType=Y&serNum=1971125465&pubNum=661&originatingDoc=I0a4069429bf011d991d0cc6b54f12d4d&refType=RP&originationContext=document&vr=3.0&rs=cblt1.0&transitionType=DocumentItem&contextData=(sc.Search)" }{\fldrslt 
+{\f2 \strike0 \ul0 \b0 \sa0 \sb0 \fs18 \cf5 \i0 
+County of Alameda v. Carleson (California Welfare Rights Organization v. Superior Court of Alameda County), 5 Cal.3d 730, 97 Cal.Rptr. 385, 488 P.2d 953 (1971)
+}\f2 \strike0 \ul0 \b0 \sa0 \sb0 \fs18 \cf5 \i0 }}
+{\f2 \strike0 \ul0 \b0 \sa0 \sb0 \fs18 \cf1 \i0 
+, where a state official against whom an adverse judgment had been obtained took no appeal; but the judgment was challenged in California by an \u8216\'3faggrieved\u8217\'3f organization which had been denied intervention in the lower court and which appealed both from the denial of intervention and from the judgment on the merits. The California Supreme Court reversed on the merits.
+\par 
+}
+}
+}
+}
+}\f2 \li0 \strike0 \ul0 \b0 \qj \sa0 \sb0 \fs18 \ri0 \cf1 \i0 \intbl \cell \row }}\par 
+}
+{\li0 \f2 \qj \b0 \ri0 \fs20 \cf1 \i0 
+{\li0 \f2 \qj \b0 \ri0 \fs20 \cf1 \i0 
+{\f2 \strike0 \ul0 \b0 \sa0 \sb0 \fs20 \cf1 \i0 
+The Court, to be sure, approves that part of the District Court\rquote s opinion which holds that the Pennsylvania confession-of-judgment scheme cannot constitutionally be applied to the class of Pennsylvania residents who earn less than $10,000 annually and who enter into nonmortgage credit transactions, unless prior to judgment it is shown that they voluntarily and knowingly executed such instruments purporting to waive trial and appeal. On the other hand, the Court now affirms without discussion the refusals of the District Court (1) to extend similar class relief to confessed debtors who either enter into mortgage transactions or who earn more than $10,000 yearly, and (2) to declare the statutes facially unconstitutional. 
+}
+{\field {\*\fldinst HYPERLINK "http://www.westlaw.com/Link/Document/FullText?findType=Y&serNum=1970105956&pubNum=345&originatingDoc=I0a4069429bf011d991d0cc6b54f12d4d&refType=RP&fi=co_pp_sp_345_1102&originationContext=document&vr=3.0&rs=cblt1.0&transitionType=DocumentItem&contextData=(sc.Search)#co_pp_sp_345_1102" }{\fldrslt 
+{\f2 \strike0 \ul0 \b0 \sa0 \sb0 \fs20 \cf5 \i0 
+314 F.Supp. 1091, 1102\u8212\'3f1103, 1112 (1970)
+}}}
+{\f2 \strike0 \ul0 \b0 \sa0 \sb200 \fs20 \cf1 \i0 
+.
+\par 
+}
+}
+}
+{\li0 \f2 \qj \b0 \ri0 \fs20 \cf1 \i0 
+{\li0 \f2 \qj \b0 \ri0 \fs20 \cf1 \i0 
+{\f2 \strike0 \ul0 \b0 \fs20 \cf1 \i0 
+}
+{\f2 \b1 \fs20 \cf1 \i0 
+{\*\bkmkstart co_pp_sp_780_207_1}{\*\bkmkend co_pp_sp_780_207_1}
+{\f2 \strike0 \ul0 \b1 \sa0 \sb0 \fs20 \cf1 \i0 
+*207
+}
+}
+{\f2 \strike0 \ul0 \b0 \sa0 \sb200 \fs20 \cf1 \i0 
+ It is anomalous that an appellee by confessing error can defeat an appeal. In the instant case we have not been handicapped by the appellees\rquote  refusal to oppose the judgment below. Finance companies intervened in the District Court. We have been fully informed by them and by amici of the many facets of this controversy. We should therefore discuss the merits and reach all issues tendered.
+\par 
+}
+}
+}
+}
+}
+}
+}
+}
+{\li0 \f2 \qj \b0 \ri0 \fs20 \cf1 \i0 
+}
+{\li0 \f2 \qj \b0 \ri0 \fs20 \cf1 \i0 
+{\li0 \f2 \qj \b1 \ri0 \fs20 \cf19 \i0 
+{\*\bkmkstart co_allCitations_1}{\*\bkmkend co_allCitations_1}
+{\f2 \strike0 \ul0 \b1 \sa200 \sb600 \fs20 \cf19 \i0 
+All Citations
+\par 
+}
+}
+{\f2 \strike0 \ul0 \b0 \sa0 \sb0 \fs20 \cf1 \i0 
+405 U.S. 191, 92 S.Ct. 767, 31 L.Ed.2d 138
+\par 
+}
+}
+{\li0 \f2 \qj \b0 \ri0 \fs20 \cf1 \i0 {
+{\trowd \lastrow \trleft0 
+\clpadt24 \clpadft3 \clpadl100 \clpadfl3 \clpadr24 \clpadfr3 \clbrdrt \brdrw10 \brdrcf20 \brdrs \clbrdrb \clbrdrl \trql \clwWidth4320 \cellx4320 
+\clpadt24 \clpadft3 \clpadl100 \clpadfl3 \clpadr24 \clpadfr3 \clbrdrt \brdrw10 \brdrcf20 \brdrs \clbrdrb \clbrdrr \trql \clwWidth5760 \cellx10080 
+\intbl 
+{\li24 \ri24 
+{\li24 \f2 \b1 \ql \ri24 \fs16 \cf20 \i0 
+{\f2 \strike0 \ul0 \b1 \sa0 \sb0 \fs16 \cf20 \i0 
+End of Document
+\par 
+}
+}
+}\f2 \li24 \strike0 \ul0 \b1 \sa0 \ql \sb0 \fs16 \ri24 \cf20 \i0 \intbl \cell \intbl 
+{\li24 \ri24 
+{\li24 \f2 \b0 \ri24 \fs16 \cf20 \qr \i0 
+{\f2 \strike0 \ul0 \b0 \sa0 \sb0 \fs16 \cf20 \i0 
+\u169\'3f 2015 Thomson Reuters. No claim to original U.S. Government Works.
+\par 
+}
+}
+}\f2 \li24 \strike0 \ul0 \b0 \sa0 \sb0 \fs16 \ri24 \cf20 \i0 \qr \intbl \cell \row }}\par 
+}
+}\sect }

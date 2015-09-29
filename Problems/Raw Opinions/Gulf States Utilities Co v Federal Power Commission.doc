@@ -1,0 +1,3325 @@
+{\rtf1 \ansi 
+{\colortbl;
+\red0\green0\blue0;
+\red255\green255\blue255;
+\red255\green0\blue0;
+\red0\green255\blue0;
+\red0\green0\blue255;
+\red0\green255\blue255;
+\red255\green0\blue255;
+\red255\green255\blue0;
+\red0\green0\blue128;
+\red0\green128\blue128;
+\red0\green128\blue0;
+\red128\green0\blue128;
+\red128\green0\blue0;
+\red128\green128\blue0;
+\red128\green128\blue128;
+\red192\green192\blue192;
+\red170\green170\blue170;
+\red85\green85\blue85;
+\red37\green37\blue37;
+\red119\green119\blue119;
+\red187\green187\blue187;
+\red247\green247\blue247;
+\red190\green190\blue252;
+\red254\green254\blue0;
+\red255\green255\blue174;
+\red204\green204\blue204;
+\red203\green203\blue203;
+\red245\green245\blue245;
+\red127\green127\blue127;
+\red20\green93\blue164;
+\red71\green120\blue194;
+\red102\green102\blue102;
+\red240\green248\blue255;
+\red255\green255\blue204;
+\red255\green204\blue0;
+\red229\green243\blue255;
+\red179\green218\blue255;
+\red238\green238\blue238;
+\red153\green255\blue102;
+\red183\green242\blue206;
+\red255\green194\blue211;
+\red182\green231\blue243;
+\red221\green195\blue236;
+\red255\green210\blue183;
+\red227\green227\blue227;
+\red105\green105\blue105;
+\red80\green80\blue80;
+\red58\green58\blue58;
+\red151\green151\blue151;
+\red243\green243\blue243;
+\red120\green162\blue47;
+\red204\green255\blue255;
+\red68\green68\blue68;
+\red153\green153\blue153;
+\red236\green236\blue236;
+\red246\green246\blue246;
+\red223\green223\blue223;
+\red239\green239\blue239;
+\red102\green0\blue102;
+}
+{\fonttbl {
+\f0 Arial;}{
+\f1 Symbol;}{
+\f2 Times New Roman;}{
+\f3 georgia;}{
+\f4 sans-serif;}{
+\f5 serif;}{
+\f6 Courier New;}
+}
+{\*\generator Apache XML Graphics RTF Library;}
+\fet0 \ftnbj \paperw12240 \paperh15840 \margt1800 \margb1080 \margl1080 \margr1080 \headery720 \footery720 \itap0 \cols1 
+\sectd {\header {
+{\trowd \ltrrow \trleft0 
+\clpadb60 \clpadfb3 \clpadl400 \clpadfl3 \clbrdrt \clbrdrl \clbrdrr \trql \clvertalb \clwWidth9380 \cellx9380 
+\intbl 
+{\li0 \f0 \b0 \ri0 \fs18 \cf1 \qc \i0 
+{\f0 \strike0 \ul0 \b0 \fs18 \cf1 \i0 
+}
+{\f0 \b1 \fs18 \cf1 \i0 
+{\f0 \strike0 \ul0 \b1 \sa0 \sb0 \fs18 \cf1 \i0 
+Libgober, Brian
+}
+}
+{\f0 \strike0 \ul0 \b0 \sa0 \sb0 \fs18 \cf1 \i0 
+ 
+}
+{\f0 \b1 \fs18 \cf1 \i0 
+{\f0 \strike0 \ul0 \b1 \sa0 \sb0 \fs18 \cf1 \i0 
+7/14/2015
+}
+}
+{\f0 \strike0 \ul0 \b0 \fs18 \cf1 \i0 
+\par 
+}
+}
+{\li0 \f0 \b0 \ri0 \fs18 \cf1 \qc \i0 
+{\f0 \strike0 \ul0 \b0 \fs18 \cf1 \i0 
+}
+{\f0 \b1 \fs18 \cf1 \i0 
+{\f0 \strike0 \ul0 \b1 \sa0 \sb0 \fs18 \cf1 \i0 
+For Educational Use Only
+}
+}
+{\f0 \strike0 \ul0 \b0 \fs18 \cf1 \i0 
+}
+}\f0 \li0 \strike0 \ul0 \b0 \sa0 \sb0 \fs18 \ri0 \cf1 \i0 \qc \intbl \cell \row }
+{\trowd \ltrrow \trleft0 
+\clpadb60 \clpadfb3 \clpadl400 \clpadfl3 \clbrdrb \brdrw20 \brdrcf17 \brdrs \clbrdrl \trql \clvertalb \clwWidth9380 \cellx9380 
+\clpadb60 \clpadfb3 \clpadl400 \clpadfl3 \clbrdrb \brdrw20 \brdrcf17 \brdrs \clbrdrr \trql \clwWidth700 \cellx10080 
+\intbl 
+{\li0 \f0 \b0 \ql \ri0 \fs18 \cf1 \i0 
+{\f0 \strike0 \ul0 \b0 \fs18 \cf1 \i0 
+}
+{\f0 \b1 \fs18 \cf18 \i0 
+{\f0 \strike0 \ul0 \b1 \sa0 \sb0 \fs18 \cf18 \i0 
+Gulf States Utilities Co. v. Federal Power Commission, 411 U.S. 747 (1973)
+}
+}
+{\f0 \strike0 \ul0 \b0 \fs18 \cf1 \i0 
+}
+}\f0 \li0 \strike0 \ul0 \b0 \sa0 \ql \sb0 \fs18 \ri0 \cf1 \i0 \intbl \cell \intbl 
+{\li0 \f0 \b0 \ri0 \fs18 \cf1 \qr \i0 
+}\f0 \li0 \b0 \fs18 \ri0 \cf1 \i0 \qr \intbl \cell \row }
+{\trowd \lastrow \trleft0 
+\clbrdrb \clbrdrl \trql \clwWidth10080 \cellx10080 
+\intbl 
+{\li0 \f0 \b0 \ql \ri0 \fs18 \cf1 \i0 
+{\f0 \strike0 \ul0 \b0 \sa0 \sb0 \fs18 \cf1 \i0 
+93 S.Ct. 1870, 98 P.U.R.3d 262, 36 L.Ed.2d 635, 1973-1 Trade Cases P 74,493
+}
+}\f0 \li0 \strike0 \ul0 \b0 \sa0 \ql \sb0 \fs18 \ri0 \cf1 \i0 \intbl \cell \row }}\par }{\footer {
+{\trowd \lastrow \trleft0 
+\clpadl60 \clpadfl3 \clbrdrt \brdrw20 \brdrcf17 \brdrs \clbrdrb \clbrdrl \trql \clvertalb \clwWidth9300 \cellx9300 
+\clpadl60 \clpadfl3 \clbrdrt \brdrw20 \brdrcf17 \brdrs \clbrdrb \clbrdrr \trql \clwWidth700 \cellx10000 
+\intbl 
+{\li0 \f0 \b0 \ql \ri0 \fs20 \cf17 \i0 
+{\f0 \strike0 \ul0 \b0 \fs20 \cf17 \i0 
+}
+{\*\shppict {\pict \pngblip \picw78 \pich10 \picwgoal1170 \pichgoal150 89504e470d0a1a0a0000000d494844520000004e0000000a08030000002dbd985500000300504c5445fffffffffdfbfffcf9fdfdfdfafafafffffefffcf8f6f6f6f3f3f3fffdfae2e2e2fff5e8fffaf3fff7ecffa631bbbbbb7f7f7f7676766b6b6bffca849e9e9ef8f8f8ffbf6afffefdff9712fcfcfca4a4a4969696ff9202ffb452fff5e6ff970dfefefeffad41e1e1e1ffe9cd949494ffe6c5fff6e96f6f6fffe6c6ffebd0fff1e0d2d2d2ffd399ff950efff9f2ff9f26fff3e3fff9f0ffd092fff2e1ffb555ffe7c7fff3e4ff8500ffe0b8ffb6558b8b8bffce8dffebd1ff9408929292ffddb0ff9c19ff9811ffb95cfff8eeffecd3cccccc8e8e8effeed8ffa42d626262c9c9c9666666ffe2bcddddddfffbf7ffa32aff970eeaeaea686868dadadaffab3a9a9a9a6d6d6effe8c9878787e3e3e3ff9f20f5f5f5b7b7b7efefef868686ffc77cffe4c1ff9912ffc272ff93056c6c6cffeed7ffd296ffab3d818181ff930aff9e1effaf47fffbf5fff0dbff9100cfcfcfff930cffeacf7a7a7affcf90f7f7f7fbfbfbffa835ff9814ffa32effe9cc676767ffc67afff2e2ffb048ff9509ffdbade0e0e0ffa939ffe5c3dcdcdcffc170ffe8cab3b3b3ffb047f1f1f18c8c8cfffefeffecd4feedd7e8e8e8ffb656ffe2bbfff1df898989ff9b17ffcd8affefdac3c3c3bdbdbdffe1baffc06cffa431fff7edf9f9f9ecececffaf44fff0dd787878ff9919d9d9d9ff8f01ffd8a4727272737373e5e5e5ffe2bdffd9a7646464fffaf2ffdbab686b6effc172ffe9caffe3c0ffdcafffc374ffc477ff981dfffdf9f5f4f2ffb34efff3e2ffe4bfff9e22ffa227fefdfdffc578f1eae1ffeccf6a6a6bff9102ff9201ff9101fffcf775797e7c7c7cff9203dedede5d5d5d6b6c6dffbb60ffbc62707070ffa42bffd49bff9f29ffb04affefdcfff7ebf2f2f2ff950af6f2eeffdfb4696969ffd298ffddb2ff9916ffe1bcff9a0bffa128ffa329b0b0b0ff9d20ff9d23bfbfbfb4b4b4ffb24bff9409ffd49c727375ffa62fffe3bedbdbdbb9b9b96a6a6a6e72776e6e6effaa39ffa024ffa324fffefcfff4e5ff9c29ffb351ff9f2bffe3bc919191ff8d03ffa42eff8f02fffaf4fffaf5ff9000ffa22b9843d85d000000097048597300000b1300000b1301009a9c18000002f94944415478da633e95a6ba9b6145fce75b0c8c738f7e674000469effff94ef474d674003a271ebfb81141777f065646196999b9925be30c9143d6260ed71b36060d04fb444960f2b656160adb364c000f5698140d2396b2d8aa8583d83c63757e6edfd8f8eb05c2aaa5af07572e68975da33e57731743dc9f30b5e7f2aaa7a26b7d495df7e29d2e9b7dfae7b739fc159faf93fc67d39cf24d77b5c665067bcf487c39fe9d35fa5ee4d0ca52f1c623803b74ebdc4747dc56606dd4927eee9306cd1fb9af989e9ee62d68d2c3d812bf6b0787c946766906678f274bf5f95fb79a0cf1c1975189ce55e687e137eadc060f6eef732f9a267d9ecca65920c4bf74edc55a9323d7e373343cd8aaf5bb927685c78e2c7fd756b72b7c4cde52fc2d64e79bee2bfc8835d7c375efd4edefb60e7f4af6aff2eb19ee438d12a9075eff6f92d4a93e73a099c3c6a5d2078ad74b7a2dbe55b1322f53608b77e616066d065babd73d7fbfedddedf9cf75dfb15fa826d8d22efcb775ffe4c906afe23f6ebc7ef4382761ef2f14bbb27adcd79b8e0b7f6b1b2a2e2afcf56fdf35862567859239d71fe8be737ecfc03ff7dfcb2ea0b03d0b853bdc7f337ff3ac117579ba8f4496fd59f5b3c17aee60845ef7c789bf7a5e217e1b7d6cf04ef4f17b9bf76eb937ce5ab562a522553eefefcedf38d3175d3aa3dc5ff8b6fdcfdf76163ea7f063ed6770c20e3fe5b4a1dbef35754fe586ad4199949b3167e7ff8f6997d6c6f8cc67df19b7c4b767cf9a3b9e7c9ec2fa72e4eb812de7ff7cccf49cb3453b632dc15fac5cc7d67f12bf7947bffb9ae9b38ec6510fffe196cdcbfcf776c0e00d3c549a34de5ef3ebd60e4fb94f76fbe3aefde93fa4f1ff3eb1dac3a96bc6d91afec8c4dcbf62de08cb8f8f6595154ea4f86bffcb378a630fefc732cf2c674068b1ad675d3755245affe071ac7a0b1f5d01186af162577775c559338eb20bf37fba9e4b4036b3a6ae51edd3eb5a780e3fc5d0fd588fab5ea9783186456dc3c75fb8bc86d0686f7ed2b0e04293cb0d9df59fee5c45bd5363115a309e5071800dbb45cde95f0d3420000000049454e44ae426082}}
+{\f0 \strike0 \ul0 \b0 \sa0 \sb0 \fs20 \cf17 \i0 
+ \u169\'3f 2015 Thomson Reuters. No claim to original U.S. Government Works.
+}
+}\f0 \li0 \strike0 \ul0 \b0 \sa0 \ql \sb0 \fs20 \ri0 \cf17 \i0 \intbl \cell \intbl 
+{\li0 \f0 \b0 \ri0 \fs20 \cf17 \qr \i0 
+{\b0 \i0 \ul0 \fs20 \f0 \chpgn }
+}\f0 \li0 \strike0 \ul0 \b0 \fs20 \ri0 \cf17 \i0 \qr \intbl \cell \row }}\par }
+{\li0 \f2 \qj \b0 \ri0 \fs20 \par}\sect\sbknone\pgncont\cols1{ \cf1 \i0 
+{\*\bkmkstart co_document_1}{\*\bkmkend co_document_1}
+{\f2 \b0 \fs20 \cf1 \i0 
+{\*\bkmkstart Iab938b559bf011d991d0cc6b54f12d4d_Target}{\*\bkmkend Iab938b559bf011d991d0cc6b54f12d4d_Target}
+\par 
+}
+{\li0 \f3 \b0 \ri0 \fs20 \cf1 \qc \i0 
+{\f3 \strike0 \ul0 \b0 \sa0 \sb0 \fs20 \cf1 \i0 
+93 S.Ct. 1870
+\par 
+}
+}
+{\li0 \f3 \b0 \ri0 \fs20 \cf1 \qc \i0 
+{\li0 \f3 \b0 \ri0 \fs20 \cf1 \qc \i0 
+{\f3 \strike0 \ul0 \b0 \sa0 \sb0 \fs20 \cf1 \i0 
+Supreme Court of the United States
+\par 
+}
+}
+}
+{\li100 \f3 \b0 \ri100 \fs20 \cf19 \qc \i0 
+{\li100 \f3 \b0 \ri100 \fs20 \cf19 \qc \i0 
+{\li100 \f3 \b0 \ri100 \fs20 \cf19 \qc \i0 
+{\f3 \strike0 \ul0 \b0 \sa0 \sb200 \fs20 \cf19 \i0 
+GULF STATES UTILITIES COMPANY, Petitioner,
+\par 
+}
+}
+{\li100 \f3 \b0 \ri100 \fs20 \cf19 \qc \i0 
+{\f3 \strike0 \ul0 \b0 \sa0 \sb0 \fs20 \cf19 \i0 
+v.
+\par 
+}
+}
+{\li100 \f3 \b0 \ri100 \fs20 \cf19 \qc \i0 
+{\f3 \strike0 \ul0 \b0 \sa200 \sb0 \fs20 \cf19 \i0 
+FEDERAL POWER COMMISSION et al.
+\par 
+}
+}
+}
+}
+{\li0 \f2 \b0 \ri0 \fs20 \cf1 \qc \i0 
+{\f2 \b0 \fs20 \cf1 \i0 
+{\f3 \b0 \fs20 \cf1 \i0 
+{\f3 \strike0 \ul0 \b0 \sa0 \sb0 \fs20 \cf1 \i0 
+No. 71\u8212\'3f1178.
+}
+}
+}
+{\f3 \b0 \fs20 \cf1 \i0 
+{\f3 \b0 \fs20 \cf1 \i0 
+{\f3 \strike0 \ul0 \b0 \sa0 \sb0 \fs20 \cf1 \i0 
+ | 
+}
+}
+{\f3 \b0 \fs20 \cf1 \i0 
+{\f3 \strike0 \ul0 \b0 \sa0 \sb0 \fs20 \cf1 \i0 
+Argued Dec. 5, 1972.
+}
+}
+{\f3 \b0 \fs20 \cf1 \i0 
+{\f3 \strike0 \ul0 \b0 \sa0 \sb0 \fs20 \cf1 \i0 
+ | 
+}
+}
+{\f3 \b0 \fs20 \cf1 \i0 
+{\f3 \strike0 \ul0 \b0 \sa200 \sb0 \fs20 \cf1 \i0 
+Decided May 14, 1973.
+\par 
+}
+}
+}
+}
+{\li0 \f2 \qj \b0 \ri0 \fs20 \cf1 \i0 
+{\li0 \f2 \qj \b0 \ri0 \fs20 \cf1 \i0 
+{\li0 \f2 \qj \b0 \ri0 \fs20 \cf1 \i0 
+{\f2 \strike0 \ul0 \b0 \sa0 \sb0 \fs20 \cf1 \i0 
+Proceeding by cities for review of orders of the Federal Power Commission approving applications by electric utilities proposing issuance of bonds for purpose of refunding part of utility\rquote s outstanding commercial paper and shortterm notes. The Court of Appeals, 
+}
+{\field {\*\fldinst HYPERLINK "http://www.westlaw.com/Link/Document/FullText?findType=Y&serNum=1971114124&pubNum=350&originatingDoc=Iab938b559bf011d991d0cc6b54f12d4d&refType=RP&originationContext=document&vr=3.0&rs=cblt1.0&transitionType=DocumentItem&contextData=(sc.Search)" }{\fldrslt 
+{\f2 \strike0 \ul0 \b0 \sa0 \sb0 \fs20 \cf5 \i0 
+147 U.S.App.D.C. 98, 454 F.2d 941,
+}}}
+{\f2 \strike0 \ul0 \b0 \sa0 \sb200 \fs20 \cf1 \i0 
+ remanded, and certiorari was granted. The Supreme Court, Mr. Justice Blackmun, held that in application by public utility for authority to issue security, FPC, as a general rule, must consider the anticompetitive consequences of a security issue. The Court also held that FPC\rquote s summary rejection of cities\rquote  allegations of anticompetitive conduct could not go unexplained.
+\par 
+}
+}
+}
+{\f2 \strike0 \ul0 \b0 \sa0 \sb0 \fs20 \cf1 \i0 
+\u160\'3f
+\par 
+}
+{\li0 \f2 \qj \b0 \ri0 \fs20 \cf1 \i0 
+{\li0 \f2 \qj \b0 \ri0 \fs20 \cf1 \i0 
+{\f2 \strike0 \ul0 \b0 \sa0 \sb0 \fs20 \cf1 \i0 
+Affirmed.
+\par 
+}
+}
+}
+{\f2 \strike0 \ul0 \b0 \sa0 \sb0 \fs20 \cf1 \i0 
+\u160\'3f
+\par 
+}
+{\li0 \f2 \qj \b0 \ri0 \fs20 \cf1 \i0 
+{\li0 \f2 \qj \b0 \ri0 \fs20 \cf1 \i0 
+{\f2 \strike0 \ul0 \b0 \sa0 \sb0 \fs20 \cf1 \i0 
+Mr. Justice Powell, with whom Mr. Justice Stewart and Mr. Justice Rehnquist joined, filed dissenting opinion.
+\par 
+}
+}
+}
+{\f2 \strike0 \ul0 \b0 \sa0 \sb0 \fs20 \cf1 \i0 
+\u160\'3f
+\par 
+}
+}
+{\li0 \f2 \qj \b0 \ri0 \fs20 \cf1 \i0 
+{\li0 \f2 \qj \b0 \ri0 \fs20 \cf1 \i0 
+{\li0 \f2 \qj \b0 \ri0 \fs20 \cf1 \i0 
+{\f2 \b1 \fs20 \cf1 \i0 
+{\*\bkmkstart co_pp_sp_708_1872_1}{\*\bkmkend co_pp_sp_708_1872_1}
+{\f2 \strike0 \ul0 \b1 \sa0 \sb0 \fs20 \cf1 \i0 
+**1872
+}
+}
+{\f2 \b1 \fs20 \cf1 \i0 
+{\*\bkmkstart co_pp_sp_780_747_1}{\*\bkmkend co_pp_sp_780_747_1}
+{\f2 \strike0 \ul0 \b1 \sa0 \sb0 \fs20 \cf1 \i0 
+*747
+}
+}
+{\f2 \strike0 \ul0 \b0 \sa0 \sb0 \fs20 \cf1 \i0 
+ Syllabus
+}
+{\f2 \b0 \fs16 \cf1 \i0 
+{\*\bkmkstart co_footnoteReference_B0011973126395_ID0E}{\*\bkmkend co_footnoteReference_B0011973126395_ID0E}
+{\field {\*\fldinst HYPERLINK "#co_footnote_B0011973126395_1" }{\fldrslt 
+{\super \f2 \strike0 \ul0 \b0 \sa0 \sb0 \fs16 \cf5 \i0 
+*
+}}}
+\par 
+}
+}
+}
+{\f2 \strike0 \ul0 \b0 \sa0 \sb0 \fs20 \cf1 \i0 
+\u160\'3f
+\par 
+}
+{\li0 \f2 \qj \b0 \ri0 \fs20 \cf1 \i0 {
+{\trowd \lastrow \trleft0 
+\clbrdrt \clbrdrb \clbrdrl \trql \clvertalt \clwWidth600 \cellx600 
+\clpadb90 \clpadfb3 \clpadl90 \clpadfl3 \clbrdrt \clbrdrb \clbrdrr \trql \clwWidth9480 \cellx10080 
+\intbl 
+{\li0 \ri0 
+{\li0 \f2 \b0 \ql \ri0 \fs20 \cf1 \i0 
+{\f2 \b0 \fs20 \cf1 \i0 
+{\*\bkmkstart co_footnote_B0011973126395_1}{\*\bkmkend co_footnote_B0011973126395_1}
+{\field {\*\fldinst HYPERLINK "#co_footnoteReference_B0011973126395_ID0E" }{\fldrslt 
+{\super \f2 \strike0 \ul0 \b0 \sa0 \sb0 \fs20 \cf5 \i0 
+*
+}\f2 \super \strike0 \ul0 \b0 \sa0 \sb0 \fs20 \cf5 \i0 }}
+\par 
+}
+}
+}\f2 \li0 \b0 \ql \fs20 \ri0 \cf1 \i0 \intbl \cell \intbl 
+{\li0 \ri0 
+{\li0 \f2 \qj \b0 \ri0 \fs18 \cf1 \i0 
+{\li0 \f2 \qj \b0 \ri0 \fs18 \cf1 \i0 
+{\li0 \f2 \qj \b0 \ri0 \fs18 \cf1 \i0 
+{\f2 \strike0 \ul0 \b0 \sa0 \sb0 \fs18 \cf1 \i0 
+The syllabus constitutes no part of the opinion of the Court but has been prepared by the Reporter of Decisions for the convenience of the reader. See 
+}
+{\field {\*\fldinst HYPERLINK "http://www.westlaw.com/Link/Document/FullText?findType=Y&serNum=1906101604&pubNum=708&originatingDoc=Iab938b559bf011d991d0cc6b54f12d4d&refType=RP&fi=co_pp_sp_708_287&originationContext=document&vr=3.0&rs=cblt1.0&transitionType=DocumentItem&contextData=(sc.Search)#co_pp_sp_708_287" }{\fldrslt 
+{\f2 \strike0 \ul0 \b0 \sa0 \sb0 \fs18 \cf5 \i0 
+United States v. Detroit Timber & Lumber Co., 200 U.S. 321, 337, 26 S.Ct. 282, 287, 50 L.Ed. 499
+}\f2 \strike0 \ul0 \b0 \sa0 \sb0 \fs18 \cf5 \i0 }}
+{\f2 \strike0 \ul0 \b0 \sa0 \sb0 \fs18 \cf1 \i0 
+.
+\par 
+}
+}
+}
+}
+}\f2 \li0 \strike0 \ul0 \b0 \qj \sa0 \sb0 \fs18 \ri0 \cf1 \i0 \intbl \cell \row }}\par 
+}
+{\li0 \f2 \qj \b0 \ri0 \fs20 \cf1 \i0 
+{\li0 \f2 \qj \b0 \ri0 \fs20 \cf1 \i0 
+{\f2 \strike0 \ul0 \b0 \sa0 \sb0 \fs20 \cf1 \i0 
+Following petitioner\rquote s application under s 204 of the Federal Power Act to respondent Federal Power Commission (FPC) for authorization of a bond issue, two intervening cities opposed the authorization on the ground that the proceeds of the bond issue would be used to finance or refinance certain anticompetitive activities in violation of the antitrust laws, the Federal Power Act, and the Public Utility Holding Company Act of 1935. Section 204(a) empowers the FPC to authorize a security issue only if the issue is found to be for some lawful purpose and compatible with the public interest. The FPC granted the cities\rquote  petition to intervene, denied their request for a hearing, and authorized the bond issue, holding that the cities\rquote  allegations were irrelevant to a requested authorization of securities under s 204. The Court of Appeals remanded the case for consideration of the cities\rquote  claim, holding that, in line with the reasoning in 
+}
+{\field {\*\fldinst HYPERLINK "http://www.westlaw.com/Link/Document/FullText?findType=Y&serNum=1967129536&pubNum=708&originatingDoc=Iab938b559bf011d991d0cc6b54f12d4d&refType=RP&originationContext=document&vr=3.0&rs=cblt1.0&transitionType=DocumentItem&contextData=(sc.Search)" }{\fldrslt 
+{\f2 \strike0 \ul0 \b0 \sa0 \sb0 \fs20 \cf5 \i0 
+Denver s R.G.W.R. Co. v. United States, 387 U.S. 485, 87 S.Ct. 1754, 18 L.Ed.2d 905,
+}}}
+{\f2 \strike0 \ul0 \b0 \sa0 \sb0 \fs20 \cf1 \i0 
+ the FPC should have considered the alleged competitive consequences of the bond issue in the s 204 proceeding. Held:
+\par 
+}
+}
+}
+{\f2 \strike0 \ul0 \b0 \sa0 \sb0 \fs20 \cf1 \i0 
+\u160\'3f
+\par 
+}
+{\li0 \f2 \qj \b0 \ri0 \fs20 \cf1 \i0 
+{\li0 \f2 \qj \b0 \ri0 \fs20 \cf1 \i0 
+{\f2 \strike0 \ul0 \b0 \sa0 \sb0 \fs20 \cf1 \i0 
+1. The FPC, as a general rule, must consider the anticompetitive consequences of a security issue under s 204. Pp. 1876\u8212\'3f1879.
+\par 
+}
+}
+}
+{\f2 \strike0 \ul0 \b0 \sa0 \sb0 \fs20 \cf1 \i0 
+\u160\'3f
+\par 
+}
+{\li0 \f2 \qj \b0 \ri0 \fs20 \cf1 \i0 
+{\li0 \f2 \qj \b0 \ri0 \fs20 \cf1 \i0 
+{\f2 \strike0 \ul0 \b0 \sa0 \sb0 \fs20 \cf1 \i0 
+(a) The Federal Power Act did not render antitrust policy irrelevant to the FPC\rquote s regulation of the electric power industry. Pp. 1877\u8212\'3f1878.
+\par 
+}
+}
+}
+{\f2 \strike0 \ul0 \b0 \sa0 \sb0 \fs20 \cf1 \i0 
+\u160\'3f
+\par 
+}
+{\li0 \f2 \qj \b0 \ri0 \fs20 \cf1 \i0 
+{\li0 \f2 \qj \b0 \ri0 \fs20 \cf1 \i0 
+{\f2 \strike0 \ul0 \b0 \sa0 \sb0 \fs20 \cf1 \i0 
+(b) The fact that the FPC has broad authority under other provisions of the Act to determine whether a public utility\rquote s conduct is in the public interest does not mean that the same standard is not equally germane under s 204. P. 1878.
+\par 
+}
+}
+}
+{\f2 \strike0 \ul0 \b0 \sa0 \sb0 \fs20 \cf1 \i0 
+\u160\'3f
+\par 
+}
+{\li0 \f2 \qj \b0 \ri0 \fs20 \cf1 \i0 
+{\li0 \f2 \qj \b0 \ri0 \fs20 \cf1 \i0 
+{\f2 \strike0 \ul0 \b0 \sa0 \sb0 \fs20 \cf1 \i0 
+(c) Consideration of antitrust policies in the context of s 204 provides a first line of defense against anticompetitive practices that might later become the subject of an antitrust proceeding. Pp. 1878\u8212\'3f1879.
+\par 
+}
+}
+}
+{\f2 \strike0 \ul0 \b0 \sa0 \sb0 \fs20 \cf1 \i0 
+\u160\'3f
+\par 
+}
+{\li0 \f2 \qj \b0 \ri0 \fs20 \cf1 \i0 
+{\li0 \f2 \qj \b0 \ri0 \fs20 \cf1 \i0 
+{\f2 \strike0 \ul0 \b0 \sa0 \sb0 \fs20 \cf1 \i0 
+(d) The FPC, like the Interstate Commerce Commission, has broad regulatory authority, which includes responsibility for considering 
+}
+{\f2 \b1 \fs20 \cf1 \i0 
+{\*\bkmkstart co_pp_sp_780_748_1}{\*\bkmkend co_pp_sp_780_748_1}
+{\f2 \strike0 \ul0 \b1 \sa0 \sb0 \fs20 \cf1 \i0 
+*748
+}
+}
+{\f2 \strike0 \ul0 \b0 \sa0 \sb0 \fs20 \cf1 \i0 
+ antitrust policy in discharging its statutory obligations. Cf. Denver & R.G.W.R. Co. v. United States, supra. Pp. 1878\u8212\'3f1879.
+\par 
+}
+}
+}
+{\f2 \strike0 \ul0 \b0 \sa0 \sb0 \fs20 \cf1 \i0 
+\u160\'3f
+\par 
+}
+{\li0 \f2 \qj \b0 \ri0 \fs20 \cf1 \i0 
+{\li0 \f2 \qj \b0 \ri0 \fs20 \cf1 \i0 
+{\f2 \strike0 \ul0 \b0 \sa0 \sb0 \fs20 \cf1 \i0 
+2. Though the FPC is not necessarily required to hold a hearing or make a full investigation in all cases, its summary disposition of proffered objections to the security issue requires strict scrutiny by a reviewing court in light of the Commission\rquote s obligations to protect the public interest and enforce the antitrust laws. Pp. 1879\u8212\'3f1880.
+\par 
+}
+}
+}
+{\f2 \strike0 \ul0 \b0 \sa0 \sb0 \fs20 \cf1 \i0 
+\u160\'3f
+\par 
+}
+{\li0 \f2 \qj \b0 \ri0 \fs20 \cf1 \i0 
+{\li0 \f2 \qj \b0 \ri0 \fs20 \cf1 \i0 
+{\f2 \strike0 \ul0 \b0 \sa0 \sb0 \fs20 \cf1 \i0 
+3. Unexplained summary administrative action is incompatible with the 
+}
+{\f2 \b1 \fs20 \cf1 \i0 
+{\*\bkmkstart co_pp_sp_708_1873_1}{\*\bkmkend co_pp_sp_708_1873_1}
+{\f2 \strike0 \ul0 \b1 \sa0 \sb0 \fs20 \cf1 \i0 
+**1873
+}
+}
+{\f2 \strike0 \ul0 \b0 \sa0 \sb0 \fs20 \cf1 \i0 
+ requirements of s 204 and precludes appropriate judicial review. P. 1880.
+\par 
+}
+}
+}
+{\f2 \strike0 \ul0 \b0 \sa0 \sb0 \fs20 \cf1 \i0 
+\u160\'3f
+\par 
+}
+{\li0 \f2 \qj \b0 \ri0 \fs20 \cf1 \i0 
+{\li0 \f2 \qj \b0 \ri0 \fs20 \cf1 \i0 
+{\field {\*\fldinst HYPERLINK "http://www.westlaw.com/Link/Document/FullText?findType=Y&serNum=1971114124&pubNum=350&originatingDoc=Iab938b559bf011d991d0cc6b54f12d4d&refType=RP&originationContext=document&vr=3.0&rs=cblt1.0&transitionType=DocumentItem&contextData=(sc.Search)" }{\fldrslt 
+{\f2 \strike0 \ul0 \b0 \sa0 \sb0 \fs20 \cf5 \i0 
+147 U.S.App.D.C. 98, 454 F.2d 941,
+}}}
+{\f2 \strike0 \ul0 \b0 \sa0 \sb0 \fs20 \cf1 \i0 
+ affirmed.
+\par 
+}
+}
+}
+{\f2 \strike0 \ul0 \b0 \sa0 \sb0 \fs20 \cf1 \i0 
+\u160\'3f
+\par 
+}
+}
+{\li0 \f2 \qj \b1 \ri0 \fs20 \cf19 \i0 
+{\*\bkmkstart co_attorneysAndLawFirms_1}{\*\bkmkend co_attorneysAndLawFirms_1}
+{\f2 \strike0 \ul0 \b1 \sa200 \sb200 \fs20 \cf19 \i0 
+Attorneys and Law Firms
+\par 
+}
+}
+{\li0 \f2 \qj \b0 \ri0 \fs20 \cf1 \i0 
+{\li0 \f2 \qj \b0 \ri0 \fs20 \cf1 \i0 
+{\f2 \strike0 \ul0 \b0 \sa0 \sb0 \fs20 \cf1 \i0 
+Benny Harry Hughes, Beaumont, Tex., for petitioner.
+\par 
+}
+}
+{\li0 \f2 \qj \b0 \ri0 \fs20 \cf1 \i0 
+{\f2 \strike0 \ul0 \b0 \sa0 \sb200 \fs20 \cf1 \i0 
+Leo E. Forquer, Washington, D.C., Gen. Counsel for F.P.C. in support of petitioner.
+\par 
+}
+}
+{\li0 \f2 \qj \b0 \ri0 \fs20 \cf1 \i0 
+{\f2 \strike0 \ul0 \b0 \sa0 \sb200 \fs20 \cf1 \i0 
+Robert C. McDiarmid, Washington, D.C., for respondent cities.
+\par 
+}
+}
+{\li0 \f2 \qj \b0 \ri0 \fs20 \cf1 \i0 
+{\f2 \strike0 \ul0 \b0 \sa0 \sb200 \fs20 \cf1 \i0 
+Howard E. Shapiro, Washington, D.C., for United States, as amicus curiae, supporting respondent cities.
+\par 
+}
+}
+}
+{\li0 \f2 \qj \b0 \ri0 \fs20 \cf1 \i0 
+{\li0 \f2 \qj \b1 \ri0 \fs20 \cf19 \i0 
+{\*\bkmkstart co_opinion_1}{\*\bkmkend co_opinion_1}
+{\f2 \strike0 \ul0 \b1 \sa0 \sb200 \fs20 \cf19 \i0 
+Opinion
+\par 
+}
+}
+{\li0 \f2 \qj \b0 \ri0 \fs20 \cf1 \i0 
+{\li0 \f2 \qj \b0 \ri0 \fs20 \cf1 \i0 
+{\li0 \f2 \qj \b0 \ri0 \fs20 \cf1 \i0 
+{\li0 \f2 \qj \b0 \ri0 \fs20 \cf1 \i0 
+{\f2 \b1 \fs20 \cf1 \i0 
+{\*\bkmkstart co_pp_sp_780_749_1}{\*\bkmkend co_pp_sp_780_749_1}
+{\f2 \strike0 \ul0 \b1 \sa0 \sb0 \fs20 \cf1 \i0 
+*749
+}
+}
+{\f2 \strike0 \ul0 \b0 \sa200 \sb200 \fs20 \cf1 \i0 
+ Mr. Justice BLACKMUN delivered the opinion of the Court.
+\par 
+}
+}
+}
+{\li0 \f2 \qj \b0 \ri0 \fs20 \cf1 \i0 
+{\li0 \f2 \qj \b0 \ri0 \fs20 \cf1 \i0 
+{\*\bkmkstart co_anchor_I1f6b3dff048911e598db8b09b4f04}{\*\bkmkend co_anchor_I1f6b3dff048911e598db8b09b4f04}
+\par 
+{\li0 \f2 \qj \b0 \ri0 \fs20 \cf1 \i0 
+{\li0 \f2 \qj \b0 \ri0 \fs20 \cf1 \i0 
+{\f2 \strike0 \ul0 \b0 \sa0 \sb0 \fs20 \cf1 \i0 
+This case presents the question whether, when a public utility applies to the Federal Power Commission for authority to issue a security, as the utility is required to do under s 204 of the Federal Power Act, 49 Stat. 850, 
+}
+{\field {\*\fldinst HYPERLINK "http://www.westlaw.com/Link/Document/FullText?findType=L&pubNum=1000546&cite=16USCAS824C&originatingDoc=Iab938b559bf011d991d0cc6b54f12d4d&refType=LQ&originationContext=document&vr=3.0&rs=cblt1.0&transitionType=DocumentItem&contextData=(sc.Search)" }{\fldrslt 
+{\f2 \strike0 \ul0 \b0 \sa0 \sb0 \fs20 \cf5 \i0 
+16 U.S.C. s 824c
+}}}
+{\f2 \strike0 \ul0 \b0 \sa0 \sb0 \fs20 \cf1 \i0 
+,
+}
+{\f2 \b0 \fs16 \cf1 \i0 
+{\*\bkmkstart co_footnoteReference_B00211973126395_ID0}{\*\bkmkend co_footnoteReference_B00211973126395_ID0}
+{\field {\*\fldinst HYPERLINK "#co_footnote_B00211973126395_1" }{\fldrslt 
+{\super \f2 \strike0 \ul0 \b0 \sa0 \sb0 \fs16 \cf5 \i0 
+1
+}}}
+}
+{\f2 \strike0 \ul0 \b0 \sa0 \sb200 \fs20 \cf1 \i0 
+ the Commission, in passing upon the application, must consider the issue\rquote s anticompetitive effect in determining whether it is \u8216\'3fcompatible with the public interest,\u8217\'3f as that phrase is employed in s 204(a).
+\par 
+}
+}
+}
+{\li0 \f2 \qj \b0 \ri0 \fs20 \cf1 \i0 {
+{\trowd \lastrow \trleft0 
+\clbrdrt \clbrdrb \clbrdrl \trql \clvertalt \clwWidth600 \cellx600 
+\clpadb90 \clpadfb3 \clpadl90 \clpadfl3 \clbrdrt \clbrdrb \clbrdrr \trql \clwWidth9480 \cellx10080 
+\intbl 
+{\li0 \ri0 
+{\li0 \f2 \b0 \ql \ri0 \fs20 \cf1 \i0 
+{\f2 \b0 \fs20 \cf1 \i0 
+{\*\bkmkstart co_footnote_B00211973126395_1}{\*\bkmkend co_footnote_B00211973126395_1}
+{\field {\*\fldinst HYPERLINK "#co_footnoteReference_B00211973126395_ID0" }{\fldrslt 
+{\super \f2 \strike0 \ul0 \b0 \sa0 \sb0 \fs20 \cf5 \i0 
+1
+}\f2 \super \strike0 \ul0 \b0 \sa0 \sb0 \fs20 \cf5 \i0 }}
+\par 
+}
+}
+}\f2 \li0 \b0 \ql \fs20 \ri0 \cf1 \i0 \intbl \cell \intbl 
+{\li0 \ri0 
+{\li0 \f2 \qj \b0 \ri0 \fs18 \cf1 \i0 
+{\li0 \f2 \qj \b0 \ri0 \fs18 \cf1 \i0 
+{\li0 \f2 \qj \b0 \ri0 \fs18 \cf1 \i0 
+{\f2 \strike0 \ul0 \b0 \sa0 \sb0 \fs18 \cf1 \i0 
+\u8216\'3f
+}
+{\field {\*\fldinst HYPERLINK "http://www.westlaw.com/Link/Document/FullText?findType=L&pubNum=1000546&cite=16USCAS824C&originatingDoc=Iab938b559bf011d991d0cc6b54f12d4d&refType=LQ&originationContext=document&vr=3.0&rs=cblt1.0&transitionType=DocumentItem&contextData=(sc.Search)" }{\fldrslt 
+{\f2 \strike0 \ul0 \b0 \sa0 \sb0 \fs18 \cf5 \i0 
+s 824c
+}\f2 \strike0 \ul0 \b0 \sa0 \sb0 \fs18 \cf5 \i0 }}
+{\f2 \strike0 \ul0 \b0 \sa0 \sb0 \fs18 \cf1 \i0 
+. Issuance of securities; assumption of liabilities; filing duplicate reports with Securities and Exchange Commission.
+\par 
+}
+}
+{\li0 \f2 \qj \b0 \ri0 \fs18 \cf1 \i0 
+{\f2 \strike0 \ul0 \b0 \sa0 \sb0 \fs18 \cf1 \i0 
+\u8216\'3f(a) No public utility shall issue any security . . . unless and until, and then only to the extent that, upon application by the public utility, the Commission by order authorizes such issue . . .. The Commission shall make such order only if it finds that such issue . . . (a) is for some lawful object, within the corporate purposes of the applicant and compatible with the public interest, which is necessary or appropriate for or consistent with the proper performance by the applicant of service as a public utility and which will not impair its ability to perform that service, and (b) is reasonably necessary or appropriate for such purposes. . . .
+\par 
+}
+}
+{\li0 \f2 \qj \b0 \ri0 \fs18 \cf1 \i0 
+{\f2 \strike0 \ul0 \b0 \sa0 \sb0 \fs18 \cf1 \i0 
+\u8216\'3f(b) The Commission, after opportunity for hearing, may grant any application under this section in whole or in part, and with such modifications and upon such terms and conditions as it may find necessary or appropriate, and may from time to time, after opportunity for hearing and for good cause shown, make such supplemental orders in the premises as it may find necessary or appropriate, and may by any such supplemental order modify the provisions of any previous order as to the particular purposes, uses, and extent to which, or the conditions under which, any security so theretofore authorized or the proceeds thereof may be applied, subject always to the requirements of subsection (a) of this section.
+\par 
+}
+}
+{\li0 \f2 \qj \b0 \ri0 \fs18 \cf1 \i0 
+{\f2 \strike0 \ul0 \b0 \sa0 \sb0 \fs18 \cf1 \i0 
+\u8216\'3f(c) No public utility shall, without the consent of the Commission, apply any security or any proceeds thereof to any purpose not specified in the Commission\rquote s order, or supplemental order, or to any purpose in excess of the amount allowed for such purpose in such order, or otherwise in contravention of such order.\u8217\'3f
+\par 
+}
+}
+}
+}
+}\f2 \li0 \strike0 \ul0 \b0 \qj \sa0 \sb0 \fs18 \ri0 \cf1 \i0 \intbl \cell \row }}\par 
+}
+}
+{\li0 \f2 \qj \b0 \ri0 \fs20 \cf1 \i0 
+{\*\bkmkstart co_anchor_I1f6b3e00048911e598db8b09b4f04}{\*\bkmkend co_anchor_I1f6b3e00048911e598db8b09b4f04}
+\par 
+{\li0 \f2 \b1 \ri0 \fs20 \cf1 \qc \i0 
+{\f2 \b1 \fs20 \cf1 \i0 
+{\f2 \b1 \fs20 \cf1 \i0 
+{\*\bkmkstart co_pp_sp_780_750_1}{\*\bkmkend co_pp_sp_780_750_1}
+{\f2 \strike0 \ul0 \b1 \sa0 \sb0 \fs20 \cf1 \i0 
+*750
+}
+}
+{\f2 \strike0 \ul0 \b1 \sa200 \sb400 \fs20 \cf1 \i0 
+ I
+\par 
+}
+}
+}
+{\li0 \f2 \qj \b0 \ri0 \fs20 \cf1 \i0 
+{\li0 \f2 \qj \b0 \ri0 \fs20 \cf1 \i0 
+{\f2 \strike0 \ul0 \b0 \sa0 \sb200 \fs20 \cf1 \i0 
+In October 1970, Gulf States Utilities Company applied to the Federal Power Commission for authority to issue for cash, on competitive bidding, $30,000,000 first mortgage 30-year bonds for the purpose of refunding part of Gulf\rquote s then-outstanding commercial paper and short-term notes.
+}
+{\f2 \b0 \fs16 \cf1 \i0 
+{\*\bkmkstart co_footnoteReference_B00321973126395_ID0}{\*\bkmkend co_footnoteReference_B00321973126395_ID0}
+{\field {\*\fldinst HYPERLINK "#co_footnote_B00321973126395_1" }{\fldrslt 
+{\super \f2 \strike0 \ul0 \b0 \sa0 \sb0 \fs16 \cf5 \i0 
+2
+}}}
+\par 
+}
+}
+}
+{\li0 \f2 \qj \b0 \ri0 \fs20 \cf1 \i0 {
+{\trowd \lastrow \trleft0 
+\clbrdrt \clbrdrb \clbrdrl \trql \clvertalt \clwWidth600 \cellx600 
+\clpadb90 \clpadfb3 \clpadl90 \clpadfl3 \clbrdrt \clbrdrb \clbrdrr \trql \clwWidth9480 \cellx10080 
+\intbl 
+{\li0 \ri0 
+{\li0 \f2 \b0 \ql \ri0 \fs20 \cf1 \i0 
+{\f2 \b0 \fs20 \cf1 \i0 
+{\*\bkmkstart co_footnote_B00321973126395_1}{\*\bkmkend co_footnote_B00321973126395_1}
+{\field {\*\fldinst HYPERLINK "#co_footnoteReference_B00321973126395_ID0" }{\fldrslt 
+{\super \f2 \strike0 \ul0 \b0 \sa0 \sb0 \fs20 \cf5 \i0 
+2
+}\f2 \super \strike0 \ul0 \b0 \sa0 \sb0 \fs20 \cf5 \i0 }}
+\par 
+}
+}
+}\f2 \li0 \b0 \ql \fs20 \ri0 \cf1 \i0 \intbl \cell \intbl 
+{\li0 \ri0 
+{\li0 \f2 \qj \b0 \ri0 \fs18 \cf1 \i0 
+{\li0 \f2 \qj \b0 \ri0 \fs18 \cf1 \i0 
+{\li0 \f2 \qj \b0 \ri0 \fs18 \cf1 \i0 
+{\f2 \strike0 \ul0 \b0 \sa0 \sb0 \fs18 \cf1 \i0 
+Gulf, in its Securities and Exchange Commission registration statement for the bonds, stated that the proceeds received from the notes to be refinanced had been used \u8216\'3fin connection with the Company\rquote s construction program and for other corporate purposes.\u8217\'3f App. 162. The notes themselves had been issued upon the authority of an uncontested order in FPC Docket E\u8212\'3f7509. The Commission in that proceeding authorized a total of $80,000,000 in short-term debt. Only $55,000,000 of this was outstanding at the time of Gulf\rquote s bond authorization proceeding. Thus, apart from the bond issue, Gulf could have borrowed another $25,000,000 in short-term credit without further Commission authorization.
+\par 
+}
+}
+}
+}
+}\f2 \li0 \strike0 \ul0 \b0 \qj \sa0 \sb0 \fs18 \ri0 \cf1 \i0 \intbl \cell \row }}\par 
+}
+{\li0 \f2 \qj \b0 \ri0 \fs20 \cf1 \i0 
+{\li0 \f2 \qj \b0 \ri0 \fs20 \cf1 \i0 
+{\f2 \strike0 \ul0 \b0 \sa0 \sb0 \fs20 \cf1 \i0 
+Gulf, a Texas corporation qualified to do business in Louisiana, is a public utility within the meaning of s 201(e) of the Federal Power Act, 
+}
+{\field {\*\fldinst HYPERLINK "http://www.westlaw.com/Link/Document/FullText?findType=L&pubNum=1000546&cite=16USCAS824&originatingDoc=Iab938b559bf011d991d0cc6b54f12d4d&refType=RB&originationContext=document&vr=3.0&rs=cblt1.0&transitionType=DocumentItem&contextData=(sc.Search)#co_pp_7fdd00001ca15" }{\fldrslt 
+{\f2 \strike0 \ul0 \b0 \sa0 \sb0 \fs20 \cf5 \i0 
+16 U.S.C. s 824(e)
+}}}
+{\f2 \strike0 \ul0 \b0 \sa0 \sb0 \fs20 \cf1 \i0 
+. It is engaged principally in the business of generating, distributing, and selling electric energy in southeastern 
+}
+{\f2 \b1 \fs20 \cf1 \i0 
+{\*\bkmkstart co_pp_sp_708_1874_1}{\*\bkmkend co_pp_sp_708_1874_1}
+{\f2 \strike0 \ul0 \b1 \sa0 \sb0 \fs20 \cf1 \i0 
+**1874
+}
+}
+{\f2 \strike0 \ul0 \b0 \sa0 \sb200 \fs20 \cf1 \i0 
+ Texas and south central Louisiana in an area of approximately 28,000 square miles with a population of about 1,225,000. Gulf sells electric energy at retail in numerous communities in that market and, at the time of the application, was providing electric energy for resale to nine municipal systems, 11 rural electric cooperatives (one serving four municipal systems), and one other utility.
+\par 
+}
+}
+}
+{\li0 \f2 \qj \b0 \ri0 \fs20 \cf1 \i0 
+{\li0 \f2 \qj \b0 \ri0 \fs20 \cf1 \i0 
+{\f2 \strike0 \ul0 \b0 \sa0 \sb0 \fs20 \cf1 \i0 
+The Commission filed notice of 
+}
+{\field {\*\fldinst HYPERLINK "http://www.westlaw.com/Link/Document/FullText?findType=Y&pubNum=1037&cite=35FR16649&originatingDoc=Iab938b559bf011d991d0cc6b54f12d4d&refType=FR&originationContext=document&vr=3.0&rs=cblt1.0&transitionType=DocumentItem&contextData=(sc.Search)" }{\fldrslt 
+{\f2 \strike0 \ul0 \b0 \sa0 \sb0 \fs20 \cf5 \i0 
+Gulf\rquote s application. 35 Fed.Reg. 16649 (1970)
+}}}
+{\f2 \strike0 \ul0 \b0 \sa0 \sb0 \fs20 \cf1 \i0 
+. Thereupon the cities of Lafayette and Plaquemine, Louisiana (Cities) filed a protest and petition to intervene in the proceedings before the Commission and requested a formal hearing on Gulf\rquote s application. 
+}
+{\f2 \b1 \fs20 \cf1 \i0 
+{\*\bkmkstart co_pp_sp_780_751_1}{\*\bkmkend co_pp_sp_780_751_1}
+{\f2 \strike0 \ul0 \b1 \sa0 \sb0 \fs20 \cf1 \i0 
+*751
+}
+}
+{\f2 \strike0 \ul0 \b0 \sa0 \sb0 \fs20 \cf1 \i0 
+ The Cities alleged that Gulf, in concert with two other investor-owned utilities, Louisiana Power and Light Company (LP ) and Central Louisiana Electric Company (CLECO), had engaged in activities \u8216\'3fapparently violative of the anti-trust laws,\u8217\'3f as well as of s 10(h) of the Federal Power Act, 
+}
+{\field {\*\fldinst HYPERLINK "http://www.westlaw.com/Link/Document/FullText?findType=L&pubNum=1000546&cite=16USCAS803&originatingDoc=Iab938b559bf011d991d0cc6b54f12d4d&refType=RB&originationContext=document&vr=3.0&rs=cblt1.0&transitionType=DocumentItem&contextData=(sc.Search)#co_pp_f383000077b35" }{\fldrslt 
+{\f2 \strike0 \ul0 \b0 \sa0 \sb0 \fs20 \cf5 \i0 
+16 U.S.C. s 803(h)
+}}}
+{\f2 \strike0 \ul0 \b0 \sa0 \sb0 \fs20 \cf1 \i0 
+,
+}
+{\f2 \b0 \fs16 \cf1 \i0 
+{\*\bkmkstart co_footnoteReference_B00431973126395_ID0}{\*\bkmkend co_footnoteReference_B00431973126395_ID0}
+{\field {\*\fldinst HYPERLINK "#co_footnote_B00431973126395_1" }{\fldrslt 
+{\super \f2 \strike0 \ul0 \b0 \sa0 \sb0 \fs16 \cf5 \i0 
+3
+}}}
+}
+{\f2 \strike0 \ul0 \b0 \sa0 \sb0 \fs20 \cf1 \i0 
+ and of the Public Utility Holding Company Act of 1935, 49 Stat. 838, 
+}
+{\field {\*\fldinst HYPERLINK "http://www.westlaw.com/Link/Document/FullText?findType=L&pubNum=1000546&cite=15USCAS79&originatingDoc=Iab938b559bf011d991d0cc6b54f12d4d&refType=LQ&originationContext=document&vr=3.0&rs=cblt1.0&transitionType=DocumentItem&contextData=(sc.Search)" }{\fldrslt 
+{\f2 \strike0 \ul0 \b0 \sa0 \sb0 \fs20 \cf5 \i0 
+15 U.S.C. s 79
+}}}
+{\f2 \strike0 \ul0 \b0 \sa0 \sb200 \fs20 \cf1 \i0 
+ et seq.\u8212\'3fthat these activities, in effect, would be \u8216\'3ffinanced or refinanced by the bonds here proposed\u8217\'3f; and that the utilities\rquote  activities were incompatible with the public interest. The Cities opposed the requested authorization \u8216\'3funless and until Gulf States purges itself of these past violations, or unless the Commission conditions its authorization.\u8217\'3f
+\par 
+}
+}
+}
+{\li0 \f2 \qj \b0 \ri0 \fs20 \cf1 \i0 {
+{\trowd \lastrow \trleft0 
+\clbrdrt \clbrdrb \clbrdrl \trql \clvertalt \clwWidth600 \cellx600 
+\clpadb90 \clpadfb3 \clpadl90 \clpadfl3 \clbrdrt \clbrdrb \clbrdrr \trql \clwWidth9480 \cellx10080 
+\intbl 
+{\li0 \ri0 
+{\li0 \f2 \b0 \ql \ri0 \fs20 \cf1 \i0 
+{\f2 \b0 \fs20 \cf1 \i0 
+{\*\bkmkstart co_footnote_B00431973126395_1}{\*\bkmkend co_footnote_B00431973126395_1}
+{\field {\*\fldinst HYPERLINK "#co_footnoteReference_B00431973126395_ID0" }{\fldrslt 
+{\super \f2 \strike0 \ul0 \b0 \sa0 \sb0 \fs20 \cf5 \i0 
+3
+}\f2 \super \strike0 \ul0 \b0 \sa0 \sb0 \fs20 \cf5 \i0 }}
+\par 
+}
+}
+}\f2 \li0 \b0 \ql \fs20 \ri0 \cf1 \i0 \intbl \cell \intbl 
+{\li0 \ri0 
+{\li0 \f2 \qj \b0 \ri0 \fs18 \cf1 \i0 
+{\li0 \f2 \qj \b0 \ri0 \fs18 \cf1 \i0 
+{\li0 \f2 \qj \b0 \ri0 \fs18 \cf1 \i0 
+{\f2 \strike0 \ul0 \b0 \sa0 \sb0 \fs18 \cf1 \i0 
+\u8216\'3fCombinations, agreements, arrangements, or understandings, express or implied, to limit the output of electrical energy, to restrain trade, or to fix, maintain, or increase prices for electrical energy or service are hereby prohibited.\u8217\'3f
+\par 
+}
+}
+}
+}
+}\f2 \li0 \strike0 \ul0 \b0 \qj \sa0 \sb0 \fs18 \ri0 \cf1 \i0 \intbl \cell \row }}\par 
+}
+{\li0 \f2 \qj \b0 \ri0 \fs20 \cf1 \i0 
+{\li0 \f2 \qj \b0 \ri0 \fs20 \cf1 \i0 
+{\f2 \strike0 \ul0 \b0 \sa0 \sb200 \fs20 \cf1 \i0 
+The Cities\rquote  claim centered on and stressed a 1968 interconnection and pooling agreement between the Cities, Dow Chemical Company, and Louisiana Electric Cooperative, Inc. (LEC). Dow has a plant near the Cities; the plant has generating capacity that could be used by the other members of the pool as emergency stabilizing capacity. LEC is a generation and transmission electric cooperative financed by the Rural Electrification Administration (REA): it is a super-cooperative composed of 12 electric distribution cooperatives, all located in the area served by the three utilities.
+\par 
+}
+}
+}
+{\li0 \f2 \qj \b0 \ri0 \fs20 \cf1 \i0 
+{\li0 \f2 \qj \b0 \ri0 \fs20 \cf1 \i0 
+{\f2 \strike0 \ul0 \b0 \sa0 \sb0 \fs20 \cf1 \i0 
+In 1964, the REA was considering loans to LEC for the construction of a generation station and transmission lines through which LEC would be able to serve eight of its 12 member organizations. These members were then purchasing their power from the three utilities. The Cities claimed that the three utilities had attempted to 
+}
+{\f2 \b1 \fs20 \cf1 \i0 
+{\*\bkmkstart co_pp_sp_780_752_1}{\*\bkmkend co_pp_sp_780_752_1}
+{\f2 \strike0 \ul0 \b1 \sa0 \sb0 \fs20 \cf1 \i0 
+*752
+}
+}
+{\f2 \strike0 \ul0 \b0 \sa0 \sb0 \fs20 \cf1 \i0 
+ destroy LEC, and pointed to a history of \u8216\'3fextraordinary litigation\u8217\'3f instituted by the utilities between 1964 and 1970 to prevent the construction of the station and the lines, and in fact delaying that construction for five years. The arrangement proposed by the 1968 agreement would assure a market for the parties\rquote  surplus capacity and would coordinate, at substantial savings, the construction of new generators by the parties. The three utilities, correspondingly, would lose substantial business if the 1968 arrangement were carried out. Accordingly, Cities alleged, the three utilities engaged in frivolous and repetitive litigation and launched a public relations and lobbying drive against LEC in order to block the loan and prevent fulfillment of the agreement. Cf. 
+}
+{\field {\*\fldinst HYPERLINK "http://www.westlaw.com/Link/Document/FullText?findType=Y&serNum=1972127054&pubNum=708&originatingDoc=Iab938b559bf011d991d0cc6b54f12d4d&refType=RP&originationContext=document&vr=3.0&rs=cblt1.0&transitionType=DocumentItem&contextData=(sc.Search)" }{\fldrslt 
+{\f2 \strike0 \ul0 \b0 \sa0 \sb0 \fs20 \cf5 \i0 
+California Transport Motor Co. v. Trucking Unlimited, 404 U.S. 508, 92 S.Ct. 609, 30 L.Ed.2d 642 (1972)
+}}}
+{\f2 \strike0 \ul0 \b0 \sa0 \sb200 \fs20 \cf1 \i0 
+.
+\par 
+}
+}
+}
+{\li0 \f2 \qj \b0 \ri0 \fs20 \cf1 \i0 
+{\li0 \f2 \qj \b0 \ri0 \fs20 \cf1 \i0 
+{\f2 \strike0 \ul0 \b0 \sa0 \sb0 \fs20 \cf1 \i0 
+The REA loan was effected, however, in 1969. But by that time the loan was sufficient only for the generating facilities exclusive of the lines. Cities, Dow, and LEC, then were forced to negotiate with the three utilities for the use of the utilities\rquote  lines to transmit their power. Cities contended that the three utilities continued, through the course of the negotiations, to block or limit the pool by agreeing only to provide transmission services to some of the pool members; by refusing to supply transmission 
+}
+{\f2 \b1 \fs20 \cf1 \i0 
+{\*\bkmkstart co_pp_sp_708_1875_1}{\*\bkmkend co_pp_sp_708_1875_1}
+{\f2 \strike0 \ul0 \b1 \sa0 \sb0 \fs20 \cf1 \i0 
+**1875
+}
+}
+{\f2 \strike0 \ul0 \b0 \sa0 \sb200 \fs20 \cf1 \i0 
+ facilities between pool members unless the 1968 pooling agreement were canceled; and by demanding that LEC limit its power capacity to the wattage already planned, thus giving the three utilities the exclusive right to supply all further power needs of LEC\rquote s 12 cooperatives and precluding further expansion by LEC.
+\par 
+}
+}
+}
+{\li0 \f2 \qj \b0 \ri0 \fs20 \cf1 \i0 
+{\li0 \f2 \qj \b0 \ri0 \fs20 \cf1 \i0 
+{\f2 \strike0 \ul0 \b0 \sa0 \sb0 \fs20 \cf1 \i0 
+Cities, by their proposed intervention, would bring these allegations before the Federal Power Commission in the s 204 proceeding. They claimed that such anti-competitive conduct was properly the subject of a s 204 proceeding and that, under s 204(b), 
+}
+{\field {\*\fldinst HYPERLINK "http://www.westlaw.com/Link/Document/FullText?findType=L&pubNum=1000546&cite=16USCAS824C&originatingDoc=Iab938b559bf011d991d0cc6b54f12d4d&refType=RB&originationContext=document&vr=3.0&rs=cblt1.0&transitionType=DocumentItem&contextData=(sc.Search)#co_pp_a83b000018c76" }{\fldrslt 
+{\f2 \strike0 \ul0 \b0 \sa0 \sb0 \fs20 \cf5 \i0 
+16 U.S.C. s 824c(b)
+}}}
+{\f2 \strike0 \ul0 \b0 \sa0 \sb0 \fs20 \cf1 \i0 
+, the Commission may condition its approval of the 
+}
+{\f2 \b1 \fs20 \cf1 \i0 
+{\*\bkmkstart co_pp_sp_780_753_1}{\*\bkmkend co_pp_sp_780_753_1}
+{\f2 \strike0 \ul0 \b1 \sa0 \sb0 \fs20 \cf1 \i0 
+*753
+}
+}
+{\f2 \strike0 \ul0 \b0 \sa0 \sb200 \fs20 \cf1 \i0 
+ bond issue accordingly and place restrictions on Gulf\rquote s use of the proceeds.
+\par 
+}
+}
+}
+{\li0 \f2 \qj \b0 \ri0 \fs20 \cf1 \i0 
+{\li0 \f2 \qj \b0 \ri0 \fs20 \cf1 \i0 
+{\f2 \strike0 \ul0 \b0 \sa0 \sb200 \fs20 \cf1 \i0 
+By its answer, Gulf denied any violation of the anti-trust laws, of the Federal Power Act, or of the Public Utility Holding Company Act of 1935. It alleged that the purpose of s 204 of the Federal Power Act was \u8216\'3fto prevent unsound financing which might impair the financial integrity of public utilities,\u8217\'3f and that even if the allegations of the Cities were accepted as true by the Commission, those matters were \u8216\'3firrelevant to this application.\u8217\'3f
+\par 
+}
+}
+}
+{\li0 \f2 \qj \b0 \ri0 \fs20 \cf1 \i0 
+{\li0 \f2 \qj \b0 \ri0 \fs20 \cf1 \i0 
+{\f2 \strike0 \ul0 \b0 \sa0 \sb0 \fs20 \cf1 \i0 
+By order issued December 3, 1970, 
+}
+{\field {\*\fldinst HYPERLINK "http://www.westlaw.com/Link/Document/FullText?findType=Y&serNum=1970090754&pubNum=921&originatingDoc=Iab938b559bf011d991d0cc6b54f12d4d&refType=CA&originationContext=document&vr=3.0&rs=cblt1.0&transitionType=DocumentItem&contextData=(sc.Search)" }{\fldrslt 
+{\f2 \strike0 \ul0 \b0 \sa0 \sb0 \fs20 \cf5 \i0 
+44 F.P.C. 1524,
+}}}
+{\f2 \strike0 \ul0 \b0 \sa0 \sb200 \fs20 \cf1 \i0 
+ the Commission granted the Cities permission to intervene. It denied their request for a hearing, however, and it authorized the issuance and sale of the bonds. The order recited:
+\par 
+}
+}
+{\li0 \f2 \qj \b0 \ri0 \fs20 \cf1 \i0 
+{\li0 \f2 \qj \b0 \ri0 \fs20 \cf1 \i0 
+{\f2 \strike0 \ul0 \b0 \sa0 \sb0 \fs20 \cf1 \i0 
+\u8216\'3fThe requested approval of the issuance of the Bonds allow (sic) the Company only to change the form of a portion of its outstanding indebtedness, it does not call for the initiation of any construction or other program by the Company which might effect (sic) the interest of the Petitioners. The alleged violations which petitioners attempt to raise in this proceeding are irrelevant to a requested authorization of securities. There is no relief that the Commission can order in authorizing the issuance of the Bonds for refinancing purposes that would have any effect on the interest of the Petitioners, or solve any of the problems outlined by them.\u8217\'3f 
+}
+{\field {\*\fldinst HYPERLINK "http://www.westlaw.com/Link/Document/FullText?findType=Y&serNum=1970090754&originatingDoc=Iab938b559bf011d991d0cc6b54f12d4d&refType=CA&originationContext=document&vr=3.0&rs=cblt1.0&transitionType=DocumentItem&contextData=(sc.Search)" }{\fldrslt 
+{\f2 \strike0 \ul0 \b0 \sa0 \sb0 \fs20 \cf5 \i0 
+Id., at 1525.
+}}}
+\par 
+}
+}
+{\f2 \strike0 \ul0 \b0 \sa0 \sb0 \fs20 \cf1 \i0 
+\u160\'3f
+\par 
+}
+{\li0 \f2 \qj \b0 \ri0 \fs20 \cf1 \i0 
+{\f2 \strike0 \ul0 \b0 \sa0 \sb200 \fs20 \cf1 \i0 
+The Commission specifically found:
+\par 
+}
+}
+{\li0 \f2 \qj \b0 \ri0 \fs20 \cf1 \i0 
+{\li0 \f2 \qj \b0 \ri0 \fs20 \cf1 \i0 
+{\f2 \strike0 \ul0 \b0 \sa0 \sb0 \fs20 \cf1 \i0 
+\u8216\'3fThe matters asserted and activities alleged in the filed protest and petition to intervene by the Cities of Lafayette and Plaquemine, Louisiana, are irrelevant to the purpose of issuing bonds to refund short- 
+}
+{\f2 \b1 \fs20 \cf1 \i0 
+{\*\bkmkstart co_pp_sp_780_754_1}{\*\bkmkend co_pp_sp_780_754_1}
+{\f2 \strike0 \ul0 \b1 \sa0 \sb0 \fs20 \cf1 \i0 
+*754
+}
+}
+{\f2 \strike0 \ul0 \b0 \sa0 \sb0 \fs20 \cf1 \i0 
+ term indebtedness heretofore authorized by this Commission.\u8217\'3f Id., at 1526.
+\par 
+}
+}
+}
+{\f2 \strike0 \ul0 \b0 \sa0 \sb0 \fs20 \cf1 \i0 
+\u160\'3f
+\par 
+}
+}
+{\li0 \f2 \qj \b0 \ri0 \fs20 \cf1 \i0 
+{\li0 \f2 \qj \b0 \ri0 \fs20 \cf1 \i0 
+{\f2 \strike0 \ul0 \b0 \sa0 \sb0 \fs20 \cf1 \i0 
+The petition for rehearing required by s 313(a) of the Act, 
+}
+{\field {\*\fldinst HYPERLINK "http://www.westlaw.com/Link/Document/FullText?findType=L&pubNum=1000546&cite=16USCAS825L&originatingDoc=Iab938b559bf011d991d0cc6b54f12d4d&refType=RB&originationContext=document&vr=3.0&rs=cblt1.0&transitionType=DocumentItem&contextData=(sc.Search)#co_pp_8b3b0000958a4" }{\fldrslt 
+{\f2 \strike0 \ul0 \b0 \sa0 \sb0 \fs20 \cf5 \i0 
+16 U.S.C. s 825
+}
+{\f2 \b1 \fs20 \cf5 \i0 
+{\f2 \b1 \fs20 \cf5 \i1 
+{\f2 \strike0 \ul0 \b1 \sa0 \sb0 \fs20 \cf5 \i1 
+l
+}
+}
+}
+{\f2 \strike0 \ul0 \b0 \sa0 \sb0 \fs20 \cf5 \i0 
+(a)
+}}}
+{\f2 \strike0 \ul0 \b0 \sa0 \sb0 \fs20 \cf1 \i0 
+, see 
+}
+{\field {\*\fldinst HYPERLINK "http://www.westlaw.com/Link/Document/FullText?findType=Y&serNum=1966120737&pubNum=350&originatingDoc=Iab938b559bf011d991d0cc6b54f12d4d&refType=RP&fi=co_pp_sp_350_168&originationContext=document&vr=3.0&rs=cblt1.0&transitionType=DocumentItem&contextData=(sc.Search)#co_pp_sp_350_168" }{\fldrslt 
+{\f2 \strike0 \ul0 \b0 \sa0 \sb0 \fs20 \cf5 \i0 
+Department of Fish & Game v. FPC, 359 F.2d 165, 168\u8212\'3f169 (CA9),
+}}}
+{\f2 \strike0 \ul0 \b0 \sa0 \sb0 \fs20 \cf1 \i0 
+ cert. denied, 
+}
+{\field {\*\fldinst HYPERLINK "http://www.westlaw.com/Link/Document/FullText?findType=Y&serNum=1966200896&pubNum=708&originatingDoc=Iab938b559bf011d991d0cc6b54f12d4d&refType=RP&originationContext=document&vr=3.0&rs=cblt1.0&transitionType=DocumentItem&contextData=(sc.Search)" }{\fldrslt 
+{\f2 \strike0 \ul0 \b0 \sa0 \sb0 \fs20 \cf5 \i0 
+385 U.S. 932, 87 S.Ct. 293, 17 L.Ed.2d 214 (1966)
+}}}
+{\f2 \strike0 \ul0 \b0 \sa0 \sb200 \fs20 \cf1 \i0 
+, was filed by the Cities, and was denied.
+\par 
+}
+}
+}
+{\li0 \f2 \qj \b0 \ri0 \fs20 \cf1 \i0 
+{\li0 \f2 \qj \b0 \ri0 \fs20 \cf1 \i0 
+{\f2 \strike0 \ul0 \b0 \sa0 \sb0 \fs20 \cf1 \i0 
+Review was sought pursuant to s 313(b) of the Act, 
+}
+{\field {\*\fldinst HYPERLINK "http://www.westlaw.com/Link/Document/FullText?findType=L&pubNum=1000546&cite=16USCAS825L&originatingDoc=Iab938b559bf011d991d0cc6b54f12d4d&refType=RB&originationContext=document&vr=3.0&rs=cblt1.0&transitionType=DocumentItem&contextData=(sc.Search)#co_pp_a83b000018c76" }{\fldrslt 
+{\f2 \strike0 \ul0 \b0 \sa0 \sb0 \fs20 \cf5 \i0 
+16 U.S.C. s 825
+}
+{\f2 \b1 \fs20 \cf5 \i0 
+{\f2 \b1 \fs20 \cf5 \i1 
+{\f2 \strike0 \ul0 \b1 \sa0 \sb0 \fs20 \cf5 \i1 
+l
+}
+}
+}
+{\f2 \strike0 \ul0 \b0 \sa0 \sb0 \fs20 \cf5 \i0 
+(b)
+}}}
+{\f2 \strike0 \ul0 \b0 \sa0 \sb0 \fs20 \cf1 \i0 
+, in the United States Court of Appeals for the District of Columbia Circuit. A unanimous panel of that court disagreed with the Commission and remanded the case to it for consideration of the claims raised by the Cities, sub nom. 
+}
+{\field {\*\fldinst HYPERLINK "http://www.westlaw.com/Link/Document/FullText?findType=Y&serNum=1971114124&pubNum=350&originatingDoc=Iab938b559bf011d991d0cc6b54f12d4d&refType=RP&originationContext=document&vr=3.0&rs=cblt1.0&transitionType=DocumentItem&contextData=(sc.Search)" }{\fldrslt 
+{\f2 \strike0 \ul0 \b0 \sa0 \sb0 \fs20 \cf5 \i0 
+City of Lafayette, La. v. SEC, 147 U.S.App.D.C. 98, 454 F.2d 941 (1971)
+}}}
+{\f2 \strike0 \ul0 \b0 \sa0 \sb0 \fs20 \cf1 \i0 
+. The court recognized that the Commission\rquote s contention that Gulf\rquote s operations \u8216\'3fcould have no meaningful relation to an application that only sought to replace short-term notes with long term bonds\rquote  was \u8216\'3fnot without appeal, and also not without problems.\u8217\'3f 
+}
+{\field {\*\fldinst HYPERLINK "http://www.westlaw.com/Link/Document/FullText?findType=Y&serNum=1971114124&pubNum=350&originatingDoc=Iab938b559bf011d991d0cc6b54f12d4d&refType=RP&fi=co_pp_sp_350_952&originationContext=document&vr=3.0&rs=cblt1.0&transitionType=DocumentItem&contextData=(sc.Search)#co_pp_sp_350_952" }{\fldrslt 
+{\f2 \strike0 \ul0 \b0 \sa0 \sb0 \fs20 \cf5 \i0 
+Id., at 109, 454 F.2d, at 952.
+}}}
+{\f2 \strike0 \ul0 \b0 \sa0 \sb0 \fs20 \cf1 \i0 
+ The court concluded, however, that the \u8216\'3fcryptic statement of the FPC does not permit us to conclude with reasonable confidence that this was the position taken by the FPC.\u8217\'3f Ibid. It observed that the Commission may have respected the Cities\rquote  allegations out of hand upon the authority of its earlier decision in 
+}
+{\field {\*\fldinst HYPERLINK "http://www.westlaw.com/Link/Document/FullText?findType=Y&serNum=1962500459&pubNum=921&originatingDoc=Iab938b559bf011d991d0cc6b54f12d4d&refType=CA&originationContext=document&vr=3.0&rs=cblt1.0&transitionType=DocumentItem&contextData=(sc.Search)" }{\fldrslt 
+{\f2 \strike0 \ul0 \b0 \sa0 \sb0 \fs20 \cf5 \i0 
+Pacific Power & Light Co., 27 F.P.C. 623 (1962)
+}}}
+{\f2 \strike0 \ul0 \b0 \sa0 \sb0 \fs20 \cf1 \i0 
+, a position the Court of Appeals viewed as untenable under this Court\rquote s subsequent decision in 
+}
+{\f2 \b1 \fs20 \cf1 \i0 
+{\*\bkmkstart co_pp_sp_708_1876_1}{\*\bkmkend co_pp_sp_708_1876_1}
+{\f2 \strike0 \ul0 \b1 \sa0 \sb0 \fs20 \cf1 \i0 
+**1876
+}
+}
+{\field {\*\fldinst HYPERLINK "http://www.westlaw.com/Link/Document/FullText?findType=Y&serNum=1967129536&pubNum=708&originatingDoc=Iab938b559bf011d991d0cc6b54f12d4d&refType=RP&originationContext=document&vr=3.0&rs=cblt1.0&transitionType=DocumentItem&contextData=(sc.Search)" }{\fldrslt 
+{\f2 \strike0 \ul0 \b0 \sa0 \sb0 \fs20 \cf5 \i0 
+Denver & R.G.W.R. Co. v. United States, 387 U.S. 485, 87 S.Ct. 1754, 18 L.Ed.2d 905 (1967)
+}}}
+{\f2 \strike0 \ul0 \b0 \sa0 \sb200 \fs20 \cf1 \i0 
+.
+}
+{\f2 \b0 \fs16 \cf1 \i0 
+{\*\bkmkstart co_footnoteReference_B00541973126395_ID0}{\*\bkmkend co_footnoteReference_B00541973126395_ID0}
+{\field {\*\fldinst HYPERLINK "#co_footnote_B00541973126395_1" }{\fldrslt 
+{\super \f2 \strike0 \ul0 \b0 \sa0 \sb0 \fs16 \cf5 \i0 
+4
+}}}
+\par 
+}
+}
+}
+{\li0 \f2 \qj \b0 \ri0 \fs20 \cf1 \i0 {
+{\trowd \lastrow \trleft0 
+\clbrdrt \clbrdrb \clbrdrl \trql \clvertalt \clwWidth600 \cellx600 
+\clpadb90 \clpadfb3 \clpadl90 \clpadfl3 \clbrdrt \clbrdrb \clbrdrr \trql \clwWidth9480 \cellx10080 
+\intbl 
+{\li0 \ri0 
+{\li0 \f2 \b0 \ql \ri0 \fs20 \cf1 \i0 
+{\f2 \b0 \fs20 \cf1 \i0 
+{\*\bkmkstart co_footnote_B00541973126395_1}{\*\bkmkend co_footnote_B00541973126395_1}
+{\field {\*\fldinst HYPERLINK "#co_footnoteReference_B00541973126395_ID0" }{\fldrslt 
+{\super \f2 \strike0 \ul0 \b0 \sa0 \sb0 \fs20 \cf5 \i0 
+4
+}\f2 \super \strike0 \ul0 \b0 \sa0 \sb0 \fs20 \cf5 \i0 }}
+\par 
+}
+}
+}\f2 \li0 \b0 \ql \fs20 \ri0 \cf1 \i0 \intbl \cell \intbl 
+{\li0 \ri0 
+{\li0 \f2 \qj \b0 \ri0 \fs18 \cf1 \i0 
+{\li0 \f2 \qj \b0 \ri0 \fs18 \cf1 \i0 
+{\li0 \f2 \qj \b0 \ri0 \fs18 \cf1 \i0 
+{\f2 \strike0 \ul0 \b0 \sa0 \sb0 \fs18 \cf1 \i0 
+Cities also opposed an application of LP for approval by the Securities and Exchange Commission of bond and stock issues, the proceeds of which were to be used to repay short-term obligations and for other corporate purposes. Cities contended that the proceeds of these issues would be used for the construction of facilities that would further the unlawful objectives of LP , Gulf, and CLEC, and asked that approval by the SEC be conditioned on cessation of the illegal activities and the establishment of a program to remedy the damage already done.
+\par 
+}
+}
+{\li0 \f2 \qj \b0 \ri0 \fs18 \cf1 \i0 
+{\f2 \strike0 \ul0 \b0 \sa0 \sb0 \fs18 \cf1 \i0 
+The jurisdiction of the SEC in this instance was based on ss 6 and 7 of the Public Utility Holding Company Act of 1935, 
+}
+{\field {\*\fldinst HYPERLINK "http://www.westlaw.com/Link/Document/FullText?findType=L&pubNum=1000546&cite=15USCAS79F&originatingDoc=Iab938b559bf011d991d0cc6b54f12d4d&refType=LQ&originationContext=document&vr=3.0&rs=cblt1.0&transitionType=DocumentItem&contextData=(sc.Search)" }{\fldrslt 
+{\f2 \strike0 \ul0 \b0 \sa0 \sb0 \fs18 \cf5 \i0 
+15 U.S.C. ss 79f
+}\f2 \strike0 \ul0 \b0 \sa0 \sb0 \fs18 \cf5 \i0 }}
+{\f2 \strike0 \ul0 \b0 \sa0 \sb0 \fs18 \cf1 \i0 
+ and 
+}
+{\field {\*\fldinst HYPERLINK "http://www.westlaw.com/Link/Document/FullText?findType=L&pubNum=1000546&cite=15USCAS79G&originatingDoc=Iab938b559bf011d991d0cc6b54f12d4d&refType=LQ&originationContext=document&vr=3.0&rs=cblt1.0&transitionType=DocumentItem&contextData=(sc.Search)" }{\fldrslt 
+{\f2 \strike0 \ul0 \b0 \sa0 \sb0 \fs18 \cf5 \i0 
+79g
+}\f2 \strike0 \ul0 \b0 \sa0 \sb0 \fs18 \cf5 \i0 }}
+{\f2 \strike0 \ul0 \b0 \sa0 \sb0 \fs18 \cf1 \i0 
+, which are part of Tit. I of the Public Utility Act of 1935, 49 Stat. 803, 814\u8212\'3f817. Sections 6 and 7 contain a number of requirements that must be met for SEC approval of a security issue. The most relevant of these is in s 7(d), which requires that the SEC \u8216\'3fshall permit a declaration . . . to become effective unless the Commission finds that\u8212\'3f. . . (6) the terms and conditions of the issue or sale of the security are detrimental to the public interest or the interest of investors or consumers.\u8217\'3f
+\par 
+}
+}
+{\li0 \f2 \qj \b0 \ri0 \fs18 \cf1 \i0 
+{\f2 \strike0 \ul0 \b0 \sa0 \sb0 \fs18 \cf1 \i0 
+The SEC refused to entertain the Cities\rquote  protest, concluding that its authority under s 7(d)(6) related solely to the terms and conditions of the security to be issued, and did not extend to collateral and unrelated controversies in which LP might be engaged. The Cities petitioned the United States Court of Appeals for the District of Columbia Circuit for review of the SEC orders, and the matter was consolidated with the present case. The Court of Appeals affirmed the SEC orders, but remanded Gulf\rquote s case to the FPC. It explained this diverse treatment as follows:
+\par 
+}
+}
+{\li0 \f2 \qj \b0 \ri0 \fs18 \cf1 \i0 
+{\f2 \strike0 \ul0 \b0 \sa0 \sb0 \fs18 \cf1 \i0 
+\u8216\'3fWhere an agency has some regulatory jurisdiction over operations, it must consider whether there is a reasonable nexus between the matters subject to its surveillance and those under attack on anticompetitive grounds. But the general doctrine requiring an agency to take account of antitrust considerations does not extend to a case like the one before us where the antitrust problem arises out of operations of the regulated company (past and projected) and the agency, here the SEC, has not been given any regulatory jurisdiction over operations of the company. The SEC has no jurisdiction over operations and stands in a different posture from the FPC which, as we have already noted, has regulatory jurisdiction over operations in view of its authority, inter alia, to direct utilities to interconnect on reasonable terms, or to prohibit a utility from discriminating in rates and facilities against its municipal customers\rquote  
+}
+{\field {\*\fldinst HYPERLINK "http://www.westlaw.com/Link/Document/FullText?findType=Y&serNum=1971114124&pubNum=350&originatingDoc=Iab938b559bf011d991d0cc6b54f12d4d&refType=RP&fi=co_pp_sp_350_955&originationContext=document&vr=3.0&rs=cblt1.0&transitionType=DocumentItem&contextData=(sc.Search)#co_pp_sp_350_955" }{\fldrslt 
+{\f2 \strike0 \ul0 \b0 \sa0 \sb0 \fs18 \cf5 \i0 
+147 U.S.App.D.C. 98, 112\u8212\'3f113, 454 F.2d 941, 955\u8212\'3f956
+}\f2 \strike0 \ul0 \b0 \sa0 \sb0 \fs18 \cf5 \i0 }}
+{\f2 \strike0 \ul0 \b0 \sa0 \sb0 \fs18 \cf1 \i0 
+ (emphasis in original).
+\par 
+}
+}
+}
+}
+}\f2 \li0 \strike0 \ul0 \b0 \qj \sa0 \sb0 \fs18 \ri0 \cf1 \i0 \intbl \cell \row }}\par 
+}
+{\li0 \f2 \qj \b0 \ri0 \fs20 \cf1 \i0 
+{\li0 \f2 \qj \b0 \ri0 \fs20 \cf1 \i0 
+{\f2 \b1 \fs20 \cf1 \i0 
+{\*\bkmkstart co_pp_sp_780_755_1}{\*\bkmkend co_pp_sp_780_755_1}
+{\f2 \strike0 \ul0 \b1 \sa0 \sb0 \fs20 \cf1 \i0 
+*755
+}
+}
+{\f2 \strike0 \ul0 \b0 \sa0 \sb0 \fs20 \cf1 \i0 
+ Inasmuch as the decision of the Court of Appeals raised issues of potential and recurring importance with respect to the authorization of securities by the Federal Power Commission, we granted certiorari. 
+}
+{\field {\*\fldinst HYPERLINK "http://www.westlaw.com/Link/Document/FullText?findType=Y&serNum=1972244650&pubNum=708&originatingDoc=Iab938b559bf011d991d0cc6b54f12d4d&refType=RP&originationContext=document&vr=3.0&rs=cblt1.0&transitionType=DocumentItem&contextData=(sc.Search)" }{\fldrslt 
+{\f2 \strike0 \ul0 \b0 \sa0 \sb0 \fs20 \cf5 \i0 
+406 U.S. 956, 92 S.Ct. 2058, 32 L.Ed.2d 343 (1972)
+}}}
+{\f2 \strike0 \ul0 \b0 \sa0 \sb0 \fs20 \cf1 \i0 
+. The Commission took the position that the 
+}
+{\f2 \b1 \fs20 \cf1 \i0 
+{\*\bkmkstart co_pp_sp_780_756_1}{\*\bkmkend co_pp_sp_780_756_1}
+{\f2 \strike0 \ul0 \b1 \sa0 \sb0 \fs20 \cf1 \i0 
+*756
+}
+}
+{\f2 \strike0 \ul0 \b0 \sa0 \sb200 \fs20 \cf1 \i0 
+ Court of Appeals was in error, but nevertheless opposed the grant.
+\par 
+}
+}
+}
+}
+{\li0 \f2 \qj \b0 \ri0 \fs20 \cf1 \i0 
+{\*\bkmkstart co_anchor_I1f6b3e01048911e598db8b09b4f04}{\*\bkmkend co_anchor_I1f6b3e01048911e598db8b09b4f04}
+\par 
+{\li0 \f2 \b1 \ri0 \fs20 \cf1 \qc \i0 
+{\f2 \b1 \fs20 \cf1 \i0 
+{\f2 \strike0 \ul0 \b1 \sa200 \sb400 \fs20 \cf1 \i0 
+II
+\par 
+}
+}
+}
+{\li0 \f2 \qj \b0 \ri0 \fs20 \cf1 \i0 
+{\li0 \f2 \qj \b0 \ri0 \fs20 \cf1 \i0 
+{\field {\*\fldinst HYPERLINK "#co_anchor_F11973126395_1" }{\fldrslt 
+{\super \f2 \strike0 \ul0 \b1 \sa0 \sb0 \fs20 \cf19 \i0 
+[1]
+}}}
+{\f2 \b0 \fs20 \cf5 \i0 
+{\*\bkmkstart co_anchor_B11973126395_1}{\*\bkmkend co_anchor_B11973126395_1}
+}
+{\f2 \strike0 \ul0 \b0 \sa0 \sb0 \fs20 \cf1 \i0 
+ The mandate that s 204 of the Federal Power Act, 
+}
+{\field {\*\fldinst HYPERLINK "http://www.westlaw.com/Link/Document/FullText?findType=L&pubNum=1000546&cite=16USCAS824C&originatingDoc=Iab938b559bf011d991d0cc6b54f12d4d&refType=LQ&originationContext=document&vr=3.0&rs=cblt1.0&transitionType=DocumentItem&contextData=(sc.Search)" }{\fldrslt 
+{\f2 \strike0 \ul0 \b0 \sa0 \sb0 \fs20 \cf5 \i0 
+16 U.S.C. s 824c
+}}}
+{\f2 \strike0 \ul0 \b0 \sa0 \sb0 \fs20 \cf1 \i0 
+, imposes upon the Commission is a broad and impressive one. Section 204(a) empowers the Commission to authorize the issue of a security by a public utility only \u8216\'3fif it finds that such issue . . . is for some lawful object, within the corporate purposes of the applicant and compatible with the public interest.\u8217\'3f This requires the Commission to inquire into and to be satisfied with the purposes of the issue and its lawfulness. And even if its \u8216\'3fobject\u8217\'3f is lawful, the necessary inquiry is not ended, for, in addition, the object must be \u8216\'3fcompatible with the public interest.\u8217\'3f
+\par 
+}
+}
+}
+{\f2 \strike0 \ul0 \b0 \sa0 \sb0 \fs20 \cf1 \i0 
+\u160\'3f
+\par 
+}
+{\li0 \f2 \qj \b0 \ri0 \fs20 \cf1 \i0 
+{\li0 \f2 \qj \b0 \ri0 \fs20 \cf1 \i0 
+{\f2 \strike0 \ul0 \b0 \sa0 \sb0 \fs20 \cf1 \i0 
+In making its determination under s 204(a), the Commission is given broad powers of inquiry and enforcement. By s 204(b) it may hold hearings on the application, may grant the application \u8216\'3fin whole or in part,\u8217\'3f may modify it, and may impose such terms or conditions \u8216\'3fas it may find necessary or appropriate.\u8217\'3f After opportunity for hearing, and for good cause shown, it also may supplement, modify, or condition any previous order \u8216\'3fas it may find necessary or appropriate.\u8217\'3f Ibid. Section 204(c) grants the Commission authority to 
+}
+{\f2 \b1 \fs20 \cf1 \i0 
+{\*\bkmkstart co_pp_sp_708_1877_1}{\*\bkmkend co_pp_sp_708_1877_1}
+{\f2 \strike0 \ul0 \b1 \sa0 \sb0 \fs20 \cf1 \i0 
+**1877
+}
+}
+{\f2 \strike0 \ul0 \b0 \sa0 \sb0 \fs20 \cf1 \i0 
+ specify the purpose to which the proceeds of the security may be applied and the amount allowed for that purpose. While, as Gulf observes, ss 204(e) and (f) exempt from s 204(a) certain transactions that concern short-term obligations as well as public utilities that are \u8216\'3forganized and operating in a State under the laws of which its security issues are regulated by a State commission,\u8217\'3f these exemptions
+}
+{\f2 \b0 \fs16 \cf1 \i0 
+{\*\bkmkstart co_footnoteReference_B00651973126395_ID0}{\*\bkmkend co_footnoteReference_B00651973126395_ID0}
+{\field {\*\fldinst HYPERLINK "#co_footnote_B00651973126395_1" }{\fldrslt 
+{\super \f2 \strike0 \ul0 \b0 \sa0 \sb0 \fs16 \cf5 \i0 
+5
+}}}
+}
+{\f2 \strike0 \ul0 \b0 \sa0 \sb0 \fs20 \cf1 \i0 
+ do not significantly detract from the sweeping 
+}
+{\f2 \b1 \fs20 \cf1 \i0 
+{\*\bkmkstart co_pp_sp_780_757_1}{\*\bkmkend co_pp_sp_780_757_1}
+{\f2 \strike0 \ul0 \b1 \sa0 \sb0 \fs20 \cf1 \i0 
+*757
+}
+}
+{\f2 \strike0 \ul0 \b0 \sa0 \sb200 \fs20 \cf1 \i0 
+ powers and responsibilities of the Commission with respect to public utility security issues generally.
+\par 
+}
+}
+}
+{\li0 \f2 \qj \b0 \ri0 \fs20 \cf1 \i0 {
+{\trowd \lastrow \trleft0 
+\clbrdrt \clbrdrb \clbrdrl \trql \clvertalt \clwWidth600 \cellx600 
+\clpadb90 \clpadfb3 \clpadl90 \clpadfl3 \clbrdrt \clbrdrb \clbrdrr \trql \clwWidth9480 \cellx10080 
+\intbl 
+{\li0 \ri0 
+{\li0 \f2 \b0 \ql \ri0 \fs20 \cf1 \i0 
+{\f2 \b0 \fs20 \cf1 \i0 
+{\*\bkmkstart co_footnote_B00651973126395_1}{\*\bkmkend co_footnote_B00651973126395_1}
+{\field {\*\fldinst HYPERLINK "#co_footnoteReference_B00651973126395_ID0" }{\fldrslt 
+{\super \f2 \strike0 \ul0 \b0 \sa0 \sb0 \fs20 \cf5 \i0 
+5
+}\f2 \super \strike0 \ul0 \b0 \sa0 \sb0 \fs20 \cf5 \i0 }}
+\par 
+}
+}
+}\f2 \li0 \b0 \ql \fs20 \ri0 \cf1 \i0 \intbl \cell \intbl 
+{\li0 \ri0 
+{\li0 \f2 \qj \b0 \ri0 \fs18 \cf1 \i0 
+{\li0 \f2 \qj \b0 \ri0 \fs18 \cf1 \i0 
+{\li0 \f2 \qj \b0 \ri0 \fs18 \cf1 \i0 
+{\f2 \strike0 \ul0 \b0 \sa0 \sb0 \fs18 \cf1 \i0 
+These exemption provisions have no application to Gulf\rquote s security issue challenged by the Cities here.
+\par 
+}
+}
+}
+}
+}\f2 \li0 \strike0 \ul0 \b0 \qj \sa0 \sb0 \fs18 \ri0 \cf1 \i0 \intbl \cell \row }}\par 
+}
+{\li0 \f2 \qj \b0 \ri0 \fs20 \cf1 \i0 
+{\li0 \f2 \qj \b0 \ri0 \fs20 \cf1 \i0 
+{\f2 \strike0 \ul0 \b0 \sa0 \sb0 \fs20 \cf1 \i0 
+We are asked to hold that the Commission\rquote s responsibilities under s 204 do not extend to consideration on its part of possible anticompetitive consequences flowing from the issuance of a security. Gulf and the Commission both argue that administrative inquiry under s 204 is to be narrowly confined to the prevention of the issuance of a security that might impair the utility\rquote s financial integrity or its ability to perform its public utility service and responsibilities. Exactly this interpretation was placed on s 204 by the Commission in 1962 in 
+}
+{\field {\*\fldinst HYPERLINK "http://www.westlaw.com/Link/Document/FullText?findType=Y&serNum=1962500459&pubNum=921&originatingDoc=Iab938b559bf011d991d0cc6b54f12d4d&refType=CA&fi=co_pp_sp_921_626&originationContext=document&vr=3.0&rs=cblt1.0&transitionType=DocumentItem&contextData=(sc.Search)#co_pp_sp_921_626" }{\fldrslt 
+{\f2 \strike0 \ul0 \b0 \sa0 \sb0 \fs20 \cf5 \i0 
+Pacific Power & Light Co., 27 F.P.C., at 626
+}}}
+{\f2 \strike0 \ul0 \b0 \sa0 \sb0 \fs20 \cf1 \i0 
+.
+}
+{\f2 \b0 \fs16 \cf1 \i0 
+{\*\bkmkstart co_footnoteReference_B00761973126395_ID0}{\*\bkmkend co_footnoteReference_B00761973126395_ID0}
+{\field {\*\fldinst HYPERLINK "#co_footnote_B00761973126395_1" }{\fldrslt 
+{\super \f2 \strike0 \ul0 \b0 \sa0 \sb0 \fs16 \cf5 \i0 
+6
+}}}
+}
+{\f2 \strike0 \ul0 \b0 \sa0 \sb0 \fs20 \cf1 \i0 
+ Gulf and the Commission contend that antitrust considerations of the kind asserted by the Cities do not fall within the limited scope of s 204 as thus defined, and consideration by the Commission of such broad-ranging issues would be incompatible with the need for relatively fast action by the Commission when it passes upon a proposed security issue. It is said that allegations of anticompetitive conduct properly may be raised and fully considered in other proceeding related to interconnections under s 202 of the Act, 
+}
+{\field {\*\fldinst HYPERLINK "http://www.westlaw.com/Link/Document/FullText?findType=L&pubNum=1000546&cite=16USCAS824A&originatingDoc=Iab938b559bf011d991d0cc6b54f12d4d&refType=LQ&originationContext=document&vr=3.0&rs=cblt1.0&transitionType=DocumentItem&contextData=(sc.Search)" }{\fldrslt 
+{\f2 \strike0 \ul0 \b0 \sa0 \sb0 \fs20 \cf5 \i0 
+16 U.S.C. s 824a
+}}}
+{\f2 \strike0 \ul0 \b0 \sa0 \sb0 \fs20 \cf1 \i0 
+, to dispositions and mergers under s 203, 
+}
+{\field {\*\fldinst HYPERLINK "http://www.westlaw.com/Link/Document/FullText?findType=L&pubNum=1000546&cite=16USCAS824B&originatingDoc=Iab938b559bf011d991d0cc6b54f12d4d&refType=LQ&originationContext=document&vr=3.0&rs=cblt1.0&transitionType=DocumentItem&contextData=(sc.Search)" }{\fldrslt 
+{\f2 \strike0 \ul0 \b0 \sa0 \sb0 \fs20 \cf5 \i0 
+16 U.S.C. s 824b
+}}}
+{\f2 \strike0 \ul0 \b0 \sa0 \sb0 \fs20 \cf1 \i0 
+, to rates and rate-making practices under ss 205 and 206, 
+}
+{\field {\*\fldinst HYPERLINK "http://www.westlaw.com/Link/Document/FullText?findType=L&pubNum=1000546&cite=16USCAS824D&originatingDoc=Iab938b559bf011d991d0cc6b54f12d4d&refType=LQ&originationContext=document&vr=3.0&rs=cblt1.0&transitionType=DocumentItem&contextData=(sc.Search)" }{\fldrslt 
+{\f2 \strike0 \ul0 \b0 \sa0 \sb0 \fs20 \cf5 \i0 
+16 U.S.C. ss 824d
+}}}
+{\f2 \strike0 \ul0 \b0 \sa0 \sb0 \fs20 \cf1 \i0 
+ and 
+}
+{\field {\*\fldinst HYPERLINK "http://www.westlaw.com/Link/Document/FullText?findType=L&pubNum=1000546&cite=16USCAS824E&originatingDoc=Iab938b559bf011d991d0cc6b54f12d4d&refType=LQ&originationContext=document&vr=3.0&rs=cblt1.0&transitionType=DocumentItem&contextData=(sc.Search)" }{\fldrslt 
+{\f2 \strike0 \ul0 \b0 \sa0 \sb0 \fs20 \cf5 \i0 
+824e
+}}}
+{\f2 \strike0 \ul0 \b0 \sa0 \sb0 \fs20 \cf1 \i0 
+, and to adequacy of service under s 207, 
+}
+{\field {\*\fldinst HYPERLINK "http://www.westlaw.com/Link/Document/FullText?findType=L&pubNum=1000546&cite=16USCAS824F&originatingDoc=Iab938b559bf011d991d0cc6b54f12d4d&refType=LQ&originationContext=document&vr=3.0&rs=cblt1.0&transitionType=DocumentItem&contextData=(sc.Search)" }{\fldrslt 
+{\f2 \strike0 \ul0 \b0 \sa0 \sb0 \fs20 \cf5 \i0 
+16 U.S.C. s 824f
+}}}
+{\f2 \strike0 \ul0 \b0 \sa0 \sb200 \fs20 \cf1 \i0 
+.
+\par 
+}
+}
+}
+{\li0 \f2 \qj \b0 \ri0 \fs20 \cf1 \i0 {
+{\trowd \lastrow \trleft0 
+\clbrdrt \clbrdrb \clbrdrl \trql \clvertalt \clwWidth600 \cellx600 
+\clpadb90 \clpadfb3 \clpadl90 \clpadfl3 \clbrdrt \clbrdrb \clbrdrr \trql \clwWidth9480 \cellx10080 
+\intbl 
+{\li0 \ri0 
+{\li0 \f2 \b0 \ql \ri0 \fs20 \cf1 \i0 
+{\f2 \b0 \fs20 \cf1 \i0 
+{\*\bkmkstart co_footnote_B00761973126395_1}{\*\bkmkend co_footnote_B00761973126395_1}
+{\field {\*\fldinst HYPERLINK "#co_footnoteReference_B00761973126395_ID0" }{\fldrslt 
+{\super \f2 \strike0 \ul0 \b0 \sa0 \sb0 \fs20 \cf5 \i0 
+6
+}\f2 \super \strike0 \ul0 \b0 \sa0 \sb0 \fs20 \cf5 \i0 }}
+\par 
+}
+}
+}\f2 \li0 \b0 \ql \fs20 \ri0 \cf1 \i0 \intbl \cell \intbl 
+{\li0 \ri0 
+{\li0 \f2 \qj \b0 \ri0 \fs18 \cf1 \i0 
+{\li0 \f2 \qj \b0 \ri0 \fs18 \cf1 \i0 
+{\li0 \f2 \qj \b0 \ri0 \fs18 \cf1 \i0 
+{\f2 \strike0 \ul0 \b0 \sa0 \sb0 \fs18 \cf1 \i0 
+Cf., however, 
+}
+{\field {\*\fldinst HYPERLINK "http://www.westlaw.com/Link/Document/FullText?findType=Y&serNum=1962500463&pubNum=921&originatingDoc=Iab938b559bf011d991d0cc6b54f12d4d&refType=CA&originationContext=document&vr=3.0&rs=cblt1.0&transitionType=DocumentItem&contextData=(sc.Search)" }{\fldrslt 
+{\f2 \strike0 \ul0 \b0 \sa0 \sb0 \fs18 \cf5 \i0 
+Black Hills Power & Light Co., 28 F.P.C. 1121 (1962)
+}\f2 \strike0 \ul0 \b0 \sa0 \sb0 \fs18 \cf5 \i0 }}
+{\f2 \strike0 \ul0 \b0 \sa0 \sb0 \fs18 \cf1 \i0 
+, and 
+}
+{\field {\*\fldinst HYPERLINK "http://www.westlaw.com/Link/Document/FullText?findType=Y&serNum=1964500367&pubNum=921&originatingDoc=Iab938b559bf011d991d0cc6b54f12d4d&refType=CA&originationContext=document&vr=3.0&rs=cblt1.0&transitionType=DocumentItem&contextData=(sc.Search)" }{\fldrslt 
+{\f2 \strike0 \ul0 \b0 \sa0 \sb0 \fs18 \cf5 \i0 
+31 F.P.C. 1605 (1964)
+}\f2 \strike0 \ul0 \b0 \sa0 \sb0 \fs18 \cf5 \i0 }}
+{\f2 \strike0 \ul0 \b0 \sa0 \sb0 \fs18 \cf1 \i0 
+.
+\par 
+}
+}
+}
+}
+}\f2 \li0 \strike0 \ul0 \b0 \qj \sa0 \sb0 \fs18 \ri0 \cf1 \i0 \intbl \cell \row }}\par 
+}
+{\li0 \f2 \qj \b0 \ri0 \fs20 \cf1 \i0 
+{\li0 \f2 \qj \b0 \ri0 \fs20 \cf1 \i0 
+{\field {\*\fldinst HYPERLINK "#co_anchor_F21973126395_1" }{\fldrslt 
+{\super \f2 \strike0 \ul0 \b1 \sa0 \sb0 \fs20 \cf19 \i0 
+[2]
+}}}
+{\f2 \b0 \fs20 \cf5 \i0 
+{\*\bkmkstart co_anchor_B21973126395_1}{\*\bkmkend co_anchor_B21973126395_1}
+}
+{\field {\*\fldinst HYPERLINK "#co_anchor_F31973126395_1" }{\fldrslt 
+{\super \f2 \strike0 \ul0 \b1 \sa0 \sb0 \fs20 \cf19 \i0 
+[3]
+}}}
+{\f2 \b0 \fs20 \cf5 \i0 
+{\*\bkmkstart co_anchor_B31973126395_1}{\*\bkmkend co_anchor_B31973126395_1}
+}
+{\field {\*\fldinst HYPERLINK "#co_anchor_F41973126395_1" }{\fldrslt 
+{\super \f2 \strike0 \ul0 \b1 \sa0 \sb0 \fs20 \cf19 \i0 
+[4]
+}}}
+{\f2 \b0 \fs20 \cf5 \i0 
+{\*\bkmkstart co_anchor_B41973126395_1}{\*\bkmkend co_anchor_B41973126395_1}
+}
+{\f2 \strike0 \ul0 \b0 \sa0 \sb0 \fs20 \cf1 \i0 
+ Although allegations similar to those raised here may, indeed, be made in such other proceedings under the Federal Power Act, we do not regard that fact as determinative of the scope of Commission inquiry under s 204. Instead, the Commission\rquote s broad authority to consider anticompetitive and other conduct touching the \u8216\'3fpublic interest\u8217\'3f under the other sections of the Act emphasizes 
+}
+{\f2 \b1 \fs20 \cf1 \i0 
+{\*\bkmkstart co_pp_sp_780_758_1}{\*\bkmkend co_pp_sp_780_758_1}
+{\f2 \strike0 \ul0 \b1 \sa0 \sb0 \fs20 \cf1 \i0 
+*758
+}
+}
+{\f2 \strike0 \ul0 \b0 \sa0 \sb0 \fs20 \cf1 \i0 
+ the breadth of its authority under the public interest standard generally and as embodied in s 204. This statute was enacted as part of Tit. II of the Public Utility Act of 1935, 49 Stat. 803, 850. The Act had two primary and related purposes: to curb abusive practices of public utility companies by bringing them under effective control, and to provide effective federal regulation of the expanding business of transmitting and selling electric power in interstate commerce. 49 Stat. 803\u8212\'3f804, 847\u8212\'3f848; S.Rep. No. 621, 74th Cong., 1st Sess., 1\u8212\'3f4, 17\u8212\'3f20; H.R.Rep. No. 1318, 74th Cong., 1st Sess., 3, 7\u8212\'3f8; 
+}
+{\field {\*\fldinst HYPERLINK "http://www.westlaw.com/Link/Document/FullText?findType=Y&serNum=1943120532&pubNum=708&originatingDoc=Iab938b559bf011d991d0cc6b54f12d4d&refType=RP&fi=co_pp_sp_708_956&originationContext=document&vr=3.0&rs=cblt1.0&transitionType=DocumentItem&contextData=(sc.Search)#co_pp_sp_708_956" }{\fldrslt 
+{\f2 \strike0 \ul0 \b0 \sa0 \sb0 \fs20 \cf5 \i0 
+Jersey Central Power & Light Co. v. FPC, 319 U.S. 61, 67\u8212\'3f68, 63 S.Ct. 953, 956\u8212\'3f957, 87 L.Ed. 1258 (1943)
+}}}
+{\f2 \strike0 \ul0 \b0 \sa0 \sb0 \fs20 \cf1 \i0 
+; see 
+}
+{\field {\*\fldinst HYPERLINK "http://www.westlaw.com/Link/Document/FullText?findType=Y&serNum=1946114588&pubNum=708&originatingDoc=Iab938b559bf011d991d0cc6b54f12d4d&refType=RP&originationContext=document&vr=3.0&rs=cblt1.0&transitionType=DocumentItem&contextData=(sc.Search)" }{\fldrslt 
+{\f2 \strike0 \ul0 \b0 \sa0 \sb0 \fs20 \cf5 \i0 
+North American Co. v. SEC, 327 U.S. 686, 66 S.Ct. 785, 90 L.Ed. 945 (1946)
+}}}
+{\f2 \strike0 \ul0 \b0 \sa0 \sb0 \fs20 \cf1 \i0 
+. The Act was passed in the context of, and in response to, great concentrations of economic and even political power vested in power trusts, and the absence of antitrust enforcement to restrain the growth and practices of public utility holding companies. See S.Rep. No. 621, supra, at 11\u8212\'3f12; Utility Corporations\u8212\'3fSummary Report, 70th Cong., 1st Sess., S. Doc. No. 92, Part 73\u8212\'3fA, pp. 47\u8212\'3f54; 79 Cong.Rec. 8392 (1935).
+\par 
+}
+}
+}
+{\f2 \strike0 \ul0 \b0 \sa0 \sb0 \fs20 \cf1 \i0 
+\u160\'3f
+\par 
+}
+{\li0 \f2 \qj \b0 \ri0 \fs20 \cf1 \i0 
+{\li0 \f2 \qj \b0 \ri0 \fs20 \cf1 \i0 
+{\field {\*\fldinst HYPERLINK "#co_anchor_F51973126395_1" }{\fldrslt 
+{\super \f2 \strike0 \ul0 \b1 \sa0 \sb0 \fs20 \cf19 \i0 
+[5]
+}}}
+{\f2 \b0 \fs20 \cf5 \i0 
+{\*\bkmkstart co_anchor_B51973126395_1}{\*\bkmkend co_anchor_B51973126395_1}
+}
+{\f2 \strike0 \ul0 \b0 \sa0 \sb0 \fs20 \cf1 \i0 
+ In order to achieve federal regulation of these and other perceived problems on the operational level of the interstate public utility business, Tit. II was enacted. S.Rep. No. 621, supra, at 17; H.R.Rep. No. 1318, supra, at 7. Part II of Tit. II was denominated the 
+}
+{\f2 \b1 \fs20 \cf1 \i0 
+{\*\bkmkstart co_pp_sp_708_1878_1}{\*\bkmkend co_pp_sp_708_1878_1}
+{\f2 \strike0 \ul0 \b1 \sa0 \sb0 \fs20 \cf1 \i0 
+**1878
+}
+}
+{\f2 \strike0 \ul0 \b0 \sa0 \sb0 \fs20 \cf1 \i0 
+ Federal Power Act, 49 Stat. 863. Title II certainly did not preclude the operation of the antitrust laws, and it vested the Federal Power Commission with important and broad regulatory power in the areas described above. See 
+}
+{\field {\*\fldinst HYPERLINK "http://www.westlaw.com/Link/Document/FullText?findType=Y&serNum=1973126336&pubNum=708&originatingDoc=Iab938b559bf011d991d0cc6b54f12d4d&refType=RP&originationContext=document&vr=3.0&rs=cblt1.0&transitionType=DocumentItem&contextData=(sc.Search)" }{\fldrslt 
+{\f2 \strike0 \ul0 \b0 \sa0 \sb0 \fs20 \cf5 \i0 
+Otter Tail Power Co. v. United States, 410 U.S. 366, 93 S.Ct. 1022, 35 L.Ed.2d 359 (1973)
+}}}
+{\f2 \strike0 \ul0 \b0 \sa0 \sb0 \fs20 \cf1 \i0 
+; Meeks, Concentration in the Electric Power Industry: The Impact of Antitrust Policy, 72 Col.L.Rev. 64 (1972). This power clearly carries with it the responsibility to consider, in appropriate circumstances, the anticompetitive effects of regulated aspects of interstate 
+}
+{\f2 \b1 \fs20 \cf1 \i0 
+{\*\bkmkstart co_pp_sp_780_759_1}{\*\bkmkend co_pp_sp_780_759_1}
+{\f2 \strike0 \ul0 \b1 \sa0 \sb0 \fs20 \cf1 \i0 
+*759
+}
+}
+{\f2 \strike0 \ul0 \b0 \sa0 \sb0 \fs20 \cf1 \i0 
+ utility operations pursuant to ss 202 and 203, and under like directives contained in ss 205, 206, and 207. The Act did not render antitrust policy irrelevant to the Commission\rquote s regulation of the electric power industry. Indeed, within the confines of a basic natural monopoly structure, limited competition of the sort protected by the antitrust laws seems to have been anticipated. See 
+}
+{\field {\*\fldinst HYPERLINK "http://www.westlaw.com/Link/Document/FullText?findType=Y&serNum=1973126336&pubNum=708&originatingDoc=Iab938b559bf011d991d0cc6b54f12d4d&refType=RP&fi=co_pp_sp_708_1027&originationContext=document&vr=3.0&rs=cblt1.0&transitionType=DocumentItem&contextData=(sc.Search)#co_pp_sp_708_1027" }{\fldrslt 
+{\f2 \strike0 \ul0 \b0 \sa0 \sb0 \fs20 \cf5 \i0 
+Otter Tail Power Co. v. United States, supra, at 373\u8212\'3f374, 93 S.Ct., at 1027\u8212\'3f1028;
+}}}
+{\field {\*\fldinst HYPERLINK "http://www.westlaw.com/Link/Document/FullText?findType=Y&serNum=1962100705&pubNum=708&originatingDoc=Iab938b559bf011d991d0cc6b54f12d4d&refType=RP&originationContext=document&vr=3.0&rs=cblt1.0&transitionType=DocumentItem&contextData=(sc.Search)" }{\fldrslt 
+{\f2 \strike0 \ul0 \b0 \sa0 \sb0 \fs20 \cf5 \i0 
+California v. FPC, 369 U.S. 482, 82 S.Ct. 901, 8 L.Ed.2d 54 (1962)
+}}}
+{\f2 \strike0 \ul0 \b0 \sa0 \sb0 \fs20 \cf1 \i0 
+; S.Rep.No.621, supra, at 12; Hearings before the House Committee on Interstate and Foreign Commerce on H.R. 5423, 74th Cong., 1st Sess., 157\u8212\'3f159 (1935); Summary Report, supra, at 52; Meeks, supra.
+\par 
+}
+}
+}
+{\f2 \strike0 \ul0 \b0 \sa0 \sb0 \fs20 \cf1 \i0 
+\u160\'3f
+\par 
+}
+{\li0 \f2 \qj \b0 \ri0 \fs20 \cf1 \i0 
+{\li0 \f2 \qj \b0 \ri0 \fs20 \cf1 \i0 
+{\field {\*\fldinst HYPERLINK "#co_anchor_F61973126395_1" }{\fldrslt 
+{\super \f2 \strike0 \ul0 \b1 \sa0 \sb0 \fs20 \cf19 \i0 
+[6]
+}}}
+{\f2 \b0 \fs20 \cf5 \i0 
+{\*\bkmkstart co_anchor_B61973126395_1}{\*\bkmkend co_anchor_B61973126395_1}
+}
+{\field {\*\fldinst HYPERLINK "#co_anchor_F71973126395_1" }{\fldrslt 
+{\super \f2 \strike0 \ul0 \b1 \sa0 \sb0 \fs20 \cf19 \i0 
+[7]
+}}}
+{\f2 \b0 \fs20 \cf5 \i0 
+{\*\bkmkstart co_anchor_B71973126395_1}{\*\bkmkend co_anchor_B71973126395_1}
+}
+{\field {\*\fldinst HYPERLINK "#co_anchor_F81973126395_1" }{\fldrslt 
+{\super \f2 \strike0 \ul0 \b1 \sa0 \sb0 \fs20 \cf19 \i0 
+[8]
+}}}
+{\f2 \b0 \fs20 \cf5 \i0 
+{\*\bkmkstart co_anchor_B81973126395_1}{\*\bkmkend co_anchor_B81973126395_1}
+}
+{\field {\*\fldinst HYPERLINK "#co_anchor_F91973126395_1" }{\fldrslt 
+{\super \f2 \strike0 \ul0 \b1 \sa0 \sb0 \fs20 \cf19 \i0 
+[9]
+}}}
+{\f2 \b0 \fs20 \cf5 \i0 
+{\*\bkmkstart co_anchor_B91973126395_1}{\*\bkmkend co_anchor_B91973126395_1}
+}
+{\f2 \strike0 \ul0 \b0 \sa0 \sb0 \fs20 \cf1 \i0 
+ Nothing in the Act suggests that the \u8216\'3fpublic interest\u8217\'3f standard of s 204 contains any less broad directive than that contained in the other similarly worded and adjacent sections. Under the express language of s 204 the public interest is stressed as a governing factor. There is nothing that indicates that the meaning of that term is to be restricted to financial considerations, with every other aspect of the public interest ignored. Further, there is the section\rquote s requirement that the object of the issue be lawful. The Commission is directed to inquire into and to evaluate the purpose of the issue and the use to which its proceeds will be put. Without a more definite indication of contrary legislative purpose, we shall not read out of s 204 the requirement that the Commission consider matters relating to both the broad purposes of the Act and the fundamental national economic policy expressed in the antitrust laws. See 
+}
+{\field {\*\fldinst HYPERLINK "http://www.westlaw.com/Link/Document/FullText?findType=Y&serNum=1968131150&pubNum=708&originatingDoc=Iab938b559bf011d991d0cc6b54f12d4d&refType=RP&fi=co_pp_sp_708_1009&originationContext=document&vr=3.0&rs=cblt1.0&transitionType=DocumentItem&contextData=(sc.Search)#co_pp_sp_708_1009" }{\fldrslt 
+{\f2 \strike0 \ul0 \b0 \sa0 \sb0 \fs20 \cf5 \i0 
+FMC v. Svenska Amerika Linien, 390 U.S. 238, 244, 88 S.Ct. 1005, 1009, 19 L.Ed.2d 1071 (1968)
+}}}
+{\f2 \strike0 \ul0 \b0 \sa0 \sb0 \fs20 \cf1 \i0 
+; 
+}
+{\field {\*\fldinst HYPERLINK "http://www.westlaw.com/Link/Document/FullText?findType=Y&serNum=1962100705&pubNum=708&originatingDoc=Iab938b559bf011d991d0cc6b54f12d4d&refType=RP&fi=co_pp_sp_708_903&originationContext=document&vr=3.0&rs=cblt1.0&transitionType=DocumentItem&contextData=(sc.Search)#co_pp_sp_708_903" }{\fldrslt 
+{\f2 \strike0 \ul0 \b0 \sa0 \sb0 \fs20 \cf5 \i0 
+California v. FPC, 369 U.S., at 484\u8212\'3f485, 82 S.Ct., at 903\u8212\'3f904;
+}}}
+{\field {\*\fldinst HYPERLINK "http://www.westlaw.com/Link/Document/FullText?findType=Y&serNum=1953117429&pubNum=708&originatingDoc=Iab938b559bf011d991d0cc6b54f12d4d&refType=RP&fi=co_pp_sp_708_1004&originationContext=document&vr=3.0&rs=cblt1.0&transitionType=DocumentItem&contextData=(sc.Search)#co_pp_sp_708_1004" }{\fldrslt 
+{\f2 \strike0 \ul0 \b0 \sa0 \sb0 \fs20 \cf5 \i0 
+FCC v. RCA Communications, Inc., 346 U.S. 86, 94, 73 S.Ct. 998, 1004, 97 L.Ed. 1470 (1953)
+}}}
+{\f2 \strike0 \ul0 \b0 \sa0 \sb0 \fs20 \cf1 \i0 
+; 
+}
+{\field {\*\fldinst HYPERLINK "http://www.westlaw.com/Link/Document/FullText?findType=Y&serNum=1944116108&pubNum=708&originatingDoc=Iab938b559bf011d991d0cc6b54f12d4d&refType=RP&fi=co_pp_sp_708_377&originationContext=document&vr=3.0&rs=cblt1.0&transitionType=DocumentItem&contextData=(sc.Search)#co_pp_sp_708_377" }{\fldrslt 
+{\f2 \strike0 \ul0 \b0 \sa0 \sb0 \fs20 \cf5 \i0 
+McLean Trucking Co. v. United States, 321 U.S. 67, 80, 64 S.Ct. 370, 377, 88 L.Ed. 544 (1944)
+}}}
+{\f2 \strike0 \ul0 \b0 \sa0 \sb0 \fs20 \cf1 \i0 
+. Cf. 
+}
+{\f2 \b1 \fs20 \cf1 \i0 
+{\*\bkmkstart co_pp_sp_780_760_1}{\*\bkmkend co_pp_sp_780_760_1}
+{\f2 \strike0 \ul0 \b1 \sa0 \sb0 \fs20 \cf1 \i0 
+*760
+}
+}
+{\field {\*\fldinst HYPERLINK "http://www.westlaw.com/Link/Document/FullText?findType=Y&serNum=1962100705&originatingDoc=Iab938b559bf011d991d0cc6b54f12d4d&refType=RP&originationContext=document&vr=3.0&rs=cblt1.0&transitionType=DocumentItem&contextData=(sc.Search)" }{\fldrslt 
+{\f2 \strike0 \ul0 \b0 \sa0 \sb0 \fs20 \cf5 \i0 
+Report of National Power Policy Committee on Public-Utility Holding Companies, in S.Rep.No.621, supra, at 55, 59 (App.)
+}}}
+{\f2 \strike0 \ul0 \b0 \sa0 \sb0 \fs20 \cf1 \i0 
+. Consideration of antitrust and anticompetitive issues by the Commission, moreover, serves the important function of establishing a first line of defense against those competitive practices that might later be the subject of antitrust proceedings. This is particularly significant in the context of a security issue under s 204, for appropriate consideration at a pre-issue stage may avoid the need later to unravel complex transactions in granting relief under the antitrust laws or other sections of the Federal Power Act.
+\par 
+}
+}
+}
+{\f2 \strike0 \ul0 \b0 \sa0 \sb0 \fs20 \cf1 \i0 
+\u160\'3f
+\par 
+}
+{\li0 \f2 \qj \b0 \ri0 \fs20 \cf1 \i0 
+{\li0 \f2 \qj \b0 \ri0 \fs20 \cf1 \i0 
+{\field {\*\fldinst HYPERLINK "#co_anchor_F101973126395_1" }{\fldrslt 
+{\super \f2 \strike0 \ul0 \b1 \sa0 \sb0 \fs20 \cf19 \i0 
+[10]
+}}}
+{\f2 \b0 \fs20 \cf5 \i0 
+{\*\bkmkstart co_anchor_B101973126395_1}{\*\bkmkend co_anchor_B101973126395_1}
+}
+{\f2 \strike0 \ul0 \b0 \sa0 \sb0 \fs20 \cf1 \i0 
+ Our conclusion is reinforced by the decision in 
+}
+{\field {\*\fldinst HYPERLINK "http://www.westlaw.com/Link/Document/FullText?findType=Y&serNum=1967129536&pubNum=708&originatingDoc=Iab938b559bf011d991d0cc6b54f12d4d&refType=RP&originationContext=document&vr=3.0&rs=cblt1.0&transitionType=DocumentItem&contextData=(sc.Search)" }{\fldrslt 
+{\f2 \strike0 \ul0 \b0 \sa0 \sb0 \fs20 \cf5 \i0 
+Denver & R.G.W.R. Co. v. United States, 387 U.S. 485, 87 S.Ct. 1754, 18 L.Ed.2d 905 (1967)
+}}}
+{\f2 \strike0 \ul0 \b0 \sa0 \sb0 \fs20 \cf1 \i0 
+. In that case the Court concluded that the Interstate Commerce Commission, in performing its duty under s 20a(2) of the Interstate Commerce Act, 49 U.S.C. s 20a(2), to determine whether the issuance of a particular security is \u8216\'3ffor some lawful object . . . and compatible with the public interest,\u8217\'3f is required, as a general rule, to consider the anticompetitive consequences of the issue. Section 204 of the Federal Power Act was modeled upon s 20a of the Interstate Commerce Act. The initial draft of s 204 was without any broad reference to the public interest. Instead, it identified four specific purposes for which a utility could issue a 
+}
+{\f2 \b1 \fs20 \cf1 \i0 
+{\*\bkmkstart co_pp_sp_708_1879_1}{\*\bkmkend co_pp_sp_708_1879_1}
+{\f2 \strike0 \ul0 \b1 \sa0 \sb0 \fs20 \cf1 \i0 
+**1879
+}
+}
+{\f2 \strike0 \ul0 \b0 \sa0 \sb0 \fs20 \cf1 \i0 
+ security (property acquisition; expansion or improvement of facilities or service; discharge or lawful refunding of obligations; and reimbursement of other expenditures for such purposes). H.R. 5423, s 206, 
+}
+{\field {\*\fldinst HYPERLINK "http://www.westlaw.com/Link/Document/FullText?findType=Y&pubNum=0001503&cite=SREP74&originatingDoc=Iab938b559bf011d991d0cc6b54f12d4d&refType=TV&originationContext=document&vr=3.0&rs=cblt1.0&transitionType=DocumentItem&contextData=(sc.Search)" }{\fldrslt 
+{\f2 \strike0 \ul0 \b0 \sa0 \sb0 \fs20 \cf5 \i0 
+74th
+}}}
+{\f2 \strike0 \ul0 \b0 \sa0 \sb0 \fs20 \cf1 \i0 
+ Cong., 1st Sess., 108\u8212\'3f109; S. 1725, s 206, 74th Cong., 1st Sess., 109\u8212\'3f110.
+}
+{\f2 \b0 \fs16 \cf1 \i0 
+{\*\bkmkstart co_footnoteReference_B00871973126395_ID0}{\*\bkmkend co_footnoteReference_B00871973126395_ID0}
+{\field {\*\fldinst HYPERLINK "#co_footnote_B00871973126395_1" }{\fldrslt 
+{\super \f2 \strike0 \ul0 \b0 \sa0 \sb0 \fs16 \cf5 \i0 
+7
+}}}
+}
+{\f2 \strike0 \ul0 \b0 \sa0 \sb0 \fs20 \cf1 \i0 
+ This 
+}
+{\f2 \b1 \fs20 \cf1 \i0 
+{\*\bkmkstart co_pp_sp_780_761_1}{\*\bkmkend co_pp_sp_780_761_1}
+{\f2 \strike0 \ul0 \b1 \sa0 \sb0 \fs20 \cf1 \i0 
+*761
+}
+}
+{\f2 \strike0 \ul0 \b0 \sa0 \sb0 \fs20 \cf1 \i0 
+ provision intentionally was replaced with the broader language now contained in s 204 in order \u8216\'3fto attain greater flexibility and workability than would have been possible under the original section. The language defining the purposes for which securities may be issued has been taken substantially from section 20a of the Interstate Commerce Act, which has proved its usefulness.\u8217\'3f S.Rep. No. 621, supra, at 20. There was, thus, a departure from the specific, and a selection of the general. We perceive no reason to view the responsibility placed on the FPC under s 204 differently from the ICC\rquote s responsibility under s 20a of the Interstate Commerce Act. Each agency possesses broad regulatory authority. Each is charged with responsibility for considering antitrust policy under its statute. And s 204 and s 20a are virtually identical in language.
+}
+{\f2 \b0 \fs16 \cf1 \i0 
+{\*\bkmkstart co_footnoteReference_B00981973126395_ID0}{\*\bkmkend co_footnoteReference_B00981973126395_ID0}
+{\field {\*\fldinst HYPERLINK "#co_footnote_B00981973126395_1" }{\fldrslt 
+{\super \f2 \strike0 \ul0 \b0 \sa0 \sb0 \fs16 \cf5 \i0 
+8
+}}}
+}
+{\f2 \strike0 \ul0 \b0 \sa0 \sb0 \fs20 \cf1 \i0 
+ The fact that the ICC has a specific obligation under s 11(a) of the Clayton Act, 
+}
+{\field {\*\fldinst HYPERLINK "http://www.westlaw.com/Link/Document/FullText?findType=L&pubNum=1000546&cite=15USCAS21&originatingDoc=Iab938b559bf011d991d0cc6b54f12d4d&refType=RB&originationContext=document&vr=3.0&rs=cblt1.0&transitionType=DocumentItem&contextData=(sc.Search)#co_pp_8b3b0000958a4" }{\fldrslt 
+{\f2 \strike0 \ul0 \b0 \sa0 \sb0 \fs20 \cf5 \i0 
+15 U.S.C. s 21(a)
+}}}
+{\f2 \strike0 \ul0 \b0 \sa0 \sb0 \fs20 \cf1 \i0 
+, to enforce s 7 of that Act, as well as a responsibility to advance the National Transportation Policy, did not control the decision in the 
+}
+{\field {\*\fldinst HYPERLINK "http://www.westlaw.com/Link/Document/FullText?findType=Y&serNum=1967129536&pubNum=708&originatingDoc=Iab938b559bf011d991d0cc6b54f12d4d&refType=RP&fi=co_pp_sp_708_1759&originationContext=document&vr=3.0&rs=cblt1.0&transitionType=DocumentItem&contextData=(sc.Search)#co_pp_sp_708_1759" }{\fldrslt 
+{\f2 \strike0 \ul0 \b0 \sa0 \sb0 \fs20 \cf5 \i0 
+Denver case, see 387 U.S., at 492\u8212\'3f493, 87 S.Ct., at 1759\u8212\'3f1760,
+}}}
+{\f2 \strike0 \ul0 \b0 \sa0 \sb0 \fs20 \cf1 \i0 
+ and the absence of a parallel reference in s 11 of the Clayton Act with respect to the FPC is not to be 
+}
+{\f2 \b1 \fs20 \cf1 \i0 
+{\*\bkmkstart co_pp_sp_780_762_1}{\*\bkmkend co_pp_sp_780_762_1}
+{\f2 \strike0 \ul0 \b1 \sa0 \sb0 \fs20 \cf1 \i0 
+*762
+}
+}
+{\f2 \strike0 \ul0 \b0 \sa0 \sb0 \fs20 \cf1 \i0 
+ deemed controlling. Cf. 
+}
+{\field {\*\fldinst HYPERLINK "http://www.westlaw.com/Link/Document/FullText?findType=Y&serNum=1962100705&pubNum=708&originatingDoc=Iab938b559bf011d991d0cc6b54f12d4d&refType=RP&originationContext=document&vr=3.0&rs=cblt1.0&transitionType=DocumentItem&contextData=(sc.Search)" }{\fldrslt 
+{\f2 \strike0 \ul0 \b0 \sa0 \sb0 \fs20 \cf5 \i0 
+California v. FPC, 369 U.S. 482, 82 S.Ct. 901, 8 L.Ed.2d 54 (1962)
+}}}
+{\f2 \strike0 \ul0 \b0 \sa0 \sb0 \fs20 \cf1 \i0 
+.
+\par 
+}
+}
+}
+{\f2 \strike0 \ul0 \b0 \sa0 \sb0 \fs20 \cf1 \i0 
+\u160\'3f
+\par 
+}
+{\li0 \f2 \qj \b0 \ri0 \fs20 \cf1 \i0 {
+{\trowd \lastrow \trleft0 
+\clbrdrt \clbrdrb \clbrdrl \trql \clvertalt \clwWidth600 \cellx600 
+\clpadb90 \clpadfb3 \clpadl90 \clpadfl3 \clbrdrt \clbrdrb \clbrdrr \trql \clwWidth9480 \cellx10080 
+\intbl 
+{\li0 \ri0 
+{\li0 \f2 \b0 \ql \ri0 \fs20 \cf1 \i0 
+{\f2 \b0 \fs20 \cf1 \i0 
+{\*\bkmkstart co_footnote_B00871973126395_1}{\*\bkmkend co_footnote_B00871973126395_1}
+{\field {\*\fldinst HYPERLINK "#co_footnoteReference_B00871973126395_ID0" }{\fldrslt 
+{\super \f2 \strike0 \ul0 \b0 \sa0 \sb0 \fs20 \cf5 \i0 
+7
+}\f2 \super \strike0 \ul0 \b0 \sa0 \sb0 \fs20 \cf5 \i0 }}
+\par 
+}
+}
+}\f2 \li0 \b0 \ql \fs20 \ri0 \cf1 \i0 \intbl \cell \intbl 
+{\li0 \ri0 
+{\li0 \f2 \qj \b0 \ri0 \fs18 \cf1 \i0 
+{\li0 \f2 \qj \b0 \ri0 \fs18 \cf1 \i0 
+{\li0 \f2 \qj \b0 \ri0 \fs18 \cf1 \i0 
+{\f2 \strike0 \ul0 \b0 \sa0 \sb0 \fs18 \cf1 \i0 
+\u8216\'3fSec. 206(a). No public utility shall issue any security, or assume any obligation or liability as guarantor, indorser, surety, or otherwise in respect of any security of another person, unless and until, and then only to the extent that, upon application by the public utility, the Commission by order authorizes such issue or assumption of liability. The Commission shall make such order only if it finds that such issue or assumption of liability is for one or more of the following purposes and no others, and is reasonably necessary or appropriate for such purpose or purposes; the acquisition of property; the construction, completion, extension or improvement of the facilities or service of the public utility; the discharge or lawful refunding of its obligations; and the reimbursement of moneys actually expended from sources other than the issue of securities for any of the aforesaid purposes in cases where the applicant shall have kept its accounts and vouchers for such expenditures in such manner as to enable the Commission to ascertain the amount of moneys so expended and the purpose for which such expenditure was made.\u8217\'3f
+\par 
+}
+}
+{\li0 \f2 \qj \b0 \ri0 \fs18 \cf1 \i0 
+{\f2 \strike0 \ul0 \b0 \sa0 \sb0 \fs18 \cf1 \i0 
+The foregoing was the Senate version. Except for one spelling and two punctuational differences, the House version was identical.
+\par 
+}
+}
+}
+}
+}\f2 \li0 \strike0 \ul0 \b0 \qj \sa0 \sb0 \fs18 \ri0 \cf1 \i0 \intbl \cell \row }}\par 
+}
+{\li0 \f2 \qj \b0 \ri0 \fs20 \cf1 \i0 {
+{\trowd \lastrow \trleft0 
+\clbrdrt \clbrdrb \clbrdrl \trql \clvertalt \clwWidth600 \cellx600 
+\clpadb90 \clpadfb3 \clpadl90 \clpadfl3 \clbrdrt \clbrdrb \clbrdrr \trql \clwWidth9480 \cellx10080 
+\intbl 
+{\li0 \ri0 
+{\li0 \f2 \b0 \ql \ri0 \fs20 \cf1 \i0 
+{\f2 \b0 \fs20 \cf1 \i0 
+{\*\bkmkstart co_footnote_B00981973126395_1}{\*\bkmkend co_footnote_B00981973126395_1}
+{\field {\*\fldinst HYPERLINK "#co_footnoteReference_B00981973126395_ID0" }{\fldrslt 
+{\super \f2 \strike0 \ul0 \b0 \sa0 \sb0 \fs20 \cf5 \i0 
+8
+}\f2 \super \strike0 \ul0 \b0 \sa0 \sb0 \fs20 \cf5 \i0 }}
+\par 
+}
+}
+}\f2 \li0 \b0 \ql \fs20 \ri0 \cf1 \i0 \intbl \cell \intbl 
+{\li0 \ri0 
+{\li0 \f2 \qj \b0 \ri0 \fs18 \cf1 \i0 
+{\li0 \f2 \qj \b0 \ri0 \fs18 \cf1 \i0 
+{\li0 \f2 \qj \b0 \ri0 \fs18 \cf1 \i0 
+{\f2 \strike0 \ul0 \b0 \sa0 \sb0 \fs18 \cf1 \i0 
+The FPC has so recognized. 
+}
+{\field {\*\fldinst HYPERLINK "http://www.westlaw.com/Link/Document/FullText?findType=Y&serNum=1962500459&pubNum=921&originatingDoc=Iab938b559bf011d991d0cc6b54f12d4d&refType=CA&fi=co_pp_sp_921_627&originationContext=document&vr=3.0&rs=cblt1.0&transitionType=DocumentItem&contextData=(sc.Search)#co_pp_sp_921_627" }{\fldrslt 
+{\f2 \strike0 \ul0 \b0 \sa0 \sb0 \fs18 \cf5 \i0 
+Pacific Power & Light Co., 27 F.P.C. 623, 627 (1962)
+}\f2 \strike0 \ul0 \b0 \sa0 \sb0 \fs18 \cf5 \i0 }}
+{\f2 \strike0 \ul0 \b0 \sa0 \sb0 \fs18 \cf1 \i0 
+.
+\par 
+}
+}
+}
+}
+}\f2 \li0 \strike0 \ul0 \b0 \qj \sa0 \sb0 \fs18 \ri0 \cf1 \i0 \intbl \cell \row }}\par 
+}
+}
+{\li0 \f2 \qj \b0 \ri0 \fs20 \cf1 \i0 
+{\*\bkmkstart co_anchor_I1f6b3e02048911e598db8b09b4f04}{\*\bkmkend co_anchor_I1f6b3e02048911e598db8b09b4f04}
+\par 
+{\li0 \f2 \b1 \ri0 \fs20 \cf1 \qc \i0 
+{\f2 \b1 \fs20 \cf1 \i0 
+{\f2 \strike0 \ul0 \b1 \sa200 \sb400 \fs20 \cf1 \i0 
+III
+\par 
+}
+}
+}
+{\li0 \f2 \qj \b0 \ri0 \fs20 \cf1 \i0 
+{\li0 \f2 \qj \b0 \ri0 \fs20 \cf1 \i0 
+{\f2 \strike0 \ul0 \b0 \sa0 \sb200 \fs20 \cf1 \i0 
+Our conclusion that the FPC must consider anticompetitive aspects of a security issue to which s 204 applies does not end the inquiry, for two subordinate questions remain: whether the agency abused its authority in refusing to hold a hearing on the Cities\rquote  objections, and whether, on the facts of this case, the Commission improperly rejected the Cities\rquote  allegations out of hand on the ground that they were irrelevant to the security issue for which Gulf sought approval.
+\par 
+}
+}
+}
+{\li0 \f2 \qj \b0 \ri0 \fs20 \cf1 \i0 
+{\li0 \f2 \qj \b0 \ri0 \fs20 \cf1 \i0 
+{\field {\*\fldinst HYPERLINK "#co_anchor_F111973126395_1" }{\fldrslt 
+{\super \f2 \strike0 \ul0 \b1 \sa0 \sb0 \fs20 \cf19 \i0 
+[11]
+}}}
+{\f2 \b0 \fs20 \cf5 \i0 
+{\*\bkmkstart co_anchor_B111973126395_1}{\*\bkmkend co_anchor_B111973126395_1}
+}
+{\f2 \strike0 \ul0 \b0 \sa0 \sb0 \fs20 \cf1 \i0 
+ Gulf asserts that even if the Commission is required to investigate and to consider the Cities\rquote  objections under s 204, its refusal to do so here was not error, for the Commission may summarily dispose of objections of this kind without a hearing and extended investigation. Our conclusion that, as a general rule, the Commission must consider anticompetitive consequences of a security issue under s 204 does not mean that the Commission must hold a hearing on objections in every case. Neither does it mean that every allegation must be fully investigated regardless of its facial merit, or that consideration of the allegations may not, in appropriate circumstances,
+}
+{\f2 \b1 \fs20 \cf1 \i0 
+{\*\bkmkstart co_pp_sp_708_1880_1}{\*\bkmkend co_pp_sp_708_1880_1}
+{\f2 \strike0 \ul0 \b1 \sa0 \sb0 \fs20 \cf1 \i0 
+**1880
+}
+}
+{\f2 \strike0 \ul0 \b0 \sa0 \sb0 \fs20 \cf1 \i0 
+ be deferred, or that the major portion of a securities issue may not forthwith be authorized and only the remainder withheld for further study.
+}
+{\f2 \b0 \fs16 \cf1 \i0 
+{\*\bkmkstart co_footnoteReference_B01091973126395_ID0}{\*\bkmkend co_footnoteReference_B01091973126395_ID0}
+{\field {\*\fldinst HYPERLINK "#co_footnote_B01091973126395_1" }{\fldrslt 
+{\super \f2 \strike0 \ul0 \b0 \sa0 \sb0 \fs16 \cf5 \i0 
+9
+}}}
+}
+{\f2 \strike0 \ul0 \b0 \sa0 \sb0 \fs20 \cf1 \i0 
+ So strict a rule would unduly limit the discretion the Commission must have in order to mold its procedures to the exigencies of the particular case, and would be unrealistic in the light of the nature of a proceeding under s 204. The need for flexibility, planning, and rapid coordinated action is particularly 
+}
+{\f2 \b1 \fs20 \cf1 \i0 
+{\*\bkmkstart co_pp_sp_780_763_1}{\*\bkmkend co_pp_sp_780_763_1}
+{\f2 \strike0 \ul0 \b1 \sa0 \sb0 \fs20 \cf1 \i0 
+*763
+}
+}
+{\f2 \strike0 \ul0 \b0 \sa0 \sb0 \fs20 \cf1 \i0 
+ acute with respect to the sale of a security on the market. But where the Commission summarily disposes of proffered objections, or where it exercises its discretion to approve an issue without considering its anticompetitive consequences, \u8216\'3fthe reviewing court must closely scrutinize its action in light of the . . . statutory obligations to protect the public interest and to enforce the antitrust laws. Whether or not an abuse of discretion is present must ultimately depend upon the transaction approved, its possible consequences, and any justifications for the deferral\u8217\'3f or summary treatment. 
+}
+{\field {\*\fldinst HYPERLINK "http://www.westlaw.com/Link/Document/FullText?findType=Y&serNum=1967129536&pubNum=708&originatingDoc=Iab938b559bf011d991d0cc6b54f12d4d&refType=RP&fi=co_pp_sp_708_1762&originationContext=document&vr=3.0&rs=cblt1.0&transitionType=DocumentItem&contextData=(sc.Search)#co_pp_sp_708_1762" }{\fldrslt 
+{\f2 \strike0 \ul0 \b0 \sa0 \sb0 \fs20 \cf5 \i0 
+Denver, 387 U.S., at 498, 87 S.Ct., at 1762.
+}}}
+{\f2 \strike0 \ul0 \b0 \sa0 \sb0 \fs20 \cf1 \i0 
+ Denver, as we have noted, concerned the ICC, but the foregoing quotation from that opinion has equally forceful application in the FPC context.
+\par 
+}
+}
+}
+{\f2 \strike0 \ul0 \b0 \sa0 \sb0 \fs20 \cf1 \i0 
+\u160\'3f
+\par 
+}
+{\li0 \f2 \qj \b0 \ri0 \fs20 \cf1 \i0 {
+{\trowd \lastrow \trleft0 
+\clbrdrt \clbrdrb \clbrdrl \trql \clvertalt \clwWidth600 \cellx600 
+\clpadb90 \clpadfb3 \clpadl90 \clpadfl3 \clbrdrt \clbrdrb \clbrdrr \trql \clwWidth9480 \cellx10080 
+\intbl 
+{\li0 \ri0 
+{\li0 \f2 \b0 \ql \ri0 \fs20 \cf1 \i0 
+{\f2 \b0 \fs20 \cf1 \i0 
+{\*\bkmkstart co_footnote_B01091973126395_1}{\*\bkmkend co_footnote_B01091973126395_1}
+{\field {\*\fldinst HYPERLINK "#co_footnoteReference_B01091973126395_ID0" }{\fldrslt 
+{\super \f2 \strike0 \ul0 \b0 \sa0 \sb0 \fs20 \cf5 \i0 
+9
+}\f2 \super \strike0 \ul0 \b0 \sa0 \sb0 \fs20 \cf5 \i0 }}
+\par 
+}
+}
+}\f2 \li0 \b0 \ql \fs20 \ri0 \cf1 \i0 \intbl \cell \intbl 
+{\li0 \ri0 
+{\li0 \f2 \qj \b0 \ri0 \fs18 \cf1 \i0 
+{\li0 \f2 \qj \b0 \ri0 \fs18 \cf1 \i0 
+{\li0 \f2 \qj \b0 \ri0 \fs18 \cf1 \i0 
+{\f2 \strike0 \ul0 \b0 \sa0 \sb0 \fs18 \cf1 \i0 
+The Court of Appeals meticulously outlined various options available to the 
+}
+{\field {\*\fldinst HYPERLINK "http://www.westlaw.com/Link/Document/FullText?findType=Y&serNum=1971114124&pubNum=350&originatingDoc=Iab938b559bf011d991d0cc6b54f12d4d&refType=RP&fi=co_pp_sp_350_953&originationContext=document&vr=3.0&rs=cblt1.0&transitionType=DocumentItem&contextData=(sc.Search)#co_pp_sp_350_953" }{\fldrslt 
+{\f2 \strike0 \ul0 \b0 \sa0 \sb0 \fs18 \cf5 \i0 
+Commission. 147 U.S.App.D.C., at 110\u8212\'3f111, 454 F.2d, at 953\u8212\'3f954
+}\f2 \strike0 \ul0 \b0 \sa0 \sb0 \fs18 \cf5 \i0 }}
+{\f2 \strike0 \ul0 \b0 \sa0 \sb0 \fs18 \cf1 \i0 
+.
+\par 
+}
+}
+}
+}
+}\f2 \li0 \strike0 \ul0 \b0 \qj \sa0 \sb0 \fs18 \ri0 \cf1 \i0 \intbl \cell \row }}\par 
+}
+{\li0 \f2 \qj \b0 \ri0 \fs20 \cf1 \i0 
+{\li0 \f2 \qj \b0 \ri0 \fs20 \cf1 \i0 
+{\field {\*\fldinst HYPERLINK "#co_anchor_F121973126395_1" }{\fldrslt 
+{\super \f2 \strike0 \ul0 \b1 \sa0 \sb0 \fs20 \cf19 \i0 
+[12]
+}}}
+{\f2 \b0 \fs20 \cf5 \i0 
+{\*\bkmkstart co_anchor_B121973126395_1}{\*\bkmkend co_anchor_B121973126395_1}
+}
+{\field {\*\fldinst HYPERLINK "#co_anchor_F131973126395_1" }{\fldrslt 
+{\super \f2 \strike0 \ul0 \b1 \sa0 \sb0 \fs20 \cf19 \i0 
+[13]
+}}}
+{\f2 \b0 \fs20 \cf5 \i0 
+{\*\bkmkstart co_anchor_B131973126395_1}{\*\bkmkend co_anchor_B131973126395_1}
+}
+{\field {\*\fldinst HYPERLINK "#co_anchor_F141973126395_1" }{\fldrslt 
+{\super \f2 \strike0 \ul0 \b1 \sa0 \sb0 \fs20 \cf19 \i0 
+[14]
+}}}
+{\f2 \b0 \fs20 \cf5 \i0 
+{\*\bkmkstart co_anchor_B141973126395_1}{\*\bkmkend co_anchor_B141973126395_1}
+}
+{\f2 \strike0 \ul0 \b0 \sa0 \sb0 \fs20 \cf1 \i0 
+ Gulf also strenuously urges that the Commission in fact did consider Cities\rquote  allegations, although summarily, and properly rejected them on their merits as having no relation to the security issue or to any possible future anticompetitive conduct in which Gulf might engage. We have noted above that the Court of Appeals observed, 
+}
+{\field {\*\fldinst HYPERLINK "http://www.westlaw.com/Link/Document/FullText?findType=Y&serNum=1971114124&pubNum=350&originatingDoc=Iab938b559bf011d991d0cc6b54f12d4d&refType=RP&fi=co_pp_sp_350_952&originationContext=document&vr=3.0&rs=cblt1.0&transitionType=DocumentItem&contextData=(sc.Search)#co_pp_sp_350_952" }{\fldrslt 
+{\f2 \strike0 \ul0 \b0 \sa0 \sb0 \fs20 \cf5 \i0 
+147 U.S.App.D.C., at 109, 454 F.2d, at 952,
+}}}
+{\f2 \strike0 \ul0 \b0 \sa0 \sb0 \fs20 \cf1 \i0 
+ that certain aspects of this argument are not without substantial appeal. On the basis of the record before us, we cannot say that, upon consideration of the objections raised by the Cities, the Commission would not be justified in rejecting them summarily. But such summary action may not go unexplained in the face of the statutory obligation placed on the Commission under s 204. The decision the Commission thus far has made provides us with an inadequate explanation of its reasons for disposing of the Cities\rquote  objections on their merits, if that in fact is what occurred. We are provided with no explanation of why summary action was warranted, and we are provided with no reason for the Commission\rquote s possible conclusion that the objections were meritless. 
+}
+{\f2 \b1 \fs20 \cf1 \i0 
+{\*\bkmkstart co_pp_sp_780_764_1}{\*\bkmkend co_pp_sp_780_764_1}
+{\f2 \strike0 \ul0 \b1 \sa0 \sb0 \fs20 \cf1 \i0 
+*764
+}
+}
+{\f2 \strike0 \ul0 \b0 \sa0 \sb0 \fs20 \cf1 \i0 
+ Without more, we are unable \u8216\'3fclosely (to) scrutinize\u8217\'3f the Commission\rquote s action. Nor may me supply an alternative, unstated ground to support an agency\rquote s decision if that ground is one that \u8216\'3fthe agency alone is authorized to make.\u8217\'3f 
+}
+{\field {\*\fldinst HYPERLINK "http://www.westlaw.com/Link/Document/FullText?findType=Y&serNum=1943120800&pubNum=708&originatingDoc=Iab938b559bf011d991d0cc6b54f12d4d&refType=RP&fi=co_pp_sp_708_459&originationContext=document&vr=3.0&rs=cblt1.0&transitionType=DocumentItem&contextData=(sc.Search)#co_pp_sp_708_459" }{\fldrslt 
+{\f2 \strike0 \ul0 \b0 \sa0 \sb0 \fs20 \cf5 \i0 
+SEC v. Chenery Corp., 318 U.S. 80, 88, 63 S.Ct. 454, 459, 87 L.Ed. 626 (1943)
+}}}
+{\f2 \strike0 \ul0 \b0 \sa0 \sb0 \fs20 \cf1 \i0 
+.
+\par 
+}
+}
+}
+{\f2 \strike0 \ul0 \b0 \sa0 \sb0 \fs20 \cf1 \i0 
+\u160\'3f
+\par 
+}
+{\li0 \f2 \qj \b0 \ri0 \fs20 \cf1 \i0 
+{\li0 \f2 \qj \b0 \ri0 \fs20 \cf1 \i0 
+{\f2 \strike0 \ul0 \b0 \sa0 \sb200 \fs20 \cf1 \i0 
+The decision of the Court of Appeals in remanding the case to the Federal Power Commission is affirmed.
+\par 
+}
+}
+}
+{\li0 \f2 \qj \b0 \ri0 \fs20 \cf1 \i0 
+{\li0 \f2 \qj \b0 \ri0 \fs20 \cf1 \i0 
+{\f2 \strike0 \ul0 \b0 \sa0 \sb200 \fs20 \cf1 \i0 
+Affirmed.
+\par 
+}
+}
+}
+}
+}
+}
+}
+}
+{\li0 \f2 \qj \b0 \ri0 \fs20 \cf1 \i0 
+{\li0 \f2 \qj \b1 \ri0 \fs20 \cf19 \i0 
+{\*\bkmkstart co_dissent_opinion_1}{\*\bkmkend co_dissent_opinion_1}
+\par 
+}
+{\li0 \f2 \qj \b0 \ri0 \fs20 \cf1 \i0 
+{\li0 \f2 \qj \b0 \ri0 \fs20 \cf1 \i0 
+{\li0 \f2 \qj \b0 \ri0 \fs20 \cf1 \i0 
+{\li0 \f2 \qj \b0 \ri0 \fs20 \cf1 \i0 
+{\f2 \strike0 \ul0 \b0 \sa0 \sb200 \fs20 \cf1 \i0 
+Mr. Justice POWELL, with whom Mr. Justice STEWART and Mr. Justice REHNQUIST join, dissenting.
+\par 
+}
+}
+}
+{\li0 \f2 \qj \b0 \ri0 \fs20 \cf1 \i0 
+{\li0 \f2 \qj \b0 \ri0 \fs20 \cf1 \i0 
+{\*\bkmkstart co_anchor_I1f6b3e07048911e598db8b09b4f04}{\*\bkmkend co_anchor_I1f6b3e07048911e598db8b09b4f04}
+\par 
+{\li0 \f2 \qj \b0 \ri0 \fs20 \cf1 \i0 
+{\li0 \f2 \qj \b0 \ri0 \fs20 \cf1 \i0 
+{\f2 \strike0 \ul0 \b0 \sa0 \sb0 \fs20 \cf1 \i0 
+This case raises the question whether the Federal Power Commission (the Commission) must consider the possible anticompetitive effect of a public utility\rquote s application under s 204 of the Federal Power Act, 
+}
+{\field {\*\fldinst HYPERLINK "http://www.westlaw.com/Link/Document/FullText?findType=L&pubNum=1000546&cite=16USCAS824C&originatingDoc=Iab938b559bf011d991d0cc6b54f12d4d&refType=LQ&originationContext=document&vr=3.0&rs=cblt1.0&transitionType=DocumentItem&contextData=(sc.Search)" }{\fldrslt 
+{\f2 \strike0 \ul0 \b0 \sa0 \sb0 \fs20 \cf5 \i0 
+16 U.S.C. s 824c
+}}}
+{\f2 \strike0 \ul0 \b0 \sa0 \sb200 \fs20 \cf1 \i0 
+, for authority to issue a security. Section 204 provides in relevant part that the Commission shall authorize the issuance of a security
+\par 
+}
+}
+{\li0 \f2 \qj \b0 \ri0 \fs20 \cf1 \i0 
+{\li0 \f2 \qj \b0 \ri0 \fs20 \cf1 \i0 
+{\f2 \strike0 \ul0 \b0 \sa0 \sb0 \fs20 \cf1 \i0 
+\u8216\'3fonly if it finds that such issue or assumption (a) is for some lawful object, within the corporate purposes of the applicant and compatible with the public interest, which is necessary or appropriate for or consistent with the proper performance by the applicant of service as a public utility and which will not impair its ability to perform that service, and (b) is reasonably
+}
+{\f2 \b1 \fs20 \cf1 \i0 
+{\*\bkmkstart co_pp_sp_708_1881_1}{\*\bkmkend co_pp_sp_708_1881_1}
+{\f2 \strike0 \ul0 \b1 \sa0 \sb0 \fs20 \cf1 \i0 
+**1881
+}
+}
+{\f2 \strike0 \ul0 \b0 \sa0 \sb0 \fs20 \cf1 \i0 
+ necessary or appropriate for such purposes.\u8217\'3f 
+}
+{\field {\*\fldinst HYPERLINK "http://www.westlaw.com/Link/Document/FullText?findType=L&pubNum=1000546&cite=16USCAS824C&originatingDoc=Iab938b559bf011d991d0cc6b54f12d4d&refType=RB&originationContext=document&vr=3.0&rs=cblt1.0&transitionType=DocumentItem&contextData=(sc.Search)#co_pp_8b3b0000958a4" }{\fldrslt 
+{\f2 \strike0 \ul0 \b0 \sa0 \sb0 \fs20 \cf5 \i0 
+16 U.S.C. s 824c(a)
+}}}
+{\f2 \strike0 \ul0 \b0 \sa0 \sb0 \fs20 \cf1 \i0 
+ (emphasis supplied).
+\par 
+}
+}
+}
+{\f2 \strike0 \ul0 \b0 \sa0 \sb0 \fs20 \cf1 \i0 
+\u160\'3f
+\par 
+}
+}
+{\li0 \f2 \qj \b0 \ri0 \fs20 \cf1 \i0 
+{\li0 \f2 \qj \b0 \ri0 \fs20 \cf1 \i0 
+{\f2 \strike0 \ul0 \b0 \sa0 \sb0 \fs20 \cf1 \i0 
+Rejecting the Commission\rquote s own structuring of its responsibilities and repudiating its uniform administrative interpretation for more than a third of a century, the Court today finds implicit in s 204\rquote s use of the phrase \u8216\'3fthe public interest\u8217\'3f a duty on the part of the Commission, when acting upon a financing application, to consider any possible anticompetitive effect that may be 
+}
+{\f2 \b1 \fs20 \cf1 \i0 
+{\*\bkmkstart co_pp_sp_780_765_1}{\*\bkmkend co_pp_sp_780_765_1}
+{\f2 \strike0 \ul0 \b1 \sa0 \sb0 \fs20 \cf1 \i0 
+*765
+}
+}
+{\f2 \strike0 \ul0 \b0 \sa0 \sb0 \fs20 \cf1 \i0 
+ alleged. As I am persuaded neither by the majority\rquote s analysis of the statutory language nor by its discussion of the regulatory context, I remain of the view that the Commission\rquote s position is consistent with the statute and I would accord it the deference to which it is entitled.
+}
+{\f2 \b0 \fs16 \cf1 \i0 
+{\*\bkmkstart co_footnoteReference_B01111973126395_ID0}{\*\bkmkend co_footnoteReference_B01111973126395_ID0}
+{\field {\*\fldinst HYPERLINK "#co_footnote_B01111973126395_1" }{\fldrslt 
+{\super \f2 \strike0 \ul0 \b0 \sa0 \sb0 \fs16 \cf5 \i0 
+1
+}}}
+}
+{\f2 \strike0 \ul0 \b0 \sa0 \sb200 \fs20 \cf1 \i0 
+ Moreover, for the reasons stated below, I believe that the Court\rquote s decision is incompatible with the interest of the public in assuring that utilities are enabled to meet their necessary requirements for capital upon the most favorable terms. Accordingly, I dissent.
+\par 
+}
+}
+}
+{\li0 \f2 \qj \b0 \ri0 \fs20 \cf1 \i0 {
+{\trowd \lastrow \trleft0 
+\clbrdrt \clbrdrb \clbrdrl \trql \clvertalt \clwWidth600 \cellx600 
+\clpadb90 \clpadfb3 \clpadl90 \clpadfl3 \clbrdrt \clbrdrb \clbrdrr \trql \clwWidth9480 \cellx10080 
+\intbl 
+{\li0 \ri0 
+{\li0 \f2 \b0 \ql \ri0 \fs20 \cf1 \i0 
+{\f2 \b0 \fs20 \cf1 \i0 
+{\*\bkmkstart co_footnote_B01111973126395_1}{\*\bkmkend co_footnote_B01111973126395_1}
+{\field {\*\fldinst HYPERLINK "#co_footnoteReference_B01111973126395_ID0" }{\fldrslt 
+{\super \f2 \strike0 \ul0 \b0 \sa0 \sb0 \fs20 \cf5 \i0 
+1
+}\f2 \super \strike0 \ul0 \b0 \sa0 \sb0 \fs20 \cf5 \i0 }}
+\par 
+}
+}
+}\f2 \li0 \b0 \ql \fs20 \ri0 \cf1 \i0 \intbl \cell \intbl 
+{\li0 \ri0 
+{\li0 \f2 \qj \b0 \ri0 \fs18 \cf1 \i0 
+{\li0 \f2 \qj \b0 \ri0 \fs18 \cf1 \i0 
+{\li0 \f2 \qj \b0 \ri0 \fs18 \cf1 \i0 
+{\f2 \strike0 \ul0 \b0 \sa0 \sb0 \fs18 \cf1 \i0 
+The interpretation is entitled to great deference:
+\par 
+}
+}
+{\li0 \f2 \qj \b0 \ri0 \fs18 \cf1 \i0 
+{\f2 \strike0 \ul0 \b0 \sa0 \sb0 \fs18 \cf1 \i0 
+\u8216\'3fWhen faced with a problem of statutory construction, this Court shows great deference to the interpretation given the statute by the officers or agency charged with its administration. \u8216\'3fTo sustain the Commission\rquote s application of this statutory term, we need not find that its construction is the only reasonable one, or even that it is the result we would have reached had the question arisen in the first instance in judicial proceedings.\u8217\'3f 
+}
+{\field {\*\fldinst HYPERLINK "http://www.westlaw.com/Link/Document/FullText?findType=Y&serNum=1946116230&pubNum=708&originatingDoc=Iab938b559bf011d991d0cc6b54f12d4d&refType=RP&originationContext=document&vr=3.0&rs=cblt1.0&transitionType=DocumentItem&contextData=(sc.Search)" }{\fldrslt 
+{\f2 \strike0 \ul0 \b0 \sa0 \sb0 \fs18 \cf5 \i0 
+Unemployment Compensation Comm. v. Aragon, 329 U.S. 143, 153, 67 S.Ct. 245, 91 L.Ed. 136.
+}\f2 \strike0 \ul0 \b0 \sa0 \sb0 \fs18 \cf5 \i0 }}
+{\f2 \strike0 \ul0 \b0 \sa0 \sb0 \fs18 \cf1 \i0 
+\rquote  
+}
+{\field {\*\fldinst HYPERLINK "http://www.westlaw.com/Link/Document/FullText?findType=Y&serNum=1965125032&pubNum=708&originatingDoc=Iab938b559bf011d991d0cc6b54f12d4d&refType=RP&fi=co_pp_sp_708_801&originationContext=document&vr=3.0&rs=cblt1.0&transitionType=DocumentItem&contextData=(sc.Search)#co_pp_sp_708_801" }{\fldrslt 
+{\f2 \strike0 \ul0 \b0 \sa0 \sb0 \fs18 \cf5 \i0 
+Udall v. Tallman, 380 U.S. 1, 16, 85 S.Ct. 792, 801, 13 L.Ed.2d 616 (1965)
+}\f2 \strike0 \ul0 \b0 \sa0 \sb0 \fs18 \cf5 \i0 }}
+{\f2 \strike0 \ul0 \b0 \sa0 \sb0 \fs18 \cf1 \i0 
+.
+\par 
+}
+}
+}
+}
+}\f2 \li0 \strike0 \ul0 \b0 \qj \sa0 \sb0 \fs18 \ri0 \cf1 \i0 \intbl \cell \row }}\par 
+}
+}
+{\li0 \f2 \qj \b0 \ri0 \fs20 \cf1 \i0 
+{\*\bkmkstart co_anchor_I1f6b3e08048911e598db8b09b4f04}{\*\bkmkend co_anchor_I1f6b3e08048911e598db8b09b4f04}
+\par 
+{\li0 \f2 \b1 \ri0 \fs20 \cf1 \qc \i0 
+{\f2 \b1 \fs20 \cf1 \i0 
+{\f2 \strike0 \ul0 \b1 \sa200 \sb400 \fs20 \cf1 \i0 
+I
+\par 
+}
+}
+}
+{\li0 \f2 \qj \b0 \ri0 \fs20 \cf1 \i0 
+{\li0 \f2 \qj \b0 \ri0 \fs20 \cf1 \i0 
+{\f2 \strike0 \ul0 \b0 \sa0 \sb200 \fs20 \cf1 \i0 
+The present proceedings were initiated on October 12, 1970, when Gulf States Utilities Co. (Gulf States) filed an application under s 204 seeking authority to sell $30 million of first mortgage bonds at competitive bidding. The stated purpose for the issuance was to pay off part of its commercial paper and short-term notes, whose issuance previously had been approved by the Commission.
+\par 
+}
+}
+}
+{\li0 \f2 \qj \b0 \ri0 \fs20 \cf1 \i0 
+{\li0 \f2 \qj \b0 \ri0 \fs20 \cf1 \i0 
+{\f2 \strike0 \ul0 \b0 \sa0 \sb0 \fs20 \cf1 \i0 
+The cities of Lafayette and Plaquemine, Louisiana (the Cities), filed a motion to intervene on November 2, alleging a continuing conspiracy among Gulf States, Louisiana Power & Light Co., and Central Louisiana Electric Co. to block the implementation of an Interconnection and Pooling Agreement which would link the Cities, Dow Chemical Co., and Louisiana Electric 
+}
+{\f2 \b1 \fs20 \cf1 \i0 
+{\*\bkmkstart co_pp_sp_780_766_1}{\*\bkmkend co_pp_sp_780_766_1}
+{\f2 \strike0 \ul0 \b1 \sa0 \sb0 \fs20 \cf1 \i0 
+*766
+}
+}
+{\f2 \strike0 \ul0 \b0 \sa0 \sb200 \fs20 \cf1 \i0 
+ Cooperative, Inc. (the Cooperative). The Cooperative had applied in 1964 to the Rural Electrification Administration for a loan to build a generating facility and transmission lines. The Cities contended that Gulf States and its coconspirators had used a number of techniques, including frivolous litigation, to delay approval of the loan until 1969, with the result that the amount of the loan no longer sufficed to build transmission lines as well as a generating plant. The Cooperative was thus forced to rely for transmission services on Gulf States, which, allegedly, would agree to sell them only if the Cooperative would restrict the scope of its operations. The Cities asserted, finally, that the proceeds from the present bond issue would in some way support Gulf State\rquote s anticompetitive actions.
+}
+{\f2 \b0 \fs16 \cf1 \i0 
+{\*\bkmkstart co_footnoteReference_B01221973126395_ID0}{\*\bkmkend co_footnoteReference_B01221973126395_ID0}
+{\field {\*\fldinst HYPERLINK "#co_footnote_B01221973126395_1" }{\fldrslt 
+{\super \f2 \strike0 \ul0 \b0 \sa0 \sb0 \fs16 \cf5 \i0 
+2
+}}}
+\par 
+}
+}
+}
+{\li0 \f2 \qj \b0 \ri0 \fs20 \cf1 \i0 {
+{\trowd \lastrow \trleft0 
+\clbrdrt \clbrdrb \clbrdrl \trql \clvertalt \clwWidth600 \cellx600 
+\clpadb90 \clpadfb3 \clpadl90 \clpadfl3 \clbrdrt \clbrdrb \clbrdrr \trql \clwWidth9480 \cellx10080 
+\intbl 
+{\li0 \ri0 
+{\li0 \f2 \b0 \ql \ri0 \fs20 \cf1 \i0 
+{\f2 \b0 \fs20 \cf1 \i0 
+{\*\bkmkstart co_footnote_B01221973126395_1}{\*\bkmkend co_footnote_B01221973126395_1}
+{\field {\*\fldinst HYPERLINK "#co_footnoteReference_B01221973126395_ID0" }{\fldrslt 
+{\super \f2 \strike0 \ul0 \b0 \sa0 \sb0 \fs20 \cf5 \i0 
+2
+}\f2 \super \strike0 \ul0 \b0 \sa0 \sb0 \fs20 \cf5 \i0 }}
+\par 
+}
+}
+}\f2 \li0 \b0 \ql \fs20 \ri0 \cf1 \i0 \intbl \cell \intbl 
+{\li0 \ri0 
+{\li0 \f2 \qj \b0 \ri0 \fs18 \cf1 \i0 
+{\li0 \f2 \qj \b0 \ri0 \fs18 \cf1 \i0 
+{\li0 \f2 \qj \b0 \ri0 \fs18 \cf1 \i0 
+{\f2 \strike0 \ul0 \b0 \sa0 \sb0 \fs18 \cf1 \i0 
+It was stated in petitioner\rquote s brief and was not challenged, that the Commission records fail to show any other like petition to intervene in a financing application under s 204 since its enactment in 1935. The remedy which intervenors are seeking to establish is a new one not heretofore deemed necessary or appropriate by anyone. Brief for Petitioner 26.
+\par 
+}
+}
+}
+}
+}\f2 \li0 \strike0 \ul0 \b0 \qj \sa0 \sb0 \fs18 \ri0 \cf1 \i0 \intbl \cell \row }}\par 
+}
+{\li0 \f2 \qj \b0 \ri0 \fs20 \cf1 \i0 
+{\li0 \f2 \qj \b0 \ri0 \fs20 \cf1 \i0 
+{\f2 \strike0 \ul0 \b0 \sa0 \sb200 \fs20 \cf1 \i0 
+On December 3, the Commission granted the Cities\rquote  motion to intervene, but declined to hold a hearing on their allegations. The Commission\rquote s order explained more fully:
+\par 
+}
+}
+{\li0 \f2 \qj \b0 \ri0 \fs20 \cf1 \i0 
+{\li0 \f2 \qj \b0 \ri0 \fs20 \cf1 \i0 
+{\f2 \strike0 \ul0 \b0 \sa0 \sb0 \fs20 \cf1 \i0 
+\u8216\'3fThe requested approval of the issuance of the Bonds allow(s) the Company 
+}
+{\f2 \b1 \fs20 \cf1 \i0 
+{\*\bkmkstart co_pp_sp_708_1882_1}{\*\bkmkend co_pp_sp_708_1882_1}
+{\f2 \strike0 \ul0 \b1 \sa0 \sb0 \fs20 \cf1 \i0 
+**1882
+}
+}
+{\f2 \strike0 \ul0 \b0 \sa0 \sb0 \fs20 \cf1 \i0 
+ only to change the form of a portion of its outstanding indebtedness, it does not call for the initiation of any construction or other program by the Company which might effect (sic) the interest of the Petitioners. The alleged violations which petitioners attempt to raise in this proceeding are irrelevant to a requested authorization of securities. There is no relief that the Commission can order in authorizing the issuance of the Bonds for refinancing purposes that would have any 
+}
+{\f2 \b1 \fs20 \cf1 \i0 
+{\*\bkmkstart co_pp_sp_780_767_1}{\*\bkmkend co_pp_sp_780_767_1}
+{\f2 \strike0 \ul0 \b1 \sa0 \sb0 \fs20 \cf1 \i0 
+*767
+}
+}
+{\f2 \strike0 \ul0 \b0 \sa0 \sb0 \fs20 \cf1 \i0 
+ effect on the interest of the Petitioners, or solve any of the problems outlined by them.\u8217\'3f 
+}
+{\field {\*\fldinst HYPERLINK "http://www.westlaw.com/Link/Document/FullText?findType=Y&serNum=1970090754&pubNum=921&originatingDoc=Iab938b559bf011d991d0cc6b54f12d4d&refType=CA&fi=co_pp_sp_921_1525&originationContext=document&vr=3.0&rs=cblt1.0&transitionType=DocumentItem&contextData=(sc.Search)#co_pp_sp_921_1525" }{\fldrslt 
+{\f2 \strike0 \ul0 \b0 \sa0 \sb0 \fs20 \cf5 \i0 
+44 F.P.C. 1524, 1525
+}}}
+{\f2 \strike0 \ul0 \b0 \sa0 \sb0 \fs20 \cf1 \i0 
+.
+\par 
+}
+}
+}
+{\f2 \strike0 \ul0 \b0 \sa0 \sb0 \fs20 \cf1 \i0 
+\u160\'3f
+\par 
+}
+{\li0 \f2 \qj \b0 \ri0 \fs20 \cf1 \i0 
+{\f2 \strike0 \ul0 \b0 \sa0 \sb200 \fs20 \cf1 \i0 
+In the same order, the Commission authorized the issuance and sale of the bonds. It subsequently modified the order in respects not relevant here and denied a petition for rehearing.
+\par 
+}
+}
+}
+{\li0 \f2 \qj \b0 \ri0 \fs20 \cf1 \i0 
+{\li0 \f2 \qj \b0 \ri0 \fs20 \cf1 \i0 
+{\f2 \strike0 \ul0 \b0 \sa0 \sb0 \fs20 \cf1 \i0 
+Reviewing the Commission\rquote s order at the behest of the Cities, the Court of Appeals held that in a s 204 application proceeding the Commission must consider claims of anticompetitive conduct when urged by intervenors. 
+}
+{\field {\*\fldinst HYPERLINK "http://www.westlaw.com/Link/Document/FullText?findType=Y&serNum=1971114124&pubNum=350&originatingDoc=Iab938b559bf011d991d0cc6b54f12d4d&refType=RP&originationContext=document&vr=3.0&rs=cblt1.0&transitionType=DocumentItem&contextData=(sc.Search)" }{\fldrslt 
+{\f2 \strike0 \ul0 \b0 \sa0 \sb0 \fs20 \cf5 \i0 
+147 U.S.App.D.C. 98, 454 F.2d 941 (1971)
+}}}
+{\f2 \strike0 \ul0 \b0 \sa0 \sb200 \fs20 \cf1 \i0 
+. While the court\rquote s ruling was flexible in terms, allowing the Commission to reject without a hearing claims which are \u8216\'3finsubstantial or barren\u8217\'3f or lack a \u8216\'3freasonable nexus\rquote  with the purpose of the securities issuance, it required an explanation \u8216\'3fsupported in the record,\u8217\'3f presumably something in addition to that offered by the 
+}
+{\field {\*\fldinst HYPERLINK "http://www.westlaw.com/Link/Document/FullText?findType=Y&serNum=1971114124&pubNum=350&originatingDoc=Iab938b559bf011d991d0cc6b54f12d4d&refType=RP&fi=co_pp_sp_350_953&originationContext=document&vr=3.0&rs=cblt1.0&transitionType=DocumentItem&contextData=(sc.Search)#co_pp_sp_350_953" }{\fldrslt 
+{\f2 \strike0 \ul0 \b0 \sa0 \sb0 \fs20 \cf5 \i0 
+Commission in this case. 147 U.S.App.D.C., at 110, 454 F.2d, at 953.
+}}}
+{\f2 \b0 \fs16 \cf1 \i0 
+{\*\bkmkstart co_footnoteReference_B01331973126395_ID0}{\*\bkmkend co_footnoteReference_B01331973126395_ID0}
+{\field {\*\fldinst HYPERLINK "#co_footnote_B01331973126395_1" }{\fldrslt 
+{\super \f2 \strike0 \ul0 \b0 \sa0 \sb0 \fs16 \cf5 \i0 
+3
+}}}
+\par 
+}
+}
+}
+{\li0 \f2 \qj \b0 \ri0 \fs20 \cf1 \i0 {
+{\trowd \lastrow \trleft0 
+\clbrdrt \clbrdrb \clbrdrl \trql \clvertalt \clwWidth600 \cellx600 
+\clpadb90 \clpadfb3 \clpadl90 \clpadfl3 \clbrdrt \clbrdrb \clbrdrr \trql \clwWidth9480 \cellx10080 
+\intbl 
+{\li0 \ri0 
+{\li0 \f2 \b0 \ql \ri0 \fs20 \cf1 \i0 
+{\f2 \b0 \fs20 \cf1 \i0 
+{\*\bkmkstart co_footnote_B01331973126395_1}{\*\bkmkend co_footnote_B01331973126395_1}
+{\field {\*\fldinst HYPERLINK "#co_footnoteReference_B01331973126395_ID0" }{\fldrslt 
+{\super \f2 \strike0 \ul0 \b0 \sa0 \sb0 \fs20 \cf5 \i0 
+3
+}\f2 \super \strike0 \ul0 \b0 \sa0 \sb0 \fs20 \cf5 \i0 }}
+\par 
+}
+}
+}\f2 \li0 \b0 \ql \fs20 \ri0 \cf1 \i0 \intbl \cell \intbl 
+{\li0 \ri0 
+{\li0 \f2 \qj \b0 \ri0 \fs18 \cf1 \i0 
+{\li0 \f2 \qj \b0 \ri0 \fs18 \cf1 \i0 
+{\li0 \f2 \qj \b0 \ri0 \fs18 \cf1 \i0 
+{\f2 \strike0 \ul0 \b0 \sa0 \sb0 \fs18 \cf1 \i0 
+One would have thought that by its use of the phrase \u8216\'3firrelevant to a requested authorization of securities,\u8217\'3f 
+}
+{\field {\*\fldinst HYPERLINK "http://www.westlaw.com/Link/Document/FullText?findType=Y&serNum=1970090754&pubNum=921&originatingDoc=Iab938b559bf011d991d0cc6b54f12d4d&refType=CA&fi=co_pp_sp_921_1525&originationContext=document&vr=3.0&rs=cblt1.0&transitionType=DocumentItem&contextData=(sc.Search)#co_pp_sp_921_1525" }{\fldrslt 
+{\f2 \strike0 \ul0 \b0 \sa0 \sb0 \fs18 \cf5 \i0 
+44 F.P.C. 1524, 1525,
+}\f2 \strike0 \ul0 \b0 \sa0 \sb0 \fs18 \cf5 \i0 }}
+{\f2 \strike0 \ul0 \b0 \sa0 \sb0 \fs18 \cf1 \i0 
+ the Commission had already found\u8212\'3fto use the language of the court\u8212\'3fthat the claims lacked a \u8216\'3freasonable nexus\rquote  with the purpose of the securities issuance.
+\par 
+}
+}
+}
+}
+}\f2 \li0 \strike0 \ul0 \b0 \qj \sa0 \sb0 \fs18 \ri0 \cf1 \i0 \intbl \cell \row }}\par 
+}
+}
+{\li0 \f2 \qj \b0 \ri0 \fs20 \cf1 \i0 
+{\*\bkmkstart co_anchor_I1f6b3e09048911e598db8b09b4f04}{\*\bkmkend co_anchor_I1f6b3e09048911e598db8b09b4f04}
+\par 
+{\li0 \f2 \b1 \ri0 \fs20 \cf1 \qc \i0 
+{\f2 \b1 \fs20 \cf1 \i0 
+{\f2 \strike0 \ul0 \b1 \sa200 \sb400 \fs20 \cf1 \i0 
+II
+\par 
+}
+}
+}
+{\li0 \f2 \qj \b0 \ri0 \fs20 \cf1 \i0 
+{\li0 \f2 \qj \b0 \ri0 \fs20 \cf1 \i0 
+{\f2 \strike0 \ul0 \b0 \sa0 \sb0 \fs20 \cf1 \i0 
+It is common ground that the Commission has a responsibility to deal with anticompetitive practices in the power industry. Section 10 of the Act, 
+}
+{\field {\*\fldinst HYPERLINK "http://www.westlaw.com/Link/Document/FullText?findType=L&pubNum=1000546&cite=16USCAS803&originatingDoc=Iab938b559bf011d991d0cc6b54f12d4d&refType=LQ&originationContext=document&vr=3.0&rs=cblt1.0&transitionType=DocumentItem&contextData=(sc.Search)" }{\fldrslt 
+{\f2 \strike0 \ul0 \b0 \sa0 \sb0 \fs20 \cf5 \i0 
+16 U.S.C. s 803
+}}}
+{\f2 \strike0 \ul0 \b0 \sa0 \sb200 \fs20 \cf1 \i0 
+, provides that the Commission may issue licenses to public utilities \u8216\'3fon the following conditions,\u8217\'3f one of which is that:
+\par 
+}
+}
+{\li0 \f2 \qj \b0 \ri0 \fs20 \cf1 \i0 
+{\li0 \f2 \qj \b0 \ri0 \fs20 \cf1 \i0 
+{\f2 \strike0 \ul0 \b0 \sa0 \sb0 \fs20 \cf1 \i0 
+\u8216\'3f(h) Combinations, agreements, arrangements, or understandings, express or implied, to limit the output of electrical energy, to restrain trade, or to fix, 
+}
+{\f2 \b1 \fs20 \cf1 \i0 
+{\*\bkmkstart co_pp_sp_780_768_1}{\*\bkmkend co_pp_sp_780_768_1}
+{\f2 \strike0 \ul0 \b1 \sa0 \sb0 \fs20 \cf1 \i0 
+*768
+}
+}
+{\f2 \strike0 \ul0 \b0 \sa0 \sb0 \fs20 \cf1 \i0 
+ maintain, or increase prices for electrical energy or service are hereby prohibited.\u8217\'3f 
+}
+{\field {\*\fldinst HYPERLINK "http://www.westlaw.com/Link/Document/FullText?findType=L&pubNum=1000546&cite=16USCAS803&originatingDoc=Iab938b559bf011d991d0cc6b54f12d4d&refType=RB&originationContext=document&vr=3.0&rs=cblt1.0&transitionType=DocumentItem&contextData=(sc.Search)#co_pp_f383000077b35" }{\fldrslt 
+{\f2 \strike0 \ul0 \b0 \sa0 \sb0 \fs20 \cf5 \i0 
+16 U.S.C. s 803(h)
+}}}
+{\f2 \strike0 \ul0 \b0 \sa0 \sb0 \fs20 \cf1 \i0 
+.
+\par 
+}
+}
+}
+{\f2 \strike0 \ul0 \b0 \sa0 \sb0 \fs20 \cf1 \i0 
+\u160\'3f
+\par 
+}
+{\li0 \f2 \qj \b0 \ri0 \fs20 \cf1 \i0 
+{\f2 \strike0 \ul0 \b0 \sa0 \sb200 \fs20 \cf1 \i0 
+The question before the Court, then, is not whether the Commission has responsibility, but how and when it shall exercise it.
+\par 
+}
+}
+}
+{\li0 \f2 \qj \b0 \ri0 \fs20 \cf1 \i0 
+{\li0 \f2 \qj \b0 \ri0 \fs20 \cf1 \i0 
+{\f2 \strike0 \ul0 \b0 \sa0 \sb0 \fs20 \cf1 \i0 
+Stated abstractly, the Commission\rquote s position is that the most sensible method of regulating anticompetitive conduct is to focus on the conduct itself rather than on the means by which it may possibly be financed. The Commission acknowledges a duty to scrutinize allegedly anticompetitive behavior in proceedings: to order an interconnection, s 202 of the Act, 
+}
+{\field {\*\fldinst HYPERLINK "http://www.westlaw.com/Link/Document/FullText?findType=L&pubNum=1000546&cite=16USCAS824A&originatingDoc=Iab938b559bf011d991d0cc6b54f12d4d&refType=LQ&originationContext=document&vr=3.0&rs=cblt1.0&transitionType=DocumentItem&contextData=(sc.Search)" }{\fldrslt 
+{\f2 \strike0 \ul0 \b0 \sa0 \sb0 \fs20 \cf5 \i0 
+16 U.S.C. s 824a
+}}}
+{\f2 \strike0 \ul0 \b0 \sa0 \sb0 \fs20 \cf1 \i0 
+; to approve an acquisition or merger, s 203 of the Act, 
+}
+{\field {\*\fldinst HYPERLINK "http://www.westlaw.com/Link/Document/FullText?findType=L&pubNum=1000546&cite=16USCAS824B&originatingDoc=Iab938b559bf011d991d0cc6b54f12d4d&refType=LQ&originationContext=document&vr=3.0&rs=cblt1.0&transitionType=DocumentItem&contextData=(sc.Search)" }{\fldrslt 
+{\f2 \strike0 \ul0 \b0 \sa0 \sb0 \fs20 \cf5 \i0 
+16 U.S.C. s 824b
+}}}
+{\f2 \strike0 \ul0 \b0 \sa0 \sb0 \fs20 \cf1 \i0 
+; to review rates, ss 205 and 206 of the Act, 
+}
+{\field {\*\fldinst HYPERLINK "http://www.westlaw.com/Link/Document/FullText?findType=L&pubNum=1000546&cite=16USCAS824D&originatingDoc=Iab938b559bf011d991d0cc6b54f12d4d&refType=LQ&originationContext=document&vr=3.0&rs=cblt1.0&transitionType=DocumentItem&contextData=(sc.Search)" }{\fldrslt 
+{\f2 \strike0 \ul0 \b0 \sa0 \sb0 \fs20 \cf5 \i0 
+16 U.S.C. ss 824d
+}}}
+{\f2 \strike0 \ul0 \b0 \sa0 \sb0 \fs20 \cf1 \i0 
+ and 
+}
+{\field {\*\fldinst HYPERLINK "http://www.westlaw.com/Link/Document/FullText?findType=L&pubNum=1000546&cite=16USCAS824E&originatingDoc=Iab938b559bf011d991d0cc6b54f12d4d&refType=LQ&originationContext=document&vr=3.0&rs=cblt1.0&transitionType=DocumentItem&contextData=(sc.Search)" }{\fldrslt 
+{\f2 \strike0 \ul0 \b0 \sa0 \sb0 \fs20 \cf5 \i0 
+824e
+}}}
+{\f2 \strike0 \ul0 \b0 \sa0 \sb0 \fs20 \cf1 \i0 
+; and to review a charge of unduly discriminatory rates or practices, s 205 of the Act, 
+}
+{\field {\*\fldinst HYPERLINK "http://www.westlaw.com/Link/Document/FullText?findType=L&pubNum=1000546&cite=16USCAS824D&originatingDoc=Iab938b559bf011d991d0cc6b54f12d4d&refType=LQ&originationContext=document&vr=3.0&rs=cblt1.0&transitionType=DocumentItem&contextData=(sc.Search)" }{\fldrslt 
+{\f2 \strike0 \ul0 \b0 \sa0 \sb0 \fs20 \cf5 \i0 
+16 U.S.C. s 824d
+}}}
+{\f2 \strike0 \ul0 \b0 \sa0 \sb0 \fs20 \cf1 \i0 
+, or of inadequate service, s 207 of the Act, 
+}
+{\field {\*\fldinst HYPERLINK "http://www.westlaw.com/Link/Document/FullText?findType=L&pubNum=1000546&cite=16USCAS824F&originatingDoc=Iab938b559bf011d991d0cc6b54f12d4d&refType=LQ&originationContext=document&vr=3.0&rs=cblt1.0&transitionType=DocumentItem&contextData=(sc.Search)" }{\fldrslt 
+{\f2 \strike0 \ul0 \b0 \sa0 \sb0 \fs20 \cf5 \i0 
+16 U.S.C. s 824f
+}}}
+{\f2 \strike0 \ul0 \b0 \sa0 \sb0 \fs20 \cf1 \i0 
+. Additionally, the Commission may investigate unlawful conduct upon a complaint by \u8216\'3f(a)ny person, State, municipality, or State commission,\u8217\'3f s 306 of the Act, 
+}
+{\field {\*\fldinst HYPERLINK "http://www.westlaw.com/Link/Document/FullText?findType=L&pubNum=1000546&cite=16USCAS825E&originatingDoc=Iab938b559bf011d991d0cc6b54f12d4d&refType=LQ&originationContext=document&vr=3.0&rs=cblt1.0&transitionType=DocumentItem&contextData=(sc.Search)" }{\fldrslt 
+{\f2 \strike0 \ul0 \b0 \sa0 \sb0 \fs20 \cf5 \i0 
+16 U.S.C. s 825e
+}}}
+{\f2 \strike0 \ul0 \b0 \sa0 \sb0 \fs20 \cf1 \i0 
+, or on its own motion, s 307 of the Act, 
+}
+{\field {\*\fldinst HYPERLINK "http://www.westlaw.com/Link/Document/FullText?findType=L&pubNum=1000546&cite=16USCAS825F&originatingDoc=Iab938b559bf011d991d0cc6b54f12d4d&refType=LQ&originationContext=document&vr=3.0&rs=cblt1.0&transitionType=DocumentItem&contextData=(sc.Search)" }{\fldrslt 
+{\f2 \strike0 \ul0 \b0 \sa0 \sb0 \fs20 \cf5 \i0 
+16 U.S.C. s 825f
+}}}
+{\f2 \strike0 \ul0 \b0 \sa0 \sb200 \fs20 \cf1 \i0 
+. Indeed, upon the complaint of the respondent Cities, the Commission is presently investigating the conduct at issue here. The Cities of Lafayette and Plaquemine, Louisiana v. Gulf State Utilities Co., F.P.C.Doc. No. E\u8212\'3f7676.
+}
+{\f2 \b0 \fs16 \cf1 \i0 
+{\*\bkmkstart co_footnoteReference_B01441973126395_ID0}{\*\bkmkend co_footnoteReference_B01441973126395_ID0}
+{\field {\*\fldinst HYPERLINK "#co_footnote_B01441973126395_1" }{\fldrslt 
+{\super \f2 \strike0 \ul0 \b0 \sa0 \sb0 \fs16 \cf5 \i0 
+4
+}}}
+\par 
+}
+}
+}
+{\li0 \f2 \qj \b0 \ri0 \fs20 \cf1 \i0 {
+{\trowd \lastrow \trleft0 
+\clbrdrt \clbrdrb \clbrdrl \trql \clvertalt \clwWidth600 \cellx600 
+\clpadb90 \clpadfb3 \clpadl90 \clpadfl3 \clbrdrt \clbrdrb \clbrdrr \trql \clwWidth9480 \cellx10080 
+\intbl 
+{\li0 \ri0 
+{\li0 \f2 \b0 \ql \ri0 \fs20 \cf1 \i0 
+{\f2 \b0 \fs20 \cf1 \i0 
+{\*\bkmkstart co_footnote_B01441973126395_1}{\*\bkmkend co_footnote_B01441973126395_1}
+{\field {\*\fldinst HYPERLINK "#co_footnoteReference_B01441973126395_ID0" }{\fldrslt 
+{\super \f2 \strike0 \ul0 \b0 \sa0 \sb0 \fs20 \cf5 \i0 
+4
+}\f2 \super \strike0 \ul0 \b0 \sa0 \sb0 \fs20 \cf5 \i0 }}
+\par 
+}
+}
+}\f2 \li0 \b0 \ql \fs20 \ri0 \cf1 \i0 \intbl \cell \intbl 
+{\li0 \ri0 
+{\li0 \f2 \qj \b0 \ri0 \fs18 \cf1 \i0 
+{\li0 \f2 \qj \b0 \ri0 \fs18 \cf1 \i0 
+{\li0 \f2 \qj \b0 \ri0 \fs18 \cf1 \i0 
+{\f2 \strike0 \ul0 \b0 \sa0 \sb0 \fs18 \cf1 \i0 
+Nor does the Commission have exclusive jurisdiction over antitrust violations by utilities. Antitrust suits may be brought by private parties or by the Antitrust Division of the Justice Department and afford other means of relief.
+\par 
+}
+}
+}
+}
+}\f2 \li0 \strike0 \ul0 \b0 \qj \sa0 \sb0 \fs18 \ri0 \cf1 \i0 \intbl \cell \row }}\par 
+}
+{\li0 \f2 \qj \b0 \ri0 \fs20 \cf1 \i0 
+{\li0 \f2 \qj \b0 \ri0 \fs20 \cf1 \i0 
+{\f2 \b1 \fs20 \cf1 \i0 
+{\*\bkmkstart co_pp_sp_708_1883_1}{\*\bkmkend co_pp_sp_708_1883_1}
+{\f2 \strike0 \ul0 \b1 \sa0 \sb0 \fs20 \cf1 \i0 
+**1883
+}
+}
+{\f2 \strike0 \ul0 \b0 \sa0 \sb0 \fs20 \cf1 \i0 
+ Given its broad direct authority and its undertaking to investigate allegations of anticompetitive behavior in exercising that authority, the Commission does not think it necessary or appropriate to convert s 204 into an all- 
+}
+{\f2 \b1 \fs20 \cf1 \i0 
+{\*\bkmkstart co_pp_sp_780_769_1}{\*\bkmkend co_pp_sp_780_769_1}
+{\f2 \strike0 \ul0 \b1 \sa0 \sb0 \fs20 \cf1 \i0 
+*769
+}
+}
+{\f2 \strike0 \ul0 \b0 \sa0 \sb0 \fs20 \cf1 \i0 
+ purpose sword.
+}
+{\f2 \b0 \fs16 \cf1 \i0 
+{\*\bkmkstart co_footnoteReference_B01551973126395_ID0}{\*\bkmkend co_footnoteReference_B01551973126395_ID0}
+{\field {\*\fldinst HYPERLINK "#co_footnote_B01551973126395_1" }{\fldrslt 
+{\super \f2 \strike0 \ul0 \b0 \sa0 \sb0 \fs16 \cf5 \i0 
+5
+}}}
+}
+{\f2 \strike0 \ul0 \b0 \sa0 \sb200 \fs20 \cf1 \i0 
+ As the Court of Appeals recognized, there may be no nexus or only a very weak one between the issuance of a security and alleged anticompetitive conduct and, in any event, the charges may be unfounded. It is no answer, in the Commission\rquote s view, to say that nexus and merit must be determined on the facts of each case because the process of investigating the allegations will delay the financing and often frustrate the utilities\rquote  efforts to obtain a favorable price for their securities.
+\par 
+}
+}
+}
+{\li0 \f2 \qj \b0 \ri0 \fs20 \cf1 \i0 {
+{\trowd \lastrow \trleft0 
+\clbrdrt \clbrdrb \clbrdrl \trql \clvertalt \clwWidth600 \cellx600 
+\clpadb90 \clpadfb3 \clpadl90 \clpadfl3 \clbrdrt \clbrdrb \clbrdrr \trql \clwWidth9480 \cellx10080 
+\intbl 
+{\li0 \ri0 
+{\li0 \f2 \b0 \ql \ri0 \fs20 \cf1 \i0 
+{\f2 \b0 \fs20 \cf1 \i0 
+{\*\bkmkstart co_footnote_B01551973126395_1}{\*\bkmkend co_footnote_B01551973126395_1}
+{\field {\*\fldinst HYPERLINK "#co_footnoteReference_B01551973126395_ID0" }{\fldrslt 
+{\super \f2 \strike0 \ul0 \b0 \sa0 \sb0 \fs20 \cf5 \i0 
+5
+}\f2 \super \strike0 \ul0 \b0 \sa0 \sb0 \fs20 \cf5 \i0 }}
+\par 
+}
+}
+}\f2 \li0 \b0 \ql \fs20 \ri0 \cf1 \i0 \intbl \cell \intbl 
+{\li0 \ri0 
+{\li0 \f2 \qj \b0 \ri0 \fs18 \cf1 \i0 
+{\li0 \f2 \qj \b0 \ri0 \fs18 \cf1 \i0 
+{\li0 \f2 \qj \b0 \ri0 \fs18 \cf1 \i0 
+{\f2 \strike0 \ul0 \b0 \sa0 \sb0 \fs18 \cf1 \i0 
+In 
+}
+{\field {\*\fldinst HYPERLINK "http://www.westlaw.com/Link/Document/FullText?findType=Y&serNum=1962500459&pubNum=921&originatingDoc=Iab938b559bf011d991d0cc6b54f12d4d&refType=CA&originationContext=document&vr=3.0&rs=cblt1.0&transitionType=DocumentItem&contextData=(sc.Search)" }{\fldrslt 
+{\f2 \strike0 \ul0 \b0 \sa0 \sb0 \fs18 \cf5 \i0 
+Pacific Power & Light Co., 27 F.P.C. 623 (1962)
+}\f2 \strike0 \ul0 \b0 \sa0 \sb0 \fs18 \cf5 \i0 }}
+{\f2 \strike0 \ul0 \b0 \sa0 \sb0 \fs18 \cf1 \i0 
+, the Commission took the same position under analogous circumstances. There, the Commission approved a proposed issuance of securities to fund construction of a politically controversial transmission line, stating:
+\par 
+}
+}
+{\li0 \f2 \qj \b0 \ri0 \fs18 \cf1 \i0 
+{\f2 \strike0 \ul0 \b0 \sa0 \sb0 \fs18 \cf1 \i0 
+\u8216\'3fThe plain purpose of Section 204 is to prevent the issuance of securities which might impair the company\rquote s financial integrity or its ability to perform its public utility responsibilities.\u8217\'3f 
+}
+{\field {\*\fldinst HYPERLINK "http://www.westlaw.com/Link/Document/FullText?findType=Y&serNum=1962500459&originatingDoc=Iab938b559bf011d991d0cc6b54f12d4d&refType=CA&originationContext=document&vr=3.0&rs=cblt1.0&transitionType=DocumentItem&contextData=(sc.Search)" }{\fldrslt 
+{\f2 \strike0 \ul0 \b0 \sa0 \sb0 \fs18 \cf5 \i0 
+Id., at 626
+}\f2 \strike0 \ul0 \b0 \sa0 \sb0 \fs18 \cf5 \i0 }}
+{\f2 \strike0 \ul0 \b0 \sa0 \sb0 \fs18 \cf1 \i0 
+.
+\par 
+}
+}
+}
+}
+}\f2 \li0 \strike0 \ul0 \b0 \qj \sa0 \sb0 \fs18 \ri0 \cf1 \i0 \intbl \cell \row }}\par 
+}
+{\li0 \f2 \qj \b0 \ri0 \fs20 \cf1 \i0 
+{\li0 \f2 \qj \b0 \ri0 \fs20 \cf1 \i0 
+{\f2 \strike0 \ul0 \b0 \sa0 \sb0 \fs20 \cf1 \i0 
+The Commission is properly sensitive to the complexities and subtleties of raising vast sums of money in the financial markets.
+}
+{\f2 \b0 \fs16 \cf1 \i0 
+{\*\bkmkstart co_footnoteReference_B01661973126395_ID0}{\*\bkmkend co_footnoteReference_B01661973126395_ID0}
+{\field {\*\fldinst HYPERLINK "#co_footnote_B01661973126395_1" }{\fldrslt 
+{\super \f2 \strike0 \ul0 \b0 \sa0 \sb0 \fs16 \cf5 \i0 
+6
+}}}
+}
+{\f2 \strike0 \ul0 \b0 \sa0 \sb0 \fs20 \cf1 \i0 
+ Utility financing normally is accomplished through competitive bidding participated in by a relatively small number of national investment firms which specialize in the purchase from issuers and the wholesaling of utility securities. The market is highly competitive and is particularly sensitive to uncertainties. The maintainance of an orderly market, with dependable marketing timetables, is essential to the financing process and to favorable decisions by the investment bankers as to rates and other terms. It is settled 
+}
+{\f2 \b1 \fs20 \cf1 \i0 
+{\*\bkmkstart co_pp_sp_780_770_1}{\*\bkmkend co_pp_sp_780_770_1}
+{\f2 \strike0 \ul0 \b1 \sa0 \sb0 \fs20 \cf1 \i0 
+*770
+}
+}
+{\f2 \strike0 \ul0 \b0 \sa0 \sb200 \fs20 \cf1 \i0 
+ practice to \u8216\'3fbring an issue to market\u8217\'3f pursuant to a carefully structured time schedule. When favorable market conditions are observed or anticipated, this time schedule is compressed usually within a period from 45 to 90 days. The longer the lead time is extended and uncertainties injected into the process, the greater the risk of market change or re-evaluation with a resulting adverse effect on the cost of capital and, in the end, on the cost of service to the public. Indeed, the public has a double interest in this process. Apart from the ultimate impact on rates which may be occasioned by disruption of the financing process, the utilities may simply be unable to keep pace with the burgeoning public demand for electric energy.
+}
+{\f2 \b0 \fs16 \cf1 \i0 
+{\*\bkmkstart co_footnoteReference_B01771973126395_ID0}{\*\bkmkend co_footnoteReference_B01771973126395_ID0}
+{\field {\*\fldinst HYPERLINK "#co_footnote_B01771973126395_1" }{\fldrslt 
+{\super \f2 \strike0 \ul0 \b0 \sa0 \sb0 \fs16 \cf5 \i0 
+7
+}}}
+\par 
+}
+}
+}
+{\li0 \f2 \qj \b0 \ri0 \fs20 \cf1 \i0 {
+{\trowd \lastrow \trleft0 
+\clbrdrt \clbrdrb \clbrdrl \trql \clvertalt \clwWidth600 \cellx600 
+\clpadb90 \clpadfb3 \clpadl90 \clpadfl3 \clbrdrt \clbrdrb \clbrdrr \trql \clwWidth9480 \cellx10080 
+\intbl 
+{\li0 \ri0 
+{\li0 \f2 \b0 \ql \ri0 \fs20 \cf1 \i0 
+{\f2 \b0 \fs20 \cf1 \i0 
+{\*\bkmkstart co_footnote_B01661973126395_1}{\*\bkmkend co_footnote_B01661973126395_1}
+{\field {\*\fldinst HYPERLINK "#co_footnoteReference_B01661973126395_ID0" }{\fldrslt 
+{\super \f2 \strike0 \ul0 \b0 \sa0 \sb0 \fs20 \cf5 \i0 
+6
+}\f2 \super \strike0 \ul0 \b0 \sa0 \sb0 \fs20 \cf5 \i0 }}
+\par 
+}
+}
+}\f2 \li0 \b0 \ql \fs20 \ri0 \cf1 \i0 \intbl \cell \intbl 
+{\li0 \ri0 
+{\li0 \f2 \qj \b0 \ri0 \fs18 \cf1 \i0 
+{\li0 \f2 \qj \b0 \ri0 \fs18 \cf1 \i0 
+{\li0 \f2 \qj \b0 \ri0 \fs18 \cf1 \i0 
+{\f2 \strike0 \ul0 \b0 \sa0 \sb0 \fs18 \cf1 \i0 
+The Commission has recognized the importance of expedition and adherence to time schedules in the administration of s 204 of the Act:
+\par 
+}
+}
+{\li0 \f2 \qj \b0 \ri0 \fs18 \cf1 \i0 
+{\f2 \strike0 \ul0 \b0 \sa0 \sb0 \fs18 \cf1 \i0 
+\u8216\'3fIt should also be observed that procedures for considering security issues must be expeditious if, in view of changing marketing conditions, utilities are to be able to raise the money needed to carry out their responsibilities. . . .\u8217\'3f Pacific Power and Light Co., Id., at 629.
+\par 
+}
+}
+}
+}
+}\f2 \li0 \strike0 \ul0 \b0 \qj \sa0 \sb0 \fs18 \ri0 \cf1 \i0 \intbl \cell \row }}\par 
+}
+{\li0 \f2 \qj \b0 \ri0 \fs20 \cf1 \i0 {
+{\trowd \lastrow \trleft0 
+\clbrdrt \clbrdrb \clbrdrl \trql \clvertalt \clwWidth600 \cellx600 
+\clpadb90 \clpadfb3 \clpadl90 \clpadfl3 \clbrdrt \clbrdrb \clbrdrr \trql \clwWidth9480 \cellx10080 
+\intbl 
+{\li0 \ri0 
+{\li0 \f2 \b0 \ql \ri0 \fs20 \cf1 \i0 
+{\f2 \b0 \fs20 \cf1 \i0 
+{\*\bkmkstart co_footnote_B01771973126395_1}{\*\bkmkend co_footnote_B01771973126395_1}
+{\field {\*\fldinst HYPERLINK "#co_footnoteReference_B01771973126395_ID0" }{\fldrslt 
+{\super \f2 \strike0 \ul0 \b0 \sa0 \sb0 \fs20 \cf5 \i0 
+7
+}\f2 \super \strike0 \ul0 \b0 \sa0 \sb0 \fs20 \cf5 \i0 }}
+\par 
+}
+}
+}\f2 \li0 \b0 \ql \fs20 \ri0 \cf1 \i0 \intbl \cell \intbl 
+{\li0 \ri0 
+{\li0 \f2 \qj \b0 \ri0 \fs18 \cf1 \i0 
+{\li0 \f2 \qj \b0 \ri0 \fs18 \cf1 \i0 
+{\li0 \f2 \qj \b0 \ri0 \fs18 \cf1 \i0 
+{\f2 \strike0 \ul0 \b0 \sa0 \sb0 \fs18 \cf1 \i0 
+Prof. Priest has commented on the urgency of new capital for the electric industry:
+\par 
+}
+}
+{\li0 \f2 \qj \b0 \ri0 \fs18 \cf1 \i0 
+{\f2 \strike0 \ul0 \b0 \sa0 \sb0 \fs18 \cf1 \i0 
+\u8216\'3fSince World War II, the problem of new capital has been, and will continue to be, compellingly urgent for public utility managements.\u8217\'3f A. Priest, 1 Principles of Public Utility Regulation 451 (1969). After describing the \u8216\'3fspectacular\u8217\'3f growth of the electric utility industry, Prof. Priest compared the urgency of access to the capital markets of utilities with industrial enterprises:
+\par 
+}
+}
+{\li0 \f2 \qj \b0 \ri0 \fs18 \cf1 \i0 
+{\f2 \strike0 \ul0 \b0 \sa0 \sb0 \fs18 \cf1 \i0 
+\u8216\'3f(T)he new capital requirements of the utility industry in the next ten years will call for extraordinary effort. The obvious reasons are (1) that regulated public utilities literally cannot produce as much cash through retained earnings as unregulated industrial enterprises and (2) that the utilities, in any event, need a much larger investment per dollar of annual revenue than the characteristic industrial.\u8217\'3f Id., at 452.
+\par 
+}
+}
+{\li0 \f2 \qj \b0 \ri0 \fs18 \cf1 \i0 
+{\f2 \strike0 \ul0 \b0 \sa0 \sb0 \fs18 \cf1 \i0 
+It is stated in petitioner\rquote s brief, and not questioned, that in 1971, 43 applications were filed with the Commission covering the issuance of nearly.$1.8 billion of securities. Brief for Petitioner 24.
+\par 
+}
+}
+}
+}
+}\f2 \li0 \strike0 \ul0 \b0 \qj \sa0 \sb0 \fs18 \ri0 \cf1 \i0 \intbl \cell \row }}\par 
+}
+{\li0 \f2 \qj \b0 \ri0 \fs20 \cf1 \i0 
+{\li0 \f2 \qj \b0 \ri0 \fs20 \cf1 \i0 
+{\f2 \b1 \fs20 \cf1 \i0 
+{\*\bkmkstart co_pp_sp_708_1884_1}{\*\bkmkend co_pp_sp_708_1884_1}
+{\f2 \strike0 \ul0 \b1 \sa0 \sb0 \fs20 \cf1 \i0 
+**1884
+}
+}
+{\f2 \strike0 \ul0 \b0 \sa0 \sb0 \fs20 \cf1 \i0 
+ Both the delicacy of financing and the availability of alternative means for regulating anticompetitive conduct, then, strongly support the Commission\rquote s interpretation of the Act. Nor does anything in the legislative history 
+}
+{\f2 \b1 \fs20 \cf1 \i0 
+{\*\bkmkstart co_pp_sp_780_771_1}{\*\bkmkend co_pp_sp_780_771_1}
+{\f2 \strike0 \ul0 \b1 \sa0 \sb0 \fs20 \cf1 \i0 
+*771
+}
+}
+{\f2 \strike0 \ul0 \b0 \sa0 \sb0 \fs20 \cf1 \i0 
+ of s 204 require a contrary conclusion.
+}
+{\f2 \b0 \fs16 \cf1 \i0 
+{\*\bkmkstart co_footnoteReference_B01881973126395_ID0}{\*\bkmkend co_footnoteReference_B01881973126395_ID0}
+{\field {\*\fldinst HYPERLINK "#co_footnote_B01881973126395_1" }{\fldrslt 
+{\super \f2 \strike0 \ul0 \b0 \sa0 \sb0 \fs16 \cf5 \i0 
+8
+}}}
+}
+{\f2 \strike0 \ul0 \b0 \sa0 \sb200 \fs20 \cf1 \i0 
+ The Senate Report states straightforwardly:
+\par 
+}
+}
+}
+{\li0 \f2 \qj \b0 \ri0 \fs20 \cf1 \i0 {
+{\trowd \lastrow \trleft0 
+\clbrdrt \clbrdrb \clbrdrl \trql \clvertalt \clwWidth600 \cellx600 
+\clpadb90 \clpadfb3 \clpadl90 \clpadfl3 \clbrdrt \clbrdrb \clbrdrr \trql \clwWidth9480 \cellx10080 
+\intbl 
+{\li0 \ri0 
+{\li0 \f2 \b0 \ql \ri0 \fs20 \cf1 \i0 
+{\f2 \b0 \fs20 \cf1 \i0 
+{\*\bkmkstart co_footnote_B01881973126395_1}{\*\bkmkend co_footnote_B01881973126395_1}
+{\field {\*\fldinst HYPERLINK "#co_footnoteReference_B01881973126395_ID0" }{\fldrslt 
+{\super \f2 \strike0 \ul0 \b0 \sa0 \sb0 \fs20 \cf5 \i0 
+8
+}\f2 \super \strike0 \ul0 \b0 \sa0 \sb0 \fs20 \cf5 \i0 }}
+\par 
+}
+}
+}\f2 \li0 \b0 \ql \fs20 \ri0 \cf1 \i0 \intbl \cell \intbl 
+{\li0 \ri0 
+{\li0 \f2 \qj \b0 \ri0 \fs18 \cf1 \i0 
+{\li0 \f2 \qj \b0 \ri0 \fs18 \cf1 \i0 
+{\li0 \f2 \qj \b0 \ri0 \fs18 \cf1 \i0 
+{\f2 \strike0 \ul0 \b0 \sa0 \sb0 \fs18 \cf1 \i0 
+Section 204 was enacted as part of Tit. II of the Public Utility Act of 1935. Title II amended the Federal Water Power Act and redesignated it the Federal Power Act.
+\par 
+}
+}
+}
+}
+}\f2 \li0 \strike0 \ul0 \b0 \qj \sa0 \sb0 \fs18 \ri0 \cf1 \i0 \intbl \cell \row }}\par 
+}
+{\li0 \f2 \qj \b0 \ri0 \fs20 \cf1 \i0 
+{\li0 \f2 \qj \b0 \ri0 \fs20 \cf1 \i0 
+{\f2 \strike0 \ul0 \b0 \sa0 \sb0 \fs20 \cf1 \i0 
+\u8216\'3fControl over the capitalization of operating utilities is plainly an essential means of safeguarding the public against the unsound financial practices which make impossible the proper and most economical performance of public-utility functions.\u8217\'3f S.Rep.No. 621, 74th Cong., 1st Sess., 50 (1935) (emphasis supplied).
+\par 
+}
+}
+{\li0 \f2 \qj \b0 \ri0 \fs20 \cf1 \i0 
+{\f2 \strike0 \ul0 \b0 \sa0 \sb0 \fs20 \cf1 \i0 
+And in companion legislation entrusting to the Securities and Exchange Commission (SEC) the responsibility to regulate the issuance of securities by public utility holding companies, Congress declined to require the SEC to investigate anticompetitive conduct, at least in the ordinary case.
+}
+{\f2 \b0 \fs16 \cf1 \i0 
+{\*\bkmkstart co_footnoteReference_B01991973126395_ID0}{\*\bkmkend co_footnoteReference_B01991973126395_ID0}
+{\field {\*\fldinst HYPERLINK "#co_footnote_B01991973126395_1" }{\fldrslt 
+{\super \f2 \strike0 \ul0 \b0 \sa0 \sb0 \fs16 \cf5 \i0 
+9
+}}}
+}
+{\f2 \strike0 \ul0 \b0 \sa0 \sb0 \fs20 \cf1 \i0 
+ Even apart from its relevance to congressional purpose, the absence of a requirement for such an investigation when a public utility holding company seeks authorization to issue a security supports the Commission\rquote s 
+}
+{\f2 \b1 \fs20 \cf1 \i0 
+{\*\bkmkstart co_pp_sp_780_772_1}{\*\bkmkend co_pp_sp_780_772_1}
+{\f2 \strike0 \ul0 \b1 \sa0 \sb0 \fs20 \cf1 \i0 
+*772
+}
+}
+{\f2 \strike0 \ul0 \b0 \sa0 \sb0 \fs20 \cf1 \i0 
+ prudent judgment to accord like treatment to applications from operating utilities.
+\par 
+}
+}
+}
+{\f2 \strike0 \ul0 \b0 \sa0 \sb0 \fs20 \cf1 \i0 
+\u160\'3f
+\par 
+}
+{\li0 \f2 \qj \b0 \ri0 \fs20 \cf1 \i0 {
+{\trowd \lastrow \trleft0 
+\clbrdrt \clbrdrb \clbrdrl \trql \clvertalt \clwWidth600 \cellx600 
+\clpadb90 \clpadfb3 \clpadl90 \clpadfl3 \clbrdrt \clbrdrb \clbrdrr \trql \clwWidth9480 \cellx10080 
+\intbl 
+{\li0 \ri0 
+{\li0 \f2 \b0 \ql \ri0 \fs20 \cf1 \i0 
+{\f2 \b0 \fs20 \cf1 \i0 
+{\*\bkmkstart co_footnote_B01991973126395_1}{\*\bkmkend co_footnote_B01991973126395_1}
+{\field {\*\fldinst HYPERLINK "#co_footnoteReference_B01991973126395_ID0" }{\fldrslt 
+{\super \f2 \strike0 \ul0 \b0 \sa0 \sb0 \fs20 \cf5 \i0 
+9
+}\f2 \super \strike0 \ul0 \b0 \sa0 \sb0 \fs20 \cf5 \i0 }}
+\par 
+}
+}
+}\f2 \li0 \b0 \ql \fs20 \ri0 \cf1 \i0 \intbl \cell \intbl 
+{\li0 \ri0 
+{\li0 \f2 \qj \b0 \ri0 \fs18 \cf1 \i0 
+{\li0 \f2 \qj \b0 \ri0 \fs18 \cf1 \i0 
+{\li0 \f2 \qj \b0 \ri0 \fs18 \cf1 \i0 
+{\f2 \strike0 \ul0 \b0 \sa0 \sb0 \fs18 \cf1 \i0 
+The Public Utility Holding Company to applications from operating utilities. Utility Act of 1935. See n. 8, supra. Under s 7(d)(6) of the Public Utility Holding Company Act, the SEC is directed to disapprove an issue of securities if its terms and conditions are \u8216\'3fdetrimental to the public interest or the interest of investors or consumers.\u8217\'3f 
+}
+{\field {\*\fldinst HYPERLINK "http://www.westlaw.com/Link/Document/FullText?findType=L&pubNum=1000546&cite=15USCAS79G&originatingDoc=Iab938b559bf011d991d0cc6b54f12d4d&refType=LQ&originationContext=document&vr=3.0&rs=cblt1.0&transitionType=DocumentItem&contextData=(sc.Search)" }{\fldrslt 
+{\f2 \strike0 \ul0 \b0 \sa0 \sb0 \fs18 \cf5 \i0 
+15 U.S.C. s 79g(d)(6)
+}\f2 \strike0 \ul0 \b0 \sa0 \sb0 \fs18 \cf5 \i0 }}
+{\f2 \strike0 \ul0 \b0 \sa0 \sb0 \fs18 \cf1 \i0 
+. The SEC has interpreted this language as not requiring it to investigate alleged anticompetitive conduct, and applied this interpretation in an aspect of this litigation involving a substantially identical challenge by these same Cities to a proposed issuance of securities by Louisiana Power & Light Co., a public utility holding company which allegedly conspired with Gulf States. See ante, at 1876 n. 4. The SEC rejected the Cities\rquote  protests as pertaining to \u8216\'3fcollateral and unrelated controversies,\u8217\'3f 
+}
+{\field {\*\fldinst HYPERLINK "http://www.westlaw.com/Link/Document/FullText?findType=Y&serNum=1971114124&pubNum=350&originatingDoc=Iab938b559bf011d991d0cc6b54f12d4d&refType=RP&fi=co_pp_sp_350_946&originationContext=document&vr=3.0&rs=cblt1.0&transitionType=DocumentItem&contextData=(sc.Search)#co_pp_sp_350_946" }{\fldrslt 
+{\f2 \strike0 \ul0 \b0 \sa0 \sb0 \fs18 \cf5 \i0 
+147 U.S.App.D.C., at 103, 454 F.2d, at 946,
+}\f2 \strike0 \ul0 \b0 \sa0 \sb0 \fs18 \cf5 \i0 }}
+{\f2 \strike0 \ul0 \b0 \sa0 \sb0 \fs18 \cf1 \i0 
+ and was upheld by the Court of Appeals. 
+}
+{\field {\*\fldinst HYPERLINK "http://www.westlaw.com/Link/Document/FullText?findType=Y&serNum=1971114124&pubNum=350&originatingDoc=Iab938b559bf011d991d0cc6b54f12d4d&refType=RP&fi=co_pp_sp_350_955&originationContext=document&vr=3.0&rs=cblt1.0&transitionType=DocumentItem&contextData=(sc.Search)#co_pp_sp_350_955" }{\fldrslt 
+{\f2 \strike0 \ul0 \b0 \sa0 \sb0 \fs18 \cf5 \i0 
+Id., at 112, 454 F.2d, at 955
+}\f2 \strike0 \ul0 \b0 \sa0 \sb0 \fs18 \cf5 \i0 }}
+{\f2 \strike0 \ul0 \b0 \sa0 \sb0 \fs18 \cf1 \i0 
+.
+\par 
+}
+}
+}
+}
+}\f2 \li0 \strike0 \ul0 \b0 \qj \sa0 \sb0 \fs18 \ri0 \cf1 \i0 \intbl \cell \row }}\par 
+}
+{\li0 \f2 \qj \b0 \ri0 \fs20 \cf1 \i0 
+{\li0 \f2 \qj \b0 \ri0 \fs20 \cf1 \i0 
+{\f2 \strike0 \ul0 \b0 \sa0 \sb0 \fs20 \cf1 \i0 
+The securities of public utility holding companies compete in the financial markets with the securities of public utility operating companies. It makes little sense, especially in construing companion legislation applicable to the same industry, to construe the term \u8216\'3fpublic interest\u8217\'3f when applied to the operating companies to mean something different, and to impose a more burdensome procedure, than when applied to utilities which are within a holding company system.
+}
+{\f2 \b0 \fs16 \cf1 \i0 
+{\*\bkmkstart co_footnoteReference_B020101973126395_ID}{\*\bkmkend co_footnoteReference_B020101973126395_ID}
+{\field {\*\fldinst HYPERLINK "#co_footnote_B020101973126395_1" }{\fldrslt 
+{\super \f2 \strike0 \ul0 \b0 \sa0 \sb0 \fs16 \cf5 \i0 
+10
+}}}
+}
+{\f2 \strike0 \ul0 \b0 \sa0 \sb200 \fs20 \cf1 \i0 
+ Yet, this will be the bizarre result of today\rquote s decision by this Court.
+\par 
+}
+}
+}
+{\li0 \f2 \qj \b0 \ri0 \fs20 \cf1 \i0 {
+{\trowd \lastrow \trleft0 
+\clbrdrt \clbrdrb \clbrdrl \trql \clvertalt \clwWidth600 \cellx600 
+\clpadb90 \clpadfb3 \clpadl90 \clpadfl3 \clbrdrt \clbrdrb \clbrdrr \trql \clwWidth9480 \cellx10080 
+\intbl 
+{\li0 \ri0 
+{\li0 \f2 \b0 \ql \ri0 \fs20 \cf1 \i0 
+{\f2 \b0 \fs20 \cf1 \i0 
+{\*\bkmkstart co_footnote_B020101973126395_1}{\*\bkmkend co_footnote_B020101973126395_1}
+{\field {\*\fldinst HYPERLINK "#co_footnoteReference_B020101973126395_ID" }{\fldrslt 
+{\super \f2 \strike0 \ul0 \b0 \sa0 \sb0 \fs20 \cf5 \i0 
+10
+}\f2 \super \strike0 \ul0 \b0 \sa0 \sb0 \fs20 \cf5 \i0 }}
+\par 
+}
+}
+}\f2 \li0 \b0 \ql \fs20 \ri0 \cf1 \i0 \intbl \cell \intbl 
+{\li0 \ri0 
+{\li0 \f2 \qj \b0 \ri0 \fs18 \cf1 \i0 
+{\li0 \f2 \qj \b0 \ri0 \fs18 \cf1 \i0 
+{\li0 \f2 \qj \b0 \ri0 \fs18 \cf1 \i0 
+{\f2 \strike0 \ul0 \b0 \sa0 \sb0 \fs18 \cf1 \i0 
+Further evidence of congressional intent can be gleaned from the fact that Congress exempted from scrutiny under s 204 securities of \u8216\'3fa public utility organized and operating in a State under the laws of which its security issues are regulated by a State commission.\u8217\'3f s 204(f) of the Act, 
+}
+{\field {\*\fldinst HYPERLINK "http://www.westlaw.com/Link/Document/FullText?findType=L&pubNum=1000546&cite=16USCAS824C&originatingDoc=Iab938b559bf011d991d0cc6b54f12d4d&refType=RB&originationContext=document&vr=3.0&rs=cblt1.0&transitionType=DocumentItem&contextData=(sc.Search)#co_pp_ae0d0000c5150" }{\fldrslt 
+{\f2 \strike0 \ul0 \b0 \sa0 \sb0 \fs18 \cf5 \i0 
+16 U.S.C. s 824c(f)
+}\f2 \strike0 \ul0 \b0 \sa0 \sb0 \fs18 \cf5 \i0 }}
+{\f2 \strike0 \ul0 \b0 \sa0 \sb0 \fs18 \cf1 \i0 
+. At the time of the Act, 32 States regulated the issuance of utility company securities. 79 Cong.Rec. 10378 (1935). Had Congress intended to subject securities issues to antitrust screening, it would not, presumably, have established the exception.
+\par 
+}
+}
+}
+}
+}\f2 \li0 \strike0 \ul0 \b0 \qj \sa0 \sb0 \fs18 \ri0 \cf1 \i0 \intbl \cell \row }}\par 
+}
+}
+{\li0 \f2 \qj \b0 \ri0 \fs20 \cf1 \i0 
+{\*\bkmkstart co_anchor_I1f6b3e0a048911e598db8b09b4f04}{\*\bkmkend co_anchor_I1f6b3e0a048911e598db8b09b4f04}
+\par 
+{\li0 \f2 \b1 \ri0 \fs20 \cf1 \qc \i0 
+{\f2 \b1 \fs20 \cf1 \i0 
+{\f2 \strike0 \ul0 \b1 \sa200 \sb400 \fs20 \cf1 \i0 
+III
+\par 
+}
+}
+}
+{\li0 \f2 \qj \b0 \ri0 \fs20 \cf1 \i0 
+{\li0 \f2 \qj \b0 \ri0 \fs20 \cf1 \i0 
+{\f2 \strike0 \ul0 \b0 \sa0 \sb0 \fs20 \cf1 \i0 
+The Court rests its decision in part on 
+}
+{\field {\*\fldinst HYPERLINK "http://www.westlaw.com/Link/Document/FullText?findType=Y&serNum=1967129536&pubNum=708&originatingDoc=Iab938b559bf011d991d0cc6b54f12d4d&refType=RP&originationContext=document&vr=3.0&rs=cblt1.0&transitionType=DocumentItem&contextData=(sc.Search)" }{\fldrslt 
+{\f2 \strike0 \ul0 \b0 \sa0 \sb0 \fs20 \cf5 \i0 
+Denver & R.G.W.R. Co. v. United States, 387 U.S. 485, 87 S.Ct. 1754, 18 L.Ed.2d 905 (1967)
+}}}
+{\f2 \strike0 \ul0 \b0 \sa0 \sb0 \fs20 \cf1 \i0 
+, a case involving the issuance of a controlling stock interest in a carrier regulated by the Interstate Commerce Commission (ICC). It my view, that case falls far short of being a persuasive precedent. The transaction under consideration there was a proposed issuance of common stock by the Railway Express Agency (REA). Approximately 2,000,000 shares of REA stock were held exclusively by railroads, each of which was obligated to offer its shares to the others before selling them to outsiders. REA also was authorized 
+}
+{\f2 \b1 \fs20 \cf1 \i0 
+{\*\bkmkstart co_pp_sp_708_1885_1}{\*\bkmkend co_pp_sp_708_1885_1}
+{\f2 \strike0 \ul0 \b1 \sa0 \sb0 \fs20 \cf1 \i0 
+**1885
+}
+}
+{\f2 \strike0 \ul0 \b0 \sa0 \sb0 \fs20 \cf1 \i0 
+ to issue 500,000 shares to whomever it wished, and it entered into an agreement to sell such shares to Greyhound on the condition that 
+}
+{\f2 \b1 \fs20 \cf1 \i0 
+{\*\bkmkstart co_pp_sp_780_773_1}{\*\bkmkend co_pp_sp_780_773_1}
+{\f2 \strike0 \ul0 \b1 \sa0 \sb0 \fs20 \cf1 \i0 
+*773
+}
+}
+{\f2 \strike0 \ul0 \b0 \sa0 \sb200 \fs20 \cf1 \i0 
+ Greyhound would offer to purchase an additional 1,000,000 shares from present stockholders, the offer to remain open for 60 days.
+\par 
+}
+}
+}
+{\li0 \f2 \qj \b0 \ri0 \fs20 \cf1 \i0 
+{\li0 \f2 \qj \b0 \ri0 \fs20 \cf1 \i0 
+{\f2 \strike0 \ul0 \b0 \sa0 \sb0 \fs20 \cf1 \i0 
+As required by s 20a of the Interstate Commerce Act, 49 U.S.C. s 20a, REA applied to the ICC for authorization to issue the 500,000 shares. Under the terms of that section, the ICC may grant authorization \u8216\'3fonly if it finds that such issue . . . is for some lawful object within (the applicant\rquote s) corporate purposes, and compatible with the public interest . . ..\u8217\'3f 49 U.S.C. s 20a(2). The ICC authorized the issue without granting a hearing on an intervenor\rquote s claim that issuance to Greyhound would give it \u8216\'3fcontrol\u8217\'3f over REA, or, at a minimum, would lead to a lessening of competition in the freight transportation market. On review in this Court, the ICC argued that its responsibility under s 20a was limited to protecting against financial manipulation, but that even if it did have an obligation to consider \u8216\'3fcontrol\u8217\'3f and \u8216\'3fanticompetitive\u8217\'3f effects of the issuance, it could properly defer such consideration until the expiration of Greyhound\rquote s offer to purchase a large additional portion of REA\rquote s outstanding stock. 
+}
+{\field {\*\fldinst HYPERLINK "http://www.westlaw.com/Link/Document/FullText?findType=Y&serNum=1967129536&pubNum=708&originatingDoc=Iab938b559bf011d991d0cc6b54f12d4d&refType=RP&fi=co_pp_sp_708_1758&originationContext=document&vr=3.0&rs=cblt1.0&transitionType=DocumentItem&contextData=(sc.Search)#co_pp_sp_708_1758" }{\fldrslt 
+{\f2 \strike0 \ul0 \b0 \sa0 \sb0 \fs20 \cf5 \i0 
+387 U.S., at 491\u8212\'3f492, 87 S.Ct., at 1758\u8212\'3f1759
+}}}
+{\f2 \strike0 \ul0 \b0 \sa0 \sb200 \fs20 \cf1 \i0 
+.
+\par 
+}
+}
+}
+{\li0 \f2 \qj \b0 \ri0 \fs20 \cf1 \i0 
+{\li0 \f2 \qj \b0 \ri0 \fs20 \cf1 \i0 
+{\f2 \strike0 \ul0 \b0 \sa0 \sb0 \fs20 \cf1 \i0 
+In addressing the ICC\rquote s first contention, the Court gave scant attention to the legislative history of s 20a. After noting that an earlier version of what was to become the Interstate Commerce Act \u8216\'3fled to a study which condemned as a \u8216\'3fpublic evil\u8217\'3f intercorporate holdings of railroad stock,\rquote  
+}
+{\field {\*\fldinst HYPERLINK "http://www.westlaw.com/Link/Document/FullText?findType=Y&serNum=1967129536&pubNum=708&originatingDoc=Iab938b559bf011d991d0cc6b54f12d4d&refType=RP&fi=co_pp_sp_708_1759&originationContext=document&vr=3.0&rs=cblt1.0&transitionType=DocumentItem&contextData=(sc.Search)#co_pp_sp_708_1759" }{\fldrslt 
+{\f2 \strike0 \ul0 \b0 \sa0 \sb0 \fs20 \cf5 \i0 
+id., at 492 n. 4, 87 S.Ct., at 1759,
+}}}
+{\f2 \strike0 \ul0 \b0 \sa0 \sb200 \fs20 \cf1 \i0 
+ the opinion shifted focus:
+\par 
+}
+}
+{\li0 \f2 \qj \b0 \ri0 \fs20 \cf1 \i0 
+{\li0 \f2 \qj \b0 \ri0 \fs20 \cf1 \i0 
+{\f2 \strike0 \ul0 \b0 \sa0 \sb0 \fs20 \cf1 \i0 
+\u8216\'3fEven if Congress\rquote  primary concern was to prevent (fiscal) manipulation, the broad terms \u8216\'3fpublic interest\u8217\'3f and \u8216\'3flawful object\u8217\'3f negate the existence of a mandate to the ICC to close its eyes to facts indicating that the transaction may exceed limitations imposed by other relevant laws.\rquote  
+}
+{\field {\*\fldinst HYPERLINK "http://www.westlaw.com/Link/Document/FullText?findType=Y&serNum=1967129536&pubNum=708&originatingDoc=Iab938b559bf011d991d0cc6b54f12d4d&refType=RP&fi=co_pp_sp_708_1759&originationContext=document&vr=3.0&rs=cblt1.0&transitionType=DocumentItem&contextData=(sc.Search)#co_pp_sp_708_1759" }{\fldrslt 
+{\f2 \strike0 \ul0 \b0 \sa0 \sb0 \fs20 \cf5 \i0 
+Id., at 492, 87 S.Ct., at 1759
+}}}
+{\f2 \strike0 \ul0 \b0 \sa0 \sb0 \fs20 \cf1 \i0 
+.
+\par 
+}
+}
+}
+{\f2 \strike0 \ul0 \b0 \sa0 \sb0 \fs20 \cf1 \i0 
+\u160\'3f
+\par 
+}
+{\li0 \f2 \qj \b0 \ri0 \fs20 \cf1 \i0 
+{\f2 \strike0 \ul0 \b0 \sa0 \sb0 \fs20 \cf1 \i0 
+One of the ICC\rquote s responsibilities, the Court found, was to consider possible control and anticompetitive consequences, 
+}
+{\f2 \b1 \fs20 \cf1 \i0 
+{\*\bkmkstart co_pp_sp_780_774_1}{\*\bkmkend co_pp_sp_780_774_1}
+{\f2 \strike0 \ul0 \b1 \sa0 \sb0 \fs20 \cf1 \i0 
+*774
+}
+}
+{\f2 \strike0 \ul0 \b0 \sa0 \sb0 \fs20 \cf1 \i0 
+ a responsibility deriving specifically from s 5 of the Interstate Commerce Act, 49 U.S.C. s 5, and from s 11 of the Clayton Act, 
+}
+{\field {\*\fldinst HYPERLINK "http://www.westlaw.com/Link/Document/FullText?findType=L&pubNum=1000546&cite=15USCAS21&originatingDoc=Iab938b559bf011d991d0cc6b54f12d4d&refType=LQ&originationContext=document&vr=3.0&rs=cblt1.0&transitionType=DocumentItem&contextData=(sc.Search)" }{\fldrslt 
+{\f2 \strike0 \ul0 \b0 \sa0 \sb0 \fs20 \cf5 \i0 
+15 U.S.C. s 21
+}}}
+\sb200 
+{\f2 \strike0 \ul0 \b0 \sa0 \sb0 \fs20 \cf1 \i0 
+. Under s 5, any conjoining of two or more carriers, either by merger or by transfer of a controlling interest of stock, must be submitted for approval to the ICC, whose approval confers antitrust immunity. Section 11 of the Clayton Act grants to the ICC authority to enforce compliance with the antitrust provisions of s 7 of the same Act, 
+}
+{\field {\*\fldinst HYPERLINK "http://www.westlaw.com/Link/Document/FullText?findType=L&pubNum=1000546&cite=15USCAS18&originatingDoc=Iab938b559bf011d991d0cc6b54f12d4d&refType=LQ&originationContext=document&vr=3.0&rs=cblt1.0&transitionType=DocumentItem&contextData=(sc.Search)" }{\fldrslt 
+{\f2 \strike0 \ul0 \b0 \sa0 \sb0 \fs20 \cf5 \i0 
+15 U.S.C. s 18
+}}}
+\sb200 
+{\f2 \strike0 \ul0 \b0 \sa0 \sb200 \fs20 \cf1 \i0 
+, which prohibit the acquisition by one corporation of the stock or the assets of another where \u8216\'3fthe effect of such acquisition may be substantially to lessen competition, or to tend to create a monopoly.\u8217\'3f On the facts before it, the Court saw no abuse of discretion in the ICC\rquote s decision to postpone consideration of possible control of REA by Greyhound until the expiration of Greyhound\rquote s 60-day offer, but held it an abuse of discretion to defer consideration of a possible s 7 violation.
+\par 
+}
+}
+}
+{\li0 \f2 \qj \b0 \ri0 \fs20 \cf1 \i0 
+{\li0 \f2 \qj \b0 \ri0 \fs20 \cf1 \i0 
+{\f2 \strike0 \ul0 \b0 \sa0 \sb0 \fs20 \cf1 \i0 
+Section 20a of the Interstate Commerce Act, interpreted in Denver, was, as the majority points out, the model for s 204 of the Federal Power Act.
+}
+{\f2 \b0 \fs16 \cf1 \i0 
+{\*\bkmkstart co_footnoteReference_B021111973126395_ID}{\*\bkmkend co_footnoteReference_B021111973126395_ID}
+{\field {\*\fldinst HYPERLINK "#co_footnote_B021111973126395_1" }{\fldrslt 
+{\super \f2 \strike0 \ul0 \b0 \sa0 \sb0 \fs16 \cf5 \i0 
+11
+}}}
+}
+{\f2 \strike0 \ul0 \b0 \sa0 \sb0 \fs20 \cf1 \i0 
+ But this tie by no means requires that the two sections be given identical constructions.
+}
+{\f2 \b0 \fs16 \cf1 \i0 
+{\*\bkmkstart co_footnoteReference_B022121973126395_ID}{\*\bkmkend co_footnoteReference_B022121973126395_ID}
+{\field {\*\fldinst HYPERLINK "#co_footnote_B022121973126395_1" }{\fldrslt 
+{\super \f2 \strike0 \ul0 \b0 \sa0 \sb0 \fs16 \cf5 \i0 
+12
+}}}
+}
+{\f2 \strike0 \ul0 \b0 \sa0 \sb0 \fs20 \cf1 \i0 
+ The Denver case involved 
+}
+{\f2 \b1 \fs20 \cf1 \i0 
+{\*\bkmkstart co_pp_sp_708_1886_1}{\*\bkmkend co_pp_sp_708_1886_1}
+{\f2 \strike0 \ul0 \b1 \sa0 \sb0 \fs20 \cf1 \i0 
+**1886
+}
+}
+{\f2 \strike0 \ul0 \b0 \sa0 \sb0 \fs20 \cf1 \i0 
+ a different 
+}
+{\f2 \b1 \fs20 \cf1 \i0 
+{\*\bkmkstart co_pp_sp_780_775_1}{\*\bkmkend co_pp_sp_780_775_1}
+{\f2 \strike0 \ul0 \b1 \sa0 \sb0 \fs20 \cf1 \i0 
+*775
+}
+}
+{\f2 \strike0 \ul0 \b0 \sa0 \sb0 \fs20 \cf1 \i0 
+ statute and regulatory framework, with a different administrative history.
+}
+{\f2 \b0 \fs16 \cf1 \i0 
+{\*\bkmkstart co_footnoteReference_B023131973126395_ID}{\*\bkmkend co_footnoteReference_B023131973126395_ID}
+{\field {\*\fldinst HYPERLINK "#co_footnote_B023131973126395_1" }{\fldrslt 
+{\super \f2 \strike0 \ul0 \b0 \sa0 \sb0 \fs16 \cf5 \i0 
+13
+}}}
+}
+{\f2 \strike0 \ul0 \b0 \sa0 \sb200 \fs20 \cf1 \i0 
+ Moreover, the transaction involved in Denver, Greyhound\rquote s purchase of stock in a regulated carrier, was arguably a per se violation of the antitrust laws: the effect of the acquisition might have been \u8216\'3fsubstantially to lessen competition, or to tend to create a monopoly\u8217\'3f in violation of s 7 of the Clayton Act. As indicated above, the legislative history of the Interstate Commerce Act showed particular concern with \u8216\'3fintercorporate holdings of railroad stock.\u8217\'3f The immediacy of the antitrust issue and the obligation imposed by s 5 on the ICC with respect to Clayton Act violations justified the Court in overriding the ICC\rquote s decision not to address the issue.
+\par 
+}
+}
+}
+{\li0 \f2 \qj \b0 \ri0 \fs20 \cf1 \i0 {
+{\trowd \lastrow \trleft0 
+\clbrdrt \clbrdrb \clbrdrl \trql \clvertalt \clwWidth600 \cellx600 
+\clpadb90 \clpadfb3 \clpadl90 \clpadfl3 \clbrdrt \clbrdrb \clbrdrr \trql \clwWidth9480 \cellx10080 
+\intbl 
+{\li0 \ri0 
+{\li0 \f2 \b0 \ql \ri0 \fs20 \cf1 \i0 
+{\f2 \b0 \fs20 \cf1 \i0 
+{\*\bkmkstart co_footnote_B021111973126395_1}{\*\bkmkend co_footnote_B021111973126395_1}
+{\field {\*\fldinst HYPERLINK "#co_footnoteReference_B021111973126395_ID" }{\fldrslt 
+{\super \f2 \strike0 \ul0 \b0 \sa0 \sb0 \fs20 \cf5 \i0 
+11
+}\f2 \super \strike0 \ul0 \b0 \sa0 \sb0 \fs20 \cf5 \i0 }}
+\par 
+}
+}
+}\f2 \li0 \b0 \ql \fs20 \ri0 \cf1 \i0 \intbl \cell \intbl 
+{\li0 \ri0 
+{\li0 \f2 \qj \b0 \ri0 \fs18 \cf1 \i0 
+{\li0 \f2 \qj \b0 \ri0 \fs18 \cf1 \i0 
+{\li0 \f2 \qj \b0 \ri0 \fs18 \cf1 \i0 
+{\f2 \strike0 \ul0 \b0 \sa0 \sb0 \fs18 \cf1 \i0 
+The Senate Report indicated that s 204 \u8216\'3ffollows section 20a of the Interstate Commerce Act in defining the conditions under which such authorization is to be given, the Commission\rquote s power to issue orders and the duty of the public utilities to comply with such orders.\u8217\'3f S.Rep.No. 621, 74th Cong., 1st Sess., 50 (1935).
+\par 
+}
+}
+}
+}
+}\f2 \li0 \strike0 \ul0 \b0 \qj \sa0 \sb0 \fs18 \ri0 \cf1 \i0 \intbl \cell \row }}\par 
+}
+{\li0 \f2 \qj \b0 \ri0 \fs20 \cf1 \i0 {
+{\trowd \lastrow \trleft0 
+\clbrdrt \clbrdrb \clbrdrl \trql \clvertalt \clwWidth600 \cellx600 
+\clpadb90 \clpadfb3 \clpadl90 \clpadfl3 \clbrdrt \clbrdrb \clbrdrr \trql \clwWidth9480 \cellx10080 
+\intbl 
+{\li0 \ri0 
+{\li0 \f2 \b0 \ql \ri0 \fs20 \cf1 \i0 
+{\f2 \b0 \fs20 \cf1 \i0 
+{\*\bkmkstart co_footnote_B022121973126395_1}{\*\bkmkend co_footnote_B022121973126395_1}
+{\field {\*\fldinst HYPERLINK "#co_footnoteReference_B022121973126395_ID" }{\fldrslt 
+{\super \f2 \strike0 \ul0 \b0 \sa0 \sb0 \fs20 \cf5 \i0 
+12
+}\f2 \super \strike0 \ul0 \b0 \sa0 \sb0 \fs20 \cf5 \i0 }}
+\par 
+}
+}
+}\f2 \li0 \b0 \ql \fs20 \ri0 \cf1 \i0 \intbl \cell \intbl 
+{\li0 \ri0 
+{\li0 \f2 \qj \b0 \ri0 \fs18 \cf1 \i0 
+{\li0 \f2 \qj \b0 \ri0 \fs18 \cf1 \i0 
+{\li0 \f2 \qj \b0 \ri0 \fs18 \cf1 \i0 
+{\f2 \strike0 \ul0 \b0 \sa0 \sb0 \fs18 \cf1 \i0 
+One can hardly suppose that Congress in 1935 specifically intended to borrow the words of s 20a as they would be construed by this Court in 1967. Congress borrowed the language as it was then understood, because it had \u8216\'3fproved its usefulness.\u8217\'3f Id., at 20.
+\par 
+}
+}
+{\li0 \f2 \qj \b0 \ri0 \fs18 \cf1 \i0 
+{\f2 \strike0 \ul0 \b0 \sa0 \sb0 \fs18 \cf1 \i0 
+Moreover, Congress departed from the Interstate Commerce Act model when it established an exception for state-regulated securities, see n. 10, supra, an exception which is not found in the Interstate Commerce Act.
+\par 
+}
+}
+}
+}
+}\f2 \li0 \strike0 \ul0 \b0 \qj \sa0 \sb0 \fs18 \ri0 \cf1 \i0 \intbl \cell \row }}\par 
+}
+{\li0 \f2 \qj \b0 \ri0 \fs20 \cf1 \i0 {
+{\trowd \lastrow \trleft0 
+\clbrdrt \clbrdrb \clbrdrl \trql \clvertalt \clwWidth600 \cellx600 
+\clpadb90 \clpadfb3 \clpadl90 \clpadfl3 \clbrdrt \clbrdrb \clbrdrr \trql \clwWidth9480 \cellx10080 
+\intbl 
+{\li0 \ri0 
+{\li0 \f2 \b0 \ql \ri0 \fs20 \cf1 \i0 
+{\f2 \b0 \fs20 \cf1 \i0 
+{\*\bkmkstart co_footnote_B023131973126395_1}{\*\bkmkend co_footnote_B023131973126395_1}
+{\field {\*\fldinst HYPERLINK "#co_footnoteReference_B023131973126395_ID" }{\fldrslt 
+{\super \f2 \strike0 \ul0 \b0 \sa0 \sb0 \fs20 \cf5 \i0 
+13
+}\f2 \super \strike0 \ul0 \b0 \sa0 \sb0 \fs20 \cf5 \i0 }}
+\par 
+}
+}
+}\f2 \li0 \b0 \ql \fs20 \ri0 \cf1 \i0 \intbl \cell \intbl 
+{\li0 \ri0 
+{\li0 \f2 \qj \b0 \ri0 \fs18 \cf1 \i0 
+{\li0 \f2 \qj \b0 \ri0 \fs18 \cf1 \i0 
+{\li0 \f2 \qj \b0 \ri0 \fs18 \cf1 \i0 
+{\f2 \strike0 \ul0 \b0 \sa0 \sb0 \fs18 \cf1 \i0 
+No less important are the practical differences between utility and railroad financing. Because for several decades the railroads have contracted rather than expanded facilities and services, they have for the most part been able to meet their capital needs from retained earnings and equipment trust financing without resorting to the national markets for additional capital:
+\par 
+}
+}
+{\li0 \f2 \qj \b0 \ri0 \fs18 \cf1 \i0 
+{\f2 \strike0 \ul0 \b0 \sa0 \sb0 \fs18 \cf1 \i0 
+\u8216\'3fRailroads may not enlarge their trackage significantly and may continue to rely largely on internal resources and the ubiquitous equipment trust to finance additional and more efficient rolling stock. But the electric, natural gas, communications, and water industries, as well as the airlines, must go to the investment fraternity for staggering amounts.\u8217\'3f Priest, supra, n. 7, at 451.
+\par 
+}
+}
+}
+}
+}\f2 \li0 \strike0 \ul0 \b0 \qj \sa0 \sb0 \fs18 \ri0 \cf1 \i0 \intbl \cell \row }}\par 
+}
+{\li0 \f2 \qj \b0 \ri0 \fs20 \cf1 \i0 
+{\li0 \f2 \qj \b0 \ri0 \fs20 \cf1 \i0 
+{\f2 \strike0 \ul0 \b0 \sa0 \sb200 \fs20 \cf1 \i0 
+In sum, Denver has little precedential weight in a case under the Federal Power Act, especially where the transaction does not involve on its face an arguable violation of the antitrust laws.
+\par 
+}
+}
+}
+}
+{\li0 \f2 \qj \b0 \ri0 \fs20 \cf1 \i0 
+{\*\bkmkstart co_anchor_I1f6b3e0b048911e598db8b09b4f04}{\*\bkmkend co_anchor_I1f6b3e0b048911e598db8b09b4f04}
+\par 
+{\li0 \f2 \b1 \ri0 \fs20 \cf1 \qc \i0 
+{\f2 \b1 \fs20 \cf1 \i0 
+{\f2 \strike0 \ul0 \b1 \sa200 \sb400 \fs20 \cf1 \i0 
+IV
+\par 
+}
+}
+}
+{\li0 \f2 \qj \b0 \ri0 \fs20 \cf1 \i0 
+{\li0 \f2 \qj \b0 \ri0 \fs20 \cf1 \i0 
+{\f2 \strike0 \ul0 \b0 \sa0 \sb0 \fs20 \cf1 \i0 
+I return now to the facts in this case. The relationship between Gulf States\rquote  proposal to sell bonds for cash on the open market and the anticompetitive activities alleged by the Cities is, at best, an attenuated one. Indeed, the Cities do not claim that the issuance itself will have an 
+}
+{\f2 \b1 \fs20 \cf1 \i0 
+{\*\bkmkstart co_pp_sp_780_776_1}{\*\bkmkend co_pp_sp_780_776_1}
+{\f2 \strike0 \ul0 \b1 \sa0 \sb0 \fs20 \cf1 \i0 
+*776
+}
+}
+{\f2 \strike0 \ul0 \b0 \sa0 \sb200 \fs20 \cf1 \i0 
+ anticompetitive effect. Nor do they claim that the simple refunding of obligations will have such an effect. Their assertion of a relationship barely goes beyond a bald insistence that the anticompetitive conduct alleged will be \u8216\'3ffinanced or refinanced by the bonds here proposed.\u8217\'3f Brief for Respondent Cities 9. Their focus consistently has been not so much on the uses to which the proceeds from the bonds will be put as on the conditions which the Commission might impose on their issuance. Indeed, the Commission believes that the lack of a substantial relationship between the Cities\rquote  allegations and petitioner\rquote s bond issue is characteristic of the lack of nexus between s 204 financing proposals generally and anticompetitive conduct by utilities.
+}
+{\f2 \b0 \fs16 \cf1 \i0 
+{\*\bkmkstart co_footnoteReference_B024141973126395_ID}{\*\bkmkend co_footnoteReference_B024141973126395_ID}
+{\field {\*\fldinst HYPERLINK "#co_footnote_B024141973126395_1" }{\fldrslt 
+{\super \f2 \strike0 \ul0 \b0 \sa0 \sb0 \fs16 \cf5 \i0 
+14
+}}}
+\par 
+}
+}
+}
+{\li0 \f2 \qj \b0 \ri0 \fs20 \cf1 \i0 {
+{\trowd \lastrow \trleft0 
+\clbrdrt \clbrdrb \clbrdrl \trql \clvertalt \clwWidth600 \cellx600 
+\clpadb90 \clpadfb3 \clpadl90 \clpadfl3 \clbrdrt \clbrdrb \clbrdrr \trql \clwWidth9480 \cellx10080 
+\intbl 
+{\li0 \ri0 
+{\li0 \f2 \b0 \ql \ri0 \fs20 \cf1 \i0 
+{\f2 \b0 \fs20 \cf1 \i0 
+{\*\bkmkstart co_footnote_B024141973126395_1}{\*\bkmkend co_footnote_B024141973126395_1}
+{\field {\*\fldinst HYPERLINK "#co_footnoteReference_B024141973126395_ID" }{\fldrslt 
+{\super \f2 \strike0 \ul0 \b0 \sa0 \sb0 \fs20 \cf5 \i0 
+14
+}\f2 \super \strike0 \ul0 \b0 \sa0 \sb0 \fs20 \cf5 \i0 }}
+\par 
+}
+}
+}\f2 \li0 \b0 \ql \fs20 \ri0 \cf1 \i0 \intbl \cell \intbl 
+{\li0 \ri0 
+{\li0 \f2 \qj \b0 \ri0 \fs18 \cf1 \i0 
+{\li0 \f2 \qj \b0 \ri0 \fs18 \cf1 \i0 
+{\li0 \f2 \qj \b0 \ri0 \fs18 \cf1 \i0 
+{\f2 \strike0 \ul0 \b0 \sa0 \sb0 \fs18 \cf1 \i0 
+It is worthy of note that a transaction between two public utilities resembling the transaction proposed in Denver & R.G.W.R. Co. would be submitted to the Commission, not under s 204, but under s 203, which provides in pertinent part that:
+\par 
+}
+}
+{\li0 \f2 \qj \b0 \ri0 \fs18 \cf1 \i0 
+{\f2 \strike0 \ul0 \b0 \sa0 \sb0 \fs18 \cf1 \i0 
+\u8216\'3f(a) No public utility shall . . . purchase, acquire, or take any security of any other public utility, without first having secured an order of the Commission authorizing it to do so.\u8217\'3f 
+}
+{\field {\*\fldinst HYPERLINK "http://www.westlaw.com/Link/Document/FullText?findType=L&pubNum=1000546&cite=16USCAS824B&originatingDoc=Iab938b559bf011d991d0cc6b54f12d4d&refType=LQ&originationContext=document&vr=3.0&rs=cblt1.0&transitionType=DocumentItem&contextData=(sc.Search)" }{\fldrslt 
+{\f2 \strike0 \ul0 \b0 \sa0 \sb0 \fs18 \cf5 \i0 
+16 U.S.C. s 824b
+}\f2 \strike0 \ul0 \b0 \sa0 \sb0 \fs18 \cf5 \i0 }}
+{\f2 \strike0 \ul0 \b0 \sa0 \sb0 \fs18 \cf1 \i0 
+.
+\par 
+}
+}
+{\li0 \f2 \qj \b0 \ri0 \fs18 \cf1 \i0 
+{\f2 \strike0 \ul0 \b0 \sa0 \sb0 \fs18 \cf1 \i0 
+In passing on an application under s 203, the Commission would investigate charges of anticompetitive practices. See supra, at 1882. Thus the specific problem addressed by the Court in Denver would not arise under s 204.
+\par 
+}
+}
+}
+}
+}\f2 \li0 \strike0 \ul0 \b0 \qj \sa0 \sb0 \fs18 \ri0 \cf1 \i0 \intbl \cell \row }}\par 
+}
+{\li0 \f2 \qj \b0 \ri0 \fs20 \cf1 \i0 
+{\li0 \f2 \qj \b0 \ri0 \fs20 \cf1 \i0 
+{\f2 \strike0 \ul0 \b0 \sa0 \sb0 \fs20 \cf1 \i0 
+This, then, is a particularly unlikely case in which to force the Commission to investigate allegations of anticompetitive conduct. The Court apparently considers that the Cities\rquote  claim of anticompetitive conduct is at least colorably relevant to the proposed refinancing. If so, it is unlikely that any claim can be found wholly irrelevant. On the basis of today\rquote s precedent, the only justification 
+}
+{\f2 \b1 \fs20 \cf1 \i0 
+{\*\bkmkstart co_pp_sp_708_1887_1}{\*\bkmkend co_pp_sp_708_1887_1}
+{\f2 \strike0 \ul0 \b1 \sa0 \sb0 \fs20 \cf1 \i0 
+**1887
+}
+}
+{\f2 \strike0 \ul0 \b0 \sa0 \sb200 \fs20 \cf1 \i0 
+ reasonably open to the Commission for refusing to consider allegations of anticompetitive conduct will be that the allegations themselves are patently false.
+\par 
+}
+}
+}
+{\li0 \f2 \qj \b0 \ri0 \fs20 \cf1 \i0 
+{\li0 \f2 \qj \b0 \ri0 \fs20 \cf1 \i0 
+{\f2 \strike0 \ul0 \b0 \sa0 \sb0 \fs20 \cf1 \i0 
+If the field of inquiry is, as the Cities insist, all of a utility\rquote s proposed actions and all of its past actions as 
+}
+{\f2 \b1 \fs20 \cf1 \i0 
+{\*\bkmkstart co_pp_sp_780_777_1}{\*\bkmkend co_pp_sp_780_777_1}
+{\f2 \strike0 \ul0 \b1 \sa0 \sb0 \fs20 \cf1 \i0 
+*777
+}
+}
+{\f2 \strike0 \ul0 \b0 \sa0 \sb200 \fs20 \cf1 \i0 
+ they reflect on its proposed actions, it should be no difficult task for an intervenor to force a hearing and findings of fact. As the present case amply demonstrates, the questions of fact may be complicated ones unsuited to summary adjudication. If the Commission finds no anticompetitive conduct, the intervenor will remain free to seek judicial review of the Commission\rquote s findings, and thereby cause further delay.
+\par 
+}
+}
+}
+{\li0 \f2 \qj \b0 \ri0 \fs20 \cf1 \i0 
+{\li0 \f2 \qj \b0 \ri0 \fs20 \cf1 \i0 
+{\f2 \strike0 \ul0 \b0 \sa0 \sb0 \fs20 \cf1 \i0 
+In converting a special-purpose proceeding into a general-purpose one, the Court renounces an administrative interpretation of s 204 founded on the practicalities of utility financing and regulation.
+}
+{\f2 \b0 \fs16 \cf1 \i0 
+{\*\bkmkstart co_footnoteReference_B025151973126395_ID}{\*\bkmkend co_footnoteReference_B025151973126395_ID}
+{\field {\*\fldinst HYPERLINK "#co_footnote_B025151973126395_1" }{\fldrslt 
+{\super \f2 \strike0 \ul0 \b0 \sa0 \sb0 \fs16 \cf5 \i0 
+15
+}}}
+}
+{\f2 \strike0 \ul0 \b0 \sa0 \sb0 \fs20 \cf1 \i0 
+ Although other established means are available for policing anticompetitive conduct,
+}
+{\f2 \b0 \fs16 \cf1 \i0 
+{\*\bkmkstart co_footnoteReference_B026161973126395_ID}{\*\bkmkend co_footnoteReference_B026161973126395_ID}
+{\field {\*\fldinst HYPERLINK "#co_footnote_B026161973126395_1" }{\fldrslt 
+{\super \f2 \strike0 \ul0 \b0 \sa0 \sb0 \fs16 \cf5 \i0 
+16
+}}}
+}
+{\f2 \strike0 \ul0 \b0 \sa0 \sb200 \fs20 \cf1 \i0 
+ the Court imposes fresh and ill-defined obstacles to the necessary raising of capital by an industry that needs an expeditious and dependable regulatory process. And, finally, in the name of the \u8216\'3fpublic interest,\u8217\'3f it ignores the critical fact that mandating a prolonged factfinding process will preclude the Commission from vindicating those aspects of the public interest peculiarly implicated by financing proposals.
+\par 
+}
+}
+}
+{\li0 \f2 \qj \b0 \ri0 \fs20 \cf1 \i0 {
+{\trowd \lastrow \trleft0 
+\clbrdrt \clbrdrb \clbrdrl \trql \clvertalt \clwWidth600 \cellx600 
+\clpadb90 \clpadfb3 \clpadl90 \clpadfl3 \clbrdrt \clbrdrb \clbrdrr \trql \clwWidth9480 \cellx10080 
+\intbl 
+{\li0 \ri0 
+{\li0 \f2 \b0 \ql \ri0 \fs20 \cf1 \i0 
+{\f2 \b0 \fs20 \cf1 \i0 
+{\*\bkmkstart co_footnote_B025151973126395_1}{\*\bkmkend co_footnote_B025151973126395_1}
+{\field {\*\fldinst HYPERLINK "#co_footnoteReference_B025151973126395_ID" }{\fldrslt 
+{\super \f2 \strike0 \ul0 \b0 \sa0 \sb0 \fs20 \cf5 \i0 
+15
+}\f2 \super \strike0 \ul0 \b0 \sa0 \sb0 \fs20 \cf5 \i0 }}
+\par 
+}
+}
+}\f2 \li0 \b0 \ql \fs20 \ri0 \cf1 \i0 \intbl \cell \intbl 
+{\li0 \ri0 
+{\li0 \f2 \qj \b0 \ri0 \fs18 \cf1 \i0 
+{\li0 \f2 \qj \b0 \ri0 \fs18 \cf1 \i0 
+{\li0 \f2 \qj \b0 \ri0 \fs18 \cf1 \i0 
+{\f2 \strike0 \ul0 \b0 \sa0 \sb0 \fs18 \cf1 \i0 
+I would not foreclose the possibility that the Commission should consider in the context of a s 204 application an allegation that the issuance of the security was itself an antitrust violation. But see n. 14, supra, The present case is not remotely of this type.
+\par 
+}
+}
+}
+}
+}\f2 \li0 \strike0 \ul0 \b0 \qj \sa0 \sb0 \fs18 \ri0 \cf1 \i0 \intbl \cell \row }}\par 
+}
+{\li0 \f2 \qj \b0 \ri0 \fs20 \cf1 \i0 {
+{\trowd \lastrow \trleft0 
+\clbrdrt \clbrdrb \clbrdrl \trql \clvertalt \clwWidth600 \cellx600 
+\clpadb90 \clpadfb3 \clpadl90 \clpadfl3 \clbrdrt \clbrdrb \clbrdrr \trql \clwWidth9480 \cellx10080 
+\intbl 
+{\li0 \ri0 
+{\li0 \f2 \b0 \ql \ri0 \fs20 \cf1 \i0 
+{\f2 \b0 \fs20 \cf1 \i0 
+{\*\bkmkstart co_footnote_B026161973126395_1}{\*\bkmkend co_footnote_B026161973126395_1}
+{\field {\*\fldinst HYPERLINK "#co_footnoteReference_B026161973126395_ID" }{\fldrslt 
+{\super \f2 \strike0 \ul0 \b0 \sa0 \sb0 \fs20 \cf5 \i0 
+16
+}\f2 \super \strike0 \ul0 \b0 \sa0 \sb0 \fs20 \cf5 \i0 }}
+\par 
+}
+}
+}\f2 \li0 \b0 \ql \fs20 \ri0 \cf1 \i0 \intbl \cell \intbl 
+{\li0 \ri0 
+{\li0 \f2 \qj \b0 \ri0 \fs18 \cf1 \i0 
+{\li0 \f2 \qj \b0 \ri0 \fs18 \cf1 \i0 
+{\li0 \f2 \qj \b0 \ri0 \fs18 \cf1 \i0 
+{\f2 \strike0 \ul0 \b0 \sa0 \sb0 \fs18 \cf1 \i0 
+See n. 4, supra.
+\par 
+}
+}
+}
+}
+}\f2 \li0 \strike0 \ul0 \b0 \qj \sa0 \sb0 \fs18 \ri0 \cf1 \i0 \intbl \cell \row }}\par 
+}
+{\li0 \f2 \qj \b0 \ri0 \fs20 \cf1 \i0 
+{\li0 \f2 \qj \b0 \ri0 \fs20 \cf1 \i0 
+{\f2 \strike0 \ul0 \b0 \sa0 \sb200 \fs20 \cf1 \i0 
+I would uphold the Commission and would reverse the decision of the Court of Appeals.
+\par 
+}
+}
+}
+}
+}
+}
+}
+}
+{\li0 \f2 \qj \b0 \ri0 \fs20 \cf1 \i0 
+{\li0 \f2 \qj \b1 \ri0 \fs20 \cf19 \i0 
+{\*\bkmkstart co_allCitations_1}{\*\bkmkend co_allCitations_1}
+{\f2 \strike0 \ul0 \b1 \sa200 \sb400 \fs20 \cf19 \i0 
+All Citations
+\par 
+}
+}
+{\f2 \strike0 \ul0 \b0 \sa0 \sb0 \fs20 \cf1 \i0 
+411 U.S. 747, 93 S.Ct. 1870, 98 P.U.R.3d 262, 36 L.Ed.2d 635, 1973-1 Trade Cases P 74,493
+\par 
+}
+}
+{\li0 \f2 \qj \b0 \ri0 \fs20 \cf1 \i0 {
+{\trowd \lastrow \trleft0 
+\clpadt24 \clpadft3 \clpadl100 \clpadfl3 \clpadr24 \clpadfr3 \clbrdrt \brdrw10 \brdrcf20 \brdrs \clbrdrb \clbrdrl \trql \clwWidth4320 \cellx4320 
+\clpadt24 \clpadft3 \clpadl100 \clpadfl3 \clpadr24 \clpadfr3 \clbrdrt \brdrw10 \brdrcf20 \brdrs \clbrdrb \clbrdrr \trql \clwWidth5760 \cellx10080 
+\intbl 
+{\li24 \ri24 
+{\li24 \f2 \b1 \ql \ri24 \fs16 \cf20 \i0 
+{\f2 \strike0 \ul0 \b1 \sa0 \sb0 \fs16 \cf20 \i0 
+End of Document
+\par 
+}
+}
+}\f2 \li24 \strike0 \ul0 \b1 \sa0 \ql \sb0 \fs16 \ri24 \cf20 \i0 \intbl \cell \intbl 
+{\li24 \ri24 
+{\li24 \f2 \b0 \ri24 \fs16 \cf20 \qr \i0 
+{\f2 \strike0 \ul0 \b0 \sa0 \sb0 \fs16 \cf20 \i0 
+\u169\'3f 2015 Thomson Reuters. No claim to original U.S. Government Works.
+\par 
+}
+}
+}\f2 \li24 \strike0 \ul0 \b0 \sa0 \sb0 \fs16 \ri24 \cf20 \i0 \qr \intbl \cell \row }}\par 
+}
+}\sect }

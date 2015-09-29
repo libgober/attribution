@@ -1,0 +1,630 @@
+ALLOWANCE OF IN FORMA PAUPERIs APPEALS IN § 2255 AND HABEAS CORPUS
+CASES
+
+On April 10, 1967, the Supreme Court of the United States decided Nowakowski
+v. Maroney, 386 U.S. 542, 87 S.Ct. 1197, 18 L.Ed.2d 282 (1967). This is a
+two page unanimous per curiam opinion. As you might expect from its brevity,
+the opinion is direct and to the point. Nowakowski was a Pennsylvania state
+prisoner. He alleged the denial of the assistance of counsel in his state criminal
+trial and sought a federal writ of habeas corpus. The habeas court appointed a
+lawyer for him, held a hearing, and concluded that there there had not been a
+denial of his constitutional right to counsel. But the district judge issued the
+certificate of probable cause which is necessary under 28 U.S.C. § 2253, for any
+state prisoner to appeal a denial of federal habeas corpus.
+Court-appointed counsel were then permitted to withdraw. Nowakowski petitioned
+the Third Circuit to allow his appeal in forma pauperis and toappoint new
+counsel for him. Both aspects of this motion were denied by the court of appeals
+in a brief order without a hearing. Certiorari was granted as was leave to proceed
+as a poor person. 384 U.S. 984, 86 S.Ct. 1893, 16 L.Ed.2d 1003.
+The Supreme Court held that this denial by the Third Circuit was error. While
+the Court recognized that "weighty consideration" should be given a district
+judge's prior denial of an application for a certificate of probable cause, it ruled,
+on the other hand, that when the judge issues the certificate, "the court of appeals
+must grant an appeal in forma pauperis (assuming the requisite showing of poverty),
+and proceed to a disposition of the appeal in accord with its ordinary
+procedure."
+That is all there is to Nowakowski. Once a district judge issues that certificate
+of probable cause in a state prisoner's federal habeas case, he binds his appellate
+court to accept the appeal, whether paid or in forma pauperis, in its ordinary
+routine. When the trial court issues the certificate, the court of appeals has no
+discretion to second-guess the district judge on the issue of probable cause.
+The Eighth Circuit, of course, has recognized Nowakow8ki. Gross v. Bishop,
+377 F.2d 492 (8 Cir. 1967).
+It is this decision, I understand, which prompted your program committee to
+place on the agenda of this conference the subject, "Allowances of In Forma
+Pauperis Appeals in § 2255 and Habeas Corpus Cases." Does your committee
+thereby possibly suggest that each district judge who is here should bear in
+mind that perhaps a probable cause certificate is not necessarily to be granted
+as a matter of course without some earnest considertaion of the underlying
+substance of the applicant's case? Does it possibly suggest, also, that each
+appellate court judge who is here bear in mind that perhaps a probable cause
+certificate is not necessarily to be issued by him as a matter of course, whenever
+the district judge has denied it, without some earnest consideration of the
+underlying substance of the applicant's case?
+We must, of course, examine the statutes. Because we are concerned with in
+forma pauperis appeals, we look at four statutes in the following order: first,
+28 U.S.C. § 1915, which governs proceedings and appeals in forma papueris generally; then § 2253, which has to do with habeas appeals; then§ 2255; and finally
+§ 753(f), the Court Reporter Act.
+I. Section 1915
+A. Its general nature.
+28 U.S.C. § 1915. Proceedings in forma pauperis
+(a) Any court of the United States may authorize the commencement,
+prosecution or defense of any suit, action or proceeding, civil or criminal,
+or appeal therein, without prepayment of fees and costs. * * *
+An appeal may not be taken in forma pauperis if the trial court certifies
+in writing that it is not taken in good faith. * * * -
+It is at once apparent that this statute is very broad in its application and
+reach.
+1. It is broad because it vests the power to authorize In .forma pauperis
+procedure in "any court", trial or appellate. It would appear that in forma
+pauperis appellate relief is not dependent upon the existence of in forma pauperis
+procedure in the district court.
+2. It is broad because the procedure is available at any stage of the litigation.
+The statute refers to commencement, prosecution or defense, or appeal.
+3. It is broad because it applies to either side of the litigation, to "prosecution
+or defense".
+4. It is broad because it applies to civil as well as to criminal matters.
+5. It is broad in other respects. Thus, by subsection (b), if a printed record
+is required by an appellate court, the court may direct the expense of even that
+printing to be paid by the United States.
+We therefore have a statute which is comprehensive as to court as to the
+stage of the proceeding, as to prosecution or defense, as to the nature, criminal
+or civil, of the litigation, and as to other monetary detail. Seemingly, it makes
+available to the indigent person, in a deserving situation, the same access to the
+federal court, trial or appellate, as is possessed by the paying litigant. This very
+accessibility, as you know, has been emphasized again and again by the Supreme
+Court.
+Despite all this, the general wording of the entire statute is not mandatory
+but is permissive. For the most part, it reads in terms of "may", not of "shall".
+"Any court of the United States may authorize"; the court "may * * * direct";
+the court "may request an attorney to represent. * * *"
+Presumably because of this permissive language, there are a number of cases
+in which courts of appeals have said that in forma pauperis procedure is a
+privilege and not a right The District of Columbia, Fifth, Ninth and Tenth
+Circuits all said so in cases decided before 1957. Dorsey v. Gill, 80 U.S.App.D.C. 9,
+148 F.2d 857, 877 (1945), cert. denied 325 U.S. 890, 65 S.Ct. 1580, 89 L.Ed. 2003;
+Parsell v. United States, 218 F.2d 232, 235 (5 Cir. 1955) ; Barkeij v. Ford Motor
+Co., 230 F.2d 729, 731 (9 Oir. 1956) ; Clough v. Hunter, 191 F.2d 516, 518
+(10 Cir. 1951).
+This privilege characterization, for the most part, antedates Johnson v. United
+States, 352 U.S. 565, 77 S.Ct. 550, 1 LEd2d 593, decided March 4, 1957. The
+Supreme Court there held (1) that the district Judge's certification that the
+appeal is not taken in good faith "is not final in the sense that the convicted
+defendant is barred from showing that it was unwarranted"; (2) that the trial
+judge's certificate "carries great weight but, necessarily, it cannot be conclusive";
+(3) that "Upon a proper showing a Court of Appeals has a duty to displace a Dis
+trict Court's certification"; (4) that the defendant or his assigned counsel "must
+be enabled to show that the grounds for seeking an appeal * * * are not frivolous
+and do not justify the finding that the appeal is not sought in good faith"; and
+(5) that it is essential that the defendant be assured some appropriate means,
+such as the court's notes, or an agreed statement by trial counsel, for showing
+the basis of his claim that the court committed error in the certificate. This holding
+would seem to cast a clear and definite shadow on any rigid concept that in
+forma pauperis procedure is a privilege and not a right. 0
+Nevertheless. even since the 1957 decision in Johnson, courts of appeals on
+occasion have still characterized the procedure as an privilege. Gomez v. United
+States. 245 F.2d 346, 347 (5 Cir. 1957) : Weller v. Dickson, 314 F.2d 598. 600 (9
+Cir. 1963), cert. denied 375 U.S. 845, 84 S. Ct. 97, 11 L.Ed.2d 72: Smart v. Heinze,
+347 F.2d 114, 116 (9 Cir. 1965), cert. denied 382 U.S. 896, 86 S.Ct. 192, 15 L.Ed.2d
+153; Moore v. Taylor. 289 F.2d 450 (10 Cir. 1961), cert. denied 368 U.S. 853, 82
+S.Ct. 90, 7 L.Ed.2d 102.
+
+The Eighth Circuit, too, has described in forma pauperis procedure as "entirely
+statutory" and as a privilege and not a right. This was done in 1950 in an opinion
+by Judge Dewey, Willis v. Utecht, 185 F.2d 210, 212 (8 Cir. 1950), cert, denied 340
+U.S. 915, 71 S.Ct. 286, 95 L.Ed 651, and in 1952 in an opinion by Judge Sanborn,
+Higgins v. Steele, 195 F.2d 366, 368 (8 Cir. 1952). Later, however, in 1958, the
+court, in a per curiam opinion, obviously written by Judge Sanborn, specifically
+questioned this. Weber v. United States, 254 F.2d 713, 714-715 (8 Cir. 1958).
+B. The standards of § 1915(a).
+A reading of the statute reveals immediately that it projects two standards. The
+first is in § 1915(a), which provides that an appeal may not be taken in forma
+pauperis if the trial court certifies in writing that it is not taken "in good faith".
+The second is in § 1915(d), which provides that the court may dismiss the case
+if it "is satisfied that the action is frivolous or malicious".
+Are these two standards identical? What does good faith mean? Does absence
+of good faith equate with frivolity or maliciousness? Does § 1915(d) apply only
+to the district court and not at all to the appellate court? Does the double feature
+of the statute suggest that a trial court should only rarely certify that an appeal
+is not taken in good faith because the appeal is subject to dismissal anyway by
+the appellate court?
+Five Supreme Court cases decided in the last decade provide answers or indications
+of answers to some of these questions which so obviously arise upon a
+cursory reading of § 1915. The cases are Johnson v. United States, 352 U.S. 565. 77
+S.Ct. 550, 1 L.Ed.2d 593 (1957), which has already been referred to; Farley v.
+United States, 354 U.S. 521. 77 S.Ct. 1371. 1 L.Ed.2d 1529 (1957) ; Ellis v. United
+States, 356 U.S. 674, 78 S.Ct. 974, 2 L.Ed.2d 1060 (1958) ; Coppedge v. United
+States, 369 U.S. 438, 82 S.Ct. 917, 8 L.Ed.2d 21 (1962); and Hardy v. United
+States, 375 U.S. 277, 84 S.Ot. 424, 11 L.Ed.2d 331 (1964). Not all of these were
+unanimous and there are significant observations in concurrence as well as in dissent.
+All five were direct appeals from federal criminal convictions.
+We do not have the time here carefully to analyze these five opinions. One
+may fairly say, however, that these cases clearly disclose the attitude of the
+Supreme Court toward the in forma pauperis § 1915. The impoverished applicant
+is to be afforded procedural protection equating with that possessed by the
+more affluent applicant. If counsel is requested and provided, as now required
+on direct appeals, that representation must be truly adequate, that is, counsel
+must be an advocate and not merely an amicus. And, if a record is necessary, an
+adequate record, even, in certain situations, a complete record, must be provided.
+"Good faith" in the statute is the presentation of any issue "not plainly frivolous".
+No particular degree of merit or probability of success need be shown. Good faith
+is to be measured by an objective, not a subjective, standard. Equal treatment
+is emphasized. The government has the burden. The possibility of a rational argument
+on either the law or the facts is enough. In other words, doubt is to be
+resolved in favor of the applicant. Looking at it from another point of view,
+one may appropriately say that the in forma pauperis appeal is not to be denied
+simply because the trial judge is of the opinion that the appeal has no merit.
+The test is not whether the appeal has merit but whether there is an issue which
+is not plainly frivolous in the situation. Page v. United States, 272 F.2d 816 (8
+Cir. 1959), or whether the applicant can make some rational argument. Naturally,
+the application of this standard is not always easy.
+One may, of course, argue that these five Supreme Court opinions pronounce
+rules applicable only to direct criminal appeals. Are these same rules and the
+reasoning which produces them equally applicable as a general proposition
+to in forma pauperis appeals in civil cases and in habeas corpus and § 2255
+appeals, both of which are civil in nature, even though they attempt to overcome
+criminal convictions? See, for example, Baker v. United States, 334 F.2d
+444, 447 (8 Cir. 1964).
+One finds, first of all, that there are civil damage cases where the courts
+say the same in forma pauperis standards are applicable. Thus, in John v. Gibson,
+270 F.2d 36 (9 Cir. 1959), cert. denied 361 U.S. 970, 80 S.Ct. 601, 4 L.Ed.2d
+549, the court held that the test to be applied is that stated in Ellis, but that
+the appeal may be dismissed if it would also be dismissed in the case of a nonindigent
+litigant. This Ninth Circuit view, however, finds one dissenter from it
+on the present court, for Judge Duniway, concurring in Weller v. Dickson,
+supra, p. 603 of 314 F.2d, states that the rules may not be the same in civil cases.
+The Eighth Circuit touched upon this question in Cohen v. Curtis Publishing
+Co., 333 F.2d 974, 978-979 (8 Cir. 1964), cert. denied 380 U.S. 921, 85 S.Ct. 923,
+13 L.Ed.2d 808. In that private antitrust action the district court denied the
+plaintiff's motion for leave to appeal in forma pauperis and certified that the
+appeal was not taken in good faith. The defendants, pursuant to then civil Rule
+75(j) [now, essentially, Rule 75(g)], moved to docket and dismiss. The Eighth
+Circuit granted that motion although it recognized that a motion to dismiss
+on grounds of frivolity or lack of good faith "should be granted only in extreme
+cases". Our court made no reference to the In forma pauperis standards enunciated
+In the direct criminal appeal cases. The Ninth Circuit has a similar recent
+case where relief was afforded in civil rights litigation but wthout menton of
+the direct criminal appeal standards. Stiltner v. Rhay, 322 F.2d 314 (9 Cir.
+1963), cert. denied Stiltner v. Washington, 376 U.S. 920, 84 S.Ct. 678, 11
+L.Ed.2d. 615.
+In federal habeas cases one finds similar comment. The Tenth Circuit has
+flatly held, in cases concerning in forma pauperis procedure generally (and
+not the specific Issues of appointment of counsel, cost-free record, and the like),
+that the standards enunciated in the cases involving direct criminal appeals are
+to be applied to habeas matters. The primary case is Ragan v. Cox, 305 F.2d 58
+(10 Cir. 1962). There the court cited both Ellie and Coppedge and acknowledged
+that those decisions were direct appeals. Nevertheless, the standards were applied.
+In addition, the court stated that the phraseology difference between the provisions
+for appeal in § 1915 (a), that is, "not taken in good faith," and the provision
+for dismissal in § 1915(d), that is, "frivolous or malicious," are "not
+material." I am not sure that this last observation was essential for the decision
+but its presence is of interest. Another Tenth Circuit case is Tidmore v. Taylor,
+323 F.2d 88, 90 (10 Cir. 1963).
+The Ninth Circuit, in habeas matters, has cited the Tenth Circuit cases and
+has used the Supreme Court phraseology specifically. "It is frivolous only if
+the applicant can make no rational argument on the law or facts in support of
+his claim for relief." Blair v. People of State of California, 340 F.2d 741, 742
+(9 Cir. 1965) ; Pembrook v. Wilson, 370 F.2d 37, 39 (9 Cir. 1966).
+Parenthetically we may note here that some of these cases make the observation
+that the proper procedure in the district court is to grant the petition to proceed
+in forma pauperis and then, if it appears that the matter is frivolous, to dismiss
+under § 1915(d). This statement has been made in a federal habeas case,
+Oughton v. United States, 310 F. 2d 803, 804 (10 Cir. 1962), cert. denied 373 U.S.
+937, 835. Ct. 1542, 10 L. Ed. 2d 693; in a civil action, Stiltner v. Rhay, supra, 322
+F. 2d 314, 317 (9 Cir. 1963) ; Cole v. Smith, 344 F. 2d 721, 723 (8 Cir. 1965) ; and
+in a § 2255 proceeding, Foster v. United States, 344 F. 2d 698, 699 (6 Oir. 1965).
+I have seen no statement to this effect regarding appellate procedure.
+There are, however, intimations that limits do exist and that not everything
+guaranteed by the five cited Supreme Court cases is applicable on the civil side.
+The lower federal courts, on occasion, seem purposely to observe and suggest that
+there is a difference between a criminal case and a civil one. Thus, in King v.
+Carmichael, 268 F. 2d 305, 306 (6 0ir. 1959), cert. denied 361 U.S. 968, 80 5. Ct.
+597, 4 L. Ed. 2d 548, a civil rights case, the court, in considering the issue of a free
+transcript, said, '"This is not a criminal case," and that the information sought
+was otherwise available. In Anderson v. Heinze, 258 F. 2d 479, 481 (9 Cir. 1958),
+cert. denied 358 U.S. 889, 79 S. Ct. 131, 3 L. Ed. 2d 116, a federal habeas proceeding
+by a state prisoner, the court observed, in passing upon the issue of right to
+counsel, that the appeal "is not a step in a federal criminal proceeding, but is a
+step in a federal civil proceeding," and held that the Sixth Amendment has no
+application and that the rule of the Johnson case was not controlling. The court
+went on, however, meticulously to consider the issue in the light, instead, of the
+due process clause. In a series of four § 2255 cases, the Eighth Circuit has drawn
+the same distinction between criminal and civil and has observed, "Surely, no
+court is required to grant leave to a defendant to appeal in forma pauperis where
+It is obvious that this appeal is doomed to futility." Gershon v. United States, 243
+F. 2d 527, 530 (8 Cir. 1957), cert. denied 355 U.S. 873, 78 S. CL 124, 2 L. Ed. 2d 78;
+Hill v. 'Settle, 244 F. 2d 311, 312 (8 Cir. 1957) ; Young v. United -States, 246 F. 2d
+901, 902 (8 Cir. 1957), cert. denied 355 U.S. 917, 78 S. Ct. 348, 2 L. Ed. 2d 277,
+where it refused a cost-free record "in cases which are without merit and doomed
+from their inception"; Taylor v. United States, 308 F. 2d 776, 779 (8 Cir. 1962).
+These four cases were requests for in forma pauperis procedure generally but
+Young Involved, as well, a specific request for a free record.
+The First Circuit similarly has flatly held that the requirement of Coppedge
+that counsel be appointed in a direct criminal appeal does not apply in a § 2255
+case. Fleming v. United States, 365 F. 2d 587, 588, footnote (1 Cir. 1966). This
+was inherent in earlier First Circuit § 2255 cases, Joyce v. United States, 327
+F. 2d 531 (1 Cir. 1964) ; Suarez v. United States, 328 F. 2d 473, 474 (1 (ir. 1964),
+and in a case of questionable ancestry, Keenan v. McGrath, 328 F. 2d 610, 611
+(1 Cir. 1964), even though these cases did not make specific reference to Coppedge
+or its companions.
+Thus, one can find clear expressions in the cases that the in forma pauperis
+standards which the Supreme Court has evolved for direct criminal appeals, do
+have positive application to pure civil cases and to the hybrid habeas and § 2255
+proceedings, but one can also find clear expressions to the effect that there is a
+significant distinction between a criminal case and a civil one and that these
+direct appeal standards are not fully applicable to civil proceedings.
+I suspect that this difference is more apparent than real. I believe that on
+analysis-which in the long run may or may not prove sound-the free expressions
+of full application on the civil side have appeared in those cases in which
+the applicant merely seeks in forma pauperis relief generally. Presumably, he
+already has counsel or is willing to be his own counsel and presumably there is no
+burning question about a transcript. It is in cases where a specific request for appointed
+counsel is made, or where there is a request for a transcript at government
+expense, that the courts have been hesitant. As is so often the case, it is
+easier to be free with announcement of basic principles and their application
+where relief flows easily; it is harder to be that free when a lawyer's time, without
+compensation, or government costs are consequences. Perhaps the Eighth Circuit
+cases are not so easily separated into the two categories.
+One day the Supreme Court will tell us whether the direct appeal requirements
+do have full application on the civil side. In the meantime, the Eighth Circuit, and
+certainly the First, and perhaps the Ninth, have stopped short of unlimited application.
+Thus far, the process has been a selective one. So far as I can tell, this
+has not resulted in injustice.
+So much for § 1915, the general in forma pauperis statute.
+II. Habeas corpus.
+The great writ, of course, is guaranteed by the Constitution, Article I, § 9,
+clause 2, and in federal courts by Chapter 153 of the present judicial code, 28
+U.S.C. H§ 2241-2255. But, as you know, § 2255, by its terms, severely limits the
+availability of the writ for federal prisoners. If a federal prisoner has a remedy
+under § 2255, that is the route he must follow. Weber v. Settle, 185 F.2d 799, 800
+(8 Cir. 1950) Smith v. Settle, 302 F. 2d 142 (8 Cir. 1962) ; Haynes v. Harris, 344
+F.2d 463, 466 (8 Cir. 1965); Cagle v. Ciccone, 368 F.2d 183, 184 (8 Cir. 1966). As
+a practical consequence, therefore, federal habeas corpus is important for us
+primarily with respect to state prisoners. It reads:
+28 U.S.C. § 2253. Appeal
+In a habeas corpus proceeding before a circuit or district judge, the final
+order shall be subject to review, on appeal. * * *
+An appeal may not be taken to the court of appeals from the final order in
+a habeas corpus proceeding where the detention complained of arises out
+of process issued by a State court, unless the justice or judge who rendered
+the order or a circuit justice or judge issues a certificate of probable cause.
+Here, we obviously have a standard. But is is a standard of probable cause.
+And a certificate of probable cause is a requisite to an appeal. Madison v. Tahash,
+359 F.2d 60, 61 (8 Cir. 1966); Curtis v. Bennett, 351 F.2d 931, 933 (8 Cir. 1965).
+One should initially observe that this probable cause requirement of § 2253
+at least does not have the equal protection difficulties which -have emerged as
+to paupers' appeals in general. The probable cause certificate of § 2253 is
+required of both the indigent and the nonindigent.
+One may initially observe, also, that Nowakowski did not go so far as to say
+that a certificate of probable cause should be routinely issued in all cases. It
+merely held that when the district court issued the certificate the appellate court
+must indulge in a full review. Nowakowski leaves open the basic question of
+issuance or nonissuance. If any case were to hold that a certificate should
+routinely issue, we could all agree that the appellate paragraph of § 2253 would
+thereby be reduced to nothing more than a procedural formality, and a rather
+useless one at that.
+But what is probable cause? Does is equate with the standards of "good faith"
+and "frivolous or malicious," which are present in § 1915?
+As is perhaps to be expected, one finds varying expressions in the cases. Some
+seem to -apply an interpretation of "without merit, and therefore, frivolous."
+Nolan v. Nash, 316 F.2d 776 (8 Cir. 1963), cert. denied 375 U.S. 924, 84 S.Ot. 269,
+11 L.Ed.2d 166; Nally v. Scott, 114 F.2d 562 (8 Cir. 1940) ; Simpson v. Teets, 248
+F.2d 465, 466 (9 Cir. 1957); Tate v. United States, 123 U.S.App. D.C. 261,359
+F.2d 245, 250 (1966). In other decisions probable cause seems to be related to
+a lack of substance. Chessman v. Dickson, 275 F.2d 604, 606 (9 Cir. 1960) ("any
+substance at all") ; Gay v. Graham, 269 F.2d 482, 487 (10 Cir. 1959) ("no
+substantial question") ; United States ex rel. Stewart v. Ragen, 231 F.2d 312, 313
+(7 Cir. 1956) ("some substantial question worthy of consideration") ; ex parte
+Farrell, 189 F.2d 540, 543 (1 Cir. 1951), cert. denied Farrell v. O'Brien, 342 U.S.
+839, 72 S.Ct. 64, 96 L.Ed. 634 ("unsubstantial, or clearly without merit");
+Knuppe v. Lainson, 146 F.Supp. 731, 733 (S.D. Iowa 1956) ("substantial question
+for review"). In a recent district court decision, this distinction was emphasized;
+it was there noted that the statute does not define probable cause but
+that, generally, this is "something more than a frivolous assertion * * * but
+something less than the imperatives of 28 U.S.C. § 1292," which, as you recall,
+in subsection (b), provides for an interlocutory appeal on a certificate as to
+"substantial ground for difference of opinion and that an immediate appeal
+from the order may materially advance the ultimate termination of the litigation."
+United States ex rel. Rivera v. Reeves, 246 F.Supp. 599, 601 (S.D.N.Y.
+1965).
+If there is a difference in these expressions I suspect that it is of no significance.
+In most of these cases relief is denied. Certainly, if a matter is frivolous, it is
+clearly without probable cause. Thus, the cases which speak of frivolity, such as
+those from our own circuit, would arrive at the same conclusion on a more substantive
+standard.
+My own reaction is that the cases, taken as a whole, do indicate that the standard
+of probable cause requires something more than the absence of frivolity and
+that the standard is a higher one than the "good faith" requirement of § 1915.
+Undoubtedly, this conclusion is not shared in all quarters. Yet, the decision in
+No'wakowski itself, I think, suggests that this is inherently so when it requires full
+dress treatment by the court of appeals once the district court has issued a certificate
+of probable cause.
+All this adds up, in my mind, to the conclusions that there is something definitely
+to be gained by having the district court, in the first instance, give very careful
+consideration to the question whether the state prisoner federal habeas applicant
+has something of substance going for him, and that there is something deflnitely
+to be lost when the district court routinely issues a certificate of probable
+cause without this careful consideration. If the case is legally frivolous the application
+ought to be denied. When the case then comes to the court of appeals, as
+it inevitably does, that court will take another look at it and, on occasion, might
+issue the certificate itself. The court, however, under Nowakowaki, does not have
+this discretion if the district court has issued the certificate. If an appellate
+judge issues the certificate where a district judge has denied it, that should not
+be regarded by the district judge as a rebuff. It does mean that the appellate
+judge entertains some doubt. That is his problem.
+All this, after all, takes us right back to the philosophy that this, as with all
+other matters, is an issue for decision by the court of general jurisdiction, the
+district judge, in the first instance. This, I think, for reasons which are obvious
+to all of us, is where the best considered and important decision is to be made.
+This is the normal situation, for the routine case the district judge is there to
+decide and not to bypass the responsibility of decision. This is the dignified thing
+for him to do. This is the approach, I submit, which for so long was so forcefully
+presented and believed in by Judges Sanborn and Gardner and others of the Eighth
+Circuit. In Higgins v. Steele, supra, 195 F.2d 366, 369, a federal prisoner habeas
+corpus case decided in 1952, a long time ago so far as this area of the criminal
+law is concerned, Judge John B. Sanborn said:
+"Although no district judge likes to pass upon the correctness of his own
+decisions, it is his duty, if he is thoroughly convinced that there is no substantial
+question for review and that an appeal will be futile, to certify that the appeal
+sought to be taken in forma pauperis is not taken in good faith * * * We say this
+not to relieve ourselves of the burden of reviewing cases which have no merit,
+buit to relieve those who are required to resist such appeals of unnecessary trouble
+and expense.
+"We realize that the serious consideration which this Court has given to
+appeals in forma pauperis in hopeless cases may have led the District Judges
+in this Circuit to believe that such appeals should be allowed with extreme
+liberality. We are now of the opinion that much greater care should be taken
+in screening such cases, in order to separate those which are clearly without
+merit from those which are meritorious or which at least present some substantial
+question worthy of consideration."
+One might ask whether a district court could, with logic, allow an appeal to
+be taken in forma pauperis and yet refuse to issue a certificate of probable
+cause and, if so, with what result. One might say that this partial granting and
+partial denial is inconsistent. Yet, allowing in forma pauperis procedure may
+indicate only that the court finds the applicant is indigent and is acting in good
+faith. This may not be inconsistent with a determination of lack of probable
+cause.
+III. Section 2255.
+Here, as you know, the statute, so far as appeals are concerned, reads:
+§ 2255. Federal custody; remedies on motion attacking sentence
+* * * * * * *
+An appeal may be taken to the court of appeals from the order entered
+on the motion as from a final judgment as application for a writ of habeas
+corpus. * * *
+On its face, therefore, § 2255 refers us back to the habeas corpus situation.
+However, since the petitioner is not complaining of detention arising out of
+process issued by a state court, the probable cause requirement of the habeas
+statute § 2253 has no application. Thus for the in forma pauperis § 2255 appeal,
+the only limitation is that of § 1915 centering in "good faith". All that we have
+said before as to this statute presumably applies here.
+Thus, if there is a distinction between "probable cause" (§ 2253) and "good
+faith" (§ 1915), a § 2255 matter rests on the lower standard of mere good faith.
+The Eighth Circuit, contrary perhaps to the impression of some of you, does
+not routinely override, in a § 2255 case, a district court's certificate that an
+appeal is not taken in good faith. See Taylor v. United States, 308 F.2d 776
+(8 Cir. 1962) ; Franano v. United States, 303 F.2d 470 (8 Cir. 1962), cert denied
+371 U.S. 865, 83 S.Ct. 125, 9 L.Ed.2d 102; Turner v. United States, 325 F.2d 988
+(8 Cir. 1964), cert denied 377 U.S. 946, 84 S.Ct. 1354, 12 L.Ed.2d 308; Peckham v.
+United States (August 1967) (unreported). Franano, incidentally, was a paid
+appeal and yet was dismissed on the ground of frivolity. And Turner paid his
+docket fee because he felt he might thereby avoid a denial for frivolity; he was
+unsuccessful. Even in a recent direct appeal, despite the holding in Coppedge,
+Chief Judge Vogel and I, presently constituting what we call the administrative
+panel, recently denied in forma pauperis procedure in Misc. No. 476, Bishop v.
+United States, where the complaint was a general and non-specific one directed
+to claimed instructional error.
+There is a recent First Circuit case which may be of some interest. Halliday v.
+United States, 380 F.2d 270 (1 Cir. 1967). This was a § 2255 proceeding which
+challenged the voluntariness of pleas of guilty originally accepted without appropriate
+inquiry under criminal Rule 11. The First Circuit held that it was not
+proper for the same district judge tQ take new evidence and review the correctness
+of his own determination. Chief Judge Aldrich recognized that there are
+cases which look the other way. He stated that the court reached Its conclusion,
+not from any feeling of constitutional compulsion, "but from a conviction that
+the best practice dictates such a policy". He observed that this did not mean that
+a sentencing judge cannot review a § 2255 petition to conclude, if appropriate,
+that no evidentiary hearing is required. He recognized that the ruling could
+entail complications in a one judge district. One can also envision complications
+if 0,! e" e -s to h- followed in a multiple judge district.
+IV. Section 753(f).
+Judge Heaney has suggested that a comment about cost-free transcripts would
+be in order. Here two statutes are pertinent. The first is § 1915(b), mentioned
+above, which provides that in any civil or criminal case the court may "direct
+that the expense of printing the record on appeal, if such printing is required
+by the appellate court, be paid by the United States". This, of course, seems to
+relate to printing as such, but often printing the record first requires a typed
+transcript of oral testimony. The second is the Court Reporter Act, 28 U.S.C.
+§ 753(f). As last amended in 1965, this provides in part:
+28 U.S.C. § 753. Reporters
+* * * * * * *
+(f) * * * Fees for transcrips furnished in criminal or habeas corpus
+proceedings to persons allowed to sue, defend, or appeal in forma pauperis
+shall be paid by the United States out of money appropriated for that purpose.
+Fees for transcripts furnished in proceedings brought under section
+2255 of this title to persons permitted to sue or appeal in forma pauperls
+shall be paid by the United States out of money appropriated for that purpose
+if the trial judge or a circuit judge certifies that the suit or appeal
+is not frivolous and that the transcript is needed to decide the issue presented
+by the suit or appeal. Fees for transcripts furnished in other proceedings
+to persons permitted to appeal in forma pauperis shall also be paid by the
+United States if the trial judge or a circuit judge certifies that the appeal
+is not frivolous (but presents a substantial question). * * *
+Section 753(f ) obviously separates the cases into three categories:
+1. Criminal or habeas corpus proceedings.
+2. Section 2255 proceedings.
+3. Other proceedings.
+As to criminal or habeas corpus proceedings the statute merely says that
+transcript fees shall be paid by the United States out of money appropriated for
+that purpose. No condition is imposed.
+For a § 2255 proceeding a fee for a transcript shall be paid by the United
+States only on condition. That condition is that the trial judge or a circuit
+judge certify both that the suit or appeal is not frivolous and that the transcript
+is needed for decision. Here we need a certification of no frivolity and of necessity.
+This smacks partially of § 1915(d)'s reference to frivolity but does not
+seem to relate to the good faith of § 1915(a), or to the probable cause of § 2253.
+Perhaps the statute is clear enough.
+For "other proceedings" a transcript fee shall be paid by the United States
+again only on condition. This time the condition is that the appeal is not frivolous
+but presents a substantial question and, for what significance, if any, it
+may have, the latter phrase is in parentheses.
+Thus, to repeat, for § 2255, we need a certificate as to non-frivolity and necessity.
+For "other proceedings" we need a certificate as to non-frivolity and,
+parenthetically, as to substantialness. Why do we have these distinctions in the
+statute? Are they merely careless draftsmanship, or the product, so often confusing,
+of amendment or compromise during the legislative process, or are the
+differences intentional and of significance?
+One sidelight is perhaps of interest. Section 753(f) was amended in 1965
+in order to provide cost-free transcripts for use in § 2255 proceedings. Prior
+thereto, such transcripts were not authorized. Mr. Ramsey Clark, then Deputy
+Attorney General, wrote the Chairman of the Committee on the Judiciary
+on May 27, 1965, recommending the amendment. He suggested that the Committee
+give consideration to the fact that, in a habeas corpus matter, there is no
+requirement for certification that the proceeding is not frivolous and the transcript
+is needed. He said, "The reason for this distinction is not apparent if the
+motion remedy under section 2255 is to be a remedy commensurate with a writ of
+habeas corpus". 2 U.S. Code Cong. & Ad. News, 89th Cong., 1 sess. 1965, pp.
+2920-2921. The Committee apparently did not give much consideration to the
+distinction.
+In one district court civil case the judge observed that he had no difficulty in
+determining that the appeal was not frivolous but that he did have difficulty in
+determining whether it presented a substantial question. He then related substance
+to something "reasonably debatable" on a purely objective standard.
+Ortiz v. Greyhound Corp., 192 F. Supp. 903, 905 (D. Md. 1959). Actually, he conditioned
+his relief by requiring that the expense to the government be taxed as
+costs in the case and ultimately recovered from the party found to be liable. This
+condition, as a practical matter, probably did not work out for the defendant
+ultimately prevailed on a judgment n.o.v. Ortiz v. Greyhound Corp., 275 F. 2d
+770 (4 Cir 1960).
+Of possible significance is the Fourth Circuit's decision in United States v.
+Shoaf, 341 F. 2d 832 (4 Cir. 1964), issued prior to the 1965 amendment of § 753(f).
+This was a § 2255 proceeding where the petitioner requested free transcripts of
+two trials. Judge Haynsworth observed that "the right to a transcript at government
+expense arises only in response to need of it"; that need on a direct appeal
+with new appellate counsel is a situation different from collateral attack where
+"most of the trial errors warranting attention in direct appeals are not reviewable";
+that it is rare where the defendant needs a transcript "to become aware
+of the events or occurrences which constitute a ground for collateral attack";
+and that the Supreme Court has not yet gone so far as to require the furnishing
+of a transcript to a § 2255 indigent applicant "who has undertaken to show neither
+specific nor general need" for it.
+A special question, and this is the one Judge Heaney is interested in, is whether
+a court has the power to order a transcript at government expense before it allows
+an appeal in forma pauperis.
+The cases are few. Whitt v. United States, 104 U.S. App. D.C. 1, 259 F. 2d 158
+(1958), cert. denied 359 U.S. 937, 79 S. Ct. 652, 3 L. Ed. 2d 637, concerned a direct
+criminal appeal. Judge Washington, in writing for the court, held that § 753(f)
+gives the trial court and the court of appeals authority to direct the preparation
+of a transcript at government expense prior to the allowance of in forma pauperis
+appellate relief. He went on to observe, however, that a petitioner is not entitled
+to a transcript as of right. Judges Fahy and Bazelon, who sat with him, in concurrence
+added that the ordering of a transcript at government expense "is an
+essential incident to our power to allow appeals in forma pauperis". This meant,
+I suppose, that they felt they did not have to be concerned with § 753(f).
+As noted, Whitt was a direct appeal. Its holding, applicable to such an appeal
+and to a habeas matter, may seem clear enough under § 753(f). But what of a
+§ 2255 proceeding? Whitt, as to this, is not strictly in point for it rests on that
+part of § 753(f) which is not conditioned by non-frivolity and necessity. Can
+frivolity and necessity usually be determined by the very nature of the issues
+raised so that a transcript is not necessary, within the reqirement of the statute?
+And if a judge certifies that an appeal is not frivolous in order to get a transcript,
+is he thereby determining non-frivolity for all purposes, that is, for purposes of
+allowing the in forma pauperis § 2255 appeal which,you recall, relates back to
+§ 1915 and its standard of good faith? Judge Learned Hand noted this dilemma
+when he said, "We are of course aware that a thorough decision whether there
+was a substantial question would depend upon a scrutiny of the whole record;
+so that, speaking literally, we could not adequately decide the motion until after
+we had granted it." Jaffe v. United States, 246 F. 2d 760, 762 (2 Cir. 1957).
+Here, again, I suggest that this dilemma in most cases may prove to be more
+apparent than real and that often frivolity and necessity can and will be determined
+to exist or to be absent by the inherent nature of the issues raised, rather
+than by a review of the contents of the transcript. This is not to say, of course,
+that, once the appeal has been allowed, a transcript may not be needed for purposes
+of appellate review.
+All this may be hairsplitting. Certainly, I personally incline toward the view
+that a court does have power to order transcript fees paid in appropriate
+situations.
+Now, some personal observations, some by way of apology, some with conviction:
+1. The law in this area is still developing. Some aspects of the reach and of
+the limitations of the statutes are yet to be determined.
+2. Some of the older cases, on both the trial and appellate levels, are perhaps
+of questionable precedent today and should be employed gingerly and with
+caution.
+3. All through this area-in the statutes themselves, as you have seen, and
+cer'ainly in the published opinions-are words which seem to be phrases of art.
+"Probable cause," "good faith," and "frivolous," are the primary ones. Do these
+have like or significantly different meanings and do they imply the presence of like
+or different standards for judicial action? Certainly, all of them are used with
+respect to issues which are fundamentally similar.
+4. We must appreciate the practical aspects. Judicial attitudes change. Court
+personnel changes. We progress, we hope, in legal and even in constitutional
+interpretation. As in medicine, with which I am somewhat familiar, so in law,
+although more slowly, there is constant movement. We should be aware of this,
+anticipate it, and not resent it. We would not wish the situation to be otherwise.
+5. I have worked into all this a good bit of my own attitude and my own approach.
+My judgment may be good but it also may be very bad. Certainly, yours
+is just as reliable as mine.
+However, and for what they are worth, I end this overlong presentation with
+a series of conclusions, which I submit to you for your consideration:
+CONCLUSIONS
+1. Our primary and initial concern is not with § 2253 or with § 2255 but with
+the in forma pauperis statute § 1915. This is the statute which sets the tone.
+2. Section 1915 is broad and comprehensive in terms and in application. It is
+not restricted to criminal matters or to habeas or to § 2255 proceedings
+3. The concept that in forma pauperis procedure is a privilege, rather than a
+right, is perhaps somewhat suspect today, despite continuing lip service to it.
+In one sense, it may be a privilege, but the sovereign has chosen to grant it and it
+thereby assumes certain characteristics of a right.
+4. Still, the procedure at least on the statute's face, is within the area of discretion.
+A federal court "may authorize" the procedure.
+5. In a direct appeal from a criminal conviction the indigent is to have the
+same rights of review possessed by the non-indigent. This means counsel who is
+an advocate. This means only an issue which is not plainly frivolous. This means
+only an argument which is rational. This does not mean any particular degree
+of probability of success.
+6. On a direct appeal from a criminal conviction there remains only a very
+little elbow room, despite the good faith requirement of § 1915 (a), for denial of
+in forma pauperis appellate procedure. This is a practical fact which, as practical
+judges, we must recognize. Concededly, the Eighth Circuit has not indulged in
+the practice of specially screening non-indigent appeals from convictions in order
+to ascertain frivolity prior to full hearing on the merits. It follows that it is not
+permissible to do this on indigent appeals.
+7. Whether, in a civil case, the in forma pauperis standards for direct criminal
+appeals are to apply is as yet unsettled. The Supreme Court has not spoken. There
+is authority that the standards are fully applicable in civil cases. There is authority,
+where specific relief is requested, that there are limitations. The trend,
+I suspect, is toward full application. I also suspect, however, that complete justice
+can be effected on a case-by-case approach.
+8. If, in a state prisoner's federal habeas corpus proceeding, a district judge
+grants a certificate of probable cause, the court of appeals must review "with its
+ordinary procedure." Nowakowski.
+9. No uniformly accepted definition of probable cause has as yet evolved. A
+standard higher than "good faith" seems to be implied. Some decisions, in denying
+relief, speak of frivolity. This apparent difference, however, is not important and
+it is understandable. If a case is frivolous, it certainly lacks probable cause. It
+seems reasonalble to conclude that the standard of § 2253 demands something of
+possible substance before the applicant is legally entitled to his certificate.
+10. This being so, a district judge should not routinely issue the certificate in
+every case. His is the first and primary decision to be made. The right of appeal
+has been known to be abused. If he feels that no probable cause exists, it is his
+responsibility and his duty to deny the certificate.
+11. The appelate judge has corresponding responsibility not routinely to issue
+the certificate in every case, even though, when issued, the appeal may still be
+dismissed for frivolity under civil Rule 75(g) or perhaps under § 1915(d).
+12. In a § 2255 appeal in forma pauperis, the applicable standard is that
+inherent in § 1915, namely, "good faith". This may be a standard lower than probable
+cause. But, as a practical matter, is it?
+13. A judge, district or appellate, does have the power to order a transcript,
+or a partial one, at government expense, not only after an appeal has been
+allowed, but also before such allowance in order to enable him to pass upon the
+existence of grounds for appeal, specified by the statute, for the particular type
+of proceeding.
+14. A judge, however, should exercise this power realistically and not incur this
+expense for the government if he can determine the satisfaction or non-satisfaction
+of the statutory standard from another source as, for example the motion
+papers themselves.
+15. Let us, in this entire area, until the Supreme Court instructs us otherwise,
+be willing to act as responsible judges, to evaluate each case, and to make a
+considered judgment. If we are reversed occasionally, what does it matter?
+Our professional satisfaction lies in a job performed responsibly and not in
+avoiding responsibility.
+

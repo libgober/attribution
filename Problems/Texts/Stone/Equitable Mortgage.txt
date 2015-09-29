@@ -1,0 +1,505 @@
+THE "EQUITABLE MORTGAGE" IN NEW YORK 
+
+The common law provided no device for giving security for 
+the -payment of a debt or obligation except by a vesting the 
+possession of the res, given as security, in the creditor or by the 
+transfer of a legal interest in it to the creditor. When the legal 
+interest was transferred, as in the case of the common law mortgage of realty or chattels, the transferee became vested with a 
+real right in rem subject only to a termination of the legal interest 
+by payment of the debt or obligation when due. This right in rem 
+carried, with it so far as legal rules were concerned all of the 
+benefits and burdens of ownership, and it was only through the 
+device of the bill to redeem and of the bill to restrain waste and for 
+an accounting in equity that the legal rights and possession of the 
+security holder were curtailed by compelling their exercise for 
+the benefit of the debtor once the satisfaction of the debt was 
+provided for. The common law pledge originally was regarded 
+as giving the pledgee a mere right of possession, similar to the 
+common law lien, but with the expansion of the rights of the 
+pledgee by giving him the right to transfer his pledge and, under 
+the doctrine of Donald v. Stickling, 1 even to repledge the pledged 
+chattel for a larger amount than that of the original pledge, without converting the subject of the pledge, the right of the pledgee 
+took on more completely the character of a legal right in rem. 
+The common law as it became a developed system evolved no 
+doctrine of "real obligation" or lien under which the debtor 
+retained possession of the security, such as the conventional 
+hypotheca as it was worked out by the Roman Law. 2 
+
+In early English law there were traces of such a doctrine. 
+Glanville 3 gives examples of common law writs both to foreclose 
+and to redeem a pledge of lands of which the pledgor retained 
+possession. Apparently the pledge could be accomplished without placing the pledgee in possession and Glanville states it as law 
+that the pledgee did not gain seizin of the pledged lands. 
+
+But by the time of Littleton, 4 the only form of common law 
+security of land and of chattels was the mortgage or in the case 
+of chattels the pledge which was created by vesting possession 
+of the pledged chattels in the pledgee. Both were legal relationships giving rise to no primary equitable rights so far as the mortgage or pledge relationship was concerned. It was only with the 
+invention of the bill to redeem in 1625 that the relationship became 
+a subject of equitable cognizance. 5 
+
+The Roman notion of lien by conventional hypotheca found its 
+way into English law in the form of the Admiralty lien and in the 
+statutory form of security by recognizance in the nature of statute 
+staple, and the eligit which was the forerunner of the modern 
+judgment lien bore some resemblance to it. 6 
+
+In modern law we have adopted the doctrine of the tacit 
+hypotheca, (i. e., lien with possession in the debtor imposed by 
+law regardless of agreement 7 ) in the case of the mechanic's lien, 
+and in the various types of statutory lien on chattels under which 
+the debtor is permitted to remain in possession of the subject of 
+lien. 8 The modern judgment lien had no common law basis and 
+is strictly statutory having its origin in the statutes of Westminster II (13 Edw. I, c. 18) . 9 It remained for the courts of 
+equity to work out a system of security analogous to the hypotheca 
+by which the creditor acquired neither possession nor a legal right 
+in the subject of security and under which his equitable right 
+was a right in personam, by appropriate remedy to compel the 
+debtor to apply the subject of security to the payment of the debt. 
+This form of security is generally described as the equitable mortgage or lien 10 since the rights conferred by it are exclusively 
+sequitable as distinguished from the legal interest conferred by the 
+common law type of mortgage which, even in the lien state confers 
+some legal rights although the practical consequence of it is, as in 
+the case of the common law mortgage, to secure payment of the 
+debt, by the sale of the property held subject to the mortgage and 
+the appropriation of the proceeds to the payment of the debt. 
+
+This form of security may be classified into the equitable 
+mortgage or lien which is quasi-contractual in its origin and the 
+equitable mortgage which is based on consensus or agreement of 
+the parties to it. The former is based on the duty and power of 
+equity to compel restitution in those cases where the property of one 
+is improved or added to by another, induced by fraud or mistake 
+under such circumstances as to entitle him to equitable relief. 11 
+In such cases the relief may take the form of a lien imposed by 
+equity on the property improved on principles analogous to the 
+general right of recovery in quasi-contract. 
+
+The latter in the final analysis will be found to be a special 
+application of the doctrine of specific performance to agreements 
+to give security. Equity does not generally enforce contracts 
+either to give or receive a loan of money. 12 While the damages 
+for breach of such a contract may be inadequate, the inadequacy 
+is almost directly proportionate to the probability that the loan may 
+not be repaid at maturity. Equity therefore in this as in many 
+other cases refuses its relief because greater injustice may result 
+from the exercise of its jurisdiction than would result from leaving 
+the parties to their rights at law. Once, however, the lender has 
+made his advance to the borrower relying on the promise of the 
+borrower to give security, equity may give complete relief by compelling specific performance of the promise. There can be no 
+adequate remedy at law since legal damages would be speculative 
+depending on the future ability of the debtor to pay and the future 
+need and value of the security. Equity will thus compel performance of the agreement to give security regardless of its particular 
+form. The agreement may be to give a formal mortgage of specific property or that particular land or property will be held by the 
+borrower as security to the lender, and in all cases the ultimate 
+relief is the foreclosure and sale of the property. It is upon the 
+like principle that a mortgage so defectively or informally executed 
+as not to operate as a legal mortgage or to cover property intended 
+to be described in it may be made effective as an equitable mortgage. 13 Underlying the defective instrument of transfer is the 
+agreement that some specific property shall be mortgaged and it 
+is this agreement which equity specifically enforces. 14 The equitable 
+mortgage by pledge of title deeds which is a recognized form of 
+equitable security in England rests upon a similar basis. The 
+equitable right to security is recognized and enforced because the 
+borrower impliedly agrees that the land described in the pledged 
+deed shall stand as security for his debt. 15 
+
+The agreement may be informal, 104 and in New York at least it 
+seems to be settled that the performance by the lender in advancing 
+his money is sufficient to take the case out of the Statute of 
+Frauds. 16 On settled principles of equity the equitable mortgage 
+should be deemed to be valid and enforceable not only against the 
+equitable mortgagor, but against all subsequent transferees of the 
+mortgaged property except bona fide purchasers. And this is the 
+rule of the New York courts with respect to equitable mortgages 
+of land 17 except in so far as the rules of common law are modified 
+by the recording acts. In Mathews v. Damainville, 1 * it was held 
+that a contract for a mortgage, performance to be contingent upon 
+a future event, duly reduced to writing and recorded, will not be 
+upheld as a lien against purchasers in good faith ; that the record 
+of the contract did not operate to give constructive notice of the 
+lien since it was not a conveyance within the meaning of the 
+recording act. Section 290, sub-division 2, of the New York Real 
+Property Law, which defines conveyances which may be recorded, 
+provides that a conveyance within the meaning of the recording 
+act includes "every written instrument by which the title to any 
+real property may be affected". The precise question seems not to 
+have been since raised in the courts of New York, and in view of 
+the fact that it has not reached the court of last resort and that 
+there is authority favoring a different view, 19 this decision cannot 
+be regarded as finally disposing of the question. 
+
+The equitable mortgage of land is enforceable against the mortgagor and an attaching or levying creditor of the mortgagor. 20 It 
+is enforceable against all subsequent takers with notice. 21 If the 
+mortgagee goes into possession with the consent of the equitable 
+mortgagor he may set up his equitable mortgage as an equitable 
+defense to ejectment by the mortgagee whose only remedy is a bill 
+to redeem or a bill for an accounting. 22 On principle, since equitable rights cannot generally be created in favor of a volunteer, it 
+would seem that an equitable mortgage cannot be created without 
+consideration or to secure a past indebtedness when there is no 
+agreement for extension, or forbearance by the mortgagee. This 
+was the decision in Dempsey v. McKenna. 23 In this respect the equitable mortgage is to be contrasted with the lien theory of the 
+New York legal mortgage. Although so far as legal rights of the 
+mortgagee in New York are concerned he is treated as having a 
+mere lien without any of the incidents of legal ownership ascribed 
+by the common law to the mortgagee, 21 he is nevertheless deemed 
+to acquire a sufficient legal interest in the mortgaged property by 
+virtue of the mortgage conveyance to enable the mortgagor to make 
+a gift of the mortgage to the mortgagee, 25 and it is well settled 
+that a valid legal mortgage may be given to secure a past 
+indebtedness without any new consideration or any forbearance or extension of the debt by the mortgagee, and such a 
+mortgage will rank in the order of its priority over subsequent 
+liens given for value. 28 Such a mortgage, however, does not 
+rank as a purchaser for value so as to cut off prior equities. 27 
+The distinction appears to be that between the executed gift which 
+equity protects when it is once vested in the donee and the executory obligation which equity does not generally create unless consideration be given for it. 
+
+Equitable mortgages, like other equitable claims, rank in the 
+order of their priority in time, whereas the equitable mortgage may 
+be cut off by the subsequent legal mortgage for value. Since the 
+legal mortgagee having acquired a legal interest in the mortgaged 
+property may assert the rights of a bona fide purchaser. 28 
+
+In the case of equitable security upon personal property the New York decisions have not adhered so strictly to principle as it 
+has been worked out in the case of the equitable mortgage of land. 
+In the absence of controlling statutes the equitable mortgage of 
+personal property should be subject to the same rules as equitable 
+security in land. This is the result reached in England and very 
+generally in the other states of this country, but by a series of decisions of our courts, and by legislation, the rule of the equitable mortgage as applied to land has been extensively modified in its application to personal property. The equitable mortgage of chattels is 
+recognized in New York as creating no legal rights but as conferring on the mortgagee the right in equity to demand of the 
+mortgagor the benefit of the security agreed to be given. 
+
+Questions as to this form of security have most frequently 
+arisen in connection with the so-called mortgage of after acquired 
+property. It is the settled rule of the common law that a grant 
+of chattels of which the grantor had neither title nor possession 
+at the time of grant passes no interest to the grantee even though 
+the grantor subsequently acquires the chattels described in the 
+instrument of transfer. Thus there can be no present sale or 
+mortgage of after acquired property effective to pass any legal 
+interest to the vendee or mortgagee. 20 Such a mortgage, however, 
+may operate as an implied contract to sell or give a mortgage, and 
+thus be brought within the principle already discussed of a lien 
+growing out of agreement specifically enforceable in equity, against 
+both the promisor and subsequent creditors and purchasers with 
+notice. 
+
+This doctrine was established in Holroyd v. Marshall, 30 which 
+
+M An exception to this rule of common law is the anomalous doctrine of 
+potential property, such as < crops not yet grown or the increase of animals 
+not yet in esse, title to which may be passed by a grant or contract of sale 
+made in advance of the physical existence of the subject of grant or sale. 
+Grantham v. Hawley (1615) Hobart 132. 
+
+A mortgage of potential chattels not actually in existence, therefore, 
+passes a_ legal interest to the mortgagee who may maintain a legal possessory action for the chattels when they come into existence. Rochester v. 
+Rasey (1894) 142 N. Y. 570, 37 N. E. 632. 
+
+By Section 86 of the New York Uniform Sales Act it is provided that 
+when the parties purport to effect a present sale_ of future goods the agreement operates as a contract to sell goods. This section is generally considered to have abolished the doctrine of sales of potential goods, but Section 155 of the Sales Act expressly provides that the Uniform Sales Act 
+does not apply to mortgages, so that an effective legal mortgage on potential 
+goods may apparently still be made in New York although it would not be 
+possible under Section 86 to make a present sale of such property. 
+has been generally followed as sound law. 31 In New York the 
+doctrine was recognized in McCaffray v. Woodin 32 when the question arose between the parties to the agreement, and in Wisner v. 
+Ocumpaugh 33 when the lien was enforced against a purchaser with 
+notice, and in Coats v. Donnell 3 * when the lien was upheld against 
+creditors. In Kribbs v. Alvord 3 \ the doctrine was fully developed 
+in accordance with principle. In this case a mortgage was given 
+by the plaintiff's lessee to the plaintiff on chattels, which might 
+thereafter be placed on the leased premises by the lessee, as 
+security for the rent. The mortgage was duly recorded as a mortgage of chattels. Thereafter the lessee brought chattels upon the 
+leased premises which he subsequently sold to the defendants. In 
+an action brought by the plaintiff to impress the mortgage lien 
+upon the after acquired chattels, it was held that the plaintiff could 
+succeed. The court held that although the mortgage did not 
+operate on the legal title to the after acquired chattels, it could 
+be supported as an agreement for security conferring equitable 
+rights on the mortgagee. The court said: 
+
+"Invalidity at law imports nothing more than that a mortgage 
+of property thereafter to be acquired is ineffectual as a grant to 
+pass the legal title. A court of equity, in giving effect to such a 
+provision, does not put itself in conflict with that principle. It 
+does not hold that a conveyance of that which does not exist 
+operates as present transfer in equity, any more than it does in 
+law. But it construes the instrument as operating by way of 
+present contract to give a lien, which, as between the parties, takes 
+effect and attaches to the subject of it as soon as it comes into 
+the ownership of the party. Such we deem the rule to be in 
+equity in this State." 3511 
+
+The fact that the defendant had no actual notice of the mortgage 
+and had purchased the property in good faith, the court deemed 
+immaterial since the mortgage was recorded and the purchasers 
+from the mortgagor were "therefore chargeable with constructive 
+notice and the Hen of the plaintiff is not affected by their failure 
+to find the mortgage." This case would seem to have established 
+the equitable mortgage of chattels in New York on the same basis 
+as the equitable mortgage of realty, subject only to the requirement of the chattel mortgage recording act that such a mortgage 
+must be filed in order to give it validity against purchasers in good 
+faith and creditors. 
+
+Kribbs v. Alvord was followed by the decision in Rochester v. 
+Rasey which has had a far reaching effect upon the doctrine of 
+the equitable mortgage of chattels in New York. In this case the 
+plaintiff brought an action for the conversion of chattels which he 
+had purchased at a judgment creditor's sale. The defendant 
+claimed the same chattels under a chattel mortgage covering after 
+acquired chattels, which he had taken into possession claiming 
+under his mortgage. The court held that the plaintiff was entitled 
+to recover, resting its decision on three grounds: (1) that the 
+action was at law with respect to the "strictly legal rights of the 
+two contending creditors" and that the defendant could not, therefore, in such an action set up equitable rights to the property; 
+(2) that the equitable mortgage only had validity as between the 
+parties to the contract, citing Kribbs v. Alvord 37 as authority, and, 
+hence, it could not be set up against a levying creditor of the mortgagor; (3) that the statute provides for filing a chattel mortgage as "a substitute for an immediate delivery or an actual 
+and continued change of possession of the things mortgaged", 
+and that such provision must be deemed to exclude the idea 
+of a chattel mortgage upon non-existent things or that such 
+an instrument could operate to defeat the lien of an attaching or execution creditor. The first two of these grounds 
+of decision were obviously untenable. The equitable defense had 
+been authorized by Section 507 of the Code of Civil Procedure 
+for many years, before the decision in this case. An equitable 
+mortgage as a defense to a possessory action had previously actually 
+been pleaded successfully in the case both of land 38 and of chattels. 39 
+Kribbs v. Alvord i0 did more than determine the validity of' the 
+equitable mortgage of after acquired chattels between the parties 
+to the mortgage. It actually impressed the lien of the equitable 
+mortgage on the mortgaged property in the hands of a purchaser 
+in good faith who was affected with constructive notice only because 
+the mortgage had been recorded. The objection that the equitable 
+mortgage of after acquired property was not within the chattel 
+mortgage recording act presented an arguable question, although 
+it had been decided in the negative in Kribbs v. Alvord since the 
+court had held in that case that the mortgage of after acquired 
+goods was within the recording acts and that the record of it was 
+constructive notice to subsequent purchasers. That there should 
+be any distinction in the policy of the recording act or in principle 
+between the rights of the de facto innocent purchaser and the 
+creditor in the case of a recorded mortgage of future goods does 
+not seem open to question. One who in good faith has advanced 
+his money in the purchase of chattels in the possession of the mortgagor certainly should not be in any worse position than the levying 
+creditor who has made no advance on the faith of them. That the 
+purchaser who has bought in good faith should be chargeable with 
+notice of the record of the mortgage of future chattels and should 
+be subject to the mortgage, but that such a mortgage should not be 
+valid and enforceable against an attaching creditor is a curious 
+legal incongruity. 
+
+Neither Kribbs v. Alvord* 1 nor Rochester v. Rasey* 2 has been 
+overruled ; they have both been repeatedly cited by the New York 
+courts with approval and they are apparently both law in New 
+York. It follows that the mortgage of future goods, if duly 
+recorded in accordance with the chattel mortgage law is valid and 
+enforceable against subsequent purchasers whether with or without 
+actual notice since the recordation of the mortgage is notice to 
+purchasers. 43 
+
+But such a mortgage even though recorded will have no validity 
+against creditors who have acquired a lien by levy or through 
+receivership or bankruptcy proceedings. 44 
+
+If the reasoning of Rochester v. Rasey be accepted, that the 
+real vice of the mortgage of after acquired chattels is that it conflicts with the policy of the recording act since that act contemplates only mortgages of existing chattels it would seem 
+to follow that an agreement for security on a existing chattel 
+or other equitable lien on chattels could be recorded as a mortgage or conveyance" intended to operate as a mortgage" 
+within the meaning of Section 230 of the New York Lien Law 
+and would be valid and enforceable against both purchasers with 
+notice and levying creditors. 45 
+
+It would also follow that equitable liens which are quasicontractual in origin and therefore not within the chattel mortgage 
+recording act would be valid against creditors of the mortgagor 
+even though not recorded. A striking example is to be found in 
+Coman v. Lakey ie which although decided long before Rochester 
+v. Rasey is not necessarily affected by the later decision. In that case 
+the defendant took a purchase money chattel mortgage from a corporation which under the then existing statute had no power to give 
+a chattel mortgage in consequence of which the mortgage was held 
+to be void. Thereafter the plaintiff became a purchaser of the 
+chattels at a judgment creditor's sale, after which the defendant 
+took possession of the chattels claiming under his mortgage. In 
+an action brought to recover for his conversion of the chattels, it 
+was held that the defendant had a good equitable defense founded 
+on his equitable lien based on his right to restitution of the chattels 
+when the mortgage failed. Thus the opposite result was reached 
+from that reached in Rochester v. Rasey, but distinguishable from 
+it on the ground that the lien not arising from agreement of the 
+parties, but by operation of law was not within the requirements 
+of the recording act, or invalidated by it. 
+
+A similar question may be raised with respect to agreements to 
+pledge either present or future chattels when the chattels remain in 
+the possession of the pledgor. Such agreements when taken as 
+security for advances made are deemed to create equitable liens as 
+between the parties which would entitle the lender to a specific 
+pledge of the chattels referred to in the agreement. 47 Such agreements are deemed to give the lender a license to possess himself of 
+the chattels and his possession once effected may be maintained 
+against levying creditors, even though a substantial period of time 
+has elapsed between the date of the agreement and the time of 
+taking possession. 48 
+
+A delivery of the chattels under such an agreement by the 
+borrower to the lender cannot, therefore, be construed as in fraud 
+of creditors. 40 Such agreements are obviously not intended to 
+operate as chattel mortgages and it has been held that they are not 
+within the meaning of the chattel mortgage recording law, requiring 
+instruments intended to operate as chattel mortgages to be recorded 
+in order to give them validity against levying creditors if the transfer of possession of the mortgaged chattels to the creditor be not 
+"immediate." 50 
+
+From this it would follow as a matter of technical legal reasoning 
+that an unrecorded agreement to pledge specific chattels given for 
+advances made would be valid and enforceable against levying 
+creditors and of course purchasers, a result so inconsistent with the 
+policy of the law as announced in Rochester v. Rasey and applied 
+in cases following it that courts may be expected to avoid that 
+result whenever the precise question arises. 51 
+
+Upon the same reasoning the equitable mortgage on other forms 
+of property than chattels not within the purview of the chattel 
+mortgage recording act, the validity of which is consequently 
+not dependent upon recording, may be expected to be valid and 
+enforceable both against purchasers with notice and creditors. 
+
+This we have already noted is the result in the case of the equitable 
+mortgage of land. This should also be the rule in the case of 
+mortgages or liens on present or future book accounts, choses in 
+action or other intangibles not embraced by the term "chattels." 
+That an equitable lien is created by the assignment of future book 
+accounts is the law of New York. 82 This Hen attaches to the chose 
+in action in the hands of purchasers since the assignee of the chose 
+in action in New York takes subject to collateral equities. 53 It 
+should follow that an unrecorded mortgage of future book accounts 
+is valid and enforceable against creditors of the mortgagor. This 
+seems to be the effect of certain New York decisions, 5 * and it is the 
+rule of the Federal Courts sitting in the New York districts and 
+applying the local law of security in bankruptcy cases, 55 Especially 
+noteworthy was the case of Sexton v. Kessler** in which it was 
+held that an unrecorded agreement to pledge specified afteracquired securities, which were retained by the borrower, entered 
+into more than four months before bankruptcy, created an equitable 
+lien in favor of the lender, and that delivery of the securities to the 
+lender by the borrower within four months of bankruptcy did not 
+constitute an unlawful preference within Section 60 of the Bankruptcy Act. The decision in this case was followed by an amendment in 1916, to Section 230 of the New York Lien Law, so as to 
+render invalid as to creditors, a mortgage or pledge or lien upon 
+stocks or bonds unless the mortgage or lien be recorded 
+or the stocks or bonds pledged, be delivered to the pledgee 
+on the day the loan is advanced or made. This amendment, however, left undisturbed the law affecting agreements to pledge choses 
+in action or other intangibles, excluding stocks or bonds, as it of 
+course left unaffected agreements for the pledge of chattels. 
+
+The doctrine of Rochester v. Rasey is still further complicated 
+by the doctrine of the New York Courts that the retention of mortgaged chattels by the mortgagor, even when the mortgage is recorded, with a power on the part of the mortgagor to sell the 
+mortgaged chattels for his own benefit, is fraudulent and void as to 
+creditors. 57 This doctrine although frequently criticized and discredited in many states is firmly entrenched in New York. It 
+operates not only to render the mortgage of existing chattels unenforceable against creditors of the mortgagor but combined 
+with the doctrine of Rochester v. Rasey it makes impossible the giving of any general lien or charge on a shifting stock of goods which is a well established form of security 
+under the English law and in many of our states. It is to be 
+observed that the doctrine that the power of sale by the mortgagor 
+for his own benefit renders the mortgage void as to creditors, has no 
+application under the New York decisions when the power is to 
+sell for the benefit of the mortgagee and to account to him for the 
+proceeds. 58 Nor does it apply when the agreement is that the 
+mortgagor shall sell the mortgaged chattels and give a new mortgage 
+to the original mortgagee on goods purchased with the proceeds, 59 
+although under the doctrine of Rochester v. Rasey such an agreement with respect to after-acquired chattels would have no validity 
+against levying creditors. It is thus probable that without the 
+decision of Rochester v. Rasey our courts would have worked out a 
+doctrine supporting the validity of the general lien as a floating 
+charge on a shifting stock of merchandise. A commercial community could not long be deprived of so useful a legal device and 
+an effort was made to supply it by Section 45 of the New York 
+personal property law adopted in 1911. 
+
+This statute authorized the creation of a general lien or floating 
+charge upon merchandise including after-acquired chattels, to 
+secure the payment of advances or commissions or other charges 
+covered by the agreement for a lien, providing that such lien shall 
+be valid against creditors provided certain formalities are observed, 
+the most important of which are the posting and maintenance of a 
+notice of the lien on the premises where the merchandise is located 
+and the filing of a notice of the lien containing certain detailed 
+information, in the office for filing chattel mortgages. The statute, 
+contemplates the sale of the merchandise by the borrower who is 
+authorized to retain possession since it provides for the acquisition 
+of a lien upon accounts receivable resulting from the sale of the 
+merchandise. The section may, therefore, be presumed to do away 
+with the rule that retention of possession by the mortgagor with 
+power of sale for his own benefit is fraudulent . as to creditors, 
+providing all the formalities required by the section are complied 
+with. The filing provisions are cumbersome and onerous and the 
+privilege afforded by the statute has not been extensively used. 
+
+In any discussion of the equitable mortgage in New York reference should be made to a- form of security customarily used by> 
+commercial bankers and known as the "trust receipt". The practice has grown up especially in New York for the banker, who has 
+accepted drafts with bill of lading attached for account of a" consignee or importer of merchandise, to deliver the merchandise to 
+the consignee or importer in advance of the payment of the draft. 
+On making the delivery the banker takes a "trust receipt" from the 
+importer whereby he undertakes to hold the merchandise in trust 
+for the banker, with power in the importer to sell it or manufacture and sell it and account for the proceeds to the banker. By this 
+procedure payment of the draft is provided for from the proceeds 
+of the merchandise, which the banker, upon familiar principles, held 
+as security for the draft on its acceptance. The transaction bears 
+certain superficial resemblances to the chattel mortgage or conditional sale, but it is distinguishable from both in its peculiar origin 
+a particular type of mercantile transaction as well as by its form. 
+Accordingly, it is held that such a transaction is not within the 
+recording acts applicable to chattel mortgages and conditional 
+sales, and that the banker's lien although not recorded and although 
+it is not coupled with possession of the merchandise, is superior to 
+the claims and liens of creditors or purchasers with notice. 60 
+
+A brief summary of the present New York law as indicated by 
+the decisions which have been discussed, will serve to emphasize 
+the lack of harmony in the law with respect to the so called equitable mortgage or lien. 
+
+1. The equitable mortgage of land is valid and enforceable 
+against creditors of the mortgagor and purchasers with notice from 
+the mortgagor, but apparently if recorded it is not within the 
+recording act and its record will therefore not be constructive 
+notice if it is in the form of a contract to give a mortgage. 
+
+2. The equitable mortgage of chattels, including the mortgage 
+of after acquired chattels, is valid and enforceable against purchasers from the mortgagor with notice and when recorded, the 
+record is constructive notice to purchasers. 
+
+3. The mortgage of after acquired chattels, although recorded, 
+is not valid against attaching or levying creditors or the trustee in 
+bankruptcy of the mortgagor although an equitable mortgage 
+on existing chattels may be upheld against creditors if properly 
+recorded. 
+
+4. Agreements to pledge existing or future chattels, where the 
+pledgor retains possession of the chattels, create equitable liens 
+which are not within the recording acts and so far as judicial 
+decisions and judicial reasoning now indicate the rule, they are 
+valid against both purchasers with notice and creditors of the 
+mortgagor. 
+
+5. Equitable liens, quasi-contractual in character, although not 
+recorded, are valid and enforceable against all subsequent takers 
+from the mortgagor, both creditors and purchasers except bona 
+fide purchasers. 
+
+6. The equitable mortgage of choses in action or other intangibles, present or future, need not be recorded and they are valid 
+and enforceable against creditors and against purchasers with or 
+without notice (unless the subject of mortgage is a negotiable 
+security). The single exception is found in the case of stocks and 
+bonds which must be delivered to the lender, or the mortgage or 
+the lien recorded in order to give it validity against creditors of 
+the mortgagor. 
+
+7. The lien by trust receipt, given to one who has accepted a 
+draft with bill of lading attached covering the chattel described in 
+the receipt, need not be recorded nor need the creditor retain possession of the chattels which are subject of the lien and it is valid 
+and enforceable against creditors and against purchasers with 
+notice. 
+
+
+8. There is no provision under the New York law for a general lien or floating charge on a shifting stock of merchandise 
+except under the cumbersome provisions of Section 45 of the Personal Property Law. 
+
+In a commercial community the equitable lien or charge is of 
+constantly increasing importance. With rights of general creditors 
+properly protected as they are in New York by an adequate recording system there would seem to be no reason why such a lien 
+should not be deemed capable of being recorded and when recorded 
+be fully upheld and protected. In any event the curious inconsistencies and complications of the law relating to such security call for 
+comprehensive reform and unification. 

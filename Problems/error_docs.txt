@@ -1,0 +1,6 @@
+ar=(0 1002 1190 1198 1394 1397 1425 1453 1481 1509 1537 1565 219 414 610 669 697 753 781 806)
+echo ${ar[*]}
+for value in ${ar[*]}
+do
+python27 cleanup_condor_grid_search.py ${value}
+done

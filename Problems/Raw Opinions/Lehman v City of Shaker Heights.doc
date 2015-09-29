@@ -1,0 +1,2954 @@
+{\rtf1 \ansi 
+{\colortbl;
+\red0\green0\blue0;
+\red255\green255\blue255;
+\red255\green0\blue0;
+\red0\green255\blue0;
+\red0\green0\blue255;
+\red0\green255\blue255;
+\red255\green0\blue255;
+\red255\green255\blue0;
+\red0\green0\blue128;
+\red0\green128\blue128;
+\red0\green128\blue0;
+\red128\green0\blue128;
+\red128\green0\blue0;
+\red128\green128\blue0;
+\red128\green128\blue128;
+\red192\green192\blue192;
+\red170\green170\blue170;
+\red85\green85\blue85;
+\red190\green190\blue252;
+\red37\green37\blue37;
+\red254\green254\blue0;
+\red119\green119\blue119;
+\red182\green231\blue243;
+\red247\green247\blue247;
+\red255\green255\blue174;
+\red187\green187\blue187;
+\red203\green203\blue203;
+\red245\green245\blue245;
+\red102\green102\blue102;
+\red255\green255\blue204;
+\red255\green204\blue0;
+\red240\green248\blue255;
+\red127\green127\blue127;
+\red229\green243\blue255;
+\red179\green218\blue255;
+\red20\green93\blue164;
+\red183\green242\blue206;
+\red255\green194\blue211;
+\red204\green204\blue204;
+\red223\green223\blue223;
+\red239\green239\blue239;
+\red236\green236\blue236;
+\red255\green255\blue102;
+\red204\green255\blue255;
+\red71\green120\blue194;
+\red153\green255\blue102;
+\red227\green227\blue227;
+\red105\green105\blue105;
+\red238\green238\blue238;
+\red255\green210\blue183;
+\red80\green80\blue80;
+\red58\green58\blue58;
+\red120\green162\blue47;
+\red151\green151\blue151;
+\red246\green246\blue246;
+\red153\green153\blue153;
+\red102\green0\blue102;
+\red221\green195\blue236;
+\red243\green243\blue243;
+\red254\green255\blue215;
+\red222\green221\blue200;
+}
+{\fonttbl {
+\f0 Arial;}{
+\f1 Symbol;}{
+\f2 Times New Roman;}{
+\f3 georgia;}{
+\f4 sans-serif;}{
+\f5 serif;}{
+\f6 Courier New;}
+}
+{\*\generator Apache XML Graphics RTF Library;}
+\fet0 \ftnbj \paperw12240 \paperh15840 \margt1800 \margb1080 \margl1080 \margr1080 \headery720 \footery720 \itap0 \cols1 
+\sectd {\header {
+{\trowd \ltrrow \trleft0 
+\clpadb60 \clpadfb3 \clpadl400 \clpadfl3 \clbrdrt \clbrdrl \clbrdrr \trql \clvertalb \clwWidth9380 \cellx9380 
+\intbl 
+{\li0 \f0 \b0 \ri0 \fs18 \cf1 \qc \i0 
+{\f0 \strike0 \ul0 \b0 \fs18 \cf1 \i0 
+}
+{\f0 \b1 \fs18 \cf1 \i0 
+{\f0 \strike0 \ul0 \b1 \sa0 \sb0 \fs18 \cf1 \i0 
+Libgober, Brian
+}
+}
+{\f0 \strike0 \ul0 \b0 \sa0 \sb0 \fs18 \cf1 \i0 
+ 
+}
+{\f0 \b1 \fs18 \cf1 \i0 
+{\f0 \strike0 \ul0 \b1 \sa0 \sb0 \fs18 \cf1 \i0 
+7/14/2015
+}
+}
+{\f0 \strike0 \ul0 \b0 \fs18 \cf1 \i0 
+\par 
+}
+}
+{\li0 \f0 \b0 \ri0 \fs18 \cf1 \qc \i0 
+{\f0 \strike0 \ul0 \b0 \fs18 \cf1 \i0 
+}
+{\f0 \b1 \fs18 \cf1 \i0 
+{\f0 \strike0 \ul0 \b1 \sa0 \sb0 \fs18 \cf1 \i0 
+For Educational Use Only
+}
+}
+{\f0 \strike0 \ul0 \b0 \fs18 \cf1 \i0 
+}
+}\f0 \li0 \strike0 \ul0 \b0 \sa0 \sb0 \fs18 \ri0 \cf1 \i0 \qc \intbl \cell \row }
+{\trowd \ltrrow \trleft0 
+\clpadb60 \clpadfb3 \clpadl400 \clpadfl3 \clbrdrb \brdrw20 \brdrcf17 \brdrs \clbrdrl \trql \clvertalb \clwWidth9380 \cellx9380 
+\clpadb60 \clpadfb3 \clpadl400 \clpadfl3 \clbrdrb \brdrw20 \brdrcf17 \brdrs \clbrdrr \trql \clwWidth700 \cellx10080 
+\intbl 
+{\li0 \f0 \b0 \ql \ri0 \fs18 \cf1 \i0 
+{\f0 \strike0 \ul0 \b0 \fs18 \cf1 \i0 
+}
+{\f0 \b1 \fs18 \cf18 \i0 
+{\f0 \strike0 \ul0 \b1 \sa0 \sb0 \fs18 \cf18 \i0 
+Lehman v. City of Shaker Heights, 418 U.S. 298 (1974)
+}
+}
+{\f0 \strike0 \ul0 \b0 \fs18 \cf1 \i0 
+}
+}\f0 \li0 \strike0 \ul0 \b0 \sa0 \ql \sb0 \fs18 \ri0 \cf1 \i0 \intbl \cell \intbl 
+{\li0 \f0 \b0 \ri0 \fs18 \cf1 \qr \i0 
+}\f0 \li0 \b0 \fs18 \ri0 \cf1 \i0 \qr \intbl \cell \row }
+{\trowd \lastrow \trleft0 
+\clbrdrb \clbrdrl \trql \clwWidth10080 \cellx10080 
+\intbl 
+{\li0 \f0 \b0 \ql \ri0 \fs18 \cf1 \i0 
+{\f0 \strike0 \ul0 \b0 \sa0 \sb0 \fs18 \cf1 \i0 
+94 S.Ct. 2714, 41 L.Ed.2d 770
+}
+}\f0 \li0 \strike0 \ul0 \b0 \sa0 \ql \sb0 \fs18 \ri0 \cf1 \i0 \intbl \cell \row }}\par }{\footer {
+{\trowd \lastrow \trleft0 
+\clpadl60 \clpadfl3 \clbrdrt \brdrw20 \brdrcf17 \brdrs \clbrdrb \clbrdrl \trql \clvertalb \clwWidth9300 \cellx9300 
+\clpadl60 \clpadfl3 \clbrdrt \brdrw20 \brdrcf17 \brdrs \clbrdrb \clbrdrr \trql \clwWidth700 \cellx10000 
+\intbl 
+{\li0 \f0 \b0 \ql \ri0 \fs20 \cf17 \i0 
+{\f0 \strike0 \ul0 \b0 \fs20 \cf17 \i0 
+}
+{\*\shppict {\pict \pngblip \picw78 \pich10 \picwgoal1170 \pichgoal150 89504e470d0a1a0a0000000d494844520000004e0000000a08030000002dbd985500000300504c5445fffffffffdfbfffcf9fdfdfdfafafafffffefffcf8f6f6f6f3f3f3fffdfae2e2e2fff5e8fffaf3fff7ecffa631bbbbbb7f7f7f7676766b6b6bffca849e9e9ef8f8f8ffbf6afffefdff9712fcfcfca4a4a4969696ff9202ffb452fff5e6ff970dfefefeffad41e1e1e1ffe9cd949494ffe6c5fff6e96f6f6fffe6c6ffebd0fff1e0d2d2d2ffd399ff950efff9f2ff9f26fff3e3fff9f0ffd092fff2e1ffb555ffe7c7fff3e4ff8500ffe0b8ffb6558b8b8bffce8dffebd1ff9408929292ffddb0ff9c19ff9811ffb95cfff8eeffecd3cccccc8e8e8effeed8ffa42d626262c9c9c9666666ffe2bcddddddfffbf7ffa32aff970eeaeaea686868dadadaffab3a9a9a9a6d6d6effe8c9878787e3e3e3ff9f20f5f5f5b7b7b7efefef868686ffc77cffe4c1ff9912ffc272ff93056c6c6cffeed7ffd296ffab3d818181ff930aff9e1effaf47fffbf5fff0dbff9100cfcfcfff930cffeacf7a7a7affcf90f7f7f7fbfbfbffa835ff9814ffa32effe9cc676767ffc67afff2e2ffb048ff9509ffdbade0e0e0ffa939ffe5c3dcdcdcffc170ffe8cab3b3b3ffb047f1f1f18c8c8cfffefeffecd4feedd7e8e8e8ffb656ffe2bbfff1df898989ff9b17ffcd8affefdac3c3c3bdbdbdffe1baffc06cffa431fff7edf9f9f9ecececffaf44fff0dd787878ff9919d9d9d9ff8f01ffd8a4727272737373e5e5e5ffe2bdffd9a7646464fffaf2ffdbab686b6effc172ffe9caffe3c0ffdcafffc374ffc477ff981dfffdf9f5f4f2ffb34efff3e2ffe4bfff9e22ffa227fefdfdffc578f1eae1ffeccf6a6a6bff9102ff9201ff9101fffcf775797e7c7c7cff9203dedede5d5d5d6b6c6dffbb60ffbc62707070ffa42bffd49bff9f29ffb04affefdcfff7ebf2f2f2ff950af6f2eeffdfb4696969ffd298ffddb2ff9916ffe1bcff9a0bffa128ffa329b0b0b0ff9d20ff9d23bfbfbfb4b4b4ffb24bff9409ffd49c727375ffa62fffe3bedbdbdbb9b9b96a6a6a6e72776e6e6effaa39ffa024ffa324fffefcfff4e5ff9c29ffb351ff9f2bffe3bc919191ff8d03ffa42eff8f02fffaf4fffaf5ff9000ffa22b9843d85d000000097048597300000b1300000b1301009a9c18000002f94944415478da633e95a6ba9b6145fce75b0c8c738f7e674000469effff94ef474d674003a271ebfb81141777f065646196999b9925be30c9143d6260ed71b36060d04fb444960f2b656160adb364c000f5698140d2396b2d8aa8583d83c63757e6edfd8f8eb05c2aaa5af07572e68975da33e57731743dc9f30b5e7f2aaa7a26b7d495df7e29d2e9b7dfae7b739fc159faf93fc67d39cf24d77b5c665067bcf487c39fe9d35fa5ee4d0ca52f1c623803b74ebdc4747dc56606dd4927eee9306cd1fb9af989e9ee62d68d2c3d812bf6b0787c946766906678f274bf5f95fb79a0cf1c1975189ce55e687e137eadc060f6eef732f9a267d9ecca65920c4bf74edc55a9323d7e373343cd8aaf5bb927685c78e2c7fd756b72b7c4cde52fc2d64e79bee2bfc8835d7c375efd4edefb60e7f4af6aff2eb19ee438d12a9075eff6f92d4a93e73a099c3c6a5d2078ad74b7a2dbe55b1322f53608b77e616066d065babd73d7fbfedddedf9cf75dfb15fa826d8d22efcb775ffe4c906afe23f6ebc7ef4382761ef2f14bbb27adcd79b8e0b7f6b1b2a2e2afcf56fdf35862567859239d71fe8be737ecfc03ff7dfcb2ea0b03d0b853bdc7f337ff3ac117579ba8f4496fd59f5b3c17aee60845ef7c789bf7a5e217e1b7d6cf04ef4f17b9bf76eb937ce5ab562a522553eefefcedf38d3175d3aa3dc5ff8b6fdcfdf76163ea7f063ed6770c20e3fe5b4a1dbef35754fe586ad4199949b3167e7ff8f6997d6c6f8cc67df19b7c4b767cf9a3b9e7c9ec2fa72e4eb812de7ff7cccf49cb3453b632dc15fac5cc7d67f12bf7947bffb9ae9b38ec6510fffe196cdcbfcf776c0e00d3c549a34de5ef3ebd60e4fb94f76fbe3aefde93fa4f1ff3eb1dac3a96bc6d91afec8c4dcbf62de08cb8f8f6595154ea4f86bffcb378a630fefc732cf2c674068b1ad675d3755245affe071ac7a0b1f5d01186af162577775c559338eb20bf37fba9e4b4036b3a6ae51edd3eb5a780e3fc5d0fd588fab5ea9783186456dc3c75fb8bc86d0686f7ed2b0e04293cb0d9df59fee5c45bd5363115a309e5071800dbb45cde95f0d3420000000049454e44ae426082}}
+{\f0 \strike0 \ul0 \b0 \sa0 \sb0 \fs20 \cf17 \i0 
+ \u169\'3f 2015 Thomson Reuters. No claim to original U.S. Government Works.
+}
+}\f0 \li0 \strike0 \ul0 \b0 \sa0 \ql \sb0 \fs20 \ri0 \cf17 \i0 \intbl \cell \intbl 
+{\li0 \f0 \b0 \ri0 \fs20 \cf17 \qr \i0 
+{\b0 \i0 \ul0 \fs20 \f0 \chpgn }
+}\f0 \li0 \strike0 \ul0 \b0 \fs20 \ri0 \cf17 \i0 \qr \intbl \cell \row }}\par }
+{\li0 \f2 \qj \b0 \ri0 \fs20 \par}\sect\sbknone\pgncont\cols1{ \cf1 \i0 
+{\*\bkmkstart co_document_1}{\*\bkmkend co_document_1}
+{\f2 \b0 \fs20 \cf1 \i0 
+{\*\bkmkstart I0a4487ea9bf011d991d0cc6b54f12d4d_Target}{\*\bkmkend I0a4487ea9bf011d991d0cc6b54f12d4d_Target}
+\par 
+}
+{\li0 \f3 \b0 \ri0 \fs20 \cf1 \qc \i0 
+{\f3 \strike0 \ul0 \b0 \sa0 \sb0 \fs20 \cf1 \i0 
+94 S.Ct. 2714
+\par 
+}
+}
+{\li0 \f3 \b0 \ri0 \fs20 \cf1 \qc \i0 
+{\li0 \f3 \b0 \ri0 \fs20 \cf1 \qc \i0 
+{\f3 \strike0 \ul0 \b0 \sa0 \sb0 \fs20 \cf1 \i0 
+Supreme Court of the United States
+\par 
+}
+}
+}
+{\li100 \f3 \b0 \ri100 \fs20 \cf20 \qc \i0 
+{\li100 \f3 \b0 \ri100 \fs20 \cf20 \qc \i0 
+{\li100 \f3 \b0 \ri100 \fs20 \cf20 \qc \i0 
+{\f3 \strike0 \ul0 \b0 \sa0 \sb200 \fs20 \cf20 \i0 
+Harry J. LEHMAN, Petitioner,
+\par 
+}
+}
+{\li100 \f3 \b0 \ri100 \fs20 \cf20 \qc \i0 
+{\f3 \strike0 \ul0 \b0 \sa0 \sb0 \fs20 \cf20 \i0 
+v.
+\par 
+}
+}
+{\li100 \f3 \b0 \ri100 \fs20 \cf20 \qc \i0 
+{\f3 \strike0 \ul0 \b0 \sa200 \sb0 \fs20 \cf20 \i0 
+CITY OF SHAKER HEIGHTS et al.
+\par 
+}
+}
+}
+}
+{\li0 \f2 \b0 \ri0 \fs20 \cf1 \qc \i0 
+{\f2 \b0 \fs20 \cf1 \i0 
+{\f3 \b0 \fs20 \cf1 \i0 
+{\f3 \strike0 \ul0 \b0 \sa0 \sb0 \fs20 \cf1 \i0 
+No. 73\u8212\'3f328.
+}
+}
+}
+{\f3 \b0 \fs20 \cf1 \i0 
+{\f3 \b0 \fs20 \cf1 \i0 
+{\f3 \strike0 \ul0 \b0 \sa0 \sb0 \fs20 \cf1 \i0 
+ | 
+}
+}
+{\f3 \b0 \fs20 \cf1 \i0 
+{\f3 \strike0 \ul0 \b0 \sa0 \sb0 \fs20 \cf1 \i0 
+Argued Feb. 26\u8212\'3f27, 1974.
+}
+}
+{\f3 \b0 \fs20 \cf1 \i0 
+{\f3 \strike0 \ul0 \b0 \sa0 \sb0 \fs20 \cf1 \i0 
+ | 
+}
+}
+{\f3 \b0 \fs20 \cf1 \i0 
+{\f3 \strike0 \ul0 \b0 \sa200 \sb0 \fs20 \cf1 \i0 
+Decided June 25, 1974.
+\par 
+}
+}
+}
+}
+{\li0 \f2 \qj \b0 \ri0 \fs20 \cf1 \i0 
+{\li0 \f2 \qj \b0 \ri0 \fs20 \cf1 \i0 
+{\li0 \f2 \qj \b0 \ri0 \fs20 \cf1 \i0 
+{\f2 \strike0 \ul0 \b0 \sa0 \sb0 \fs20 \cf1 \i0 
+Candidate for political office brought action for declaratory judgment with respect to refusal of his political advertisements for use on city\rquote s rapid transit vehicles. The Court of Appeals for Cuyahoga County, Ohio, affirmed the judgment of the Court of Common Pleas denying relief, and motion to certify the record was allowed. The Supreme Court of Ohio affirmed, 
+}
+{\field {\*\fldinst HYPERLINK "http://www.westlaw.com/Link/Document/FullText?findType=Y&serNum=1973114036&pubNum=578&originatingDoc=I0a4487ea9bf011d991d0cc6b54f12d4d&refType=RP&originationContext=document&vr=3.0&rs=cblt1.0&transitionType=DocumentItem&contextData=(sc.Search)" }{\fldrslt 
+{\f2 \strike0 \ul0 \b0 \sa0 \sb0 \fs20 \cf5 \i0 
+34 Ohio St.2d 143, 296 N.E.2d 683,
+}}}
+{\f2 \strike0 \ul0 \b0 \sa0 \sb200 \fs20 \cf1 \i0 
+ and certiorari was granted. The Supreme Court, Mr. Justice Blackmun, held that car card space on city transit system was not a First Amendment forum and that refusal to accept political advertising did not result in a First or Fourteenth Amendment violation.
+\par 
+}
+}
+}
+{\f2 \strike0 \ul0 \b0 \sa0 \sb0 \fs20 \cf1 \i0 
+\u160\'3f
+\par 
+}
+{\li0 \f2 \qj \b0 \ri0 \fs20 \cf1 \i0 
+{\li0 \f2 \qj \b0 \ri0 \fs20 \cf1 \i0 
+{\f2 \strike0 \ul0 \b0 \sa0 \sb0 \fs20 \cf1 \i0 
+Affirmed.
+\par 
+}
+}
+}
+{\f2 \strike0 \ul0 \b0 \sa0 \sb0 \fs20 \cf1 \i0 
+\u160\'3f
+\par 
+}
+{\li0 \f2 \qj \b0 \ri0 \fs20 \cf1 \i0 
+{\li0 \f2 \qj \b0 \ri0 \fs20 \cf1 \i0 
+{\f2 \strike0 \ul0 \b0 \sa0 \sb0 \fs20 \cf1 \i0 
+Mr. Justice Douglas filed a concurring opinion.
+\par 
+}
+}
+}
+{\f2 \strike0 \ul0 \b0 \sa0 \sb0 \fs20 \cf1 \i0 
+\u160\'3f
+\par 
+}
+{\li0 \f2 \qj \b0 \ri0 \fs20 \cf1 \i0 
+{\li0 \f2 \qj \b0 \ri0 \fs20 \cf1 \i0 
+{\f2 \strike0 \ul0 \b0 \sa0 \sb0 \fs20 \cf1 \i0 
+Mr. Justice Brennan, with whom Mr. Justice Stewart, Mr. Justice Marshall, and Mr. Justice Powell joined, dissented and filed opinion.
+\par 
+}
+}
+}
+{\f2 \strike0 \ul0 \b0 \sa0 \sb0 \fs20 \cf1 \i0 
+\u160\'3f
+\par 
+}
+}
+{\li0 \f2 \qj \b0 \ri0 \fs20 \cf1 \i0 
+{\li0 \f2 \qj \b0 \ri0 \fs20 \cf1 \i0 
+{\li0 \f2 \qj \b0 \ri0 \fs20 \cf1 \i0 
+{\f2 \strike0 \ul0 \b0 \fs20 \cf1 \i0 
+}
+{\f2 \b1 \fs20 \cf1 \i0 
+{\*\bkmkstart co_pp_sp_708_2715_1}{\*\bkmkend co_pp_sp_708_2715_1}
+{\f2 \strike0 \ul0 \b1 \sa0 \sb0 \fs20 \cf1 \i0 
+**2715
+}
+}
+{\f2 \strike0 \ul0 \b0 \sa0 \sb0 \fs20 \cf1 \i0 
+ 
+}
+{\f2 \b1 \fs20 \cf1 \i0 
+{\*\bkmkstart co_pp_sp_780_298_1}{\*\bkmkend co_pp_sp_780_298_1}
+{\f2 \strike0 \ul0 \b1 \sa0 \sb0 \fs20 \cf1 \i0 
+*298
+}
+}
+{\f2 \strike0 \ul0 \b0 \sa0 \sb0 \fs20 \cf1 \i0 
+ Syllabus
+}
+{\f2 \b0 \fs16 \cf1 \i0 
+{\*\bkmkstart co_footnoteReference_B0011974127232_ID0E}{\*\bkmkend co_footnoteReference_B0011974127232_ID0E}
+{\field {\*\fldinst HYPERLINK "#co_footnote_B0011974127232_1" }{\fldrslt 
+{\super \f2 \strike0 \ul0 \b0 \sa0 \sb0 \fs16 \cf5 \i0 
+*
+}}}
+\par 
+}
+}
+}
+{\f2 \strike0 \ul0 \b0 \sa0 \sb0 \fs20 \cf1 \i0 
+\u160\'3f
+\par 
+}
+{\li0 \f2 \qj \b0 \ri0 \fs20 \cf1 \i0 {
+{\trowd \lastrow \trleft0 
+\clbrdrt \clbrdrb \clbrdrl \trql \clvertalt \clwWidth600 \cellx600 
+\clpadb90 \clpadfb3 \clpadl90 \clpadfl3 \clbrdrt \clbrdrb \clbrdrr \trql \clwWidth9480 \cellx10080 
+\intbl 
+{\li0 \ri0 
+{\li0 \f2 \b0 \ql \ri0 \fs20 \cf1 \i0 
+{\f2 \b0 \fs20 \cf1 \i0 
+{\*\bkmkstart co_footnote_B0011974127232_1}{\*\bkmkend co_footnote_B0011974127232_1}
+{\field {\*\fldinst HYPERLINK "#co_footnoteReference_B0011974127232_ID0E" }{\fldrslt 
+{\super \f2 \strike0 \ul0 \b0 \sa0 \sb0 \fs20 \cf5 \i0 
+*
+}\f2 \super \strike0 \ul0 \b0 \sa0 \sb0 \fs20 \cf5 \i0 }}
+\par 
+}
+}
+}\f2 \li0 \b0 \ql \fs20 \ri0 \cf1 \i0 \intbl \cell \intbl 
+{\li0 \ri0 
+{\li0 \f2 \qj \b0 \ri0 \fs18 \cf1 \i0 
+{\li0 \f2 \qj \b0 \ri0 \fs18 \cf1 \i0 
+{\li0 \f2 \qj \b0 \ri0 \fs18 \cf1 \i0 
+{\f2 \strike0 \ul0 \b0 \sa0 \sb0 \fs18 \cf1 \i0 
+The syllabus constitutes no part of the opinion of the Court but has been prepared by the Reporter of Decisions for the convenience of the reader. See 
+}
+{\field {\*\fldinst HYPERLINK "http://www.westlaw.com/Link/Document/FullText?findType=Y&serNum=1906101604&pubNum=708&originatingDoc=I0a4487ea9bf011d991d0cc6b54f12d4d&refType=RP&fi=co_pp_sp_708_287&originationContext=document&vr=3.0&rs=cblt1.0&transitionType=DocumentItem&contextData=(sc.Search)#co_pp_sp_708_287" }{\fldrslt 
+{\f2 \strike0 \ul0 \b0 \sa0 \sb0 \fs18 \cf5 \i0 
+United States v. Detroit Timber & Lumber Co., 200 U.S. 321, 337, 26 S.Ct. 282, 287, 50 L.Ed. 499
+}\f2 \strike0 \ul0 \b0 \sa0 \sb0 \fs18 \cf5 \i0 }}
+{\f2 \strike0 \ul0 \b0 \sa0 \sb0 \fs18 \cf1 \i0 
+.
+\par 
+}
+}
+}
+}
+}\f2 \li0 \strike0 \ul0 \b0 \qj \sa0 \sb0 \fs18 \ri0 \cf1 \i0 \intbl \cell \row }}\par 
+}
+{\li0 \f2 \qj \b0 \ri0 \fs20 \cf1 \i0 
+{\li0 \f2 \qj \b0 \ri0 \fs20 \cf1 \i0 
+{\f2 \strike0 \ul0 \b0 \sa0 \sb0 \fs20 \cf1 \i0 
+Petitioner, a candidate for state office, who was refused available advertising space on vehicles of a city transit system, brought this suit challenging the constitutionality of the municipal policy on which the refusal was based of not permitting political advertising but allowing other types of public transit advertising. The state courts declined to give petitioner relief, the Ohio Supreme Court holding that the city\rquote s refusal did not violate a candidate\rquote s free speech or equal protection rights. Held: The judgment is affirmed. Pp. 2716\u8212\'3f2720.
+\par 
+}
+}
+}
+{\f2 \strike0 \ul0 \b0 \sa0 \sb0 \fs20 \cf1 \i0 
+\u160\'3f
+\par 
+}
+{\li0 \f2 \qj \b0 \ri0 \fs20 \cf1 \i0 
+{\li0 \f2 \qj \b0 \ri0 \fs20 \cf1 \i0 
+{\field {\*\fldinst HYPERLINK "http://www.westlaw.com/Link/Document/FullText?findType=Y&serNum=1973114036&pubNum=578&originatingDoc=I0a4487ea9bf011d991d0cc6b54f12d4d&refType=RP&originationContext=document&vr=3.0&rs=cblt1.0&transitionType=DocumentItem&contextData=(sc.Search)" }{\fldrslt 
+{\f2 \strike0 \ul0 \b0 \sa0 \sb0 \fs20 \cf5 \i0 
+34 Ohio St.2d 143, 296 N.E.2d 683,
+}}}
+{\f2 \strike0 \ul0 \b0 \sa0 \sb0 \fs20 \cf1 \i0 
+ affirmed.
+\par 
+}
+}
+}
+{\f2 \strike0 \ul0 \b0 \sa0 \sb0 \fs20 \cf1 \i0 
+\u160\'3f
+\par 
+}
+{\li0 \f2 \qj \b0 \ri0 \fs20 \cf1 \i0 
+{\li0 \f2 \qj \b0 \ri0 \fs20 \cf1 \i0 
+{\f2 \strike0 \ul0 \b0 \sa0 \sb0 \fs20 \cf1 \i0 
+Mr. Justice BLACKMUN, joined by THE CHIEF JUSTICE, Mr. Justice WHITE, and Mr. Justice REHNQUIST, concluded that car card space on a city transit system is not a First Amendment forum and that here the decision to limit transit advertisements to innocuous and less controversial commercial and service-oriented advertising\u8212\'3fthus minimizing chances of abuse, appearances of political favoritism, and the risk of imposing upon a captive audience\u8212\'3fis within the city\rquote s discretion and involves no First or Fourteenth Amendment violation. Pp. 2716\u8212\'3f2718.
+\par 
+}
+}
+}
+{\f2 \strike0 \ul0 \b0 \sa0 \sb0 \fs20 \cf1 \i0 
+\u160\'3f
+\par 
+}
+{\li0 \f2 \qj \b0 \ri0 \fs20 \cf1 \i0 
+{\li0 \f2 \qj \b0 \ri0 \fs20 \cf1 \i0 
+{\f2 \strike0 \ul0 \b0 \sa0 \sb0 \fs20 \cf1 \i0 
+Mr. Justice DOUGLAS concluded that petitioner, though free to express his views to a willing audience, has no constitutional right to force his message upon a captive audience, which uses public transit vehicles, not as a place for discussion, but only as a means of transport. Pp. 2718\u8212\'3f2720.
+\par 
+}
+}
+}
+{\f2 \strike0 \ul0 \b0 \sa0 \sb0 \fs20 \cf1 \i0 
+\u160\'3f
+\par 
+}
+}
+{\li0 \f2 \qj \b1 \ri0 \fs20 \cf20 \i0 
+{\*\bkmkstart co_attorneysAndLawFirms_1}{\*\bkmkend co_attorneysAndLawFirms_1}
+{\f2 \strike0 \ul0 \b1 \sa200 \sb200 \fs20 \cf20 \i0 
+Attorneys and Law Firms
+\par 
+}
+}
+{\li0 \f2 \qj \b0 \ri0 \fs20 \cf1 \i0 
+{\li0 \f2 \qj \b0 \ri0 \fs20 \cf1 \i0 
+{\f2 \strike0 \ul0 \b0 \sa0 \sb0 \fs20 \cf1 \i0 
+Leonard J. Schwartz, Columbus, Ohio, for petitioner.
+\par 
+}
+}
+{\li0 \f2 \qj \b0 \ri0 \fs20 \cf1 \i0 
+{\f2 \strike0 \ul0 \b0 \fs20 \cf1 \i0 
+}
+{\f2 \b1 \fs20 \cf1 \i0 
+{\*\bkmkstart co_pp_sp_780_299_1}{\*\bkmkend co_pp_sp_780_299_1}
+{\f2 \strike0 \ul0 \b1 \sa0 \sb0 \fs20 \cf1 \i0 
+*299
+}
+}
+{\f2 \strike0 \ul0 \b0 \sa0 \sb200 \fs20 \cf1 \i0 
+ Paul R. Donaldson, Cleveland, Ohio, for respondents.
+\par 
+}
+}
+}
+{\li0 \f2 \qj \b0 \ri0 \fs20 \cf1 \i0 
+{\li0 \f2 \qj \b1 \ri0 \fs20 \cf20 \i0 
+{\*\bkmkstart co_opinion_1}{\*\bkmkend co_opinion_1}
+{\f2 \strike0 \ul0 \b1 \sa0 \sb200 \fs20 \cf20 \i0 
+Opinion
+\par 
+}
+}
+{\li0 \f2 \qj \b0 \ri0 \fs20 \cf1 \i0 
+{\li0 \f2 \qj \b0 \ri0 \fs20 \cf1 \i0 
+{\li0 \f2 \qj \b0 \ri0 \fs20 \cf1 \i0 
+{\li0 \f2 \qj \b0 \ri0 \fs20 \cf1 \i0 
+{\f2 \strike0 \ul0 \b0 \sa200 \sb200 \fs20 \cf1 \i0 
+Mr. Justice BLACKMUN announced the judgment of the Court and an opinion, in which THE CHIEF JUSTICE, Mr. Justice WHITE, and Mr. Justice REHNQUIST join.
+\par 
+}
+}
+}
+{\li0 \f2 \qj \b0 \ri0 \fs20 \cf1 \i0 
+{\li0 \f2 \qj \b0 \ri0 \fs20 \cf1 \i0 
+{\*\bkmkstart co_anchor_I424620e70da311e498db8b09b4f04}{\*\bkmkend co_anchor_I424620e70da311e498db8b09b4f04}
+\par 
+{\li0 \f2 \qj \b0 \ri0 \fs20 \cf1 \i0 
+{\li0 \f2 \qj \b0 \ri0 \fs20 \cf1 \i0 
+{\f2 \strike0 \ul0 \b0 \sa0 \sb200 \fs20 \cf1 \i0 
+This case presents the question whether a city which operates a public rapid transit system and sells advertising space for car cards on its vehicles is required by the First and Fourteenth Amendments to accept paid political advertising on behalf of a candidate for public office.
+\par 
+}
+}
+}
+{\li0 \f2 \qj \b0 \ri0 \fs20 \cf1 \i0 
+{\li0 \f2 \qj \b0 \ri0 \fs20 \cf1 \i0 
+{\f2 \strike0 \ul0 \b0 \sa0 \sb200 \fs20 \cf1 \i0 
+In 1970, petitioner Harry J. Lehman was a candidate for the office of State Representative to the Ohio General Assembly for District 56. The district includes the city of Shaker Heights. On July 3, 1970, petitioner sought to promote his candidacy by purchasing car card space on the Shaker Heights Rapid Transit System for the months of August, September, and October. The general election was scheduled for November 3. Petitioner\rquote s proposed copy contained his picture and read:
+\par 
+}
+}
+}
+}
+{\li0 \f2 \qj \b0 \ri0 \fs20 \cf1 \i0 
+{\*\bkmkstart co_anchor_I424620e80da311e498db8b09b4f04}{\*\bkmkend co_anchor_I424620e80da311e498db8b09b4f04}
+\par 
+{\li0 \f2 \b1 \ql \ri0 \fs20 \cf1 \i0 
+{\f2 \strike0 \ul0 \b1 \sa0 \sb200 \fs20 \cf1 \i0 
+\u8216\'3fHARRY J. LEHMAN IS OLDFASHIONED! ABOUT HONESTY, INTEGRITY AND GOOD GOVERNMENT
+\par 
+}
+}
+{\li0 \f2 \qj \b0 \ri0 \fs20 \cf1 \i0 
+{\li0 \f2 \qj \b0 \ri0 \fs20 \cf1 \i0 
+{\f2 \strike0 \ul0 \b0 \sa0 \sb0 \fs20 \cf1 \i0 
+\u8216\'3fState Representative\u8212\'3fDistrict 56 ( ) Harry J. Lehman.\u8217\'3f App. 39A.
+\par 
+}
+}
+}
+{\f2 \strike0 \ul0 \b0 \sa0 \sb0 \fs20 \cf1 \i0 
+\u160\'3f
+\par 
+}
+{\li0 \f2 \qj \b0 \ri0 \fs20 \cf1 \i0 
+{\li0 \f2 \qj \b0 \ri0 \fs20 \cf1 \i0 
+{\f2 \strike0 \ul0 \b0 \sa0 \sb200 \fs20 \cf1 \i0 
+Advertising space on the city\rquote s transit system is managed by respondent Metromedia, Inc., as exclusive agent under contract with the city. The agreement between the city and Metromedia provides:
+\par 
+}
+}
+{\li0 \f2 \qj \b0 \ri0 \fs20 \cf1 \i0 
+{\li0 \f2 \qj \b0 \ri0 \fs20 \cf1 \i0 
+{\f2 \strike0 \ul0 \b0 \sa0 \sb0 \fs20 \cf1 \i0 
+\u8216\'3f15. . . . The CONTRACTOR shall not place political advertising in or upon any of the said CARS or in, 
+}
+{\f2 \b1 \fs20 \cf1 \i0 
+{\*\bkmkstart co_pp_sp_780_300_1}{\*\bkmkend co_pp_sp_780_300_1}
+{\f2 \strike0 \ul0 \b1 \sa0 \sb0 \fs20 \cf1 \i0 
+*300
+}
+}
+{\f2 \strike0 \ul0 \b0 \sa0 \sb0 \fs20 \cf1 \i0 
+ upon or about any other additional and further space granted hereunder.\rquote 
+}
+{\f2 \b0 \fs16 \cf1 \i0 
+{\*\bkmkstart co_footnoteReference_B00211974127232_ID0}{\*\bkmkend co_footnoteReference_B00211974127232_ID0}
+{\field {\*\fldinst HYPERLINK "#co_footnote_B00211974127232_1" }{\fldrslt 
+{\super \f2 \strike0 \ul0 \b0 \sa0 \sb0 \fs16 \cf5 \i0 
+1
+}}}
+\par 
+}
+}
+}
+{\f2 \strike0 \ul0 \b0 \sa0 \sb0 \fs20 \cf1 \i0 
+\u160\'3f
+\par 
+}
+}
+{\li0 \f2 \qj \b0 \ri0 \fs20 \cf1 \i0 {
+{\trowd \lastrow \trleft0 
+\clbrdrt \clbrdrb \clbrdrl \trql \clvertalt \clwWidth600 \cellx600 
+\clpadb90 \clpadfb3 \clpadl90 \clpadfl3 \clbrdrt \clbrdrb \clbrdrr \trql \clwWidth9480 \cellx10080 
+\intbl 
+{\li0 \ri0 
+{\li0 \f2 \b0 \ql \ri0 \fs20 \cf1 \i0 
+{\f2 \b0 \fs20 \cf1 \i0 
+{\*\bkmkstart co_footnote_B00211974127232_1}{\*\bkmkend co_footnote_B00211974127232_1}
+{\field {\*\fldinst HYPERLINK "#co_footnoteReference_B00211974127232_ID0" }{\fldrslt 
+{\super \f2 \strike0 \ul0 \b0 \sa0 \sb0 \fs20 \cf5 \i0 
+1
+}\f2 \super \strike0 \ul0 \b0 \sa0 \sb0 \fs20 \cf5 \i0 }}
+\par 
+}
+}
+}\f2 \li0 \b0 \ql \fs20 \ri0 \cf1 \i0 \intbl \cell \intbl 
+{\li0 \ri0 
+{\li0 \f2 \qj \b0 \ri0 \fs18 \cf1 \i0 
+{\li0 \f2 \qj \b0 \ri0 \fs18 \cf1 \i0 
+{\li0 \f2 \qj \b0 \ri0 \fs18 \cf1 \i0 
+{\f2 \strike0 \ul0 \b0 \sa0 \sb0 \fs18 \cf1 \i0 
+Metromedia has a written Metro Transit Advertising Copy Policy setting forth the following criteria:
+\par 
+}
+}
+{\li0 \f2 \qj \b0 \ri0 \fs18 \cf1 \i0 
+{\f2 \strike0 \ul0 \b0 \sa0 \sb0 \fs18 \cf1 \i0 
+\u8216\'3f(1) Metro Transit Advertising will not display advertising copy that is false, misleading, deceptive and/or offensive to the moral standards of the community, or contrary to good taste. Copy which might be contrary to the best interests of the transit systems, or which might result in public criticism of the advertising industry and/or transit advertising will not be acceptable.
+\par 
+}
+}
+{\li0 \f2 \qj \b0 \ri0 \fs18 \cf1 \i0 
+{\f2 \strike0 \ul0 \b0 \sa0 \sb0 \fs18 \cf1 \i0 
+\u8216\'3f(2) Metro Transit Advertising will not accept any political copy that pictorially, graphically or otherwise states or suggests that proponents or opponents of the persons or measures advertised are vulgar, greedy, immoral, monopolistic, illegal or unfair.
+\par 
+}
+}
+{\li0 \f2 \qj \b0 \ri0 \fs18 \cf1 \i0 
+{\f2 \strike0 \ul0 \b0 \sa0 \sb0 \fs18 \cf1 \i0 
+\u8216\'3f(10) Political advertising will not be accepted on following systems: Shaker Rapid\u8212\'3fMaple Heights\u8212\'3fNorth Olmsted\u8212\'3fEuclid, Ohio.\u8217\'3f Shaker Heights\rquote  Exhibit A.
+\par 
+}
+}
+}
+}
+}\f2 \li0 \strike0 \ul0 \b0 \qj \sa0 \sb0 \fs18 \ri0 \cf1 \i0 \intbl \cell \row }}\par 
+}
+{\li0 \f2 \qj \b0 \ri0 \fs20 \cf1 \i0 
+{\li0 \f2 \qj \b0 \ri0 \fs20 \cf1 \i0 
+{\f2 \strike0 \ul0 \b0 \fs20 \cf1 \i0 
+}
+{\f2 \b1 \fs20 \cf1 \i0 
+{\*\bkmkstart co_pp_sp_708_2716_1}{\*\bkmkend co_pp_sp_708_2716_1}
+{\f2 \strike0 \ul0 \b1 \sa0 \sb0 \fs20 \cf1 \i0 
+**2716
+}
+}
+{\f2 \strike0 \ul0 \b0 \sa0 \sb0 \fs20 \cf1 \i0 
+ When petitioner applied for space,
+}
+{\f2 \b0 \fs16 \cf1 \i0 
+{\*\bkmkstart co_footnoteReference_B00321974127232_ID0}{\*\bkmkend co_footnoteReference_B00321974127232_ID0}
+{\field {\*\fldinst HYPERLINK "#co_footnote_B00321974127232_1" }{\fldrslt 
+{\super \f2 \strike0 \ul0 \b0 \sa0 \sb0 \fs16 \cf5 \i0 
+2
+}}}
+}
+{\f2 \strike0 \ul0 \b0 \sa0 \sb0 \fs20 \cf1 \i0 
+ he was informed by Metromedia that, although space was then available, the management agreement with the city did not permit political advertising.
+}
+{\f2 \b0 \fs16 \cf1 \i0 
+{\*\bkmkstart co_footnoteReference_B00431974127232_ID0}{\*\bkmkend co_footnoteReference_B00431974127232_ID0}
+{\field {\*\fldinst HYPERLINK "#co_footnote_B00431974127232_1" }{\fldrslt 
+{\super \f2 \strike0 \ul0 \b0 \sa0 \sb0 \fs16 \cf5 \i0 
+3
+}}}
+}
+{\f2 \strike0 \ul0 \b0 \sa0 \sb0 \fs20 \cf1 \i0 
+ The system, however, accepted ads from cigarette companies, banks, savings and loan associations, liquor companies, retail and service establishments, churches, and civic and public-service oriented groups.
+}
+{\f2 \b0 \fs16 \cf1 \i0 
+{\*\bkmkstart co_footnoteReference_B00541974127232_ID0}{\*\bkmkend co_footnoteReference_B00541974127232_ID0}
+{\field {\*\fldinst HYPERLINK "#co_footnote_B00541974127232_1" }{\fldrslt 
+{\super \f2 \strike0 \ul0 \b0 \sa0 \sb0 \fs16 \cf5 \i0 
+4
+}}}
+}
+{\f2 \strike0 \ul0 \b0 \sa0 \sb0 \fs20 \cf1 \i0 
+ There was uncontradicted testimony at the trial that during the 26 years of public operation, the Shaker Heights system, pursuant to city council action, 
+}
+{\f2 \b1 \fs20 \cf1 \i0 
+{\*\bkmkstart co_pp_sp_780_301_1}{\*\bkmkend co_pp_sp_780_301_1}
+{\f2 \strike0 \ul0 \b1 \sa0 \sb0 \fs20 \cf1 \i0 
+*301
+}
+}
+{\f2 \strike0 \ul0 \b0 \sa0 \sb200 \fs20 \cf1 \i0 
+ had not accepted or permitted any political or public issue advertising on its vehicles. App. 30A\u8212\'3f32A.
+\par 
+}
+}
+}
+{\li0 \f2 \qj \b0 \ri0 \fs20 \cf1 \i0 {
+{\trowd \lastrow \trleft0 
+\clbrdrt \clbrdrb \clbrdrl \trql \clvertalt \clwWidth600 \cellx600 
+\clpadb90 \clpadfb3 \clpadl90 \clpadfl3 \clbrdrt \clbrdrb \clbrdrr \trql \clwWidth9480 \cellx10080 
+\intbl 
+{\li0 \ri0 
+{\li0 \f2 \b0 \ql \ri0 \fs20 \cf1 \i0 
+{\f2 \b0 \fs20 \cf1 \i0 
+{\*\bkmkstart co_footnote_B00321974127232_1}{\*\bkmkend co_footnote_B00321974127232_1}
+{\field {\*\fldinst HYPERLINK "#co_footnoteReference_B00321974127232_ID0" }{\fldrslt 
+{\super \f2 \strike0 \ul0 \b0 \sa0 \sb0 \fs20 \cf5 \i0 
+2
+}\f2 \super \strike0 \ul0 \b0 \sa0 \sb0 \fs20 \cf5 \i0 }}
+\par 
+}
+}
+}\f2 \li0 \b0 \ql \fs20 \ri0 \cf1 \i0 \intbl \cell \intbl 
+{\li0 \ri0 
+{\li0 \f2 \qj \b0 \ri0 \fs18 \cf1 \i0 
+{\li0 \f2 \qj \b0 \ri0 \fs18 \cf1 \i0 
+{\li0 \f2 \qj \b0 \ri0 \fs18 \cf1 \i0 
+{\f2 \strike0 \ul0 \b0 \sa0 \sb0 \fs18 \cf1 \i0 
+Mr. Lehman testified: \u8216\'3fWe are using various methods (of pro-promoting my candidacy), including newspaper advertising . . .. We plan to use direct mail advertising, postcards, and circulars of various types.\u8217\'3f App. 14A.
+\par 
+}
+}
+}
+}
+}\f2 \li0 \strike0 \ul0 \b0 \qj \sa0 \sb0 \fs18 \ri0 \cf1 \i0 \intbl \cell \row }}\par 
+}
+{\li0 \f2 \qj \b0 \ri0 \fs20 \cf1 \i0 {
+{\trowd \lastrow \trleft0 
+\clbrdrt \clbrdrb \clbrdrl \trql \clvertalt \clwWidth600 \cellx600 
+\clpadb90 \clpadfb3 \clpadl90 \clpadfl3 \clbrdrt \clbrdrb \clbrdrr \trql \clwWidth9480 \cellx10080 
+\intbl 
+{\li0 \ri0 
+{\li0 \f2 \b0 \ql \ri0 \fs20 \cf1 \i0 
+{\f2 \b0 \fs20 \cf1 \i0 
+{\*\bkmkstart co_footnote_B00431974127232_1}{\*\bkmkend co_footnote_B00431974127232_1}
+{\field {\*\fldinst HYPERLINK "#co_footnoteReference_B00431974127232_ID0" }{\fldrslt 
+{\super \f2 \strike0 \ul0 \b0 \sa0 \sb0 \fs20 \cf5 \i0 
+3
+}\f2 \super \strike0 \ul0 \b0 \sa0 \sb0 \fs20 \cf5 \i0 }}
+\par 
+}
+}
+}\f2 \li0 \b0 \ql \fs20 \ri0 \cf1 \i0 \intbl \cell \intbl 
+{\li0 \ri0 
+{\li0 \f2 \qj \b0 \ri0 \fs18 \cf1 \i0 
+{\li0 \f2 \qj \b0 \ri0 \fs18 \cf1 \i0 
+{\li0 \f2 \qj \b0 \ri0 \fs18 \cf1 \i0 
+{\f2 \strike0 \ul0 \b0 \sa0 \sb0 \fs18 \cf1 \i0 
+The system operated only 55 cars, App. 15A, each with 20 advertising spaces. Tr. of Oral Arg. 23\u8212\'3f24.
+\par 
+}
+}
+}
+}
+}\f2 \li0 \strike0 \ul0 \b0 \qj \sa0 \sb0 \fs18 \ri0 \cf1 \i0 \intbl \cell \row }}\par 
+}
+{\li0 \f2 \qj \b0 \ri0 \fs20 \cf1 \i0 {
+{\trowd \lastrow \trleft0 
+\clbrdrt \clbrdrb \clbrdrl \trql \clvertalt \clwWidth600 \cellx600 
+\clpadb90 \clpadfb3 \clpadl90 \clpadfl3 \clbrdrt \clbrdrb \clbrdrr \trql \clwWidth9480 \cellx10080 
+\intbl 
+{\li0 \ri0 
+{\li0 \f2 \b0 \ql \ri0 \fs20 \cf1 \i0 
+{\f2 \b0 \fs20 \cf1 \i0 
+{\*\bkmkstart co_footnote_B00541974127232_1}{\*\bkmkend co_footnote_B00541974127232_1}
+{\field {\*\fldinst HYPERLINK "#co_footnoteReference_B00541974127232_ID0" }{\fldrslt 
+{\super \f2 \strike0 \ul0 \b0 \sa0 \sb0 \fs20 \cf5 \i0 
+4
+}\f2 \super \strike0 \ul0 \b0 \sa0 \sb0 \fs20 \cf5 \i0 }}
+\par 
+}
+}
+}\f2 \li0 \b0 \ql \fs20 \ri0 \cf1 \i0 \intbl \cell \intbl 
+{\li0 \ri0 
+{\li0 \f2 \qj \b0 \ri0 \fs18 \cf1 \i0 
+{\li0 \f2 \qj \b0 \ri0 \fs18 \cf1 \i0 
+{\li0 \f2 \qj \b0 \ri0 \fs18 \cf1 \i0 
+{\f2 \strike0 \ul0 \b0 \sa0 \sb0 \fs18 \cf1 \i0 
+Receipts from the sale of advertising amounted to $12,000 annually. Tr. of Oral Arg. 27. These receipts supplemented operating revenues generated from the fares paid by the passengers who used the system daily.
+\par 
+}
+}
+}
+}
+}\f2 \li0 \strike0 \ul0 \b0 \qj \sa0 \sb0 \fs18 \ri0 \cf1 \i0 \intbl \cell \row }}\par 
+}
+{\li0 \f2 \qj \b0 \ri0 \fs20 \cf1 \i0 
+{\li0 \f2 \qj \b0 \ri0 \fs20 \cf1 \i0 
+{\f2 \strike0 \ul0 \b0 \sa0 \sb0 \fs20 \cf1 \i0 
+When petitioner did not succeed in his effort to have his copy accepted, he sought declaratory and injunctive relief in the state courts of Ohio without success. The Supreme Court of Ohio concluded that \u8216\'3fthe constitutionally protected right of free speech with respect to forums for oral speech, or the dissemination of literature on a city\rquote s streets, does not extend to commercial or political advertising on rapid transit vehicles.\u8217\'3f 
+}
+{\field {\*\fldinst HYPERLINK "http://www.westlaw.com/Link/Document/FullText?findType=Y&serNum=1973114036&pubNum=578&originatingDoc=I0a4487ea9bf011d991d0cc6b54f12d4d&refType=RP&fi=co_pp_sp_578_685&originationContext=document&vr=3.0&rs=cblt1.0&transitionType=DocumentItem&contextData=(sc.Search)#co_pp_sp_578_685" }{\fldrslt 
+{\f2 \strike0 \ul0 \b0 \sa0 \sb0 \fs20 \cf5 \i0 
+34 Ohio St.2d 143, 145\u8212\'3f146, 296 N.E.2d 683, 685 (1973)
+}}}
+{\f2 \strike0 \ul0 \b0 \sa0 \sb0 \fs20 \cf1 \i0 
+. There was no equal protection violation, the court said, because, \u8216\'3f(a)s a class, all candidates for political office are treated alike under the Shaker\rquote s Heights Rapid Transit System\rquote s commercial advertising policy.\u8217\'3f 
+}
+{\field {\*\fldinst HYPERLINK "http://www.westlaw.com/Link/Document/FullText?findType=Y&serNum=1973114036&pubNum=578&originatingDoc=I0a4487ea9bf011d991d0cc6b54f12d4d&refType=RP&fi=co_pp_sp_578_686&originationContext=document&vr=3.0&rs=cblt1.0&transitionType=DocumentItem&contextData=(sc.Search)#co_pp_sp_578_686" }{\fldrslt 
+{\f2 \strike0 \ul0 \b0 \sa0 \sb0 \fs20 \cf5 \i0 
+Id., at 148, 296 N.E.2d, at 686.
+}}}
+{\f2 \strike0 \ul0 \b0 \sa0 \sb0 \fs20 \cf1 \i0 
+ The three dissenting justices viewed the transit system\rquote s advertising space as a free speech forum and would have held that no valid governmental interest was furthered by the differential treatment between political and other advertising. A policy excluding political advertisements, in their view, would therefore deny political advertisers the equal protection of the law. We granted certiorari in order to consider the important First and Fourteenth Amendment question the case presented.
+}
+{\f2 \b0 \fs16 \cf1 \i0 
+{\*\bkmkstart co_footnoteReference_B00651974127232_ID0}{\*\bkmkend co_footnoteReference_B00651974127232_ID0}
+{\field {\*\fldinst HYPERLINK "#co_footnote_B00651974127232_1" }{\fldrslt 
+{\super \f2 \strike0 \ul0 \b0 \sa0 \sb0 \fs16 \cf5 \i0 
+5
+}}}
+}
+{\f2 \strike0 \ul0 \b0 \sa0 \sb0 \fs20 \cf1 \i0 
+ 
+}
+{\field {\*\fldinst HYPERLINK "http://www.westlaw.com/Link/Document/FullText?findType=Y&serNum=1973205181&pubNum=708&originatingDoc=I0a4487ea9bf011d991d0cc6b54f12d4d&refType=RP&originationContext=document&vr=3.0&rs=cblt1.0&transitionType=DocumentItem&contextData=(sc.Search)" }{\fldrslt 
+{\f2 \strike0 \ul0 \b0 \sa0 \sb0 \fs20 \cf5 \i0 
+414 U.S. 1021, 94 S.Ct. 443, 38 L.Ed.2d 312 (1973)
+}}}
+{\f2 \strike0 \ul0 \b0 \sa0 \sb200 \fs20 \cf1 \i0 
+.
+\par 
+}
+}
+}
+{\li0 \f2 \qj \b0 \ri0 \fs20 \cf1 \i0 {
+{\trowd \lastrow \trleft0 
+\clbrdrt \clbrdrb \clbrdrl \trql \clvertalt \clwWidth600 \cellx600 
+\clpadb90 \clpadfb3 \clpadl90 \clpadfl3 \clbrdrt \clbrdrb \clbrdrr \trql \clwWidth9480 \cellx10080 
+\intbl 
+{\li0 \ri0 
+{\li0 \f2 \b0 \ql \ri0 \fs20 \cf1 \i0 
+{\f2 \b0 \fs20 \cf1 \i0 
+{\*\bkmkstart co_footnote_B00651974127232_1}{\*\bkmkend co_footnote_B00651974127232_1}
+{\field {\*\fldinst HYPERLINK "#co_footnoteReference_B00651974127232_ID0" }{\fldrslt 
+{\super \f2 \strike0 \ul0 \b0 \sa0 \sb0 \fs20 \cf5 \i0 
+5
+}\f2 \super \strike0 \ul0 \b0 \sa0 \sb0 \fs20 \cf5 \i0 }}
+\par 
+}
+}
+}\f2 \li0 \b0 \ql \fs20 \ri0 \cf1 \i0 \intbl \cell \intbl 
+{\li0 \ri0 
+{\li0 \f2 \qj \b0 \ri0 \fs18 \cf1 \i0 
+{\li0 \f2 \qj \b0 \ri0 \fs18 \cf1 \i0 
+{\li0 \f2 \qj \b0 \ri0 \fs18 \cf1 \i0 
+{\f2 \strike0 \ul0 \b0 \sa0 \sb0 \fs18 \cf1 \i0 
+Cf. 
+}
+{\field {\*\fldinst HYPERLINK "http://www.westlaw.com/Link/Document/FullText?findType=Y&serNum=1968127841&pubNum=661&originatingDoc=I0a4487ea9bf011d991d0cc6b54f12d4d&refType=RP&originationContext=document&vr=3.0&rs=cblt1.0&transitionType=DocumentItem&contextData=(sc.Search)" }{\fldrslt 
+{\f2 \strike0 \ul0 \b0 \sa0 \sb0 \fs18 \cf5 \i0 
+Wirta v. Alameda-Contra Costa Transit District, 68 Cal.2d 51, 64 Cal.Rptr. 430, 434 P.2d 982 (1967)
+}\f2 \strike0 \ul0 \b0 \sa0 \sb0 \fs18 \cf5 \i0 }}
+{\f2 \strike0 \ul0 \b0 \sa0 \sb0 \fs18 \cf1 \i0 
+; 
+}
+{\field {\*\fldinst HYPERLINK "http://www.westlaw.com/Link/Document/FullText?findType=Y&serNum=1967103345&pubNum=345&originatingDoc=I0a4487ea9bf011d991d0cc6b54f12d4d&refType=RP&originationContext=document&vr=3.0&rs=cblt1.0&transitionType=DocumentItem&contextData=(sc.Search)" }{\fldrslt 
+{\f2 \strike0 \ul0 \b0 \sa0 \sb0 \fs18 \cf5 \i0 
+Kissinger v. New York City Transit Authority, 274 F.Supp. 438 (S.D.N.Y.1967)
+}\f2 \strike0 \ul0 \b0 \sa0 \sb0 \fs18 \cf5 \i0 }}
+{\f2 \strike0 \ul0 \b0 \sa0 \sb0 \fs18 \cf1 \i0 
+; 
+}
+{\field {\*\fldinst HYPERLINK "http://www.westlaw.com/Link/Document/FullText?findType=Y&serNum=1969130755&pubNum=661&originatingDoc=I0a4487ea9bf011d991d0cc6b54f12d4d&refType=RP&originationContext=document&vr=3.0&rs=cblt1.0&transitionType=DocumentItem&contextData=(sc.Search)" }{\fldrslt 
+{\f2 \strike0 \ul0 \b0 \sa0 \sb0 \fs18 \cf5 \i0 
+Hillside Community Church v. City of Tacoma, 76 Wash.2d 63, 455 P.2d 350 (1969)
+}\f2 \strike0 \ul0 \b0 \sa0 \sb0 \fs18 \cf5 \i0 }}
+{\f2 \strike0 \ul0 \b0 \sa0 \sb0 \fs18 \cf1 \i0 
+.
+\par 
+}
+}
+}
+}
+}\f2 \li0 \strike0 \ul0 \b0 \qj \sa0 \sb0 \fs18 \ri0 \cf1 \i0 \intbl \cell \row }}\par 
+}
+{\li0 \f2 \qj \b0 \ri0 \fs20 \cf1 \i0 
+{\li0 \f2 \qj \b0 \ri0 \fs20 \cf1 \i0 
+{\f2 \strike0 \ul0 \b0 \sa0 \sb200 \fs20 \cf1 \i0 
+It is urged that the car cards here constitute a public forum protected by the First Amendment, and that there is a guarantee of nondiscriminatory access to such publicly owned and controlled areas of communication \u8216\'3fregardless of the primary purpose for which the area is dedicated.\u8217\'3f Brief for Petitioner 14.
+\par 
+}
+}
+}
+{\li0 \f2 \qj \b0 \ri0 \fs20 \cf1 \i0 
+{\li0 \f2 \qj \b0 \ri0 \fs20 \cf1 \i0 
+{\f2 \strike0 \ul0 \b0 \fs20 \cf1 \i0 
+}
+{\f2 \b1 \fs20 \cf1 \i0 
+{\*\bkmkstart co_pp_sp_780_302_1}{\*\bkmkend co_pp_sp_780_302_1}
+{\f2 \strike0 \ul0 \b1 \sa0 \sb0 \fs20 \cf1 \i0 
+*302
+}
+}
+{\f2 \strike0 \ul0 \b0 \sa0 \sb0 \fs20 \cf1 \i0 
+ We disagree. In 
+}
+{\field {\*\fldinst HYPERLINK "http://www.westlaw.com/Link/Document/FullText?findType=Y&serNum=1932123427&pubNum=708&originatingDoc=I0a4487ea9bf011d991d0cc6b54f12d4d&refType=RP&fi=co_pp_sp_708_274&originationContext=document&vr=3.0&rs=cblt1.0&transitionType=DocumentItem&contextData=(sc.Search)#co_pp_sp_708_274" }{\fldrslt 
+{\f2 \strike0 \ul0 \b0 \sa0 \sb0 \fs20 \cf5 \i0 
+Packer Corp. v. Utah, 285 U.S. 105, 110, 52 S.Ct. 273, 274, 76 L.Ed. 643 (1932)
+}}}
+{\f2 \strike0 \ul0 \b0 \sa0 \sb0 \fs20 \cf1 \i0 
+, Mr. Justice Brandeis, in speaking for a unanimous Court, recognized that \u8216\'3fthere is a difference which justifies the classification between display advertising and that in periodicals or newspapers.\u8217\'3f In Packer the Court upheld a Utah statute that made it a misdemeanor to advertise cigarettes on \u8220\'3fany bill board, street car sign, street car, . . . placard,\u8221\'3f but exempted dealers\rquote  signs on their places of business and cigarette advertising \u8220\'3fin 
+}
+{\f2 \b1 \fs20 \cf1 \i0 
+{\*\bkmkstart co_pp_sp_708_2717_1}{\*\bkmkend co_pp_sp_708_2717_1}
+{\f2 \strike0 \ul0 \b1 \sa0 \sb0 \fs20 \cf1 \i0 
+**2717
+}
+}
+{\f2 \strike0 \ul0 \b0 \sa0 \sb0 \fs20 \cf1 \i0 
+ any newspaper, magazine, or periodical.\u8221\'3f 
+}
+{\field {\*\fldinst HYPERLINK "http://www.westlaw.com/Link/Document/FullText?findType=Y&serNum=1932123427&pubNum=708&originatingDoc=I0a4487ea9bf011d991d0cc6b54f12d4d&refType=RP&fi=co_pp_sp_708_273&originationContext=document&vr=3.0&rs=cblt1.0&transitionType=DocumentItem&contextData=(sc.Search)#co_pp_sp_708_273" }{\fldrslt 
+{\f2 \strike0 \ul0 \b0 \sa0 \sb0 \fs20 \cf5 \i0 
+Id., at 107, 52 S.Ct. at 273.
+}}}
+{\f2 \strike0 \ul0 \b0 \sa0 \sb0 \fs20 \cf1 \i0 
+ The Court found no equal protection violation. It reasoned that viewers of billboards and streetcar signs had no \u8216\'3fchoice or volition\u8217\'3f to observe such advertising and had the message \u8216\'3fthrust upon them by all the arts and devices that skill can produce. . . . The radio can be turned off, but not so the billboard or street car placard.\u8217\'3f 
+}
+{\field {\*\fldinst HYPERLINK "http://www.westlaw.com/Link/Document/FullText?findType=Y&serNum=1932123427&pubNum=708&originatingDoc=I0a4487ea9bf011d991d0cc6b54f12d4d&refType=RP&fi=co_pp_sp_708_274&originationContext=document&vr=3.0&rs=cblt1.0&transitionType=DocumentItem&contextData=(sc.Search)#co_pp_sp_708_274" }{\fldrslt 
+{\f2 \strike0 \ul0 \b0 \sa0 \sb0 \fs20 \cf5 \i0 
+Id., at 110, 52 S.Ct., at 274\u8212\'3f275.
+}}}
+{\f2 \strike0 \ul0 \b0 \sa0 \sb0 \fs20 \cf1 \i0 
+ \u8216\'3fThe streetcar audience is a captive audience. It is there as a matter of necessity, not of choice.\u8217\'3f 
+}
+{\field {\*\fldinst HYPERLINK "http://www.westlaw.com/Link/Document/FullText?findType=Y&serNum=1952118791&pubNum=708&originatingDoc=I0a4487ea9bf011d991d0cc6b54f12d4d&refType=RP&fi=co_pp_sp_708_823&originationContext=document&vr=3.0&rs=cblt1.0&transitionType=DocumentItem&contextData=(sc.Search)#co_pp_sp_708_823" }{\fldrslt 
+{\f2 \strike0 \ul0 \b0 \sa0 \sb0 \fs20 \cf5 \i0 
+Public Utilities Comm\rquote n v. Pollak, 343 U.S. 451, 468, 72 S.Ct. 813, 823, 96 L.Ed. 1068 (1952)
+}}}
+{\f2 \strike0 \ul0 \b0 \sa0 \sb0 \fs20 \cf1 \i0 
+ (Douglas, J., dissenting). In such situations, \u8216\'3f(t)he legislature may recognize degrees of evil and adapt its legislation accordingly.\u8217\'3f 
+}
+{\field {\*\fldinst HYPERLINK "http://www.westlaw.com/Link/Document/FullText?findType=Y&serNum=1932123427&pubNum=708&originatingDoc=I0a4487ea9bf011d991d0cc6b54f12d4d&refType=RP&fi=co_pp_sp_708_275&originationContext=document&vr=3.0&rs=cblt1.0&transitionType=DocumentItem&contextData=(sc.Search)#co_pp_sp_708_275" }{\fldrslt 
+{\f2 \strike0 \ul0 \b0 \sa0 \sb0 \fs20 \cf5 \i0 
+Packer Corp. v. Utah, 285 U.S., at 110, 52 S.Ct. at 275.
+}}}
+{\f2 \strike0 \ul0 \b0 \sa0 \sb0 \fs20 \cf1 \i0 
+ Cf. 
+}
+{\field {\*\fldinst HYPERLINK "http://www.westlaw.com/Link/Document/FullText?findType=Y&serNum=1951116441&pubNum=708&originatingDoc=I0a4487ea9bf011d991d0cc6b54f12d4d&refType=RP&originationContext=document&vr=3.0&rs=cblt1.0&transitionType=DocumentItem&contextData=(sc.Search)" }{\fldrslt 
+{\f2 \strike0 \ul0 \b0 \sa0 \sb0 \fs20 \cf5 \i0 
+Breard v. Alexandria, 341 U.S. 622, 71 S.Ct. 920, 95 L.Ed. 1233 (1951)
+}}}
+{\f2 \strike0 \ul0 \b0 \sa0 \sb200 \fs20 \cf1 \i0 
+.
+\par 
+}
+}
+}
+{\li0 \f2 \qj \b0 \ri0 \fs20 \cf1 \i0 
+{\li0 \f2 \qj \b0 \ri0 \fs20 \cf1 \i0 
+{\field {\*\fldinst HYPERLINK "#co_anchor_F11974127232_1" }{\fldrslt 
+{\super \f2 \strike0 \ul0 \b1 \sa0 \sb0 \fs20 \cf20 \i0 
+[1]
+}}}
+{\f2 \b0 \fs20 \cf5 \i0 
+{\*\bkmkstart co_anchor_B11974127232_1}{\*\bkmkend co_anchor_B11974127232_1}
+}
+{\f2 \strike0 \ul0 \b0 \sa0 \sb0 \fs20 \cf1 \i0 
+ These situations are different from the traditional settings where First Amendment values inalterably prevail. Lord Dunedin, in M\rquote Ara v. Magistrates of Edinburgh, (1913) Sess.Cas. 1059, 1073\u8212\'3f1074, said: \u8216\'3f(T)he truth is that open spaces and public places differ very much in their character, and before you could say whether a certain thing could be done in a certain place you would have to know the history of the particular place.\u8217\'3f Although American constitutional jurisprudence, in the light of the First Amendment, has been jealous to preserve access to public places for purposes of free speech, the nature of the forum and the conflicting interests involved have 
+}
+{\f2 \b1 \fs20 \cf1 \i0 
+{\*\bkmkstart co_pp_sp_780_303_1}{\*\bkmkend co_pp_sp_780_303_1}
+{\f2 \strike0 \ul0 \b1 \sa0 \sb0 \fs20 \cf1 \i0 
+*303
+}
+}
+{\f2 \strike0 \ul0 \b0 \sa0 \sb0 \fs20 \cf1 \i0 
+ remained important in determining the degree of protection afforded by the Amendment to the speech in question. See, e.g., 
+}
+{\field {\*\fldinst HYPERLINK "http://www.westlaw.com/Link/Document/FullText?findType=Y&serNum=1941124169&pubNum=708&originatingDoc=I0a4487ea9bf011d991d0cc6b54f12d4d&refType=RP&originationContext=document&vr=3.0&rs=cblt1.0&transitionType=DocumentItem&contextData=(sc.Search)" }{\fldrslt 
+{\f2 \strike0 \ul0 \b0 \sa0 \sb0 \fs20 \cf5 \i0 
+Cox v. New Hampshire, 312 U.S. 569, 61 S.Ct. 762, 85 L.Ed. 1049 (1941)
+}}}
+{\f2 \strike0 \ul0 \b0 \sa0 \sb0 \fs20 \cf1 \i0 
+; Breard v. Alexandria, supra; 
+}
+{\field {\*\fldinst HYPERLINK "http://www.westlaw.com/Link/Document/FullText?findType=Y&serNum=1953119199&pubNum=708&originatingDoc=I0a4487ea9bf011d991d0cc6b54f12d4d&refType=RP&originationContext=document&vr=3.0&rs=cblt1.0&transitionType=DocumentItem&contextData=(sc.Search)" }{\fldrslt 
+{\f2 \strike0 \ul0 \b0 \sa0 \sb0 \fs20 \cf5 \i0 
+Poulos v. New Hampshire, 345 U.S. 395, 73 S.Ct. 760, 97 L.Ed. 1105 (1953)
+}}}
+{\f2 \strike0 \ul0 \b0 \sa0 \sb0 \fs20 \cf1 \i0 
+; 
+}
+{\field {\*\fldinst HYPERLINK "http://www.westlaw.com/Link/Document/FullText?findType=Y&serNum=1965125007&pubNum=708&originatingDoc=I0a4487ea9bf011d991d0cc6b54f12d4d&refType=RP&originationContext=document&vr=3.0&rs=cblt1.0&transitionType=DocumentItem&contextData=(sc.Search)" }{\fldrslt 
+{\f2 \strike0 \ul0 \b0 \sa0 \sb0 \fs20 \cf5 \i0 
+Cox v. Louisiana, 379 U.S. 559, 85 S.Ct. 476, 13 L.Ed.2d 487 (1965)
+}}}
+{\f2 \strike0 \ul0 \b0 \sa0 \sb0 \fs20 \cf1 \i0 
+; 
+}
+{\field {\*\fldinst HYPERLINK "http://www.westlaw.com/Link/Document/FullText?findType=Y&serNum=1966131604&pubNum=708&originatingDoc=I0a4487ea9bf011d991d0cc6b54f12d4d&refType=RP&originationContext=document&vr=3.0&rs=cblt1.0&transitionType=DocumentItem&contextData=(sc.Search)" }{\fldrslt 
+{\f2 \strike0 \ul0 \b0 \sa0 \sb0 \fs20 \cf5 \i0 
+Adderley v. Florida, 385 U.S. 39, 87 S.Ct. 242, 17 L.Ed.2d 149 (1966)
+}}}
+{\f2 \strike0 \ul0 \b0 \sa0 \sb0 \fs20 \cf1 \i0 
+; 
+}
+{\field {\*\fldinst HYPERLINK "http://www.westlaw.com/Link/Document/FullText?findType=Y&serNum=1969133002&pubNum=1016&originatingDoc=I0a4487ea9bf011d991d0cc6b54f12d4d&refType=RP&originationContext=document&vr=3.0&rs=cblt1.0&transitionType=DocumentItem&contextData=(sc.Search)" }{\fldrslt 
+{\f2 \strike0 \ul0 \b0 \sa0 \sb0 \fs20 \cf5 \i0 
+Red Lion Broadcasting Co. v. FCC, 395 U.S. 367, 89 S.Ct. 1794, 23 L.Ed.2d 371 (1969)
+}}}
+{\f2 \strike0 \ul0 \b0 \sa0 \sb0 \fs20 \cf1 \i0 
+; 
+}
+{\field {\*\fldinst HYPERLINK "http://www.westlaw.com/Link/Document/FullText?findType=Y&serNum=1972127174&pubNum=708&originatingDoc=I0a4487ea9bf011d991d0cc6b54f12d4d&refType=RP&originationContext=document&vr=3.0&rs=cblt1.0&transitionType=DocumentItem&contextData=(sc.Search)" }{\fldrslt 
+{\f2 \strike0 \ul0 \b0 \sa0 \sb0 \fs20 \cf5 \i0 
+Police Department of Chicago v. Mosley, 408 U.S. 92, 92 S.Ct. 2286, 33 L.Ed.2d 212 (1972)
+}}}
+{\f2 \strike0 \ul0 \b0 \sa0 \sb0 \fs20 \cf1 \i0 
+; 
+}
+{\field {\*\fldinst HYPERLINK "http://www.westlaw.com/Link/Document/FullText?findType=Y&serNum=1972127175&pubNum=708&originatingDoc=I0a4487ea9bf011d991d0cc6b54f12d4d&refType=RP&originationContext=document&vr=3.0&rs=cblt1.0&transitionType=DocumentItem&contextData=(sc.Search)" }{\fldrslt 
+{\f2 \strike0 \ul0 \b0 \sa0 \sb0 \fs20 \cf5 \i0 
+Grayned v. City of Rockford, 408 U.S. 104, 92 S.Ct. 2294, 33 L.Ed.2d 222 (1972)
+}}}
+{\f2 \strike0 \ul0 \b0 \sa0 \sb0 \fs20 \cf1 \i0 
+; 
+}
+{\field {\*\fldinst HYPERLINK "http://www.westlaw.com/Link/Document/FullText?findType=Y&serNum=1973126406&pubNum=708&originatingDoc=I0a4487ea9bf011d991d0cc6b54f12d4d&refType=RP&originationContext=document&vr=3.0&rs=cblt1.0&transitionType=DocumentItem&contextData=(sc.Search)" }{\fldrslt 
+{\f2 \strike0 \ul0 \b0 \sa0 \sb0 \fs20 \cf5 \i0 
+Columbia Broadcasting System, Inc. v. Democratic National Committee, 412 U.S. 94, 93 S.Ct. 2080, 36 L.Ed.2d 772 (1973)
+}}}
+{\f2 \strike0 \ul0 \b0 \sa0 \sb0 \fs20 \cf1 \i0 
+; 
+}
+{\field {\*\fldinst HYPERLINK "http://www.westlaw.com/Link/Document/FullText?findType=Y&serNum=1973126436&pubNum=708&originatingDoc=I0a4487ea9bf011d991d0cc6b54f12d4d&refType=RP&originationContext=document&vr=3.0&rs=cblt1.0&transitionType=DocumentItem&contextData=(sc.Search)" }{\fldrslt 
+{\f2 \strike0 \ul0 \b0 \sa0 \sb0 \fs20 \cf5 \i0 
+Pittsburgh Press Co. v. Pittsburgh Comm\rquote n on Human Relations, 413 U.S. 376, 93 S.Ct. 2553, 37 L.Ed.2d 669 (1973)
+}}}
+{\f2 \strike0 \ul0 \b0 \sa0 \sb0 \fs20 \cf1 \i0 
+.
+\par 
+}
+}
+}
+{\f2 \strike0 \ul0 \b0 \sa0 \sb0 \fs20 \cf1 \i0 
+\u160\'3f
+\par 
+}
+{\li0 \f2 \qj \b0 \ri0 \fs20 \cf1 \i0 
+{\li0 \f2 \qj \b0 \ri0 \fs20 \cf1 \i0 
+{\field {\*\fldinst HYPERLINK "#co_anchor_F21974127232_1" }{\fldrslt 
+{\super \f2 \strike0 \ul0 \b1 \sa0 \sb0 \fs20 \cf20 \i0 
+[2]
+}}}
+{\f2 \b0 \fs20 \cf5 \i0 
+{\*\bkmkstart co_anchor_B21974127232_1}{\*\bkmkend co_anchor_B21974127232_1}
+}
+{\f2 \strike0 \ul0 \b0 \sa0 \sb0 \fs20 \cf1 \i0 
+ 
+}
+{\field {\*\fldinst HYPERLINK "#co_anchor_F31974127232_1" }{\fldrslt 
+{\super \f2 \strike0 \ul0 \b1 \sa0 \sb0 \fs20 \cf20 \i0 
+[3]
+}}}
+{\f2 \b0 \fs20 \cf5 \i0 
+{\*\bkmkstart co_anchor_B31974127232_1}{\*\bkmkend co_anchor_B31974127232_1}
+}
+{\f2 \strike0 \ul0 \b0 \sa0 \sb0 \fs20 \cf1 \i0 
+ Here, we have no open spaces, no meeting hall, park, street corner, or other public thoroughfare. Instead, the city is engaged in commerce. It must provide rapid, convenient, pleasant, and inexpensive service to the commuters of Shaker Heights. The car card space, although incidental to the provision of public transportation, is a part of the commercial venture. In much the same way that a newspaper or periodical, or even a radio or television station, need not accept every proffer of advertising from the general public, a city transit system has discretion to develop and make reasonable choices concerning the type of advertising that may be displayed in its vehicles. In making these choices, this Court has held that a public utility \u8216\'3fwill be sustained in its protection of activities in public places when those activities do not interfere with the general public convenience, comfort and safety.\u8217\'3f 
+}
+{\field {\*\fldinst HYPERLINK "http://www.westlaw.com/Link/Document/FullText?findType=Y&serNum=1952118791&pubNum=708&originatingDoc=I0a4487ea9bf011d991d0cc6b54f12d4d&refType=RP&fi=co_pp_sp_708_821&originationContext=document&vr=3.0&rs=cblt1.0&transitionType=DocumentItem&contextData=(sc.Search)#co_pp_sp_708_821" }{\fldrslt 
+{\f2 \strike0 \ul0 \b0 \sa0 \sb0 \fs20 \cf5 \i0 
+Public Utilities Comm\rquote n v. Pollak, 343 U.S., at 464\u8212\'3f465, 72 S.Ct. at 821
+}}}
+{\f2 \strike0 \ul0 \b0 \sa0 \sb0 \fs20 \cf1 \i0 
+.
+\par 
+}
+}
+}
+{\f2 \strike0 \ul0 \b0 \sa0 \sb0 \fs20 \cf1 \i0 
+\u160\'3f
+\par 
+}
+{\li0 \f2 \qj \b0 \ri0 \fs20 \cf1 \i0 
+{\li0 \f2 \qj \b0 \ri0 \fs20 \cf1 \i0 
+{\f2 \strike0 \ul0 \b0 \sa0 \sb0 \fs20 \cf1 \i0 
+Because state action exists, however, the policies and practices governing access to the transit system\rquote s advertising space must not be arbitrary, capricious, or invidious. Here, the city has decided that \u8216\'3f(p)urveyors 
+}
+{\f2 \b1 \fs20 \cf1 \i0 
+{\*\bkmkstart co_pp_sp_780_304_1}{\*\bkmkend co_pp_sp_780_304_1}
+{\f2 \strike0 \ul0 \b1 \sa0 \sb0 \fs20 \cf1 \i0 
+*304
+}
+}
+{\f2 \strike0 \ul0 \b0 \sa0 \sb0 \fs20 \cf1 \i0 
+ of goods and services saleable in commerce may purchase advertising space on an equal basis, whether they be house builders or butchers.\u8217\'3f 
+}
+{\field {\*\fldinst HYPERLINK "http://www.westlaw.com/Link/Document/FullText?findType=Y&serNum=1973114036&pubNum=578&originatingDoc=I0a4487ea9bf011d991d0cc6b54f12d4d&refType=RP&fi=co_pp_sp_578_685&originationContext=document&vr=3.0&rs=cblt1.0&transitionType=DocumentItem&contextData=(sc.Search)#co_pp_sp_578_685" }{\fldrslt 
+{\f2 \strike0 \ul0 \b0 \sa0 \sb0 \fs20 \cf5 \i0 
+34 Ohio St.2d, at 146, 296 N.E.2d, at 685.
+}}}
+{\f2 \strike0 \ul0 \b0 \sa0 \sb0 \fs20 \cf1 \i0 
+ This decision is little different from deciding to impose a 10-, 25-, or 35-cent fare, or from changing schedules 
+}
+{\f2 \b1 \fs20 \cf1 \i0 
+{\*\bkmkstart co_pp_sp_708_2718_1}{\*\bkmkend co_pp_sp_708_2718_1}
+{\f2 \strike0 \ul0 \b1 \sa0 \sb0 \fs20 \cf1 \i0 
+**2718
+}
+}
+{\f2 \strike0 \ul0 \b0 \sa0 \sb0 \fs20 \cf1 \i0 
+ or the location of bus stops, 
+}
+{\field {\*\fldinst HYPERLINK "http://www.westlaw.com/Link/Document/FullText?findType=Y&serNum=1952118791&pubNum=708&originatingDoc=I0a4487ea9bf011d991d0cc6b54f12d4d&refType=RP&fi=co_pp_sp_708_822&originationContext=document&vr=3.0&rs=cblt1.0&transitionType=DocumentItem&contextData=(sc.Search)#co_pp_sp_708_822" }{\fldrslt 
+{\f2 \strike0 \ul0 \b0 \sa0 \sb0 \fs20 \cf5 \i0 
+Public Utilities Comm\rquote n v. Pollak, 343 U.S., at 465, 72 S.Ct. at 822.
+}}}
+{\f2 \strike0 \ul0 \b0 \sa0 \sb200 \fs20 \cf1 \i0 
+ Revenue earned from long-term commercial advertising could be jeopardardized by a requirement that short-term candidacy or issue-oriented advertisements be displayed on car cards. Users would be subjected to the blare of political propaganda. There could be lurking doubts about favoritism, and sticky administrative problems might arise in parceling out limited space to eager politicians. In these circumstances, the managerial decision to limit car card space to innocuous and less controversial commercial and service oriented advertising does not rise to the dignity of a First Amendment violation. Were we to hold to the contrary, display cases in public hospitals, libraries, office buildings, military compounds, and other public facilities immediately would become Hyde Parks open to every would-be pamphleteer and politician. This the Constitution does not require.
+\par 
+}
+}
+}
+{\li0 \f2 \qj \b0 \ri0 \fs20 \cf1 \i0 
+{\li0 \f2 \qj \b0 \ri0 \fs20 \cf1 \i0 
+{\f2 \strike0 \ul0 \b0 \sa0 \sb200 \fs20 \cf1 \i0 
+No First Amendment forum is here to be found. The city consciously has limited access to its transit system advertising space in order to minimize chances of abuse, the appearance of favoritism, and the risk of imposing upon a captive audience. These are reasonable legislative objectives advanced by the city in a proprietary capacity. In these circumstances, there is no First or Fourteenth Amendment violation.
+\par 
+}
+}
+}
+{\li0 \f2 \qj \b0 \ri0 \fs20 \cf1 \i0 
+{\li0 \f2 \qj \b0 \ri0 \fs20 \cf1 \i0 
+{\f2 \strike0 \ul0 \b0 \sa0 \sb200 \fs20 \cf1 \i0 
+The judgment of the Supreme Court of Ohio is affirmed.
+\par 
+}
+}
+}
+{\li0 \f2 \qj \b0 \ri0 \fs20 \cf1 \i0 
+{\li0 \f2 \qj \b0 \ri0 \fs20 \cf1 \i0 
+{\f2 \strike0 \ul0 \b0 \sa0 \sb200 \fs20 \cf1 \i0 
+It is so ordered.
+\par 
+}
+}
+}
+{\li0 \f2 \qj \b0 \ri0 \fs20 \cf1 \i0 
+{\li0 \f2 \qj \b0 \ri0 \fs20 \cf1 \i0 
+{\f2 \strike0 \ul0 \b0 \sa0 \sb200 \fs20 \cf1 \i0 
+Affirmed.
+\par 
+}
+}
+}
+}
+}
+}
+}
+}
+{\li0 \f2 \qj \b0 \ri0 \fs20 \cf1 \i0 
+{\li0 \f2 \qj \b1 \ri0 \fs20 \cf20 \i0 
+{\*\bkmkstart co_concurrance_opinion_1}{\*\bkmkend co_concurrance_opinion_1}
+\par 
+}
+{\li0 \f2 \qj \b0 \ri0 \fs20 \cf1 \i0 
+{\li0 \f2 \qj \b0 \ri0 \fs20 \cf1 \i0 
+{\li0 \f2 \qj \b0 \ri0 \fs20 \cf1 \i0 
+{\li0 \f2 \qj \b0 \ri0 \fs20 \cf1 \i0 
+{\f2 \strike0 \ul0 \b0 \fs20 \cf1 \i0 
+}
+{\f2 \b1 \fs20 \cf1 \i0 
+{\*\bkmkstart co_pp_sp_780_305_1}{\*\bkmkend co_pp_sp_780_305_1}
+{\f2 \strike0 \ul0 \b1 \sa0 \sb0 \fs20 \cf1 \i0 
+*305
+}
+}
+{\f2 \strike0 \ul0 \b0 \sa0 \sb200 \fs20 \cf1 \i0 
+ Mr. Justice DOUGLAS, concurring.
+\par 
+}
+}
+}
+{\li0 \f2 \qj \b0 \ri0 \fs20 \cf1 \i0 
+{\li0 \f2 \qj \b0 \ri0 \fs20 \cf1 \i0 
+{\*\bkmkstart co_anchor_I424620ed0da311e498db8b09b4f04}{\*\bkmkend co_anchor_I424620ed0da311e498db8b09b4f04}
+\par 
+{\li0 \f2 \qj \b0 \ri0 \fs20 \cf1 \i0 
+{\li0 \f2 \qj \b0 \ri0 \fs20 \cf1 \i0 
+{\f2 \strike0 \ul0 \b0 \sa0 \sb200 \fs20 \cf1 \i0 
+Petitioner, a candidate for state office, attempted to purchase space for paid political advertising on vehicles of the Shaker Heights Rapid Transit System, a system owned and operated by the city of Shaker Heights, Ohio. Metromedia, Inc., the exclusive advertising agent for the system, refused petitioner the space on the basis of a contract with the system prohibiting the acceptance of political advertisements. Petitioner unsuccessfully sought injunctive relief in the state courts to restrain the city and Metromedia from refusing his advertising.
+\par 
+}
+}
+}
+{\li0 \f2 \qj \b0 \ri0 \fs20 \cf1 \i0 
+{\li0 \f2 \qj \b0 \ri0 \fs20 \cf1 \i0 
+{\f2 \strike0 \ul0 \b0 \sa0 \sb0 \fs20 \cf1 \i0 
+The petitioner contends that, by selling advertising space, the city has turned its buses into free speech forums and the city is now prohibited by the First Amendment, applicable to the States through the Fourteenth,
+}
+{\f2 \b0 \fs16 \cf1 \i0 
+{\*\bkmkstart co_footnoteReference_B00711974127232_ID0}{\*\bkmkend co_footnoteReference_B00711974127232_ID0}
+{\field {\*\fldinst HYPERLINK "#co_footnote_B00711974127232_1" }{\fldrslt 
+{\super \f2 \strike0 \ul0 \b0 \sa0 \sb0 \fs16 \cf5 \i0 
+1
+}}}
+}
+{\f2 \strike0 \ul0 \b0 \sa0 \sb200 \fs20 \cf1 \i0 
+ from refusing space for political advertisements.
+\par 
+}
+}
+}
+{\li0 \f2 \qj \b0 \ri0 \fs20 \cf1 \i0 {
+{\trowd \lastrow \trleft0 
+\clbrdrt \clbrdrb \clbrdrl \trql \clvertalt \clwWidth600 \cellx600 
+\clpadb90 \clpadfb3 \clpadl90 \clpadfl3 \clbrdrt \clbrdrb \clbrdrr \trql \clwWidth9480 \cellx10080 
+\intbl 
+{\li0 \ri0 
+{\li0 \f2 \b0 \ql \ri0 \fs20 \cf1 \i0 
+{\f2 \b0 \fs20 \cf1 \i0 
+{\*\bkmkstart co_footnote_B00711974127232_1}{\*\bkmkend co_footnote_B00711974127232_1}
+{\field {\*\fldinst HYPERLINK "#co_footnoteReference_B00711974127232_ID0" }{\fldrslt 
+{\super \f2 \strike0 \ul0 \b0 \sa0 \sb0 \fs20 \cf5 \i0 
+1
+}\f2 \super \strike0 \ul0 \b0 \sa0 \sb0 \fs20 \cf5 \i0 }}
+\par 
+}
+}
+}\f2 \li0 \b0 \ql \fs20 \ri0 \cf1 \i0 \intbl \cell \intbl 
+{\li0 \ri0 
+{\li0 \f2 \qj \b0 \ri0 \fs18 \cf1 \i0 
+{\li0 \f2 \qj \b0 \ri0 \fs18 \cf1 \i0 
+{\li0 \f2 \qj \b0 \ri0 \fs18 \cf1 \i0 
+{\f2 \strike0 \ul0 \b0 \sa0 \sb0 \fs18 \cf1 \i0 
+The Court has frequently rested state free speech and free press decisions on the Fourteenth Amendment generally, rather than on the Due Process Clause alone. See, e.g., 
+}
+{\field {\*\fldinst HYPERLINK "http://www.westlaw.com/Link/Document/FullText?findType=Y&serNum=1941119479&pubNum=780&originatingDoc=I0a4487ea9bf011d991d0cc6b54f12d4d&refType=RP&fi=co_pp_sp_780_263&originationContext=document&vr=3.0&rs=cblt1.0&transitionType=DocumentItem&contextData=(sc.Search)#co_pp_sp_780_263" }{\fldrslt 
+{\f2 \strike0 \ul0 \b0 \sa0 \sb0 \fs18 \cf5 \i0 
+Bridges v. California, 314 U.S. 252, 263
+}\f2 \strike0 \ul0 \b0 \sa0 \sb0 \fs18 \cf5 \i0 }}
+{\f2 \strike0 \ul0 \b0 \sa0 \sb0 \fs18 \cf1 \i0 
+ N. 6, 
+}
+{\field {\*\fldinst HYPERLINK "http://www.westlaw.com/Link/Document/FullText?findType=Y&serNum=1941119479&pubNum=470&originatingDoc=I0a4487ea9bf011d991d0cc6b54f12d4d&refType=RP&originationContext=document&vr=3.0&rs=cblt1.0&transitionType=DocumentItem&contextData=(sc.Search)" }{\fldrslt 
+{\f2 \strike0 \ul0 \b0 \sa0 \sb0 \fs18 \cf5 \i0 
+62 S.Ct. 190, 194, 86 L.Ed. 192;
+}\f2 \strike0 \ul0 \b0 \sa0 \sb0 \fs18 \cf5 \i0 }}
+{\f2 \strike0 \ul0 \b0 \sa0 \sb0 \fs18 \cf1 \i0 
+ 
+}
+{\field {\*\fldinst HYPERLINK "http://www.westlaw.com/Link/Document/FullText?findType=Y&serNum=1948118302&pubNum=708&originatingDoc=I0a4487ea9bf011d991d0cc6b54f12d4d&refType=RP&fi=co_pp_sp_708_1149&originationContext=document&vr=3.0&rs=cblt1.0&transitionType=DocumentItem&contextData=(sc.Search)#co_pp_sp_708_1149" }{\fldrslt 
+{\f2 \strike0 \ul0 \b0 \sa0 \sb0 \fs18 \cf5 \i0 
+Saia v. New York, 334 U.S. 558, 560, 68 S.Ct. 1148, 1149, 92 L.Ed. 1574;
+}\f2 \strike0 \ul0 \b0 \sa0 \sb0 \fs18 \cf5 \i0 }}
+{\f2 \strike0 \ul0 \b0 \sa0 \sb0 \fs18 \cf1 \i0 
+ 
+}
+{\field {\*\fldinst HYPERLINK "http://www.westlaw.com/Link/Document/FullText?findType=Y&serNum=1966101595&pubNum=708&originatingDoc=I0a4487ea9bf011d991d0cc6b54f12d4d&refType=RP&fi=co_pp_sp_708_1241&originationContext=document&vr=3.0&rs=cblt1.0&transitionType=DocumentItem&contextData=(sc.Search)#co_pp_sp_708_1241" }{\fldrslt 
+{\f2 \strike0 \ul0 \b0 \sa0 \sb0 \fs18 \cf5 \i0 
+Elfbrandt v. Russell, 384 U.S. 11, 18, 86 S.Ct. 1238, 1241, 16 L.Ed.2d 321;
+}\f2 \strike0 \ul0 \b0 \sa0 \sb0 \fs18 \cf5 \i0 }}
+{\f2 \strike0 \ul0 \b0 \sa0 \sb0 \fs18 \cf1 \i0 
+ 
+}
+{\field {\*\fldinst HYPERLINK "http://www.westlaw.com/Link/Document/FullText?findType=Y&serNum=1966131569&pubNum=708&originatingDoc=I0a4487ea9bf011d991d0cc6b54f12d4d&refType=RP&fi=co_pp_sp_708_1436&originationContext=document&vr=3.0&rs=cblt1.0&transitionType=DocumentItem&contextData=(sc.Search)#co_pp_sp_708_1436" }{\fldrslt 
+{\f2 \strike0 \ul0 \b0 \sa0 \sb0 \fs18 \cf5 \i0 
+Mills v. Alabama, 384 U.S. 214, 218, 86 S.Ct. 1434, 1436, 16 L.Ed.2d 484
+}\f2 \strike0 \ul0 \b0 \sa0 \sb0 \fs18 \cf5 \i0 }}
+{\f2 \strike0 \ul0 \b0 \sa0 \sb0 \fs18 \cf1 \i0 
+.
+\par 
+}
+}
+}
+}
+}\f2 \li0 \strike0 \ul0 \b0 \qj \sa0 \sb0 \fs18 \ri0 \cf1 \i0 \intbl \cell \row }}\par 
+}
+{\li0 \f2 \qj \b0 \ri0 \fs20 \cf1 \i0 
+{\li0 \f2 \qj \b0 \ri0 \fs20 \cf1 \i0 
+{\f2 \strike0 \ul0 \b0 \sa0 \sb0 \fs20 \cf1 \i0 
+My Brother BRENNAN would find that \u8216\'3f(a) forum for communication was voluntarily established when the city installed the physical facilities for the advertisements and, by contract with Metromedia, created the necessary administrative machinery for regulating access to that forum.\u8217\'3f Post, at 2722. If the streetcar or bus were a forum for communication akin to that of streets or public parks, considerable problems would be presented. \u8216\'3fThe privilege of a citizen of the United States to use the streets and parks for communication of views on national questions may be regulated in the interest of all . . . but it must not, in the guise of regulation, be abridged or denied.\u8217\'3f 
+}
+{\field {\*\fldinst HYPERLINK "http://www.westlaw.com/Link/Document/FullText?findType=Y&serNum=1939126865&pubNum=708&originatingDoc=I0a4487ea9bf011d991d0cc6b54f12d4d&refType=RP&fi=co_pp_sp_708_964&originationContext=document&vr=3.0&rs=cblt1.0&transitionType=DocumentItem&contextData=(sc.Search)#co_pp_sp_708_964" }{\fldrslt 
+{\f2 \strike0 \ul0 \b0 \sa0 \sb0 \fs20 \cf5 \i0 
+Hague v. CIO, 307 U.S. 496, 515\u8212\'3f516, 59 S.Ct. 954, 964, 83 L.Ed. 1423 (1939)
+}}}
+{\f2 \strike0 \ul0 \b0 \sa0 \sb0 \fs20 \cf1 \i0 
+. 
+}
+{\f2 \b1 \fs20 \cf1 \i0 
+{\*\bkmkstart co_pp_sp_780_306_1}{\*\bkmkend co_pp_sp_780_306_1}
+{\f2 \strike0 \ul0 \b1 \sa0 \sb0 \fs20 \cf1 \i0 
+*306
+}
+}
+{\f2 \strike0 \ul0 \b0 \sa0 \sb200 \fs20 \cf1 \i0 
+ But a streetcar or bus is plainly not a park or sidewalk or other meeting place for discussion, any more than is a highway. It is only a way to get to work or back home. The fact that it is owned and operated by the city does not without more make it a forum.
+\par 
+}
+}
+}
+{\li0 \f2 \qj \b0 \ri0 \fs20 \cf1 \i0 
+{\li0 \f2 \qj \b0 \ri0 \fs20 \cf1 \i0 
+{\f2 \strike0 \ul0 \b0 \sa0 \sb0 \fs20 \cf1 \i0 
+Bus and streetcar placards are in the category of highway billboards which 
+}
+{\f2 \b1 \fs20 \cf1 \i0 
+{\*\bkmkstart co_pp_sp_708_2719_1}{\*\bkmkend co_pp_sp_708_2719_1}
+{\f2 \strike0 \ul0 \b1 \sa0 \sb0 \fs20 \cf1 \i0 
+**2719
+}
+}
+{\f2 \strike0 \ul0 \b0 \sa0 \sb0 \fs20 \cf1 \i0 
+ have long been used to display an array of commercial and political messages. But this particular form of communication has been significantly curtailed by state regulation adopted pursuant to the Highway Beautification Act of 1965, 
+}
+{\field {\*\fldinst HYPERLINK "http://www.westlaw.com/Link/Document/FullText?findType=L&pubNum=1000546&cite=23USCAS131&originatingDoc=I0a4487ea9bf011d991d0cc6b54f12d4d&refType=LQ&originationContext=document&vr=3.0&rs=cblt1.0&transitionType=DocumentItem&contextData=(sc.Search)" }{\fldrslt 
+{\f2 \strike0 \ul0 \b0 \sa0 \sb0 \fs20 \cf5 \i0 
+23 U.S.C. s 131
+}}}
+{\f2 \strike0 \ul0 \b0 \sa0 \sb0 \fs20 \cf1 \i0 
+, which conditions certain federal highway funds upon strict regulation of highway advertising. Ohio is among the States which have sought to protect the interests of their motorists
+}
+{\f2 \b0 \fs16 \cf1 \i0 
+{\*\bkmkstart co_footnoteReference_B00821974127232_ID0}{\*\bkmkend co_footnoteReference_B00821974127232_ID0}
+{\field {\*\fldinst HYPERLINK "#co_footnote_B00821974127232_1" }{\fldrslt 
+{\super \f2 \strike0 \ul0 \b0 \sa0 \sb0 \fs16 \cf5 \i0 
+2
+}}}
+}
+{\f2 \strike0 \ul0 \b0 \sa0 \sb0 \fs20 \cf1 \i0 
+ by enacting regulations pursuant to the Act. 
+}
+{\field {\*\fldinst HYPERLINK "http://www.westlaw.com/Link/Document/FullText?findType=L&pubNum=1000279&cite=OHSTS5516.01&originatingDoc=I0a4487ea9bf011d991d0cc6b54f12d4d&refType=LQ&originationContext=document&vr=3.0&rs=cblt1.0&transitionType=DocumentItem&contextData=(sc.Search)" }{\fldrslt 
+{\f2 \strike0 \ul0 \b0 \sa0 \sb0 \fs20 \cf5 \i0 
+Ohio Rev.Code Ann. s 5516.01 et seq. (Supp.1973)
+}}}
+{\f2 \strike0 \ul0 \b0 \sa0 \sb200 \fs20 \cf1 \i0 
+. The fact that land on which a billboard rests is municipal land does not curtail or enhance such regulatory schemes.
+\par 
+}
+}
+}
+{\li0 \f2 \qj \b0 \ri0 \fs20 \cf1 \i0 {
+{\trowd \lastrow \trleft0 
+\clbrdrt \clbrdrb \clbrdrl \trql \clvertalt \clwWidth600 \cellx600 
+\clpadb90 \clpadfb3 \clpadl90 \clpadfl3 \clbrdrt \clbrdrb \clbrdrr \trql \clwWidth9480 \cellx10080 
+\intbl 
+{\li0 \ri0 
+{\li0 \f2 \b0 \ql \ri0 \fs20 \cf1 \i0 
+{\f2 \b0 \fs20 \cf1 \i0 
+{\*\bkmkstart co_footnote_B00821974127232_1}{\*\bkmkend co_footnote_B00821974127232_1}
+{\field {\*\fldinst HYPERLINK "#co_footnoteReference_B00821974127232_ID0" }{\fldrslt 
+{\super \f2 \strike0 \ul0 \b0 \sa0 \sb0 \fs20 \cf5 \i0 
+2
+}\f2 \super \strike0 \ul0 \b0 \sa0 \sb0 \fs20 \cf5 \i0 }}
+\par 
+}
+}
+}\f2 \li0 \b0 \ql \fs20 \ri0 \cf1 \i0 \intbl \cell \intbl 
+{\li0 \ri0 
+{\li0 \f2 \qj \b0 \ri0 \fs18 \cf1 \i0 
+{\li0 \f2 \qj \b0 \ri0 \fs18 \cf1 \i0 
+{\li0 \f2 \qj \b0 \ri0 \fs18 \cf1 \i0 
+{\f2 \strike0 \ul0 \b0 \sa0 \sb0 \fs18 \cf1 \i0 
+In a survey of motorists in Ohio, 71% expressed the opinion that billboards should be banned from the interstate highway system. Hearings on S. 1467 before the Subcommittee on Roads of the Senate Committee on Public Works, 90th Cong., 1st Sess., 43\u8212\'3f44 (1967).
+\par 
+}
+}
+}
+}
+}\f2 \li0 \strike0 \ul0 \b0 \qj \sa0 \sb0 \fs18 \ri0 \cf1 \i0 \intbl \cell \row }}\par 
+}
+{\li0 \f2 \qj \b0 \ri0 \fs20 \cf1 \i0 
+{\li0 \f2 \qj \b0 \ri0 \fs20 \cf1 \i0 
+{\f2 \strike0 \ul0 \b0 \sa0 \sb0 \fs20 \cf1 \i0 
+If a bus is a forum it is more akin to a newspaper than to a park. Yet if a bus is treated as a newspaper, than, as we hold this date, 
+}
+{\field {\*\fldinst HYPERLINK "http://www.westlaw.com/Link/Document/FullText?findType=Y&serNum=1974127241&pubNum=708&originatingDoc=I0a4487ea9bf011d991d0cc6b54f12d4d&refType=RP&originationContext=document&vr=3.0&rs=cblt1.0&transitionType=DocumentItem&contextData=(sc.Search)" }{\fldrslt 
+{\f2 \strike0 \ul0 \b0 \sa0 \sb0 \fs20 \cf5 \i0 
+Miami Herald Publishing Co. v. Tornillo, 418 U.S. 241, 94 S.Ct. 2831, 41 L.Ed.2d 730,
+}}}
+{\f2 \strike0 \ul0 \b0 \sa0 \sb0 \fs20 \cf1 \i0 
+ the owner cannot be forced to include in his offerings news or other items which outsiders may desire but which the owner abhors. Newspaper cases are cited to support petitioner\rquote s claim. The First Amendment, however, draws no distinction between press privately owned, and press owned otherwise. And if we are to turn a bus or streetcar into either a newspaper or a park, we take great liberties with people 
+}
+{\f2 \b1 \fs20 \cf1 \i0 
+{\*\bkmkstart co_pp_sp_780_307_1}{\*\bkmkend co_pp_sp_780_307_1}
+{\f2 \strike0 \ul0 \b1 \sa0 \sb0 \fs20 \cf1 \i0 
+*307
+}
+}
+{\f2 \strike0 \ul0 \b0 \sa0 \sb200 \fs20 \cf1 \i0 
+ who because of necessity become commuters and at the same time captive viewers or listeners.
+\par 
+}
+}
+}
+{\li0 \f2 \qj \b0 \ri0 \fs20 \cf1 \i0 
+{\li0 \f2 \qj \b0 \ri0 \fs20 \cf1 \i0 
+{\f2 \strike0 \ul0 \b0 \sa0 \sb200 \fs20 \cf1 \i0 
+In asking us to force the system to accept his message as a vindication of his constitutional rights, the petitioner overlooks the constitutional rights of the commuters. While petitioner clearly has a right to express his views to those who wish to listen, he has no right to force his message upon an audience incapable of declining to receive it. In my view the right of the commuters to be free from forced intrusions on their privacy precludes the city from transforming its vehicles of public transportation into forums for the dissemination of ideas upon this captive audience.
+\par 
+}
+}
+}
+{\li0 \f2 \qj \b0 \ri0 \fs20 \cf1 \i0 
+{\li0 \f2 \qj \b0 \ri0 \fs20 \cf1 \i0 
+{\f2 \strike0 \ul0 \b0 \sa0 \sb0 \fs20 \cf1 \i0 
+Buses are not recreational vehicles used for Sunday chautauquas as a public park might be used on holidays for such a purpose; they are a practical necessity for millions in our urban centers. I have already stated this view in my dissent in 
+}
+{\field {\*\fldinst HYPERLINK "http://www.westlaw.com/Link/Document/FullText?findType=Y&serNum=1952118791&pubNum=708&originatingDoc=I0a4487ea9bf011d991d0cc6b54f12d4d&refType=RP&fi=co_pp_sp_708_824&originationContext=document&vr=3.0&rs=cblt1.0&transitionType=DocumentItem&contextData=(sc.Search)#co_pp_sp_708_824" }{\fldrslt 
+{\f2 \strike0 \ul0 \b0 \sa0 \sb0 \fs20 \cf5 \i0 
+Public Utilities Comm\rquote n v. Pollak, 343 U.S. 451, 469, 72 S.Ct. 813, 824, 96 L.Ed. 1068,
+}}}
+{\f2 \strike0 \ul0 \b0 \sa0 \sb200 \fs20 \cf1 \i0 
+ involving the challenge by some passengers to the practice of broadcasting radio programs over loudspeakers in buses and streetcars: \u8216\'3fOne who tunes in on an offensive program at home can turn it off or tune in another station, as he wishes. One who hears disquieting or unpleasant programs in public places, such as restaurants, can get up and leave. But the man on the streetcar has no choice but to sit and listen, or perhaps to sit and to try not to listen.\u8217\'3f There is no difference when the message is visual, not auricular. In each the viewer or listener is captive.
+\par 
+}
+}
+}
+{\li0 \f2 \qj \b0 \ri0 \fs20 \cf1 \i0 
+{\li0 \f2 \qj \b0 \ri0 \fs20 \cf1 \i0 
+{\f2 \strike0 \ul0 \b0 \sa0 \sb0 \fs20 \cf1 \i0 
+I agree with Mr. Justice Brandeis who, quoting from a Utah State Court decision,
+}
+{\f2 \b0 \fs16 \cf1 \i0 
+{\*\bkmkstart co_footnoteReference_B00931974127232_ID0}{\*\bkmkend co_footnoteReference_B00931974127232_ID0}
+{\field {\*\fldinst HYPERLINK "#co_footnote_B00931974127232_1" }{\fldrslt 
+{\super \f2 \strike0 \ul0 \b0 \sa0 \sb0 \fs16 \cf5 \i0 
+3
+}}}
+}
+{\f2 \strike0 \ul0 \b0 \sa0 \sb0 \fs20 \cf1 \i0 
+ said that the visual message in streetcars is no different, for \u8220\'3f(a)dvertisements of this sort are constantly before the eyes of observers 
+}
+{\f2 \b1 \fs20 \cf1 \i0 
+{\*\bkmkstart co_pp_sp_780_308_1}{\*\bkmkend co_pp_sp_780_308_1}
+{\f2 \strike0 \ul0 \b1 \sa0 \sb0 \fs20 \cf1 \i0 
+*308
+}
+}
+{\f2 \strike0 \ul0 \b0 \sa0 \sb0 \fs20 \cf1 \i0 
+ on the streets and in street cars to be seen without the exercise of choice or volition on their part. Other forms of advertising are ordinarily seen as a matter of choice on the part of the observer. . . . In the case of newspapers and magazines, there must be some seeking by the one who is to see and read the advertisement. The radio can be turned off, but not so the billboard or street car placard.\u8221\'3f 
+}
+{\field {\*\fldinst HYPERLINK "http://www.westlaw.com/Link/Document/FullText?findType=Y&serNum=1932123427&pubNum=708&originatingDoc=I0a4487ea9bf011d991d0cc6b54f12d4d&refType=RP&fi=co_pp_sp_708_274&originationContext=document&vr=3.0&rs=cblt1.0&transitionType=DocumentItem&contextData=(sc.Search)#co_pp_sp_708_274" }{\fldrslt 
+{\f2 \strike0 \ul0 \b0 \sa0 \sb0 \fs20 \cf5 \i0 
+Packer Corp. v. Utah, 285 U.S. 105, 110, 52 S.Ct. 273, 274, 76 L.Ed. 643
+}}}
+{\f2 \strike0 \ul0 \b0 \sa0 \sb200 \fs20 \cf1 \i0 
+.
+\par 
+}
+}
+}
+{\li0 \f2 \qj \b0 \ri0 \fs20 \cf1 \i0 {
+{\trowd \lastrow \trleft0 
+\clbrdrt \clbrdrb \clbrdrl \trql \clvertalt \clwWidth600 \cellx600 
+\clpadb90 \clpadfb3 \clpadl90 \clpadfl3 \clbrdrt \clbrdrb \clbrdrr \trql \clwWidth9480 \cellx10080 
+\intbl 
+{\li0 \ri0 
+{\li0 \f2 \b0 \ql \ri0 \fs20 \cf1 \i0 
+{\f2 \b0 \fs20 \cf1 \i0 
+{\*\bkmkstart co_footnote_B00931974127232_1}{\*\bkmkend co_footnote_B00931974127232_1}
+{\field {\*\fldinst HYPERLINK "#co_footnoteReference_B00931974127232_ID0" }{\fldrslt 
+{\super \f2 \strike0 \ul0 \b0 \sa0 \sb0 \fs20 \cf5 \i0 
+3
+}\f2 \super \strike0 \ul0 \b0 \sa0 \sb0 \fs20 \cf5 \i0 }}
+\par 
+}
+}
+}\f2 \li0 \b0 \ql \fs20 \ri0 \cf1 \i0 \intbl \cell \intbl 
+{\li0 \ri0 
+{\li0 \f2 \qj \b0 \ri0 \fs18 \cf1 \i0 
+{\li0 \f2 \qj \b0 \ri0 \fs18 \cf1 \i0 
+{\li0 \f2 \qj \b0 \ri0 \fs18 \cf1 \i0 
+{\field {\*\fldinst HYPERLINK "http://www.westlaw.com/Link/Document/FullText?findType=Y&serNum=1931103366&pubNum=660&originatingDoc=I0a4487ea9bf011d991d0cc6b54f12d4d&refType=RP&fi=co_pp_sp_660_1019&originationContext=document&vr=3.0&rs=cblt1.0&transitionType=DocumentItem&contextData=(sc.Search)#co_pp_sp_660_1019" }{\fldrslt 
+{\f2 \strike0 \ul0 \b0 \sa0 \sb0 \fs18 \cf5 \i0 
+77 Utah 500, 515, 297 P. 1013, 1019 (1931)
+}\f2 \strike0 \ul0 \b0 \sa0 \sb0 \fs18 \cf5 \i0 }}
+{\f2 \strike0 \ul0 \b0 \sa0 \sb0 \fs18 \cf1 \i0 
+.
+\par 
+}
+}
+}
+}
+}\f2 \li0 \strike0 \ul0 \b0 \qj \sa0 \sb0 \fs18 \ri0 \cf1 \i0 \intbl \cell \row }}\par 
+}
+{\li0 \f2 \qj \b0 \ri0 \fs20 \cf1 \i0 
+{\li0 \f2 \qj \b0 \ri0 \fs20 \cf1 \i0 
+{\f2 \strike0 \ul0 \b0 \sa0 \sb0 \fs20 \cf1 \i0 
+I do not view the content of the message as relevant either to petitioner\rquote s right to express it or to the commuters\rquote  
+}
+{\f2 \b1 \fs20 \cf1 \i0 
+{\*\bkmkstart co_pp_sp_708_2720_1}{\*\bkmkend co_pp_sp_708_2720_1}
+{\f2 \strike0 \ul0 \b1 \sa0 \sb0 \fs20 \cf1 \i0 
+**2720
+}
+}
+{\f2 \strike0 \ul0 \b0 \sa0 \sb200 \fs20 \cf1 \i0 
+ right to be free from it. Commercial advertisements may be as offensive and intrusive to captive audiences as any political message. But the validity of the commercial advertising program is not before us since we are not faced with one complaining of an invasion of privacy through forced exposure to commercial ads. Since I do not believe that petitioner has any constitutional right to spread his message before this captive audience, I concur in the Court\rquote s judgment.
+\par 
+}
+}
+}
+}
+}
+}
+}
+}
+{\li0 \f2 \qj \b0 \ri0 \fs20 \cf1 \i0 
+{\li0 \f2 \qj \b1 \ri0 \fs20 \cf20 \i0 
+{\*\bkmkstart co_dissent_opinion_1}{\*\bkmkend co_dissent_opinion_1}
+\par 
+}
+{\li0 \f2 \qj \b0 \ri0 \fs20 \cf1 \i0 
+{\li0 \f2 \qj \b0 \ri0 \fs20 \cf1 \i0 
+{\li0 \f2 \qj \b0 \ri0 \fs20 \cf1 \i0 
+{\li0 \f2 \qj \b0 \ri0 \fs20 \cf1 \i0 
+{\f2 \strike0 \ul0 \b0 \sa0 \sb200 \fs20 \cf1 \i0 
+Mr. Justice BRENNAN, with whom Mr. Justice STEWART, Mr. Justice MARSHALL, and Mr. Justice POWELL join, dissenting.
+\par 
+}
+}
+}
+{\li0 \f2 \qj \b0 \ri0 \fs20 \cf1 \i0 
+{\li0 \f2 \qj \b0 \ri0 \fs20 \cf1 \i0 
+{\*\bkmkstart co_anchor_I424620f20da311e498db8b09b4f04}{\*\bkmkend co_anchor_I424620f20da311e498db8b09b4f04}
+\par 
+{\li0 \f2 \qj \b0 \ri0 \fs20 \cf1 \i0 
+{\li0 \f2 \qj \b0 \ri0 \fs20 \cf1 \i0 
+{\f2 \strike0 \ul0 \b0 \sa0 \sb200 \fs20 \cf1 \i0 
+The city of Shaker Heights owns and operates the Shaker Heights Rapid Transit System, an interurban electric railroad line consisting of approximately 55 transit cars which transport passengers between Shaker Heights and Cleveland. Each of the cars contains 20 interior advertising spaces available for lease through the Metro Transit Division of Metromedia, Inc., the transit system\rquote s exclusive advertising agent. By agreement with the city, Metromedia accepts commercial and public service advertising, but will not accept \u8216\'3fpolitical advertising.\u8217\'3f
+\par 
+}
+}
+}
+{\li0 \f2 \qj \b0 \ri0 \fs20 \cf1 \i0 
+{\li0 \f2 \qj \b0 \ri0 \fs20 \cf1 \i0 
+{\f2 \strike0 \ul0 \b0 \sa0 \sb0 \fs20 \cf1 \i0 
+Prior to Ohio\rquote s 1970 general election, Harry J. Lehman, a candidate for the office of State Representative to the 
+}
+{\f2 \b1 \fs20 \cf1 \i0 
+{\*\bkmkstart co_pp_sp_780_309_1}{\*\bkmkend co_pp_sp_780_309_1}
+{\f2 \strike0 \ul0 \b1 \sa0 \sb0 \fs20 \cf1 \i0 
+*309
+}
+}
+{\f2 \strike0 \ul0 \b0 \sa0 \sb0 \fs20 \cf1 \i0 
+ Ohio General Assembly for the 56th District, attempted to lease advertising space on the Shaker Heights Rapid Transit System, because, as he later testified, \u8216\'3fthe vast majority of its six to eight thousand riders each day are residents of the district . . ..\u8217\'3f (App. 14A). Although advertising space was available and Lehman\rquote s proposed advertisement
+}
+{\f2 \b0 \fs16 \cf1 \i0 
+{\*\bkmkstart co_footnoteReference_B01011974127232_ID0}{\*\bkmkend co_footnoteReference_B01011974127232_ID0}
+{\field {\*\fldinst HYPERLINK "#co_footnote_B01011974127232_1" }{\fldrslt 
+{\super \f2 \strike0 \ul0 \b0 \sa0 \sb0 \fs16 \cf5 \i0 
+1
+}}}
+}
+{\f2 \strike0 \ul0 \b0 \sa0 \sb0 \fs20 \cf1 \i0 
+ met Metromedia\rquote s copy standards,
+}
+{\f2 \b0 \fs16 \cf1 \i0 
+{\*\bkmkstart co_footnoteReference_B01121974127232_ID0}{\*\bkmkend co_footnoteReference_B01121974127232_ID0}
+{\field {\*\fldinst HYPERLINK "#co_footnote_B01121974127232_1" }{\fldrslt 
+{\super \f2 \strike0 \ul0 \b0 \sa0 \sb0 \fs16 \cf5 \i0 
+2
+}}}
+}
+{\f2 \strike0 \ul0 \b0 \sa0 \sb0 \fs20 \cf1 \i0 
+ rental space was nevertheless denied Lehman on 
+}
+{\f2 \b1 \fs20 \cf1 \i0 
+{\*\bkmkstart co_pp_sp_780_310_1}{\*\bkmkend co_pp_sp_780_310_1}
+{\f2 \strike0 \ul0 \b1 \sa0 \sb0 \fs20 \cf1 \i0 
+*310
+}
+}
+{\f2 \strike0 \ul0 \b0 \sa0 \sb200 \fs20 \cf1 \i0 
+ the sole ground that Metromedia\rquote s contract with the city forbids acceptance of \u8216\'3fpolitical advertising.\u8217\'3f
+\par 
+}
+}
+}
+{\li0 \f2 \qj \b0 \ri0 \fs20 \cf1 \i0 {
+{\trowd \lastrow \trleft0 
+\clbrdrt \clbrdrb \clbrdrl \trql \clvertalt \clwWidth600 \cellx600 
+\clpadb90 \clpadfb3 \clpadl90 \clpadfl3 \clbrdrt \clbrdrb \clbrdrr \trql \clwWidth9480 \cellx10080 
+\intbl 
+{\li0 \ri0 
+{\li0 \f2 \b0 \ql \ri0 \fs20 \cf1 \i0 
+{\f2 \b0 \fs20 \cf1 \i0 
+{\*\bkmkstart co_footnote_B01011974127232_1}{\*\bkmkend co_footnote_B01011974127232_1}
+{\field {\*\fldinst HYPERLINK "#co_footnoteReference_B01011974127232_ID0" }{\fldrslt 
+{\super \f2 \strike0 \ul0 \b0 \sa0 \sb0 \fs20 \cf5 \i0 
+1
+}\f2 \super \strike0 \ul0 \b0 \sa0 \sb0 \fs20 \cf5 \i0 }}
+\par 
+}
+}
+}\f2 \li0 \b0 \ql \fs20 \ri0 \cf1 \i0 \intbl \cell \intbl 
+{\li0 \ri0 
+{\li0 \f2 \qj \b0 \ri0 \fs18 \cf1 \i0 
+{\li0 \f2 \qj \b0 \ri0 \fs18 \cf1 \i0 
+{\li0 \f2 \qj \b0 \ri0 \fs18 \cf1 \i0 
+{\f2 \strike0 \ul0 \b0 \sa0 \sb0 \fs18 \cf1 \i0 
+The text of the proposed advertisement read as follows:
+\par 
+}
+}
+{\li0 \f2 \qj \b0 \ri0 \fs18 \cf1 \i0 
+{\f2 \strike0 \ul0 \b0 \sa0 \sb0 \fs18 \cf1 \i0 
+\u8216\'3fHarry J. Lehman Is Old Fashioned!/About Honesty, Integrity And Good Government/State Representative\u8212\'3fDistrict 56.\u8217\'3f
+\par 
+}
+}
+}
+}
+}\f2 \li0 \strike0 \ul0 \b0 \qj \sa0 \sb0 \fs18 \ri0 \cf1 \i0 \intbl \cell \row }}\par 
+}
+{\li0 \f2 \qj \b0 \ri0 \fs20 \cf1 \i0 {
+{\trowd \lastrow \trleft0 
+\clbrdrt \clbrdrb \clbrdrl \trql \clvertalt \clwWidth600 \cellx600 
+\clpadb90 \clpadfb3 \clpadl90 \clpadfl3 \clbrdrt \clbrdrb \clbrdrr \trql \clwWidth9480 \cellx10080 
+\intbl 
+{\li0 \ri0 
+{\li0 \f2 \b0 \ql \ri0 \fs20 \cf1 \i0 
+{\f2 \b0 \fs20 \cf1 \i0 
+{\*\bkmkstart co_footnote_B01121974127232_1}{\*\bkmkend co_footnote_B01121974127232_1}
+{\field {\*\fldinst HYPERLINK "#co_footnoteReference_B01121974127232_ID0" }{\fldrslt 
+{\super \f2 \strike0 \ul0 \b0 \sa0 \sb0 \fs20 \cf5 \i0 
+2
+}\f2 \super \strike0 \ul0 \b0 \sa0 \sb0 \fs20 \cf5 \i0 }}
+\par 
+}
+}
+}\f2 \li0 \b0 \ql \fs20 \ri0 \cf1 \i0 \intbl \cell \intbl 
+{\li0 \ri0 
+{\li0 \f2 \qj \b0 \ri0 \fs18 \cf1 \i0 
+{\li0 \f2 \qj \b0 \ri0 \fs18 \cf1 \i0 
+{\li0 \f2 \qj \b0 \ri0 \fs18 \cf1 \i0 
+{\f2 \strike0 \ul0 \b0 \sa0 \sb0 \fs18 \cf1 \i0 
+The Metro Transit Advertising Copy Policy states:
+\par 
+}
+}
+{\li0 \f2 \qj \b0 \ri0 \fs18 \cf1 \i0 
+{\f2 \strike0 \ul0 \b0 \sa0 \sb0 \fs18 \cf1 \i0 
+\u8216\'3f(1) Metro Transit Advertising will not display advertising copy that is false, misleading, deceptive and/or offensive to the moral standards of the community, or contrary to good taste. Copy which might be contrary to the best interests of the transit systems, or which might result in public criticism of the advertising industry and/or transit advertising will not be acceptable.
+\par 
+}
+}
+{\li0 \f2 \qj \b0 \ri0 \fs18 \cf1 \i0 
+{\f2 \strike0 \ul0 \b0 \sa0 \sb0 \fs18 \cf1 \i0 
+\u8216\'3f(2) Metro Transit Advertising will not accept any political copy that pictorially, graphically or otherwise states or suggests that proponents or opponents of the persons or measures advertised are vulgar, greedy, immoral, monopolistic, illegal or unfair.
+\par 
+}
+}
+{\li0 \f2 \qj \b0 \ri0 \fs18 \cf1 \i0 
+{\f2 \strike0 \ul0 \b0 \sa0 \sb0 \fs18 \cf1 \i0 
+\u8216\'3f(3) All copy subject to approval. Rough sketches with proposed copy required on all political advertising.
+\par 
+}
+}
+{\li0 \f2 \qj \b0 \ri0 \fs18 \cf1 \i0 
+{\f2 \strike0 \ul0 \b0 \sa0 \sb0 \fs18 \cf1 \i0 
+\u8216\'3f(4) Metro Transit Advertising reserves the right at all times to decline both sides of any proposition and/or opposing candidates.
+\par 
+}
+}
+{\li0 \f2 \qj \b0 \ri0 \fs18 \cf1 \i0 
+{\f2 \strike0 \ul0 \b0 \sa0 \sb0 \fs18 \cf1 \i0 
+\u8216\'3f(5) Political advertising must carry, visible within the advertising are of the poster, the tag-line:
+\par 
+}
+}
+{\li0 \f2 \qj \b0 \ri0 \fs18 \cf1 \i0 
+{\f2 \strike0 \ul0 \b0 \sa0 \sb0 \fs18 \cf1 \i0 
+\u8220\'3fPaid Political Advertising Sponsored by . . .\rquote  in letters sized as follows:
+\par 
+}
+}
+{\li0 \f2 \qj \b0 \ri0 \fs18 \cf1 \i0 
+{\f2 \strike0 \ul0 \b0 \sa0 \sb0 \fs18 \cf1 \i0 
+\u8220\'3fExterior: 30\u8221\'3f x 144\u8221\'3f King size posters-1\u8221\'3f
+\par 
+}
+}
+{\li0 \f2 \qj \b0 \ri0 \fs18 \cf1 \i0 
+{\f2 \strike0 \ul0 \b0 \sa0 \sb0 \fs18 \cf1 \i0 
+21\u8221\'3f x 44\u8221\'3f Traveling displays\u8212\'3f1/2\u8221\'3f
+\par 
+}
+}
+{\li0 \f2 \qj \b0 \ri0 \fs18 \cf1 \i0 
+{\f2 \strike0 \ul0 \b0 \sa0 \sb0 \fs18 \cf1 \i0 
+21\u8221\'3f x 72\u8221\'3f Taillight spectacular\u8212\'3f1\u8221\'3f
+\par 
+}
+}
+{\li0 \f2 \qj \b0 \ri0 \fs18 \cf1 \i0 
+{\f2 \strike0 \ul0 \b0 \sa0 \sb0 \fs18 \cf1 \i0 
+\u8220\'3fInterior: 11\u8221\'3f x 28\u8221\'3f- 1/4\u8221\'3f 11\u8221\'3f x 56\u8221\'3f-1/4\u8221\'3f
+\par 
+}
+}
+{\li0 \f2 \qj \b0 \ri0 \fs18 \cf1 \i0 
+{\f2 \strike0 \ul0 \b0 \sa0 \sb0 \fs18 \cf1 \i0 
+\u8216\'3f(6) Contracts for political advertising space must be accompanied by check for entire amount of contract.
+\par 
+}
+}
+{\li0 \f2 \qj \b0 \ri0 \fs18 \cf1 \i0 
+{\f2 \strike0 \ul0 \b0 \sa0 \sb0 \fs18 \cf1 \i0 
+\u8216\'3f(7) Posters and/or cards must be delivered, prepaid, 10 days prior to posting date.
+\par 
+}
+}
+{\li0 \f2 \qj \b0 \ri0 \fs18 \cf1 \i0 
+{\f2 \strike0 \ul0 \b0 \sa0 \sb0 \fs18 \cf1 \i0 
+\u8216\'3f(8) Equal opportunity to purchase space will be offered and allotted for each opposing candidate, bond issue or referendum. If necessary, contracts for political advertising will be held until 30 days prior to the contract posting date, at which time Metro Transit Advertising will allocate the advertising space to each candidate, issue or referendum.
+\par 
+}
+}
+{\li0 \f2 \qj \b0 \ri0 \fs18 \cf1 \i0 
+{\f2 \strike0 \ul0 \b0 \sa0 \sb0 \fs18 \cf1 \i0 
+\u8216\'3f(9) Minimum order acceptable for either cards or posters is at the one-(month rate).
+\par 
+}
+}
+{\li0 \f2 \qj \b0 \ri0 \fs18 \cf1 \i0 
+{\f2 \strike0 \ul0 \b0 \sa0 \sb0 \fs18 \cf1 \i0 
+\u8216\'3f(10) Political advertising will not be accepted on following systems: Shaker Rapid\u8212\'3fMaple Heights\u8212\'3fNorth Olmsted\u8212\'3fEuclid, Ohio.\u8217\'3f (Emphasis added.)
+\par 
+}
+}
+}
+}
+}\f2 \li0 \strike0 \ul0 \b0 \qj \sa0 \sb0 \fs18 \ri0 \cf1 \i0 \intbl \cell \row }}\par 
+}
+{\li0 \f2 \qj \b0 \ri0 \fs20 \cf1 \i0 
+{\li0 \f2 \qj \b0 \ri0 \fs20 \cf1 \i0 
+{\f2 \strike0 \ul0 \b0 \sa0 \sb0 \fs20 \cf1 \i0 
+After an unsuccessful attempt to persuade the city to alter its ban against political advertisements, Lehman commenced 
+}
+{\f2 \b1 \fs20 \cf1 \i0 
+{\*\bkmkstart co_pp_sp_708_2721_1}{\*\bkmkend co_pp_sp_708_2721_1}
+{\f2 \strike0 \ul0 \b1 \sa0 \sb0 \fs20 \cf1 \i0 
+**2721
+}
+}
+{\f2 \strike0 \ul0 \b0 \sa0 \sb200 \fs20 \cf1 \i0 
+ this action in the Court of Common Pleas for Cuyahoga County, Ohio, seeking declaratory and injunctive relief on the ground that the city\rquote s policy of prohibiting political advertisements infringed his freedom of speech and denied him equal protection of the laws. Finding no constitutional infirmities, the trial court denied relief and was affirmed by both the Cuyahoga County Court of Appeals and the Supreme Court of Ohio.
+\par 
+}
+}
+}
+{\li0 \f2 \qj \b0 \ri0 \fs20 \cf1 \i0 
+{\li0 \f2 \qj \b0 \ri0 \fs20 \cf1 \i0 
+{\f2 \strike0 \ul0 \b0 \sa0 \sb200 \fs20 \cf1 \i0 
+I would reverse. In my view, the city created a forum for the dissemination of information and expression of ideas when it accepted and displayed commercial and public service advertisements on its rapid transit vehicles. Having opened a forum for communication, the city is barred by the First and Fourteenth Amendments from discriminating among forum users solely on the basis of message content.
+\par 
+}
+}
+}
+}
+{\li0 \f2 \qj \b0 \ri0 \fs20 \cf1 \i0 
+{\*\bkmkstart co_anchor_I424620f30da311e498db8b09b4f04}{\*\bkmkend co_anchor_I424620f30da311e498db8b09b4f04}
+\par 
+{\li0 \f2 \b1 \ri0 \fs20 \cf1 \qc \i0 
+{\f2 \b1 \fs20 \cf1 \i0 
+{\f2 \strike0 \ul0 \b1 \sa200 \sb400 \fs20 \cf1 \i0 
+I
+\par 
+}
+}
+}
+{\li0 \f2 \qj \b0 \ri0 \fs20 \cf1 \i0 
+{\li0 \f2 \qj \b0 \ri0 \fs20 \cf1 \i0 
+{\f2 \strike0 \ul0 \b0 \sa0 \sb0 \fs20 \cf1 \i0 
+The message Lehman sought to convey concerning his candidacy for public office was unquestionably protected by the First Amendment. That constitutional safeguard was fashioned to encourage and nurture \u8216\'3funinhibited, robust, and wide-open\u8217\'3f self-expression, particularly 
+}
+{\f2 \b1 \fs20 \cf1 \i0 
+{\*\bkmkstart co_pp_sp_780_311_1}{\*\bkmkend co_pp_sp_780_311_1}
+{\f2 \strike0 \ul0 \b1 \sa0 \sb0 \fs20 \cf1 \i0 
+*311
+}
+}
+{\f2 \strike0 \ul0 \b0 \sa0 \sb0 \fs20 \cf1 \i0 
+ in matters of governing importance. 
+}
+{\field {\*\fldinst HYPERLINK "http://www.westlaw.com/Link/Document/FullText?findType=Y&serNum=1964124777&pubNum=708&originatingDoc=I0a4487ea9bf011d991d0cc6b54f12d4d&refType=RP&fi=co_pp_sp_708_720&originationContext=document&vr=3.0&rs=cblt1.0&transitionType=DocumentItem&contextData=(sc.Search)#co_pp_sp_708_720" }{\fldrslt 
+{\f2 \strike0 \ul0 \b0 \sa0 \sb0 \fs20 \cf5 \i0 
+New York Times Co. v. Sullivan, 376 U.S. 254, 270, 84 S.Ct. 710, 720, 11 L.Ed.2d 686 (1964)
+}}}
+{\f2 \strike0 \ul0 \b0 \sa0 \sb0 \fs20 \cf1 \i0 
+. \u8216\'3fFor speech concerning public affairs is more than self-expression; it is the essence of self-government.\u8217\'3f 
+}
+{\field {\*\fldinst HYPERLINK "http://www.westlaw.com/Link/Document/FullText?findType=Y&serNum=1964124884&pubNum=708&originatingDoc=I0a4487ea9bf011d991d0cc6b54f12d4d&refType=RP&fi=co_pp_sp_708_216&originationContext=document&vr=3.0&rs=cblt1.0&transitionType=DocumentItem&contextData=(sc.Search)#co_pp_sp_708_216" }{\fldrslt 
+{\f2 \strike0 \ul0 \b0 \sa0 \sb0 \fs20 \cf5 \i0 
+Garrison v. Louisiana, 379 U.S. 64, 74\u8212\'3f75, 85 S.Ct. 209, 216, 13 L.Ed.2d 125 (1964)
+}}}
+{\f2 \strike0 \ul0 \b0 \sa0 \sb0 \fs20 \cf1 \i0 
+. \u8216\'3fThe maintenance of the opportunity for free political discussion to the end that government may be responsive to the will of the people and that changes may be obtained by lawful means, an opportunity essential to the security of the Republic, is a fundamental principle of our constitutional system.\u8217\'3f 
+}
+{\field {\*\fldinst HYPERLINK "http://www.westlaw.com/Link/Document/FullText?findType=Y&serNum=1931123958&pubNum=708&originatingDoc=I0a4487ea9bf011d991d0cc6b54f12d4d&refType=RP&fi=co_pp_sp_708_536&originationContext=document&vr=3.0&rs=cblt1.0&transitionType=DocumentItem&contextData=(sc.Search)#co_pp_sp_708_536" }{\fldrslt 
+{\f2 \strike0 \ul0 \b0 \sa0 \sb0 \fs20 \cf5 \i0 
+Stromberg v. California, 283 U.S. 359, 369, 51 S.Ct. 532, 536, 75 L.Ed. 1117 (1931)
+}}}
+{\f2 \strike0 \ul0 \b0 \sa0 \sb0 \fs20 \cf1 \i0 
+. The fact that the message is proposed as a paid advertisement does not diminish the impregnable shelter afforded by the First Amendment. See 
+}
+{\field {\*\fldinst HYPERLINK "http://www.westlaw.com/Link/Document/FullText?findType=Y&serNum=1964124777&pubNum=708&originatingDoc=I0a4487ea9bf011d991d0cc6b54f12d4d&refType=RP&fi=co_pp_sp_708_721&originationContext=document&vr=3.0&rs=cblt1.0&transitionType=DocumentItem&contextData=(sc.Search)#co_pp_sp_708_721" }{\fldrslt 
+{\f2 \strike0 \ul0 \b0 \sa0 \sb0 \fs20 \cf5 \i0 
+New York Times Co. v. Sullivan, supra, 376 U.S., at 271, 84 S.Ct. at 721
+}}}
+{\f2 \strike0 \ul0 \b0 \sa0 \sb200 \fs20 \cf1 \i0 
+.
+\par 
+}
+}
+}
+{\li0 \f2 \qj \b0 \ri0 \fs20 \cf1 \i0 
+{\li0 \f2 \qj \b0 \ri0 \fs20 \cf1 \i0 
+{\f2 \strike0 \ul0 \b0 \sa0 \sb0 \fs20 \cf1 \i0 
+Of course, not even the right of political self-expression is completely unfettered. As we stated in 
+}
+{\field {\*\fldinst HYPERLINK "http://www.westlaw.com/Link/Document/FullText?findType=Y&serNum=1965125006&pubNum=708&originatingDoc=I0a4487ea9bf011d991d0cc6b54f12d4d&refType=RP&fi=co_pp_sp_708_464&originationContext=document&vr=3.0&rs=cblt1.0&transitionType=DocumentItem&contextData=(sc.Search)#co_pp_sp_708_464" }{\fldrslt 
+{\f2 \strike0 \ul0 \b0 \sa0 \sb0 \fs20 \cf5 \i0 
+Cox v. Louisiana, 379 U.S. 536, 554, 85 S.Ct. 453, 464, 13 L.Ed.2d 471 (1965)
+}}}
+{\f2 \strike0 \ul0 \b0 \sa0 \sb200 \fs20 \cf1 \i0 
+:
+\par 
+}
+}
+{\li0 \f2 \qj \b0 \ri0 \fs20 \cf1 \i0 
+{\li0 \f2 \qj \b0 \ri0 \fs20 \cf1 \i0 
+{\li800 \f2 \qj \b0 \ri800 \fs20 \cf1 \i0 
+{\li800 \f2 \qj \b0 \ri800 \fs20 \cf1 \i0 
+{\f2 \strike0 \ul0 \b0 \sa50 \sb50 \fs20 \cf1 \i0 
+\u8216\'3fThe rights of free speech and assembly, while fundamental in our democratic society, still do not mean that everyone with opinions or beliefs to express may address a group at any public place and at any time. The constitutional guarantee of liberty implies the existence of an organized society maintaining public order, without which liberty itself would be lost in the excesses of anarchy.\u8217\'3f
+\par 
+}
+}
+}
+}
+}
+{\f2 \strike0 \ul0 \b0 \sa0 \sb0 \fs20 \cf1 \i0 
+\u160\'3f
+\par 
+}
+{\li0 \f2 \qj \b0 \ri0 \fs20 \cf1 \i0 
+{\f2 \strike0 \ul0 \b0 \sa0 \sb0 \fs20 \cf1 \i0 
+Accordingly, we have repeatedly recognized the constitutionality of reasonable \u8216\'3ftime, place and manner\u8217\'3f regulations which are applied in an evenhanded fashion. See, e.g., 
+}
+{\field {\*\fldinst HYPERLINK "http://www.westlaw.com/Link/Document/FullText?findType=Y&serNum=1972127174&pubNum=708&originatingDoc=I0a4487ea9bf011d991d0cc6b54f12d4d&refType=RP&fi=co_pp_sp_708_2291&originationContext=document&vr=3.0&rs=cblt1.0&transitionType=DocumentItem&contextData=(sc.Search)#co_pp_sp_708_2291" }{\fldrslt 
+{\f2 \strike0 \ul0 \b0 \sa0 \sb0 \fs20 \cf5 \i0 
+Police Department of Chicago v. Mosley, 408 U.S. 92, 98, 92 S.Ct. 2286, 2291, 33 L.Ed.2d 212 (1972)
+}}}
+\sb200 
+{\f2 \strike0 \ul0 \b0 \sa0 \sb0 \fs20 \cf1 \i0 
+; 
+}
+{\field {\*\fldinst HYPERLINK "http://www.westlaw.com/Link/Document/FullText?findType=Y&serNum=1972127175&pubNum=708&originatingDoc=I0a4487ea9bf011d991d0cc6b54f12d4d&refType=RP&fi=co_pp_sp_708_2302&originationContext=document&vr=3.0&rs=cblt1.0&transitionType=DocumentItem&contextData=(sc.Search)#co_pp_sp_708_2302" }{\fldrslt 
+{\f2 \strike0 \ul0 \b0 \sa0 \sb0 \fs20 \cf5 \i0 
+Grayned v. City of Rockford, 408 U.S. 104, 115, 92 S.Ct. 2294, 2302, 33 L.Ed.2d 222 (1972)
+}}}
+\sb200 
+{\f2 \strike0 \ul0 \b0 \sa0 \sb0 \fs20 \cf1 \i0 
+; 
+}
+{\field {\*\fldinst HYPERLINK "http://www.westlaw.com/Link/Document/FullText?findType=Y&serNum=1965125006&pubNum=708&originatingDoc=I0a4487ea9bf011d991d0cc6b54f12d4d&refType=RP&fi=co_pp_sp_708_464&originationContext=document&vr=3.0&rs=cblt1.0&transitionType=DocumentItem&contextData=(sc.Search)#co_pp_sp_708_464" }{\fldrslt 
+{\f2 \strike0 \ul0 \b0 \sa0 \sb0 \fs20 \cf5 \i0 
+Cox v. Louisiana, supra, 379 U.S., at 554\u8212\'3f555, 85 S.Ct. at 464\u8212\'3f465;
+}}}
+\sb200 
+{\f2 \strike0 \ul0 \b0 \sa0 \sb0 \fs20 \cf1 \i0 
+ 
+}
+{\field {\*\fldinst HYPERLINK "http://www.westlaw.com/Link/Document/FullText?findType=Y&serNum=1953119199&pubNum=708&originatingDoc=I0a4487ea9bf011d991d0cc6b54f12d4d&refType=RP&fi=co_pp_sp_708_762&originationContext=document&vr=3.0&rs=cblt1.0&transitionType=DocumentItem&contextData=(sc.Search)#co_pp_sp_708_762" }{\fldrslt 
+{\f2 \strike0 \ul0 \b0 \sa0 \sb0 \fs20 \cf5 \i0 
+Poulos v. New Hampshire, 345 U.S. 395, 398, 73 S.Ct. 760, 762, 97 L.Ed. 1105 (1953)
+}}}
+\sb200 
+{\f2 \strike0 \ul0 \b0 \sa0 \sb0 \fs20 \cf1 \i0 
+; 
+}
+{\field {\*\fldinst HYPERLINK "http://www.westlaw.com/Link/Document/FullText?findType=Y&serNum=1941124169&pubNum=708&originatingDoc=I0a4487ea9bf011d991d0cc6b54f12d4d&refType=RP&fi=co_pp_sp_708_765&originationContext=document&vr=3.0&rs=cblt1.0&transitionType=DocumentItem&contextData=(sc.Search)#co_pp_sp_708_765" }{\fldrslt 
+{\f2 \strike0 \ul0 \b0 \sa0 \sb0 \fs20 \cf5 \i0 
+Cox v. New Hampshire, 312 U.S. 569, 575\u8212\'3f576, 61 S.Ct. 762, 765\u8212\'3f766, 85 L.Ed. 1049 (1941)
+}}}
+\sb200 
+{\f2 \strike0 \ul0 \b0 \sa0 \sb0 \fs20 \cf1 \i0 
+; 
+}
+{\field {\*\fldinst HYPERLINK "http://www.westlaw.com/Link/Document/FullText?findType=Y&serNum=1939126946&pubNum=708&originatingDoc=I0a4487ea9bf011d991d0cc6b54f12d4d&refType=RP&fi=co_pp_sp_708_150&originationContext=document&vr=3.0&rs=cblt1.0&transitionType=DocumentItem&contextData=(sc.Search)#co_pp_sp_708_150" }{\fldrslt 
+{\f2 \strike0 \ul0 \b0 \sa0 \sb0 \fs20 \cf5 \i0 
+Schneider v. State of N.J., 308 U.S. 147, 160, 60 S.Ct. 146, 150, 84 L.Ed. 155 (1939)
+}}}
+\sb200 
+{\f2 \strike0 \ul0 \b0 \sa0 \sb200 \fs20 \cf1 \i0 
+.
+\par 
+}
+}
+}
+{\li0 \f2 \qj \b0 \ri0 \fs20 \cf1 \i0 
+{\li0 \f2 \qj \b0 \ri0 \fs20 \cf1 \i0 
+{\f2 \strike0 \ul0 \b0 \fs20 \cf1 \i0 
+}
+{\f2 \b1 \fs20 \cf1 \i0 
+{\*\bkmkstart co_pp_sp_780_312_1}{\*\bkmkend co_pp_sp_780_312_1}
+{\f2 \strike0 \ul0 \b1 \sa0 \sb0 \fs20 \cf1 \i0 
+*312
+}
+}
+{\f2 \strike0 \ul0 \b0 \sa0 \sb0 \fs20 \cf1 \i0 
+ Focusing upon the propriety of regulating \u8216\'3fplace,\u8217\'3f the city of Shaker Heights attempts to justify its ban against political advertising by arguing that the interior advertising space of a transit car is an inappropriate forum for political expression and debate. Brief for Respondents 7. To be sure, there are some public places which are so clearly committed to other purposes that their use as public forums for communication is anomalous. For example, \u8216\'3f(t) here may be some instances in which assemblies and petitions for redress of grievances are not consistent 
+}
+{\f2 \b1 \fs20 \cf1 \i0 
+{\*\bkmkstart co_pp_sp_708_2722_1}{\*\bkmkend co_pp_sp_708_2722_1}
+{\f2 \strike0 \ul0 \b1 \sa0 \sb0 \fs20 \cf1 \i0 
+**2722
+}
+}
+{\f2 \strike0 \ul0 \b0 \sa0 \sb0 \fs20 \cf1 \i0 
+ with other necessary purposes of public property. A noisy meeting may be out of keeping with the serenity of the statehouse or the quiet of the courthouse. No one . . . would suggest that the Senate gallery is the proper place for a vociferous protest rally. And in other cases it may be necessary to adjust the right to petition for redress of grievances to the other interests inhering in the uses to which the public property is normally pub.\u8217\'3f 
+}
+{\field {\*\fldinst HYPERLINK "http://www.westlaw.com/Link/Document/FullText?findType=Y&serNum=1966131604&pubNum=708&originatingDoc=I0a4487ea9bf011d991d0cc6b54f12d4d&refType=RP&fi=co_pp_sp_708_250&originationContext=document&vr=3.0&rs=cblt1.0&transitionType=DocumentItem&contextData=(sc.Search)#co_pp_sp_708_250" }{\fldrslt 
+{\f2 \strike0 \ul0 \b0 \sa0 \sb0 \fs20 \cf5 \i0 
+Adderley v. Florida, 385 U.S. 39, 54, 87 S.Ct. 242, 250, 17 L.Ed.2d 149 (1966)
+}}}
+{\f2 \strike0 \ul0 \b0 \sa0 \sb0 \fs20 \cf1 \i0 
+ (Douglas, J., dissenting). The determination of whether a particular type of public property or facility constitutes a \u8216\'3fpublic forum\u8217\'3f requires the Court to strike a balance between the competing interests of the government, on the one hand, and the speaker and his audience, on the other.
+}
+{\f2 \b0 \fs16 \cf1 \i0 
+{\*\bkmkstart co_footnoteReference_B01231974127232_ID0}{\*\bkmkend co_footnoteReference_B01231974127232_ID0}
+{\field {\*\fldinst HYPERLINK "#co_footnote_B01231974127232_1" }{\fldrslt 
+{\super \f2 \strike0 \ul0 \b0 \sa0 \sb0 \fs16 \cf5 \i0 
+3
+}}}
+}
+{\f2 \strike0 \ul0 \b0 \sa0 \sb200 \fs20 \cf1 \i0 
+ Thus, the Court must assess the importance of the primary use to which the public property or facility is committed and the extent to which that use will be disrupted if access for free expression is permitted.
+\par 
+}
+}
+}
+{\li0 \f2 \qj \b0 \ri0 \fs20 \cf1 \i0 {
+{\trowd \lastrow \trleft0 
+\clbrdrt \clbrdrb \clbrdrl \trql \clvertalt \clwWidth600 \cellx600 
+\clpadb90 \clpadfb3 \clpadl90 \clpadfl3 \clbrdrt \clbrdrb \clbrdrr \trql \clwWidth9480 \cellx10080 
+\intbl 
+{\li0 \ri0 
+{\li0 \f2 \b0 \ql \ri0 \fs20 \cf1 \i0 
+{\f2 \b0 \fs20 \cf1 \i0 
+{\*\bkmkstart co_footnote_B01231974127232_1}{\*\bkmkend co_footnote_B01231974127232_1}
+{\field {\*\fldinst HYPERLINK "#co_footnoteReference_B01231974127232_ID0" }{\fldrslt 
+{\super \f2 \strike0 \ul0 \b0 \sa0 \sb0 \fs20 \cf5 \i0 
+3
+}\f2 \super \strike0 \ul0 \b0 \sa0 \sb0 \fs20 \cf5 \i0 }}
+\par 
+}
+}
+}\f2 \li0 \b0 \ql \fs20 \ri0 \cf1 \i0 \intbl \cell \intbl 
+{\li0 \ri0 
+{\li0 \f2 \qj \b0 \ri0 \fs18 \cf1 \i0 
+{\li0 \f2 \qj \b0 \ri0 \fs18 \cf1 \i0 
+{\li0 \f2 \qj \b0 \ri0 \fs18 \cf1 \i0 
+{\f2 \strike0 \ul0 \b0 \sa0 \sb0 \fs18 \cf1 \i0 
+See generally Kalven, The Concept of the Public Forum: Cox v. Louisiana, 1965 Sup.Ct.Rev. 1; Gorlick, Right to a Forum, 71 Dick.L.Rev. 273 (1967); Horning, The First Amendment Right to a Public Forum, 1969 Duke L.J. 931.
+\par 
+}
+}
+}
+}
+}\f2 \li0 \strike0 \ul0 \b0 \qj \sa0 \sb0 \fs18 \ri0 \cf1 \i0 \intbl \cell \row }}\par 
+}
+{\li0 \f2 \qj \b0 \ri0 \fs20 \cf1 \i0 
+{\li0 \f2 \qj \b0 \ri0 \fs20 \cf1 \i0 
+{\f2 \strike0 \ul0 \b0 \sa0 \sb0 \fs20 \cf1 \i0 
+Applying these principles, the Court has long recognized the public\rquote s right of access to public streets and 
+}
+{\f2 \b1 \fs20 \cf1 \i0 
+{\*\bkmkstart co_pp_sp_780_313_1}{\*\bkmkend co_pp_sp_780_313_1}
+{\f2 \strike0 \ul0 \b1 \sa0 \sb0 \fs20 \cf1 \i0 
+*313
+}
+}
+{\f2 \strike0 \ul0 \b0 \sa0 \sb0 \fs20 \cf1 \i0 
+ parks for expressive activity. As Mr. Justice Roberts wrote in 
+}
+{\field {\*\fldinst HYPERLINK "http://www.westlaw.com/Link/Document/FullText?findType=Y&serNum=1939126865&pubNum=708&originatingDoc=I0a4487ea9bf011d991d0cc6b54f12d4d&refType=RP&fi=co_pp_sp_708_964&originationContext=document&vr=3.0&rs=cblt1.0&transitionType=DocumentItem&contextData=(sc.Search)#co_pp_sp_708_964" }{\fldrslt 
+{\f2 \strike0 \ul0 \b0 \sa0 \sb0 \fs20 \cf5 \i0 
+Hague v. CIO, 307 U.S. 496, 515\u8212\'3f516, 59 S.Ct. 954, 964, 83 L.Ed. 1423 (1939)
+}}}
+{\f2 \strike0 \ul0 \b0 \sa0 \sb200 \fs20 \cf1 \i0 
+:
+\par 
+}
+}
+{\li0 \f2 \qj \b0 \ri0 \fs20 \cf1 \i0 
+{\li0 \f2 \qj \b0 \ri0 \fs20 \cf1 \i0 
+{\li800 \f2 \qj \b0 \ri800 \fs20 \cf1 \i0 
+{\li800 \f2 \qj \b0 \ri800 \fs20 \cf1 \i0 
+{\f2 \strike0 \ul0 \b0 \sa50 \sb50 \fs20 \cf1 \i0 
+\u8216\'3fWherever the title of streets and parks may rest, they have immemorially been held in trust for the use of the public and, time out of mind, have been used for purposes of assembly, communicating thoughts between citizens, and discussing public questions. Such use of the streets and public places has, from ancient times, been a part of the privileges, immunities, rights, and liberties of citizens. The privilege of a citizen of the United States to use the streets and parks for communication of views on national questions may be regulated in the interest of all; it is not absolute, but relative, and must be exercised in subordination to the general comfort and convenience, and in consonance with peace and good order; but it must not, in the guise of regulation, be abridged or denied.\u8217\'3f
+\par 
+}
+}
+}
+}
+}
+{\f2 \strike0 \ul0 \b0 \sa0 \sb0 \fs20 \cf1 \i0 
+\u160\'3f
+\par 
+}
+{\li0 \f2 \qj \b0 \ri0 \fs20 \cf1 \i0 
+{\f2 \strike0 \ul0 \b0 \sa0 \sb0 \fs20 \cf1 \i0 
+See also 
+}
+{\field {\*\fldinst HYPERLINK "http://www.westlaw.com/Link/Document/FullText?findType=Y&serNum=1943117785&pubNum=708&originatingDoc=I0a4487ea9bf011d991d0cc6b54f12d4d&refType=RP&originationContext=document&vr=3.0&rs=cblt1.0&transitionType=DocumentItem&contextData=(sc.Search)" }{\fldrslt 
+{\f2 \strike0 \ul0 \b0 \sa0 \sb0 \fs20 \cf5 \i0 
+Jamison v. Texas, 318 U.S. 413, 63 S.Ct. 669, 87 L.Ed. 869 (1943)
+}}}
+{\f2 \strike0 \ul0 \b0 \sa0 \sb0 \fs20 \cf1 \i0 
+; Cox v. Louisiana, supra. More recently, the Court has added state capitol grounds to the list of public forums compatible with free speech, free assembly, and the freedom to petition for redress of grievances, 
+}
+{\field {\*\fldinst HYPERLINK "http://www.westlaw.com/Link/Document/FullText?findType=Y&serNum=1963101511&pubNum=708&originatingDoc=I0a4487ea9bf011d991d0cc6b54f12d4d&refType=RP&originationContext=document&vr=3.0&rs=cblt1.0&transitionType=DocumentItem&contextData=(sc.Search)" }{\fldrslt 
+{\f2 \strike0 \ul0 \b0 \sa0 \sb0 \fs20 \cf5 \i0 
+Edwards v. South Carolina, 372 U.S. 229, 83 S.Ct. 680, 9 L.Ed.2d 697 (1963)
+}}}
+{\f2 \strike0 \ul0 \b0 \sa0 \sb0 \fs20 \cf1 \i0 
+, but denied similar status to the curtilage of a jailhouse, on the ground that jails are built for security and thus need not be opened to the general public, 
+}
+{\field {\*\fldinst HYPERLINK "http://www.westlaw.com/Link/Document/FullText?findType=Y&serNum=1966131604&pubNum=708&originatingDoc=I0a4487ea9bf011d991d0cc6b54f12d4d&refType=RP&originationContext=document&vr=3.0&rs=cblt1.0&transitionType=DocumentItem&contextData=(sc.Search)" }{\fldrslt 
+{\f2 \strike0 \ul0 \b0 \sa0 \sb0 \fs20 \cf5 \i0 
+Adderley v. Florida, 385 U.S. 39, 87 S.Ct. 242, 17 L.Ed.2d 149 (1966)
+}}}
+{\f2 \strike0 \ul0 \b0 \sa0 \sb200 \fs20 \cf1 \i0 
+.
+}
+{\f2 \b0 \fs16 \cf1 \i0 
+{\*\bkmkstart co_footnoteReference_B01341974127232_ID0}{\*\bkmkend co_footnoteReference_B01341974127232_ID0}
+{\field {\*\fldinst HYPERLINK "#co_footnote_B01341974127232_1" }{\fldrslt 
+{\super \f2 \strike0 \ul0 \b0 \sa0 \sb0 \fs16 \cf5 \i0 
+4
+}}}
+\sb200 
+\par 
+}
+}
+}
+{\li0 \f2 \qj \b0 \ri0 \fs20 \cf1 \i0 {
+{\trowd \lastrow \trleft0 
+\clbrdrt \clbrdrb \clbrdrl \trql \clvertalt \clwWidth600 \cellx600 
+\clpadb90 \clpadfb3 \clpadl90 \clpadfl3 \clbrdrt \clbrdrb \clbrdrr \trql \clwWidth9480 \cellx10080 
+\intbl 
+{\li0 \ri0 
+{\li0 \f2 \b0 \ql \ri0 \fs20 \cf1 \i0 
+{\f2 \b0 \fs20 \cf1 \i0 
+{\*\bkmkstart co_footnote_B01341974127232_1}{\*\bkmkend co_footnote_B01341974127232_1}
+{\field {\*\fldinst HYPERLINK "#co_footnoteReference_B01341974127232_ID0" }{\fldrslt 
+{\super \f2 \strike0 \ul0 \b0 \sa0 \sb0 \fs20 \cf5 \i0 
+4
+}\f2 \super \strike0 \ul0 \b0 \sa0 \sb0 \fs20 \cf5 \i0 }}
+\par 
+}
+}
+}\f2 \li0 \b0 \ql \fs20 \ri0 \cf1 \i0 \intbl \cell \intbl 
+{\li0 \ri0 
+{\li0 \f2 \qj \b0 \ri0 \fs18 \cf1 \i0 
+{\li0 \f2 \qj \b0 \ri0 \fs18 \cf1 \i0 
+{\li0 \f2 \qj \b0 \ri0 \fs18 \cf1 \i0 
+{\f2 \strike0 \ul0 \b0 \sa0 \sb0 \fs18 \cf1 \i0 
+Public-forum status has also been extended to municipal bus terminals, see 
+}
+{\field {\*\fldinst HYPERLINK "http://www.westlaw.com/Link/Document/FullText?findType=Y&serNum=1968108155&pubNum=350&originatingDoc=I0a4487ea9bf011d991d0cc6b54f12d4d&refType=RP&originationContext=document&vr=3.0&rs=cblt1.0&transitionType=DocumentItem&contextData=(sc.Search)" }{\fldrslt 
+{\f2 \strike0 \ul0 \b0 \sa0 \sb0 \fs18 \cf5 \i0 
+Wolin v. Port of New York Authority, 392 F.2d 83 (CA2 1968)
+}\f2 \strike0 \ul0 \b0 \sa0 \sb0 \fs18 \cf5 \i0 }}
+{\f2 \strike0 \ul0 \b0 \sa0 \sb0 \fs18 \cf1 \i0 
+, and railroad stations, see 
+}
+{\field {\*\fldinst HYPERLINK "http://www.westlaw.com/Link/Document/FullText?findType=Y&serNum=1967129036&pubNum=661&originatingDoc=I0a4487ea9bf011d991d0cc6b54f12d4d&refType=RP&originationContext=document&vr=3.0&rs=cblt1.0&transitionType=DocumentItem&contextData=(sc.Search)" }{\fldrslt 
+{\f2 \strike0 \ul0 \b0 \sa0 \sb0 \fs18 \cf5 \i0 
+In re Hoffman, 67 Cal.2d 845, 64 Cal.Rptr. 97, 434 P.2d 353 (1967)
+}\f2 \strike0 \ul0 \b0 \sa0 \sb0 \fs18 \cf5 \i0 }}
+{\f2 \strike0 \ul0 \b0 \sa0 \sb0 \fs18 \cf1 \i0 
+.
+\par 
+}
+}
+}
+}
+}\f2 \li0 \strike0 \ul0 \b0 \qj \sa0 \sb0 \fs18 \ri0 \cf1 \i0 \intbl \cell \row }}\par 
+}
+{\li0 \f2 \qj \b0 \ri0 \fs20 \cf1 \i0 
+{\li0 \f2 \qj \b0 \ri0 \fs20 \cf1 \i0 
+{\f2 \strike0 \ul0 \b0 \sa0 \sb0 \fs20 \cf1 \i0 
+In the circumstances of this case, however, we need not decide whether public transit cars must be made 
+}
+{\f2 \b1 \fs20 \cf1 \i0 
+{\*\bkmkstart co_pp_sp_780_314_1}{\*\bkmkend co_pp_sp_780_314_1}
+{\f2 \strike0 \ul0 \b1 \sa0 \sb0 \fs20 \cf1 \i0 
+*314
+}
+}
+{\f2 \strike0 \ul0 \b0 \sa0 \sb200 \fs20 \cf1 \i0 
+ available as forums for the exercise of First Amendment rights. By accepting commercial and public service advertising, the city effectively waived any argument that advertising in its transit cars is incompatible with the rapid transit system\rquote s primary function of providing transportation. A forum for communication was voluntarily established when the city installed the physical facilities for the advertisements and, by contract with Metromedia, created the necessary administrative machinery for regulating access to that forum.
+}
+{\f2 \b0 \fs16 \cf1 \i0 
+{\*\bkmkstart co_footnoteReference_B01451974127232_ID0}{\*\bkmkend co_footnoteReference_B01451974127232_ID0}
+{\field {\*\fldinst HYPERLINK "#co_footnote_B01451974127232_1" }{\fldrslt 
+{\super \f2 \strike0 \ul0 \b0 \sa0 \sb0 \fs16 \cf5 \i0 
+5
+}}}
+\par 
+}
+}
+}
+{\li0 \f2 \qj \b0 \ri0 \fs20 \cf1 \i0 {
+{\trowd \lastrow \trleft0 
+\clbrdrt \clbrdrb \clbrdrl \trql \clvertalt \clwWidth600 \cellx600 
+\clpadb90 \clpadfb3 \clpadl90 \clpadfl3 \clbrdrt \clbrdrb \clbrdrr \trql \clwWidth9480 \cellx10080 
+\intbl 
+{\li0 \ri0 
+{\li0 \f2 \b0 \ql \ri0 \fs20 \cf1 \i0 
+{\f2 \b0 \fs20 \cf1 \i0 
+{\*\bkmkstart co_footnote_B01451974127232_1}{\*\bkmkend co_footnote_B01451974127232_1}
+{\field {\*\fldinst HYPERLINK "#co_footnoteReference_B01451974127232_ID0" }{\fldrslt 
+{\super \f2 \strike0 \ul0 \b0 \sa0 \sb0 \fs20 \cf5 \i0 
+5
+}\f2 \super \strike0 \ul0 \b0 \sa0 \sb0 \fs20 \cf5 \i0 }}
+\par 
+}
+}
+}\f2 \li0 \b0 \ql \fs20 \ri0 \cf1 \i0 \intbl \cell \intbl 
+{\li0 \ri0 
+{\li0 \f2 \qj \b0 \ri0 \fs18 \cf1 \i0 
+{\li0 \f2 \qj \b0 \ri0 \fs18 \cf1 \i0 
+{\li0 \f2 \qj \b0 \ri0 \fs18 \cf1 \i0 
+{\f2 \strike0 \ul0 \b0 \sa0 \sb0 \fs18 \cf1 \i0 
+My Brother DOUGLAS\rquote  analogy to billboard and newspaper advertising, ante, at 2719, is not apropos in the circumstances of this case where the advertising display space is city owned and operated.
+\par 
+}
+}
+}
+}
+}\f2 \li0 \strike0 \ul0 \b0 \qj \sa0 \sb0 \fs18 \ri0 \cf1 \i0 \intbl \cell \row }}\par 
+}
+{\li0 \f2 \qj \b0 \ri0 \fs20 \cf1 \i0 
+{\li0 \f2 \qj \b0 \ri0 \fs20 \cf1 \i0 
+{\f2 \strike0 \ul0 \b0 \fs20 \cf1 \i0 
+}
+{\f2 \b1 \fs20 \cf1 \i0 
+{\*\bkmkstart co_pp_sp_708_2723_1}{\*\bkmkend co_pp_sp_708_2723_1}
+{\f2 \strike0 \ul0 \b1 \sa0 \sb0 \fs20 \cf1 \i0 
+**2723
+}
+}
+{\f2 \strike0 \ul0 \b0 \sa0 \sb0 \fs20 \cf1 \i0 
+ The plurality opinion, however, contends that as long as the city limits its advertising space to \u8216\'3finnocuous and less controversial commercial and service oriented advertising,\u8217\'3f no First Amendment forum is created. Ante, at 2718. I find no merit in that position. Certainly, noncommercial public service advertisements convey messages of public concern and are clearly protected by the First Amendment. And while it is possible that commercial advertising may be accorded less First Amendment protection than speech concerning political and social issues of public importance, compare 
+}
+{\field {\*\fldinst HYPERLINK "http://www.westlaw.com/Link/Document/FullText?findType=Y&serNum=1942121646&pubNum=708&originatingDoc=I0a4487ea9bf011d991d0cc6b54f12d4d&refType=RP&originationContext=document&vr=3.0&rs=cblt1.0&transitionType=DocumentItem&contextData=(sc.Search)" }{\fldrslt 
+{\f2 \strike0 \ul0 \b0 \sa0 \sb0 \fs20 \cf5 \i0 
+Valentine v. Chrestensen, 316 U.S. 52, 62 S.Ct. 920, 86 L.Ed. 1262 (1942)
+}}}
+{\f2 \strike0 \ul0 \b0 \sa0 \sb0 \fs20 \cf1 \i0 
+, with 
+}
+{\field {\*\fldinst HYPERLINK "http://www.westlaw.com/Link/Document/FullText?findType=Y&serNum=1939126946&pubNum=708&originatingDoc=I0a4487ea9bf011d991d0cc6b54f12d4d&refType=RP&originationContext=document&vr=3.0&rs=cblt1.0&transitionType=DocumentItem&contextData=(sc.Search)" }{\fldrslt 
+{\f2 \strike0 \ul0 \b0 \sa0 \sb0 \fs20 \cf5 \i0 
+Schneider v. State of N.J., 308 U.S. 147, 60 S.Ct. 146, 84 L.Ed. 155 (1939)
+}}}
+{\f2 \strike0 \ul0 \b0 \sa0 \sb0 \fs20 \cf1 \i0 
+, and 
+}
+{\field {\*\fldinst HYPERLINK "http://www.westlaw.com/Link/Document/FullText?findType=Y&serNum=1951116441&pubNum=708&originatingDoc=I0a4487ea9bf011d991d0cc6b54f12d4d&refType=RP&originationContext=document&vr=3.0&rs=cblt1.0&transitionType=DocumentItem&contextData=(sc.Search)" }{\fldrslt 
+{\f2 \strike0 \ul0 \b0 \sa0 \sb0 \fs20 \cf5 \i0 
+Breard v. City of Alexandria, 341 U.S. 622, 71 S.Ct. 920, 95 L.Ed. 1233 (1951)
+}}}
+{\f2 \strike0 \ul0 \b0 \sa0 \sb0 \fs20 \cf1 \i0 
+, with 
+}
+{\field {\*\fldinst HYPERLINK "http://www.westlaw.com/Link/Document/FullText?findType=Y&serNum=1943120620&pubNum=708&originatingDoc=I0a4487ea9bf011d991d0cc6b54f12d4d&refType=RP&originationContext=document&vr=3.0&rs=cblt1.0&transitionType=DocumentItem&contextData=(sc.Search)" }{\fldrslt 
+{\f2 \strike0 \ul0 \b0 \sa0 \sb0 \fs20 \cf5 \i0 
+Martin v. City of Struthers, 319 U.S. 141, 63 S.Ct. 862, 87 L.Ed. 1313 (1943)
+}}}
+{\f2 \strike0 \ul0 \b0 \sa0 \sb0 \fs20 \cf1 \i0 
+, it is \u8216\'3fspeech\u8217\'3f nonetheless, often communicating information and ideas found by many persons to be controversial.
+}
+{\f2 \b0 \fs16 \cf1 \i0 
+{\*\bkmkstart co_footnoteReference_B01561974127232_ID0}{\*\bkmkend co_footnoteReference_B01561974127232_ID0}
+{\field {\*\fldinst HYPERLINK "#co_footnote_B01561974127232_1" }{\fldrslt 
+{\super \f2 \strike0 \ul0 \b0 \sa0 \sb0 \fs16 \cf5 \i0 
+6
+}}}
+}
+{\f2 \strike0 \ul0 \b0 \sa0 \sb0 \fs20 \cf1 \i0 
+ There can be no question 
+}
+{\f2 \b1 \fs20 \cf1 \i0 
+{\*\bkmkstart co_pp_sp_780_315_1}{\*\bkmkend co_pp_sp_780_315_1}
+{\f2 \strike0 \ul0 \b1 \sa0 \sb0 \fs20 \cf1 \i0 
+*315
+}
+}
+{\f2 \strike0 \ul0 \b0 \sa0 \sb200 \fs20 \cf1 \i0 
+ that commercial advertisements, when skillfully employed, are powerful vehicles for the exaltation of commercial values. Once such messages have been accepted and displayed, the existence of a forum for communication cannot be gainsaid. To hold otherwise, and thus sanction the city\rquote s preference for bland commercialism and noncontroversial public service messages over \u8216\'3funinhibited, robust, and wide-open\u8217\'3f debate on public issues, would reverse the traditional priorities of the First Amendment.
+}
+{\f2 \b0 \fs16 \cf1 \i0 
+{\*\bkmkstart co_footnoteReference_B01671974127232_ID0}{\*\bkmkend co_footnoteReference_B01671974127232_ID0}
+{\field {\*\fldinst HYPERLINK "#co_footnote_B01671974127232_1" }{\fldrslt 
+{\super \f2 \strike0 \ul0 \b0 \sa0 \sb0 \fs16 \cf5 \i0 
+7
+}}}
+\par 
+}
+}
+}
+{\li0 \f2 \qj \b0 \ri0 \fs20 \cf1 \i0 {
+{\trowd \lastrow \trleft0 
+\clbrdrt \clbrdrb \clbrdrl \trql \clvertalt \clwWidth600 \cellx600 
+\clpadb90 \clpadfb3 \clpadl90 \clpadfl3 \clbrdrt \clbrdrb \clbrdrr \trql \clwWidth9480 \cellx10080 
+\intbl 
+{\li0 \ri0 
+{\li0 \f2 \b0 \ql \ri0 \fs20 \cf1 \i0 
+{\f2 \b0 \fs20 \cf1 \i0 
+{\*\bkmkstart co_footnote_B01561974127232_1}{\*\bkmkend co_footnote_B01561974127232_1}
+{\field {\*\fldinst HYPERLINK "#co_footnoteReference_B01561974127232_ID0" }{\fldrslt 
+{\super \f2 \strike0 \ul0 \b0 \sa0 \sb0 \fs20 \cf5 \i0 
+6
+}\f2 \super \strike0 \ul0 \b0 \sa0 \sb0 \fs20 \cf5 \i0 }}
+\par 
+}
+}
+}\f2 \li0 \b0 \ql \fs20 \ri0 \cf1 \i0 \intbl \cell \intbl 
+{\li0 \ri0 
+{\li0 \f2 \qj \b0 \ri0 \fs18 \cf1 \i0 
+{\li0 \f2 \qj \b0 \ri0 \fs18 \cf1 \i0 
+{\li0 \f2 \qj \b0 \ri0 \fs18 \cf1 \i0 
+{\f2 \strike0 \ul0 \b0 \sa0 \sb0 \fs18 \cf1 \i0 
+There is some doubt concerning whether the \u8216\'3fcommercial speech\u8217\'3f distinction announced in 
+}
+{\field {\*\fldinst HYPERLINK "http://www.westlaw.com/Link/Document/FullText?findType=Y&serNum=1942121646&pubNum=708&originatingDoc=I0a4487ea9bf011d991d0cc6b54f12d4d&refType=RP&originationContext=document&vr=3.0&rs=cblt1.0&transitionType=DocumentItem&contextData=(sc.Search)" }{\fldrslt 
+{\f2 \strike0 \ul0 \b0 \sa0 \sb0 \fs18 \cf5 \i0 
+Valentine v. Chrestensen, 316 U.S. 52, 62 S.Ct. 920, 86 L.Ed. 1262 (1942)
+}\f2 \strike0 \ul0 \b0 \sa0 \sb0 \fs18 \cf5 \i0 }}
+{\f2 \strike0 \ul0 \b0 \sa0 \sb0 \fs18 \cf1 \i0 
+, retains continuing validity. Mr. Justice Douglas has remarked: \u8216\'3fThe ruling was casual, almost offhand. And it has not survived reflection.\u8217\'3f 
+}
+{\field {\*\fldinst HYPERLINK "http://www.westlaw.com/Link/Document/FullText?findType=Y&serNum=1959123728&pubNum=708&originatingDoc=I0a4487ea9bf011d991d0cc6b54f12d4d&refType=RP&fi=co_pp_sp_708_534&originationContext=document&vr=3.0&rs=cblt1.0&transitionType=DocumentItem&contextData=(sc.Search)#co_pp_sp_708_534" }{\fldrslt 
+{\f2 \strike0 \ul0 \b0 \sa0 \sb0 \fs18 \cf5 \i0 
+Cammarano v. United States, 358 U.S. 498, 514, 79 S.Ct. 524, 534, 3 L.Ed.2d 462 (1959)
+}\f2 \strike0 \ul0 \b0 \sa0 \sb0 \fs18 \cf5 \i0 }}
+{\f2 \strike0 \ul0 \b0 \sa0 \sb0 \fs18 \cf1 \i0 
+ (concurring opinion). See also 
+}
+{\field {\*\fldinst HYPERLINK "http://www.westlaw.com/Link/Document/FullText?findType=Y&serNum=1973126436&pubNum=708&originatingDoc=I0a4487ea9bf011d991d0cc6b54f12d4d&refType=RP&fi=co_pp_sp_708_2562&originationContext=document&vr=3.0&rs=cblt1.0&transitionType=DocumentItem&contextData=(sc.Search)#co_pp_sp_708_2562" }{\fldrslt 
+{\f2 \strike0 \ul0 \b0 \sa0 \sb0 \fs18 \cf5 \i0 
+Pittsburgh Press Co. v. Pittsburgh Commission on Human Relations, 413 U.S. 376, 393, 93 S.Ct. 2553, 2562, 37 L.Ed.2d 669 (1973)
+}\f2 \strike0 \ul0 \b0 \sa0 \sb0 \fs18 \cf5 \i0 }}
+{\f2 \strike0 \ul0 \b0 \sa0 \sb0 \fs18 \cf1 \i0 
+ (Burger, C.J., dissenting); 
+}
+{\field {\*\fldinst HYPERLINK "http://www.westlaw.com/Link/Document/FullText?findType=Y&serNum=1973126436&pubNum=708&originatingDoc=I0a4487ea9bf011d991d0cc6b54f12d4d&refType=RP&fi=co_pp_sp_708_2565&originationContext=document&vr=3.0&rs=cblt1.0&transitionType=DocumentItem&contextData=(sc.Search)#co_pp_sp_708_2565" }{\fldrslt 
+{\f2 \strike0 \ul0 \b0 \sa0 \sb0 \fs18 \cf5 \i0 
+id., at 401, 93 S.Ct. at 2565
+}\f2 \strike0 \ul0 \b0 \sa0 \sb0 \fs18 \cf5 \i0 }}
+{\f2 \strike0 \ul0 \b0 \sa0 \sb0 \fs18 \cf1 \i0 
+ (Douglas, J., dissenting); 
+}
+{\field {\*\fldinst HYPERLINK "http://www.westlaw.com/Link/Document/FullText?findType=Y&serNum=1973126436&pubNum=708&originatingDoc=I0a4487ea9bf011d991d0cc6b54f12d4d&refType=RP&fi=co_pp_sp_708_2566&originationContext=document&vr=3.0&rs=cblt1.0&transitionType=DocumentItem&contextData=(sc.Search)#co_pp_sp_708_2566" }{\fldrslt 
+{\f2 \strike0 \ul0 \b0 \sa0 \sb0 \fs18 \cf5 \i0 
+id., at 401, 93 S.Ct. at 2566
+}\f2 \strike0 \ul0 \b0 \sa0 \sb0 \fs18 \cf5 \i0 }}
+{\f2 \strike0 \ul0 \b0 \sa0 \sb0 \fs18 \cf1 \i0 
+ (Stewart, J., dissenting). That question, however, need not be decided in this case. It is sufficient for the purpose of public forum analysis merely to recognize that commercial speech enjoys at least some degree of protection under the First Amendment, without reaching the more difficult question concerning the amount of protection afforded.
+\par 
+}
+}
+}
+}
+}\f2 \li0 \strike0 \ul0 \b0 \qj \sa0 \sb0 \fs18 \ri0 \cf1 \i0 \intbl \cell \row }}\par 
+}
+{\li0 \f2 \qj \b0 \ri0 \fs20 \cf1 \i0 {
+{\trowd \lastrow \trleft0 
+\clbrdrt \clbrdrb \clbrdrl \trql \clvertalt \clwWidth600 \cellx600 
+\clpadb90 \clpadfb3 \clpadl90 \clpadfl3 \clbrdrt \clbrdrb \clbrdrr \trql \clwWidth9480 \cellx10080 
+\intbl 
+{\li0 \ri0 
+{\li0 \f2 \b0 \ql \ri0 \fs20 \cf1 \i0 
+{\f2 \b0 \fs20 \cf1 \i0 
+{\*\bkmkstart co_footnote_B01671974127232_1}{\*\bkmkend co_footnote_B01671974127232_1}
+{\field {\*\fldinst HYPERLINK "#co_footnoteReference_B01671974127232_ID0" }{\fldrslt 
+{\super \f2 \strike0 \ul0 \b0 \sa0 \sb0 \fs20 \cf5 \i0 
+7
+}\f2 \super \strike0 \ul0 \b0 \sa0 \sb0 \fs20 \cf5 \i0 }}
+\par 
+}
+}
+}\f2 \li0 \b0 \ql \fs20 \ri0 \cf1 \i0 \intbl \cell \intbl 
+{\li0 \ri0 
+{\li0 \f2 \qj \b0 \ri0 \fs18 \cf1 \i0 
+{\li0 \f2 \qj \b0 \ri0 \fs18 \cf1 \i0 
+{\li0 \f2 \qj \b0 \ri0 \fs18 \cf1 \i0 
+{\f2 \strike0 \ul0 \b0 \sa0 \sb0 \fs18 \cf1 \i0 
+Other courts have reached the same conclusion on nearly identical facts. See 
+}
+{\field {\*\fldinst HYPERLINK "http://www.westlaw.com/Link/Document/FullText?findType=Y&serNum=1967103345&pubNum=345&originatingDoc=I0a4487ea9bf011d991d0cc6b54f12d4d&refType=RP&originationContext=document&vr=3.0&rs=cblt1.0&transitionType=DocumentItem&contextData=(sc.Search)" }{\fldrslt 
+{\f2 \strike0 \ul0 \b0 \sa0 \sb0 \fs18 \cf5 \i0 
+Kissinger v. New York City Transit Authority, 274 F.Supp. 438 (S.D.N.Y.1967)
+}\f2 \strike0 \ul0 \b0 \sa0 \sb0 \fs18 \cf5 \i0 }}
+{\f2 \strike0 \ul0 \b0 \sa0 \sb0 \fs18 \cf1 \i0 
+; 
+}
+{\field {\*\fldinst HYPERLINK "http://www.westlaw.com/Link/Document/FullText?findType=Y&serNum=1969130755&pubNum=661&originatingDoc=I0a4487ea9bf011d991d0cc6b54f12d4d&refType=RP&originationContext=document&vr=3.0&rs=cblt1.0&transitionType=DocumentItem&contextData=(sc.Search)" }{\fldrslt 
+{\f2 \strike0 \ul0 \b0 \sa0 \sb0 \fs18 \cf5 \i0 
+Hillside Community Church, Inc. v. City of Tacoma, 76 Wash.2d 63, 455 P.2d 350 (1969)
+}\f2 \strike0 \ul0 \b0 \sa0 \sb0 \fs18 \cf5 \i0 }}
+{\f2 \strike0 \ul0 \b0 \sa0 \sb0 \fs18 \cf1 \i0 
+; 
+}
+{\field {\*\fldinst HYPERLINK "http://www.westlaw.com/Link/Document/FullText?findType=Y&serNum=1968127841&pubNum=661&originatingDoc=I0a4487ea9bf011d991d0cc6b54f12d4d&refType=RP&originationContext=document&vr=3.0&rs=cblt1.0&transitionType=DocumentItem&contextData=(sc.Search)" }{\fldrslt 
+{\f2 \strike0 \ul0 \b0 \sa0 \sb0 \fs18 \cf5 \i0 
+Wirta v. Alameda-Contra Costa Transit District, 68 Cal.2d 51, 64 Cal.Rptr. 430, 434 P.2d 982 (1967)
+}\f2 \strike0 \ul0 \b0 \sa0 \sb0 \fs18 \cf5 \i0 }}
+{\f2 \strike0 \ul0 \b0 \sa0 \sb0 \fs18 \cf1 \i0 
+.
+\par 
+}
+}
+}
+}
+}\f2 \li0 \strike0 \ul0 \b0 \qj \sa0 \sb0 \fs18 \ri0 \cf1 \i0 \intbl \cell \row }}\par 
+}
+}
+{\li0 \f2 \qj \b0 \ri0 \fs20 \cf1 \i0 
+{\*\bkmkstart co_anchor_I424620f40da311e498db8b09b4f04}{\*\bkmkend co_anchor_I424620f40da311e498db8b09b4f04}
+\par 
+{\li0 \f2 \b1 \ri0 \fs20 \cf1 \qc \i0 
+{\f2 \b1 \fs20 \cf1 \i0 
+{\f2 \strike0 \ul0 \b1 \sa200 \sb400 \fs20 \cf1 \i0 
+II
+\par 
+}
+}
+}
+{\li0 \f2 \qj \b0 \ri0 \fs20 \cf1 \i0 
+{\li0 \f2 \qj \b0 \ri0 \fs20 \cf1 \i0 
+{\f2 \strike0 \ul0 \b0 \sa0 \sb0 \fs20 \cf1 \i0 
+Once a public forum for communication has been established, both free speech and equal protection principles prohibit discrimination based solely upon subject matter or content.
+}
+{\f2 \b0 \fs16 \cf1 \i0 
+{\*\bkmkstart co_footnoteReference_B01781974127232_ID0}{\*\bkmkend co_footnoteReference_B01781974127232_ID0}
+{\field {\*\fldinst HYPERLINK "#co_footnote_B01781974127232_1" }{\fldrslt 
+{\super \f2 \strike0 \ul0 \b0 \sa0 \sb0 \fs16 \cf5 \i0 
+8
+}}}
+}
+{\f2 \strike0 \ul0 \b0 \sa0 \sb0 \fs20 \cf1 \i0 
+ See, e.g., 
+}
+{\f2 \b1 \fs20 \cf1 \i0 
+{\*\bkmkstart co_pp_sp_780_316_1}{\*\bkmkend co_pp_sp_780_316_1}
+{\f2 \strike0 \ul0 \b1 \sa0 \sb0 \fs20 \cf1 \i0 
+*316
+}
+}
+{\f2 \strike0 \ul0 \b0 \sa0 \sb0 \fs20 \cf1 \i0 
+ 
+}
+{\field {\*\fldinst HYPERLINK "http://www.westlaw.com/Link/Document/FullText?findType=Y&serNum=1972127174&pubNum=708&originatingDoc=I0a4487ea9bf011d991d0cc6b54f12d4d&refType=RP&fi=co_pp_sp_708_2289&originationContext=document&vr=3.0&rs=cblt1.0&transitionType=DocumentItem&contextData=(sc.Search)#co_pp_sp_708_2289" }{\fldrslt 
+{\f2 \strike0 \ul0 \b0 \sa0 \sb0 \fs20 \cf5 \i0 
+Police Department of Chicago v. Mosley, 408 U.S., at 95\u8212\'3f96, 92 S.Ct., at 2289\u8212\'3f2290;
+}}}
+{\f2 \strike0 \ul0 \b0 \sa0 \sb0 \fs20 \cf1 \i0 
+ 
+}
+{\field {\*\fldinst HYPERLINK "http://www.westlaw.com/Link/Document/FullText?findType=Y&serNum=1965125007&pubNum=708&originatingDoc=I0a4487ea9bf011d991d0cc6b54f12d4d&refType=RP&originationContext=document&vr=3.0&rs=cblt1.0&transitionType=DocumentItem&contextData=(sc.Search)" }{\fldrslt 
+{\f2 \strike0 \ul0 \b0 \sa0 \sb0 \fs20 \cf5 \i0 
+Cox v. Louisiana, 379 U.S. 559, 581, 85 S.Ct. 476, 470,
+}}}
+{\f2 \strike0 \ul0 \b0 \sa0 \sb0 \fs20 \cf1 \i0 
+ 
+}
+{\field {\*\fldinst HYPERLINK "http://www.westlaw.com/Link/Document/FullText?findType=Y&serNum=1965125007&pubNum=471&originatingDoc=I0a4487ea9bf011d991d0cc6b54f12d4d&refType=RP&originationContext=document&vr=3.0&rs=cblt1.0&transitionType=DocumentItem&contextData=(sc.Search)" }{\fldrslt 
+{\f2 \strike0 \ul0 \b0 \sa0 \sb0 \fs20 \cf5 \i0 
+13 L.Ed.2d 487 (1965)
+}}}
+{\f2 \strike0 \ul0 \b0 \sa0 \sb0 \fs20 \cf1 \i0 
+ (Black, J., concurring and dissenting); 
+}
+{\field {\*\fldinst HYPERLINK "http://www.westlaw.com/Link/Document/FullText?findType=Y&serNum=1953117536&pubNum=708&originatingDoc=I0a4487ea9bf011d991d0cc6b54f12d4d&refType=RP&originationContext=document&vr=3.0&rs=cblt1.0&transitionType=DocumentItem&contextData=(sc.Search)" }{\fldrslt 
+{\f2 \strike0 \ul0 \b0 \sa0 \sb0 \fs20 \cf5 \i0 
+Fowler v. Rhode Island, 345 U.S. 67, 73 S.Ct. 526, 97 L.Ed. 828 (1953)
+}}}
+{\f2 \strike0 \ul0 \b0 \sa0 \sb0 \fs20 \cf1 \i0 
+; 
+}
+{\field {\*\fldinst HYPERLINK "http://www.westlaw.com/Link/Document/FullText?findType=Y&serNum=1951118714&pubNum=708&originatingDoc=I0a4487ea9bf011d991d0cc6b54f12d4d&refType=RP&fi=co_pp_sp_708_327&originationContext=document&vr=3.0&rs=cblt1.0&transitionType=DocumentItem&contextData=(sc.Search)#co_pp_sp_708_327" }{\fldrslt 
+{\f2 \strike0 \ul0 \b0 \sa0 \sb0 \fs20 \cf5 \i0 
+Niemotko v. Maryland, 340 U.S. 268, 272\u8212\'3f273, 71 S.Ct. 325, 327\u8212\'3f328, 95 L.Ed. 267, 280 (1951)
+}}}
+{\f2 \strike0 \ul0 \b0 \sa0 \sb200 \fs20 \cf1 \i0 
+.
+\par 
+}
+}
+}
+{\li0 \f2 \qj \b0 \ri0 \fs20 \cf1 \i0 {
+{\trowd \lastrow \trleft0 
+\clbrdrt \clbrdrb \clbrdrl \trql \clvertalt \clwWidth600 \cellx600 
+\clpadb90 \clpadfb3 \clpadl90 \clpadfl3 \clbrdrt \clbrdrb \clbrdrr \trql \clwWidth9480 \cellx10080 
+\intbl 
+{\li0 \ri0 
+{\li0 \f2 \b0 \ql \ri0 \fs20 \cf1 \i0 
+{\f2 \b0 \fs20 \cf1 \i0 
+{\*\bkmkstart co_footnote_B01781974127232_1}{\*\bkmkend co_footnote_B01781974127232_1}
+{\field {\*\fldinst HYPERLINK "#co_footnoteReference_B01781974127232_ID0" }{\fldrslt 
+{\super \f2 \strike0 \ul0 \b0 \sa0 \sb0 \fs20 \cf5 \i0 
+8
+}\f2 \super \strike0 \ul0 \b0 \sa0 \sb0 \fs20 \cf5 \i0 }}
+\par 
+}
+}
+}\f2 \li0 \b0 \ql \fs20 \ri0 \cf1 \i0 \intbl \cell \intbl 
+{\li0 \ri0 
+{\li0 \f2 \qj \b0 \ri0 \fs18 \cf1 \i0 
+{\li0 \f2 \qj \b0 \ri0 \fs18 \cf1 \i0 
+{\li0 \f2 \qj \b0 \ri0 \fs18 \cf1 \i0 
+{\f2 \strike0 \ul0 \b0 \sa0 \sb0 \fs18 \cf1 \i0 
+The plurality opinion\rquote s reliance upon 
+}
+{\field {\*\fldinst HYPERLINK "http://www.westlaw.com/Link/Document/FullText?findType=Y&serNum=1932123427&pubNum=708&originatingDoc=I0a4487ea9bf011d991d0cc6b54f12d4d&refType=RP&originationContext=document&vr=3.0&rs=cblt1.0&transitionType=DocumentItem&contextData=(sc.Search)" }{\fldrslt 
+{\f2 \strike0 \ul0 \b0 \sa0 \sb0 \fs18 \cf5 \i0 
+Packer Corp. v. Utah, 285 U.S. 105, 52 S.Ct. 273, 76 L.Ed. 643 (1932)
+}\f2 \strike0 \ul0 \b0 \sa0 \sb0 \fs18 \cf5 \i0 }}
+{\f2 \strike0 \ul0 \b0 \sa0 \sb0 \fs18 \cf1 \i0 
+, is misplaced. As Mr. Justice Douglas noted in 
+}
+{\field {\*\fldinst HYPERLINK "http://www.westlaw.com/Link/Document/FullText?findType=Y&serNum=1959123728&pubNum=780&originatingDoc=I0a4487ea9bf011d991d0cc6b54f12d4d&refType=RP&fi=co_pp_sp_780_513&originationContext=document&vr=3.0&rs=cblt1.0&transitionType=DocumentItem&contextData=(sc.Search)#co_pp_sp_780_513" }{\fldrslt 
+{\f2 \strike0 \ul0 \b0 \sa0 \sb0 \fs18 \cf5 \i0 
+Cammarano v. United States, supra, 358 U.S., at 513 n., 79 S.Ct., at 533 n.
+}\f2 \strike0 \ul0 \b0 \sa0 \sb0 \fs18 \cf5 \i0 }}
+{\f2 \strike0 \ul0 \b0 \sa0 \sb0 \fs18 \cf1 \i0 
+ (concurring opinion): \u8216\'3fIn 
+}
+{\field {\*\fldinst HYPERLINK "http://www.westlaw.com/Link/Document/FullText?findType=Y&serNum=1932123427&pubNum=708&originatingDoc=I0a4487ea9bf011d991d0cc6b54f12d4d&refType=RP&originationContext=document&vr=3.0&rs=cblt1.0&transitionType=DocumentItem&contextData=(sc.Search)" }{\fldrslt 
+{\f2 \strike0 \ul0 \b0 \sa0 \sb0 \fs18 \cf5 \i0 
+Packer Corp. v. Utah, 285 U.S. 105, (52 S.Ct. 273, 76 L.Ed. 643),
+}\f2 \strike0 \ul0 \b0 \sa0 \sb0 \fs18 \cf5 \i0 }}
+{\f2 \strike0 \ul0 \b0 \sa0 \sb0 \fs18 \cf1 \i0 
+ the First Amendment problem was not raised. The extent to which such advertising could be regulated consistently with the First Amendment (cf. 
+}
+{\field {\*\fldinst HYPERLINK "http://www.westlaw.com/Link/Document/FullText?findType=Y&serNum=1940125994&pubNum=708&originatingDoc=I0a4487ea9bf011d991d0cc6b54f12d4d&refType=RP&originationContext=document&vr=3.0&rs=cblt1.0&transitionType=DocumentItem&contextData=(sc.Search)" }{\fldrslt 
+{\f2 \strike0 \ul0 \b0 \sa0 \sb0 \fs18 \cf5 \i0 
+Cantwell v. Connecticut, 310 U.S. 296 (60 S.Ct. 900, 84 L.Ed. 1213);
+}\f2 \strike0 \ul0 \b0 \sa0 \sb0 \fs18 \cf5 \i0 }}
+{\f2 \strike0 \ul0 \b0 \sa0 \sb0 \fs18 \cf1 \i0 
+ 
+}
+{\field {\*\fldinst HYPERLINK "http://www.westlaw.com/Link/Document/FullText?findType=Y&serNum=1943120620&pubNum=708&originatingDoc=I0a4487ea9bf011d991d0cc6b54f12d4d&refType=RP&originationContext=document&vr=3.0&rs=cblt1.0&transitionType=DocumentItem&contextData=(sc.Search)" }{\fldrslt 
+{\f2 \strike0 \ul0 \b0 \sa0 \sb0 \fs18 \cf5 \i0 
+Martin v. Struthers, 319 U.S. 141 (63 S.Ct. 862, 87 L.Ed. 1313);
+}\f2 \strike0 \ul0 \b0 \sa0 \sb0 \fs18 \cf5 \i0 }}
+{\f2 \strike0 \ul0 \b0 \sa0 \sb0 \fs18 \cf1 \i0 
+ 
+}
+{\field {\*\fldinst HYPERLINK "http://www.westlaw.com/Link/Document/FullText?findType=Y&serNum=1951116441&pubNum=708&originatingDoc=I0a4487ea9bf011d991d0cc6b54f12d4d&refType=RP&originationContext=document&vr=3.0&rs=cblt1.0&transitionType=DocumentItem&contextData=(sc.Search)" }{\fldrslt 
+{\f2 \strike0 \ul0 \b0 \sa0 \sb0 \fs18 \cf5 \i0 
+Breard v. Alexandria, 341 U.S. 622 (71 S.Ct. 920, 95 L.Ed. 1233);
+}\f2 \strike0 \ul0 \b0 \sa0 \sb0 \fs18 \cf5 \i0 }}
+{\f2 \strike0 \ul0 \b0 \sa0 \sb0 \fs18 \cf1 \i0 
+ 
+}
+{\field {\*\fldinst HYPERLINK "http://www.westlaw.com/Link/Document/FullText?findType=Y&serNum=1957120394&pubNum=708&originatingDoc=I0a4487ea9bf011d991d0cc6b54f12d4d&refType=RP&originationContext=document&vr=3.0&rs=cblt1.0&transitionType=DocumentItem&contextData=(sc.Search)" }{\fldrslt 
+{\f2 \strike0 \ul0 \b0 \sa0 \sb0 \fs18 \cf5 \i0 
+Roth v. United States, 354 U.S. 476 (77 S.Ct. 1304, 1 L.Ed.2d 1498)
+}\f2 \strike0 \ul0 \b0 \sa0 \sb0 \fs18 \cf5 \i0 }}
+{\f2 \strike0 \ul0 \b0 \sa0 \sb0 \fs18 \cf1 \i0 
+ has therefore never been authoritatively determined.\u8217\'3f See also n. 6, supra.
+\par 
+}
+}
+}
+}
+}\f2 \li0 \strike0 \ul0 \b0 \qj \sa0 \sb0 \fs18 \ri0 \cf1 \i0 \intbl \cell \row }}\par 
+}
+{\li0 \f2 \qj \b0 \ri0 \fs20 \cf1 \i0 
+{\li0 \f2 \qj \b0 \ri0 \fs20 \cf1 \i0 
+{\f2 \strike0 \ul0 \b0 \sa0 \sb0 \fs20 \cf1 \i0 
+\u8216\'3fNecessarily, then, under the Equal Protection Clause, not to mention the 
+}
+{\f2 \b1 \fs20 \cf1 \i0 
+{\*\bkmkstart co_pp_sp_708_2724_1}{\*\bkmkend co_pp_sp_708_2724_1}
+{\f2 \strike0 \ul0 \b1 \sa0 \sb0 \fs20 \cf1 \i0 
+**2724
+}
+}
+{\f2 \strike0 \ul0 \b0 \sa0 \sb0 \fs20 \cf1 \i0 
+ First Amendment itself, government may not grant the use of a forum to people whose views it finds acceptable, but deny use to those wishing to express less favored or more controversial views. And it may not select which issues are worth discussing or debating in public facilities. There is an \u8216\'3fequality of status in the field of ideas,\u8217\'3f and government must afford all points of view an equal opportunity to be heard. Once a forum is opened up to assembly or speaking by some groups, government may not prohibit others from assembling or speaking on the basis of what they intend to say. Selective exclusions from a public forum may not be based on content alone, and may not be justified by reference to content alone.\rquote  
+}
+{\field {\*\fldinst HYPERLINK "http://www.westlaw.com/Link/Document/FullText?findType=Y&serNum=1972127174&pubNum=708&originatingDoc=I0a4487ea9bf011d991d0cc6b54f12d4d&refType=RP&fi=co_pp_sp_708_2290&originationContext=document&vr=3.0&rs=cblt1.0&transitionType=DocumentItem&contextData=(sc.Search)#co_pp_sp_708_2290" }{\fldrslt 
+{\f2 \strike0 \ul0 \b0 \sa0 \sb0 \fs20 \cf5 \i0 
+Police Department of Chicago v. Mosley, supra, 408 U.S., at 96, 92 S.Ct., at 2290
+}}}
+{\f2 \strike0 \ul0 \b0 \sa0 \sb0 \fs20 \cf1 \i0 
+ (footnote omitted).
+\par 
+}
+}
+{\li0 \f2 \qj \b0 \ri0 \fs20 \cf1 \i0 
+{\f2 \strike0 \ul0 \b0 \sa0 \sb0 \fs20 \cf1 \i0 
+That the discrimination is among entire classes of ideas, rather than among points of view within a particular class, does not render it any less odious. Subject matter or content censorship in any form is forbidden.
+}
+{\f2 \b0 \fs16 \cf1 \i0 
+{\*\bkmkstart co_footnoteReference_B01891974127232_ID0}{\*\bkmkend co_footnoteReference_B01891974127232_ID0}
+{\field {\*\fldinst HYPERLINK "#co_footnote_B01891974127232_1" }{\fldrslt 
+{\super \f2 \strike0 \ul0 \b0 \sa0 \sb0 \fs16 \cf5 \i0 
+9
+}}}
+\par 
+}
+}
+}
+{\f2 \strike0 \ul0 \b0 \sa0 \sb0 \fs20 \cf1 \i0 
+\u160\'3f
+\par 
+}
+{\li0 \f2 \qj \b0 \ri0 \fs20 \cf1 \i0 {
+{\trowd \lastrow \trleft0 
+\clbrdrt \clbrdrb \clbrdrl \trql \clvertalt \clwWidth600 \cellx600 
+\clpadb90 \clpadfb3 \clpadl90 \clpadfl3 \clbrdrt \clbrdrb \clbrdrr \trql \clwWidth9480 \cellx10080 
+\intbl 
+{\li0 \ri0 
+{\li0 \f2 \b0 \ql \ri0 \fs20 \cf1 \i0 
+{\f2 \b0 \fs20 \cf1 \i0 
+{\*\bkmkstart co_footnote_B01891974127232_1}{\*\bkmkend co_footnote_B01891974127232_1}
+{\field {\*\fldinst HYPERLINK "#co_footnoteReference_B01891974127232_ID0" }{\fldrslt 
+{\super \f2 \strike0 \ul0 \b0 \sa0 \sb0 \fs20 \cf5 \i0 
+9
+}\f2 \super \strike0 \ul0 \b0 \sa0 \sb0 \fs20 \cf5 \i0 }}
+\par 
+}
+}
+}\f2 \li0 \b0 \ql \fs20 \ri0 \cf1 \i0 \intbl \cell \intbl 
+{\li0 \ri0 
+{\li0 \f2 \qj \b0 \ri0 \fs18 \cf1 \i0 
+{\li0 \f2 \qj \b0 \ri0 \fs18 \cf1 \i0 
+{\li0 \f2 \qj \b0 \ri0 \fs18 \cf1 \i0 
+{\f2 \strike0 \ul0 \b0 \sa0 \sb0 \fs18 \cf1 \i0 
+The existence of other public forums for the dissemination of political messages is, of course, irrelevant. As the Court said in 
+}
+{\field {\*\fldinst HYPERLINK "http://www.westlaw.com/Link/Document/FullText?findType=Y&serNum=1939126946&pubNum=708&originatingDoc=I0a4487ea9bf011d991d0cc6b54f12d4d&refType=RP&fi=co_pp_sp_708_151&originationContext=document&vr=3.0&rs=cblt1.0&transitionType=DocumentItem&contextData=(sc.Search)#co_pp_sp_708_151" }{\fldrslt 
+{\f2 \strike0 \ul0 \b0 \sa0 \sb0 \fs18 \cf5 \i0 
+Schneider v. State of N.J., 308 U.S. 147, 163, 60 S.Ct. 146, 151, 84 L.Ed. 155 (1939)
+}\f2 \strike0 \ul0 \b0 \sa0 \sb0 \fs18 \cf5 \i0 }}
+{\f2 \strike0 \ul0 \b0 \sa0 \sb0 \fs18 \cf1 \i0 
+, \u8216\'3fone is not to have the exercise of his liberty of expression in appropriate places abridged on the plea that it may be exercised in some other place.\u8217\'3f
+\par 
+}
+}
+}
+}
+}\f2 \li0 \strike0 \ul0 \b0 \qj \sa0 \sb0 \fs18 \ri0 \cf1 \i0 \intbl \cell \row }}\par 
+}
+{\li0 \f2 \qj \b0 \ri0 \fs20 \cf1 \i0 
+{\li0 \f2 \qj \b0 \ri0 \fs20 \cf1 \i0 
+{\f2 \strike0 \ul0 \b0 \sa0 \sb0 \fs20 \cf1 \i0 
+To insure that subject matter or content is not the sole basis for discrimination among forum users, all 
+}
+{\f2 \b1 \fs20 \cf1 \i0 
+{\*\bkmkstart co_pp_sp_780_317_1}{\*\bkmkend co_pp_sp_780_317_1}
+{\f2 \strike0 \ul0 \b1 \sa0 \sb0 \fs20 \cf1 \i0 
+*317
+}
+}
+{\f2 \strike0 \ul0 \b0 \sa0 \sb0 \fs20 \cf1 \i0 
+ selective exclusions from a public forum must be closely scrutinized and countenanced only in cases where the government makes a clear showing that its action was taken pursuant to neutral \u8216\'3ftime, place and manner\u8217\'3f regulations, narrowly tailored to protect the government\rquote s substantial interest in preserving the viability and utility of the forum itself. See, e.g., 
+}
+{\field {\*\fldinst HYPERLINK "http://www.westlaw.com/Link/Document/FullText?findType=Y&serNum=1972127174&pubNum=708&originatingDoc=I0a4487ea9bf011d991d0cc6b54f12d4d&refType=RP&fi=co_pp_sp_708_2291&originationContext=document&vr=3.0&rs=cblt1.0&transitionType=DocumentItem&contextData=(sc.Search)#co_pp_sp_708_2291" }{\fldrslt 
+{\f2 \strike0 \ul0 \b0 \sa0 \sb0 \fs20 \cf5 \i0 
+Police Department of Chicago v. Mosley, supra, 408 U.S., at 98\u8212\'3f102, 92 S.Ct. at 2291\u8212\'3f2294;
+}}}
+{\f2 \strike0 \ul0 \b0 \sa0 \sb0 \fs20 \cf1 \i0 
+ 
+}
+{\field {\*\fldinst HYPERLINK "http://www.westlaw.com/Link/Document/FullText?findType=Y&serNum=1972127175&pubNum=708&originatingDoc=I0a4487ea9bf011d991d0cc6b54f12d4d&refType=RP&fi=co_pp_sp_708_2302&originationContext=document&vr=3.0&rs=cblt1.0&transitionType=DocumentItem&contextData=(sc.Search)#co_pp_sp_708_2302" }{\fldrslt 
+{\f2 \strike0 \ul0 \b0 \sa0 \sb0 \fs20 \cf5 \i0 
+Grayned v. City of Rockford, 408 U.S., at 115\u8212\'3f117, 92 S.Ct. at 2302\u8212\'3f2304;
+}}}
+{\f2 \strike0 \ul0 \b0 \sa0 \sb0 \fs20 \cf1 \i0 
+ 
+}
+{\field {\*\fldinst HYPERLINK "http://www.westlaw.com/Link/Document/FullText?findType=Y&serNum=1969132928&pubNum=708&originatingDoc=I0a4487ea9bf011d991d0cc6b54f12d4d&refType=RP&fi=co_pp_sp_708_939&originationContext=document&vr=3.0&rs=cblt1.0&transitionType=DocumentItem&contextData=(sc.Search)#co_pp_sp_708_939" }{\fldrslt 
+{\f2 \strike0 \ul0 \b0 \sa0 \sb0 \fs20 \cf5 \i0 
+Shuttlesworth v. Birmingham, 394 U.S. 147, 152\u8212\'3f153, 89 S.Ct. 935, 939\u8212\'3f940, 22 L.Ed.2d 162 (1969)
+}}}
+{\f2 \strike0 \ul0 \b0 \sa0 \sb0 \fs20 \cf1 \i0 
+; 
+}
+{\field {\*\fldinst HYPERLINK "http://www.westlaw.com/Link/Document/FullText?findType=Y&serNum=1969132915&pubNum=708&originatingDoc=I0a4487ea9bf011d991d0cc6b54f12d4d&refType=RP&fi=co_pp_sp_708_737&originationContext=document&vr=3.0&rs=cblt1.0&transitionType=DocumentItem&contextData=(sc.Search)#co_pp_sp_708_737" }{\fldrslt 
+{\f2 \strike0 \ul0 \b0 \sa0 \sb0 \fs20 \cf5 \i0 
+Tinker v. Des Moines School District, 393 U.S. 503, 508, 514, 89 S.Ct. 733, 737, 740, 21 L.Ed.2d 731 (1969)
+}}}
+{\f2 \strike0 \ul0 \b0 \sa0 \sb0 \fs20 \cf1 \i0 
+; cf. 
+}
+{\field {\*\fldinst HYPERLINK "http://www.westlaw.com/Link/Document/FullText?findType=Y&serNum=1972127087&pubNum=708&originatingDoc=I0a4487ea9bf011d991d0cc6b54f12d4d&refType=RP&fi=co_pp_sp_708_999&originationContext=document&vr=3.0&rs=cblt1.0&transitionType=DocumentItem&contextData=(sc.Search)#co_pp_sp_708_999" }{\fldrslt 
+{\f2 \strike0 \ul0 \b0 \sa0 \sb0 \fs20 \cf5 \i0 
+Dunn v. Blumstein, 405 U.S. 330, 336\u8212\'3f337, 92 S.Ct. 995, 999\u8212\'3f1000, 31 L.Ed.2d 274 (1972)
+}}}
+{\f2 \strike0 \ul0 \b0 \sa0 \sb0 \fs20 \cf1 \i0 
+; 
+}
+{\field {\*\fldinst HYPERLINK "http://www.westlaw.com/Link/Document/FullText?findType=Y&serNum=1968131244&pubNum=708&originatingDoc=I0a4487ea9bf011d991d0cc6b54f12d4d&refType=RP&fi=co_pp_sp_708_10&originationContext=document&vr=3.0&rs=cblt1.0&transitionType=DocumentItem&contextData=(sc.Search)#co_pp_sp_708_10" }{\fldrslt 
+{\f2 \strike0 \ul0 \b0 \sa0 \sb0 \fs20 \cf5 \i0 
+Williams v. Rhodes, 393 U.S. 23, 31, 89 S.Ct. 5, 10, 21 L.Ed.2d 24 (1968)
+}}}
+{\f2 \strike0 \ul0 \b0 \sa0 \sb200 \fs20 \cf1 \i0 
+. The city has failed to discharge that heavy burden in the present case.
+\par 
+}
+}
+}
+{\li0 \f2 \qj \b0 \ri0 \fs20 \cf1 \i0 
+{\li0 \f2 \qj \b0 \ri0 \fs20 \cf1 \i0 
+{\f2 \strike0 \ul0 \b0 \sa0 \sb0 \fs20 \cf1 \i0 
+The Court\rquote s special vigilance is triggered in this case because of the city\rquote s undisputed ban against political advertising in its transit cars. Commercial and public service advertisements are routinely accepted for display, while political messages are absolutely prohibited. Few examples are required to illustrate the scope of the city\rquote s policy and practice. For instance, a commercial advertisement peddling snowmobiles would be accepted, while a counter-advertisement calling upon the public to support legislation controlling the environmental destruction and noise pollution caused by snowmobiles would be rejected. Alternatively, a public service ad by the League of Women Voters would be permitted, advertising the existence of an upcoming election and imploring citizens to vote, but a candidate, such as Lehman, would be barred from informing the public about his candidacy, qualifications for office, or position on particular issues.
+}
+{\f2 \strike0 \ul0 \b0 \sa0 \sb0 \fs20 \cf1 \i0 
+ These, and other examples,
+}
+{\f2 \b0 \fs16 \cf1 \i0 
+{\*\bkmkstart co_footnoteReference_B019101974127232_ID}{\*\bkmkend co_footnoteReference_B019101974127232_ID}
+{\field {\*\fldinst HYPERLINK "#co_footnote_B019101974127232_1" }{\fldrslt 
+{\super \f2 \strike0 \ul0 \b0 \sa0 \sb0 \fs16 \cf5 \i0 
+10
+}}}
+}
+{\f2 \strike0 \ul0 \b0 \sa0 \sb0 \fs20 \cf1 \i0 
+ 
+}
+{\f2 \b1 \fs20 \cf1 \i0 
+{\*\bkmkstart co_pp_sp_708_2725_1}{\*\bkmkend co_pp_sp_708_2725_1}
+{\f2 \strike0 \ul0 \b1 \sa0 \sb0 \fs20 \cf1 \i0 
+**2725
+}
+}
+{\f2 \strike0 \ul0 \b0 \sa0 \sb0 \fs20 \cf1 \i0 
+ make perfectly clear that the selective 
+}
+{\f2 \b1 \fs20 \cf1 \i0 
+{\*\bkmkstart co_pp_sp_780_318_1}{\*\bkmkend co_pp_sp_780_318_1}
+{\f2 \strike0 \ul0 \b1 \sa0 \sb0 \fs20 \cf1 \i0 
+*318
+}
+}
+{\f2 \strike0 \ul0 \b0 \sa0 \sb200 \fs20 \cf1 \i0 
+ exclusion of political advertising is not the product of evenhanded application of neutral \u8216\'3ftime, place, and manner\u8217\'3f regulations. Rather, the operative\u8212\'3fand constitutionally impermissible\u8212\'3fdistinction is the message on the sign. That conclusion is not dispelled by any of the city\rquote s asserted justifications for selectively excluding political advertising.
+\par 
+}
+}
+}
+{\li0 \f2 \qj \b0 \ri0 \fs20 \cf1 \i0 {
+{\trowd \lastrow \trleft0 
+\clbrdrt \clbrdrb \clbrdrl \trql \clvertalt \clwWidth600 \cellx600 
+\clpadb90 \clpadfb3 \clpadl90 \clpadfl3 \clbrdrt \clbrdrb \clbrdrr \trql \clwWidth9480 \cellx10080 
+\intbl 
+{\li0 \ri0 
+{\li0 \f2 \b0 \ql \ri0 \fs20 \cf1 \i0 
+{\f2 \b0 \fs20 \cf1 \i0 
+{\*\bkmkstart co_footnote_B019101974127232_1}{\*\bkmkend co_footnote_B019101974127232_1}
+{\field {\*\fldinst HYPERLINK "#co_footnoteReference_B019101974127232_ID" }{\fldrslt 
+{\super \f2 \strike0 \ul0 \b0 \sa0 \sb0 \fs20 \cf5 \i0 
+10
+}\f2 \super \strike0 \ul0 \b0 \sa0 \sb0 \fs20 \cf5 \i0 }}
+\par 
+}
+}
+}\f2 \li0 \b0 \ql \fs20 \ri0 \cf1 \i0 \intbl \cell \intbl 
+{\li0 \ri0 
+{\li0 \f2 \qj \b0 \ri0 \fs18 \cf1 \i0 
+{\li0 \f2 \qj \b0 \ri0 \fs18 \cf1 \i0 
+{\li0 \f2 \qj \b0 \ri0 \fs18 \cf1 \i0 
+{\f2 \strike0 \ul0 \b0 \sa0 \sb0 \fs18 \cf1 \i0 
+In declaring unconstitutional an advertising policy remarkably similar to the city\rquote s policy in the present case, the California Supreme Court detailed \u8216\'3fthe paradoxical scope of the (transit) district\rquote s policy (banning political advertising)\u8217\'3f in the following manner:
+\par 
+}
+}
+{\li0 \f2 \qj \b0 \ri0 \fs18 \cf1 \i0 
+{\f2 \strike0 \ul0 \b0 \sa0 \sb0 \fs18 \cf1 \i0 
+\u8216\'3fA cigarette company is permitted to advertise the desirability of smoking its brand, but a cancer society is not entitled to caution by advertisement that cigarette smoking is injurious to health. A theater may advertise a motion picture that portrays sex and violence, but the Legion for Decency has no right to post a message calling for clean films. A lumber company may advertise its wood products, but a conservation group cannot implore citizens to write to the President or Governor about protecting our natural resources. An oil refinery may advertise its products, but a citizens\rquote  organization cannot demand enforcement of existing air pollution statutes. An insurance company may announce its available policies, but a senior citizens\rquote  club cannot plead for legislation to improve our social security program. The district would accept an advertisement from a television station that is commercially inspired, but would refuse a paid nonsolicitation message from a strictly educational television station. Advertisements for travel, foods, clothing, toiletries, automobiles, legal drugs\u8212\'3fall these are acceptable, but the American Legion would not have the right to place a paid advertisement reading, \u8216\'3fSupport Our Boys in Viet Nam. Send Holiday Packages,\u8220\'3f 
+}
+{\field {\*\fldinst HYPERLINK "http://www.westlaw.com/Link/Document/FullText?findType=Y&serNum=1968127841&pubNum=661&originatingDoc=I0a4487ea9bf011d991d0cc6b54f12d4d&refType=RP&fi=co_pp_sp_661_986&originationContext=document&vr=3.0&rs=cblt1.0&transitionType=DocumentItem&contextData=(sc.Search)#co_pp_sp_661_986" }{\fldrslt 
+{\f2 \strike0 \ul0 \b0 \sa0 \sb0 \fs18 \cf5 \i0 
+Wirta v. Alameda-Contra Costa Transit District, 68 Cal.2d 51, 57\u8212\'3f58, 64 Cal.Rptr. 430, 434\u8212\'3f435, 434 P.2d 982, 986\u8212\'3f987 (1967)
+}\f2 \strike0 \ul0 \b0 \sa0 \sb0 \fs18 \cf5 \i0 }}
+{\f2 \strike0 \ul0 \b0 \sa0 \sb0 \fs18 \cf1 \i0 
+.
+\par 
+}
+}
+}
+}
+}\f2 \li0 \strike0 \ul0 \b0 \qj \sa0 \sb0 \fs18 \ri0 \cf1 \i0 \intbl \cell \row }}\par 
+}
+{\li0 \f2 \qj \b0 \ri0 \fs20 \cf1 \i0 
+{\li0 \f2 \qj \b0 \ri0 \fs20 \cf1 \i0 
+{\f2 \strike0 \ul0 \b0 \sa0 \sb0 \fs20 \cf1 \i0 
+The city contends that its ban against political advertising is bottomed upon its solicitous regard for \u8216\'3fcaptive riders\rquote  of the rapid transit system, who are \u8216\'3fforced to endure the advertising thrust upon (them).\u8217\'3f Brief for Respondents 8. Since its rapid transit system is primarily a mode of transportation, the city argues that it 
+}
+{\f2 \b1 \fs20 \cf1 \i0 
+{\*\bkmkstart co_pp_sp_780_319_1}{\*\bkmkend co_pp_sp_780_319_1}
+{\f2 \strike0 \ul0 \b1 \sa0 \sb0 \fs20 \cf1 \i0 
+*319
+}
+}
+{\f2 \strike0 \ul0 \b0 \sa0 \sb0 \fs20 \cf1 \i0 
+ may prohibit political advertising in order to shield its transit passengers from sometimes controversial or unsettling speech. Whatever merit the city\rquote s argument might have in other contexts, it has a hollow ring in the present case, where the city has voluntarily opened its rapid transit system as a forum for communication. In that circumstance, the occasional appearance of provocative speech should be expected. Indeed, the Court has recognized that \u8216\'3fa function of free speech under our system of government is to invite dispute. . . . Speech is often provocative and challenging. It may strike at prejudices and preconceptions and have profound unsettling effects as it presses for acceptance of an idea.\u8217\'3f 
+}
+{\field {\*\fldinst HYPERLINK "http://www.westlaw.com/Link/Document/FullText?findType=Y&serNum=1949118900&pubNum=708&originatingDoc=I0a4487ea9bf011d991d0cc6b54f12d4d&refType=RP&originationContext=document&vr=3.0&rs=cblt1.0&transitionType=DocumentItem&contextData=(sc.Search)" }{\fldrslt 
+{\f2 \strike0 \ul0 \b0 \sa0 \sb0 \fs20 \cf5 \i0 
+Terminiello v. City of Chicago, 337 U.S. 1, 4, 69 S.Ct. 894, 806,
+}}}
+{\f2 \strike0 \ul0 \b0 \sa0 \sb0 \fs20 \cf1 \i0 
+ 
+}
+{\field {\*\fldinst HYPERLINK "http://www.westlaw.com/Link/Document/FullText?findType=Y&serNum=1949118900&pubNum=470&originatingDoc=I0a4487ea9bf011d991d0cc6b54f12d4d&refType=RP&originationContext=document&vr=3.0&rs=cblt1.0&transitionType=DocumentItem&contextData=(sc.Search)" }{\fldrslt 
+{\f2 \strike0 \ul0 \b0 \sa0 \sb0 \fs20 \cf5 \i0 
+93 L.Ed. 1131 (1949)
+}}}
+{\f2 \strike0 \ul0 \b0 \sa0 \sb200 \fs20 \cf1 \i0 
+.
+\par 
+}
+}
+}
+{\li0 \f2 \qj \b0 \ri0 \fs20 \cf1 \i0 
+{\li0 \f2 \qj \b0 \ri0 \fs20 \cf1 \i0 
+{\f2 \strike0 \ul0 \b0 \sa0 \sb0 \fs20 \cf1 \i0 
+The line between ideological and nonideological speech is impossible to draw with accuracy. By accepting commercial and public service advertisements, the city opened the door to \u8216\'3fsometimes controversial or unsettling speech\u8217\'3f and determined that such speech does not unduly interfere with the rapid transit system\rquote s primary purpose of transporting passengers. In the eyes of many passengers, certain commercial or public service messages
+}
+{\f2 \b0 \fs16 \cf1 \i0 
+{\*\bkmkstart co_footnoteReference_B020111974127232_ID}{\*\bkmkend co_footnoteReference_B020111974127232_ID}
+{\field {\*\fldinst HYPERLINK "#co_footnote_B020111974127232_1" }{\fldrslt 
+{\super \f2 \strike0 \ul0 \b0 \sa0 \sb0 \fs16 \cf5 \i0 
+11
+}}}
+}
+{\f2 \strike0 \ul0 \b0 \sa0 \sb0 \fs20 \cf1 \i0 
+ are as profoundly disturbing as some political advertisements might be to other passengers. There is certainly no evidence in the record of this case indicating that political advertisements, as a class, are so disturbing when displayed that they are more likely than commercial or public service advertisements to impair the rapid transit system\rquote s primary function of transportation. In the absence of such evidence, the city\rquote s selective exclusion of political advertising constitutes an invidious discrimination 
+}
+{\f2 \b1 \fs20 \cf1 \i0 
+{\*\bkmkstart co_pp_sp_780_320_1}{\*\bkmkend co_pp_sp_780_320_1}
+{\f2 \strike0 \ul0 \b1 \sa0 \sb0 \fs20 \cf1 \i0 
+*320
+}
+}
+{\f2 \strike0 \ul0 \b0 \sa0 \sb200 \fs20 \cf1 \i0 
+ on the basis of subject matter, in violation of the First and Fourteenth Amendment.
+\par 
+}
+}
+}
+{\li0 \f2 \qj \b0 \ri0 \fs20 \cf1 \i0 {
+{\trowd \lastrow \trleft0 
+\clbrdrt \clbrdrb \clbrdrl \trql \clvertalt \clwWidth600 \cellx600 
+\clpadb90 \clpadfb3 \clpadl90 \clpadfl3 \clbrdrt \clbrdrb \clbrdrr \trql \clwWidth9480 \cellx10080 
+\intbl 
+{\li0 \ri0 
+{\li0 \f2 \b0 \ql \ri0 \fs20 \cf1 \i0 
+{\f2 \b0 \fs20 \cf1 \i0 
+{\*\bkmkstart co_footnote_B020111974127232_1}{\*\bkmkend co_footnote_B020111974127232_1}
+{\field {\*\fldinst HYPERLINK "#co_footnoteReference_B020111974127232_ID" }{\fldrslt 
+{\super \f2 \strike0 \ul0 \b0 \sa0 \sb0 \fs20 \cf5 \i0 
+11
+}\f2 \super \strike0 \ul0 \b0 \sa0 \sb0 \fs20 \cf5 \i0 }}
+\par 
+}
+}
+}\f2 \li0 \b0 \ql \fs20 \ri0 \cf1 \i0 \intbl \cell \intbl 
+{\li0 \ri0 
+{\li0 \f2 \qj \b0 \ri0 \fs18 \cf1 \i0 
+{\li0 \f2 \qj \b0 \ri0 \fs18 \cf1 \i0 
+{\li0 \f2 \qj \b0 \ri0 \fs18 \cf1 \i0 
+{\f2 \strike0 \ul0 \b0 \sa0 \sb0 \fs18 \cf1 \i0 
+For example, the record indicates that church advertising was accepted for display on the Shaker Heights Rapid Transit System. See App. 26A.
+\par 
+}
+}
+}
+}
+}\f2 \li0 \strike0 \ul0 \b0 \qj \sa0 \sb0 \fs18 \ri0 \cf1 \i0 \intbl \cell \row }}\par 
+}
+{\li0 \f2 \qj \b0 \ri0 \fs20 \cf1 \i0 
+{\li0 \f2 \qj \b0 \ri0 \fs20 \cf1 \i0 
+{\f2 \strike0 \ul0 \b0 \sa0 \sb0 \fs20 \cf1 \i0 
+Moreover, even if it were possible to draw a manageable line between controversial and noncontroversial messages, the city\rquote s practice of censorship for the benefit of \u8216\'3fcaptive audiences\rquote  still would not be justified.
+}
+{\f2 \b0 \fs16 \cf1 \i0 
+{\*\bkmkstart co_footnoteReference_B021121974127232_ID}{\*\bkmkend co_footnoteReference_B021121974127232_ID}
+{\field {\*\fldinst HYPERLINK "#co_footnote_B021121974127232_1" }{\fldrslt 
+{\super \f2 \strike0 \ul0 \b0 \sa0 \sb0 \fs16 \cf5 \i0 
+12
+}}}
+}
+{\f2 \strike0 \ul0 \b0 \sa0 \sb0 \fs20 \cf1 \i0 
+ This is not a 
+}
+{\f2 \b1 \fs20 \cf1 \i0 
+{\*\bkmkstart co_pp_sp_708_2726_1}{\*\bkmkend co_pp_sp_708_2726_1}
+{\f2 \strike0 \ul0 \b1 \sa0 \sb0 \fs20 \cf1 \i0 
+**2726
+}
+}
+{\f2 \strike0 \ul0 \b0 \sa0 \sb0 \fs20 \cf1 \i0 
+ case where an unwilling or unsuspecting rapid transit rider is powerless to avoid messages he deems unsettling. The advertisements accepted by the city and Metromedia are not broadcast over loudspeakers in the transit cars. The privacy of the passengers is not, therefore, dependent upon their ability \u8216\'3fto sit and to try not to listen.\u8217\'3f 
+}
+{\field {\*\fldinst HYPERLINK "http://www.westlaw.com/Link/Document/FullText?findType=Y&serNum=1952118791&pubNum=708&originatingDoc=I0a4487ea9bf011d991d0cc6b54f12d4d&refType=RP&fi=co_pp_sp_708_824&originationContext=document&vr=3.0&rs=cblt1.0&transitionType=DocumentItem&contextData=(sc.Search)#co_pp_sp_708_824" }{\fldrslt 
+{\f2 \strike0 \ul0 \b0 \sa0 \sb0 \fs20 \cf5 \i0 
+Public Utilities Comm\rquote n v. Pollak, 343 U.S. 451, 469, 72 S.Ct. 813, 824, 96 L.Ed. 1068 (1952)
+}}}
+{\f2 \strike0 \ul0 \b0 \sa0 \sb0 \fs20 \cf1 \i0 
+ (DOUGLAS, J., dissenting); cf. 
+}
+{\field {\*\fldinst HYPERLINK "http://www.westlaw.com/Link/Document/FullText?findType=Y&serNum=1949117559&pubNum=708&originatingDoc=I0a4487ea9bf011d991d0cc6b54f12d4d&refType=RP&originationContext=document&vr=3.0&rs=cblt1.0&transitionType=DocumentItem&contextData=(sc.Search)" }{\fldrslt 
+{\f2 \strike0 \ul0 \b0 \sa0 \sb0 \fs20 \cf5 \i0 
+Kovacs v. Cooper, 336 U.S. 77, 69 S.Ct. 448, 93 L.Ed. 513 (1949)
+}}}
+{\f2 \strike0 \ul0 \b0 \sa0 \sb0 \fs20 \cf1 \i0 
+; 
+}
+{\field {\*\fldinst HYPERLINK "http://www.westlaw.com/Link/Document/FullText?findType=Y&serNum=1948118302&pubNum=708&originatingDoc=I0a4487ea9bf011d991d0cc6b54f12d4d&refType=RP&fi=co_pp_sp_708_1150&originationContext=document&vr=3.0&rs=cblt1.0&transitionType=DocumentItem&contextData=(sc.Search)#co_pp_sp_708_1150" }{\fldrslt 
+{\f2 \strike0 \ul0 \b0 \sa0 \sb0 \fs20 \cf5 \i0 
+Saia v. New York, 334 U.S. 558, 562, 68 S.Ct. 1148, 1150, 92 L.Ed. 1574 (1948)
+}}}
+{\f2 \strike0 \ul0 \b0 \sa0 \sb0 \fs20 \cf1 \i0 
+. Rather, all advertisements accepted for display are in written form. Transit passengers are not forced or compelled to read any of the messages, nor are they \u8216\'3fincapable of declining to receive (them),\u8217\'3f ante, at 2719 (Douglas, J., concurring). Should passengers chance to glance at advertisements they find offensive, they can \u8216\'3feffectively avoid further bombardment of their sensibilities simply by averting their eyes.\u8217\'3f 
+}
+{\field {\*\fldinst HYPERLINK "http://www.westlaw.com/Link/Document/FullText?findType=Y&serNum=1971127088&pubNum=708&originatingDoc=I0a4487ea9bf011d991d0cc6b54f12d4d&refType=RP&fi=co_pp_sp_708_1786&originationContext=document&vr=3.0&rs=cblt1.0&transitionType=DocumentItem&contextData=(sc.Search)#co_pp_sp_708_1786" }{\fldrslt 
+{\f2 \strike0 \ul0 \b0 \sa0 \sb0 \fs20 \cf5 \i0 
+Cohen v. California, 403 U.S. 15, 21, 91 S.Ct. 1780, 1786, 29 L.Ed.2d 284 (1971)
+}}}
+{\f2 \strike0 \ul0 \b0 \sa0 \sb0 \fs20 \cf1 \i0 
+. Surely that minor inconvenience 
+}
+{\f2 \b1 \fs20 \cf1 \i0 
+{\*\bkmkstart co_pp_sp_780_321_1}{\*\bkmkend co_pp_sp_780_321_1}
+{\f2 \strike0 \ul0 \b1 \sa0 \sb0 \fs20 \cf1 \i0 
+*321
+}
+}
+{\f2 \strike0 \ul0 \b0 \sa0 \sb200 \fs20 \cf1 \i0 
+ is a small price to pay for the continued preservation of so precious a liberty as free speech.
+\par 
+}
+}
+}
+{\li0 \f2 \qj \b0 \ri0 \fs20 \cf1 \i0 {
+{\trowd \lastrow \trleft0 
+\clbrdrt \clbrdrb \clbrdrl \trql \clvertalt \clwWidth600 \cellx600 
+\clpadb90 \clpadfb3 \clpadl90 \clpadfl3 \clbrdrt \clbrdrb \clbrdrr \trql \clwWidth9480 \cellx10080 
+\intbl 
+{\li0 \ri0 
+{\li0 \f2 \b0 \ql \ri0 \fs20 \cf1 \i0 
+{\f2 \b0 \fs20 \cf1 \i0 
+{\*\bkmkstart co_footnote_B021121974127232_1}{\*\bkmkend co_footnote_B021121974127232_1}
+{\field {\*\fldinst HYPERLINK "#co_footnoteReference_B021121974127232_ID" }{\fldrslt 
+{\super \f2 \strike0 \ul0 \b0 \sa0 \sb0 \fs20 \cf5 \i0 
+12
+}\f2 \super \strike0 \ul0 \b0 \sa0 \sb0 \fs20 \cf5 \i0 }}
+\par 
+}
+}
+}\f2 \li0 \b0 \ql \fs20 \ri0 \cf1 \i0 \intbl \cell \intbl 
+{\li0 \ri0 
+{\li0 \f2 \qj \b0 \ri0 \fs18 \cf1 \i0 
+{\li0 \f2 \qj \b0 \ri0 \fs18 \cf1 \i0 
+{\li0 \f2 \qj \b0 \ri0 \fs18 \cf1 \i0 
+{\f2 \strike0 \ul0 \b0 \sa0 \sb0 \fs18 \cf1 \i0 
+My Brother DOUGLAS\rquote  contrary view, that \u8216\'3fthe right of the commuters to be free from forced intrusions on their privacy precludes the city from transforming its vehicles of public transportation into forums for the dissemination of ideas upon this captive audience,\u8217\'3f irrespective of whether the speech in question is commercial or noncommercial, ante at 2719, does not dispose of the First and Fourteenth Amendment issues in this case. The record reveals that the Shaker Heights Rapid Transit System provides advertising space on the outside as well as the inside of its cars. See App. 24A, Lehman was denied access to both. Whatever applicability a \u8216\'3fcaptive audience\u8217\'3f theory may have to interior advertising, it simply cannot justify the city\rquote s refusal to rent Lehman exterior advertising space.
+\par 
+}
+}
+}
+}
+}\f2 \li0 \strike0 \ul0 \b0 \qj \sa0 \sb0 \fs18 \ri0 \cf1 \i0 \intbl \cell \row }}\par 
+}
+{\li0 \f2 \qj \b0 \ri0 \fs20 \cf1 \i0 
+{\li0 \f2 \qj \b0 \ri0 \fs20 \cf1 \i0 
+{\f2 \strike0 \ul0 \b0 \sa0 \sb0 \fs20 \cf1 \i0 
+The city\rquote s remaining justification is equally unpersuasive. The city argues that acceptance of \u8216\'3fpolitical advertisements in the cars of the Shaker Heights rapid transit, would suggest, on the one hand, some political favoritism is being granted to candidates who advertise, or, on the other hand, that the candidate so advertised is being supported or promoted by the government of the City.\u8217\'3f Brief for Respondents 8. Clearly, such ephemeral concerns do not provide the city with carte blanche authority to exclude an entire category of speech from a public forum. \u8216\'3fThese pragmatic hurdles are no more relevant to a public forum when it is a motor coach than they are to a public park or a school auditorium. The endorsement of an opinion expressed in an advertisement on a motor coach is no more attributable to the transit district than the view of a speaker in a public park is to the city administration or the tenets of an organization using school property for meetings is to the local school board.\u8217\'3f 
+}
+{\field {\*\fldinst HYPERLINK "http://www.westlaw.com/Link/Document/FullText?findType=Y&serNum=1968127841&pubNum=661&originatingDoc=I0a4487ea9bf011d991d0cc6b54f12d4d&refType=RP&fi=co_pp_sp_661_989&originationContext=document&vr=3.0&rs=cblt1.0&transitionType=DocumentItem&contextData=(sc.Search)#co_pp_sp_661_989" }{\fldrslt 
+{\f2 \strike0 \ul0 \b0 \sa0 \sb0 \fs20 \cf5 \i0 
+Wirta v. Alameda-Contra Costa Transit District, 68 Cal.2d 51, 61, 64 Cal.Rptr. 430, 437, 434 P.2d 982, 989 (1967)
+}}}
+{\f2 \strike0 \ul0 \b0 \sa0 \sb0 \fs20 \cf1 \i0 
+. The city has introduced no evidence demonstrating that its rapid transit passengers would naively think otherwise. And though there may be \u8216\'3flurking doubts about favoritism,\u8217\'3f ante, at 2718, the Court has held that \u8216\'3f(n)o such remote danger can justify the immediate and crippling impact on the basic constitutional rights involved in this case.\u8217\'3f 
+}
+{\field {\*\fldinst HYPERLINK "http://www.westlaw.com/Link/Document/FullText?findType=Y&serNum=1968131244&pubNum=708&originatingDoc=I0a4487ea9bf011d991d0cc6b54f12d4d&refType=RP&fi=co_pp_sp_708_12&originationContext=document&vr=3.0&rs=cblt1.0&transitionType=DocumentItem&contextData=(sc.Search)#co_pp_sp_708_12" }{\fldrslt 
+{\f2 \strike0 \ul0 \b0 \sa0 \sb0 \fs20 \cf5 \i0 
+Williams v. Rhodes, 393 U.S., at 33, 89 S.Ct., at 12
+}}}
+{\f2 \strike0 \ul0 \b0 \sa0 \sb200 \fs20 \cf1 \i0 
+.
+\par 
+}
+}
+}
+{\li0 \f2 \qj \b0 \ri0 \fs20 \cf1 \i0 
+{\li0 \f2 \qj \b0 \ri0 \fs20 \cf1 \i0 
+{\f2 \strike0 \ul0 \b0 \sa0 \sb0 \fs20 \cf1 \i0 
+Moreover, neutral regulations, which do not distinguish among advertisements on the basis of subject matter, can be narrowly tailored to allay the city\rquote s fears. The impression of city endorsement can be dispelled by requiring disclaimers to appear prominently on the face of 
+}
+{\f2 \b1 \fs20 \cf1 \i0 
+{\*\bkmkstart co_pp_sp_780_322_1}{\*\bkmkend co_pp_sp_780_322_1}
+{\f2 \strike0 \ul0 \b1 \sa0 \sb0 \fs20 \cf1 \i0 
+*322
+}
+}
+{\f2 \strike0 \ul0 \b0 \sa0 \sb0 \fs20 \cf1 \i0 
+ every advertisement.
+}
+{\f2 \b0 \fs16 \cf1 \i0 
+{\*\bkmkstart co_footnoteReference_B022131974127232_ID}{\*\bkmkend co_footnoteReference_B022131974127232_ID}
+{\field {\*\fldinst HYPERLINK "#co_footnote_B022131974127232_1" }{\fldrslt 
+{\super \f2 \strike0 \ul0 \b0 \sa0 \sb0 \fs16 \cf5 \i0 
+13
+}}}
+}
+{\f2 \strike0 \ul0 \b0 \sa0 \sb200 \fs20 \cf1 \i0 
+ And while problems of accommodating all potential advertisers may be vexing at times, the appearance of favoritism can be avoided by the evenhanded regulation of time, place, and manner for all advertising, irrespective of subject matter.
+\par 
+}
+}
+}
+{\li0 \f2 \qj \b0 \ri0 \fs20 \cf1 \i0 {
+{\trowd \lastrow \trleft0 
+\clbrdrt \clbrdrb \clbrdrl \trql \clvertalt \clwWidth600 \cellx600 
+\clpadb90 \clpadfb3 \clpadl90 \clpadfl3 \clbrdrt \clbrdrb \clbrdrr \trql \clwWidth9480 \cellx10080 
+\intbl 
+{\li0 \ri0 
+{\li0 \f2 \b0 \ql \ri0 \fs20 \cf1 \i0 
+{\f2 \b0 \fs20 \cf1 \i0 
+{\*\bkmkstart co_footnote_B022131974127232_1}{\*\bkmkend co_footnote_B022131974127232_1}
+{\field {\*\fldinst HYPERLINK "#co_footnoteReference_B022131974127232_ID" }{\fldrslt 
+{\super \f2 \strike0 \ul0 \b0 \sa0 \sb0 \fs20 \cf5 \i0 
+13
+}\f2 \super \strike0 \ul0 \b0 \sa0 \sb0 \fs20 \cf5 \i0 }}
+\par 
+}
+}
+}\f2 \li0 \b0 \ql \fs20 \ri0 \cf1 \i0 \intbl \cell \intbl 
+{\li0 \ri0 
+{\li0 \f2 \qj \b0 \ri0 \fs18 \cf1 \i0 
+{\li0 \f2 \qj \b0 \ri0 \fs18 \cf1 \i0 
+{\li0 \f2 \qj \b0 \ri0 \fs18 \cf1 \i0 
+{\f2 \strike0 \ul0 \b0 \sa0 \sb0 \fs18 \cf1 \i0 
+Metro\rquote s current copy policy provides for such disclaimers in those city transit systems that accept political advertisements. See n. 2, supra, at (5).
+\par 
+}
+}
+}
+}
+}\f2 \li0 \strike0 \ul0 \b0 \qj \sa0 \sb0 \fs18 \ri0 \cf1 \i0 \intbl \cell \row }}\par 
+}
+{\li0 \f2 \qj \b0 \ri0 \fs20 \cf1 \i0 
+{\li0 \f2 \qj \b0 \ri0 \fs20 \cf1 \i0 
+{\f2 \strike0 \ul0 \b0 \sa0 \sb200 \fs20 \cf1 \i0 
+I would, therefore, reverse the judgment of the Supreme Court of Ohio and remand this case for further proceedings not inconsistent with this opinion.
+\par 
+}
+}
+}
+}
+}
+}
+}
+}
+{\li0 \f2 \qj \b0 \ri0 \fs20 \cf1 \i0 
+{\li0 \f2 \qj \b1 \ri0 \fs20 \cf20 \i0 
+{\*\bkmkstart co_allCitations_1}{\*\bkmkend co_allCitations_1}
+{\f2 \strike0 \ul0 \b1 \sa200 \sb400 \fs20 \cf20 \i0 
+All Citations
+\par 
+}
+}
+{\f2 \strike0 \ul0 \b0 \sa0 \sb0 \fs20 \cf1 \i0 
+418 U.S. 298, 94 S.Ct. 2714, 41 L.Ed.2d 770
+\par 
+}
+}
+{\li0 \f2 \qj \b0 \ri0 \fs20 \cf1 \i0 {
+{\trowd \lastrow \trleft0 
+\clpadt24 \clpadft3 \clpadl100 \clpadfl3 \clpadr24 \clpadfr3 \clbrdrt \brdrw10 \brdrcf22 \brdrs \clbrdrb \clbrdrl \trql \clwWidth4320 \cellx4320 
+\clpadt24 \clpadft3 \clpadl100 \clpadfl3 \clpadr24 \clpadfr3 \clbrdrt \brdrw10 \brdrcf22 \brdrs \clbrdrb \clbrdrr \trql \clwWidth5760 \cellx10080 
+\intbl 
+{\li24 \ri24 
+{\li24 \f2 \b1 \ql \ri24 \fs16 \cf22 \i0 
+{\f2 \strike0 \ul0 \b1 \sa0 \sb0 \fs16 \cf22 \i0 
+End of Document
+\par 
+}
+}
+}\f2 \li24 \strike0 \ul0 \b1 \sa0 \ql \sb0 \fs16 \ri24 \cf22 \i0 \intbl \cell \intbl 
+{\li24 \ri24 
+{\li24 \f2 \b0 \ri24 \fs16 \cf22 \qr \i0 
+{\f2 \strike0 \ul0 \b0 \sa0 \sb0 \fs16 \cf22 \i0 
+\u169\'3f 2015 Thomson Reuters. No claim to original U.S. Government Works.
+\par 
+}
+}
+}\f2 \li24 \strike0 \ul0 \b0 \sa0 \sb0 \fs16 \ri24 \cf22 \i0 \qr \intbl \cell \row }}\par 
+}
+}\sect }

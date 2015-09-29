@@ -1,0 +1,317 @@
+The Declaration of Independence opens with the following memorable
+passage:
+
+When in the Course of human Events, it becomes necessary for
+one People to dissolve the Political Bands which have connected them
+with another, and to assume among the Powers of the Earth, the
+separate and equal Station to which the Laws of Nature and of
+Nature's God entitle them, a decent Respect to the Opinions of
+Mankind requires that they should declare the causes which impel
+them to the Separation.'
+
+As Professor Louis Henkin has noted, the early architects of our Nation
+understood that the customs of nations-the global opinions of
+mankind-would be binding upon the newly forged union. John Jay, the first
+Chief Justice of the United States, observed in Chisolm v. Georgia that the
+United States "had, by taking a place among the nations of the earth, become
+amenablet o the laws of nations." Although the Constitution gives Congress
+the power to "define and punish . . . Offenses against the Law of Nations"
+and identifies treaties as part of "the supreme Law of the Land,"' the task of
+further defining the role of international law in the nation's legal fabric has
+fallen to the federal courts.
+
+Several first principles have been established. As early as 1804, in Murray
+v. Schooner Charming Betsy, the Supreme Court recognized that "an act of
+congress ought never to be construed to violate the law of nations if any other
+possible construction remains." In a trilogy of cases in the 1880's, the Court
+established that treaties are on equal footing with federal statutes and that,
+where a treaty and statute cannot be reconciled, the later in time is
+controlling. Finally, in the case of The Paquete Habana, decided in 1900,
+the Supreme Court addressed the ability of courts to enforce customary
+international law. In invalidating the wartime seizure of private fishing vessels as contrary to the law of nations, the Court observed:" International law is part of our law, and must be ascertained and administered by the courts. [W]here there is no treaty, and no controlling executive or legislative act or judicial decision, resort must be had to the customs and usages of civilized nations . . . Although commentators continue to debate the extent of executive, legislative, or judicial power to trump customary international law,
+the import of The Paquete Habana is clear: Customary international law
+informs the construction of domestic law, and, at least in the absence of any
+superseding positive law, is controlling. The Paquete Habana left many questions unanswered, and courts since
+have backed away from some of that decision's more sweeping promises. The
+principles established during the Supreme Court's first century, however,
+continue to define the relationship between the law of nations and domestic
+American law. This Article considers the Supreme Court's application of these
+principles in four recent cases. The first two, United States v. Alvarez-
+Machain and Sale v. Haitian Centers Council, Inc., required the Court
+to examine the validity of executive action in light of binding international
+treaties. The last two, Thompson v. Oklahoma and Stanford v. Kentucky,
+addressed the implications of international law for Eighth Amendment death penalty jurisprudence. Unfortunately, I conclude from these cases that the
+Supreme Court recently has shown something less than "a decent respect to the
+opinions of mankind."
+
+II. CONSTRUING INTERNATIONAL INSTRUMENTS
+
+Two Terms ago, in the case of United States v. Alvarez-Machain, the
+Supreme Court was asked to consider whether the forced abduction of a Mexican national by United States agents violated a U.S.-Mexico extradition
+treaty. Over the vehement protest of the Mexican government,
+Dr. Humberto Alvarez-Machain was kidnaped in Mexico and brought to the
+United States to stand charges for the kidnaping, torture, and murder of a U.S.
+Drug Enforcement Administration agent. The district court dismissed the
+charges, concluding that the abduction violated the U.S.-Mexico extradition
+treaty. The Supreme Court disagreed, holding, by a 6-3 vote, that the abduction
+had not violated the extradition treaty. Although the treaty established
+comprehensive procedures for the extradition of foreign nationals wanted for
+prosecution by the other sovereign, Chief Justice Rehnquist observed for the
+majority that the treaty was silent with regard to "the obligations of the United States and Mexico to refrain from forcible abductions of people from the
+territoryo f the other nation."' In the absence of an express prohibition,t he
+majority reasoned, the kidnaping must be allowed. Ignoring the hornbook
+principle that a treaty shall be interpreteda ccordingt o its ordinarym eaning
+and in light of its object and purpose, the majority rejected the contention that its interpretation would eviscerate the treaty's purpose,' even while
+acknowledging that the abduction "may be in violation of general international
+law principles."'
+Justice Stevens condemned the Court's holding in a dissent in which
+Justice O'Connor and I joined. The dissenters argued that construing the
+treaty's silence to allow kidnaping would reduce its provisions to mere
+"verbiage"' and would violate the treaty's spirit and purpose. Extradition
+treaties codify fundamental international norms. They preserve the territorial
+integrity of nations, protecti individuals from arbitrary detention and arrest, and prevent international conflict. Transborder kidnaping, of course, violates each
+of these overarching goals. The Supreme Court, it seems to me, thus construed
+the treaty to permit the precise result that the document was drafted to forbid.
+In so doing, the Supreme Court also ignored customary international law.
+Quoting an article by Professor Henkin, the dissenting opinion observed that
+with or without an extradition treaty, abducting a person from a foreign
+country without the foreign government's consent "'is a gross violation of
+international law and gross disrespect for a norm high in the opinion of
+mankind. It is a blatant violation of the territorial integrity of another state;
+[and] it eviscerates the [global] extraditions ystem."' Even with the consent of the foreign sovereign, kidnaping a foreign national flagrantly violates
+peremptory human rights norms. Ironically, in its construction of the treaty, the
+Supreme Court could have benefited from the example of the highest court of
+South Africa, which recently dismissed the prosecution of a person kidnaped
+from a neighboring country. In language strikingly reminiscent of that in The
+Paquete Habana, the court concluded that an "'abduction represents a violation
+of the applicable rules of international law, that these rules are part of [South
+African] law, and that this violation of the law deprive[d] the Court . .. of its competence to hear [the] case."'
+The Alvarez-Machain chapter i  the Supreme Court's history closed with
+a poetic twist. In December 1992, the district court dismissed the criminal
+charges against Dr. Alvarez-Machain, concluding that the government's
+evidence supporting the indictment was insufficient.
+In my view, the Supreme Court's Alvarez-Machain decision did
+tremendous damage to the fabric of both conventional and customary
+international law. If the Supreme Court's holding was correct and the
+abduction of Dr. Alvarez-Machain was consistent with the extradition treaty,
+then the treaty constrains Mexico from kidnaping U.S. nationals no more than
+it constrains the United States. Similarly, according to the Court's reasoning,
+rather than negotiating for the extradition of John Demjanjuk, Israel could have kidnaped him and held him for trial on any charges it wished. The Court's
+interpretation thus would subvert the entire purpose of the global extradition
+system.
+
+We perhaps can take some comfort in the fact that although the Supreme
+Court is the highest court in the land, its rulings are not necessarily the final word on questions of international law. The Alvarez-Machain decision
+provoked domestic and international outcry and was deemed by the Inter-
+American Juridical Committee to be "contrary to the rules of international
+law." And the decision and its aftermath inspired a searching reexamination,
+in both Congress and the Justice Department, of the
+Government's kidnaping policy. In June 1993, the United States and Mexico
+formally agreed to negotiate a ban on the practice of transborder kidnaping.
+Thus, as is often the case, it appears to have taken a troublesome Supreme Court decision to launch the process of bringing domestic law in line with
+international practice.
+B. Sale v. Haitian Centers Council, Inc.
+Last Term, the Supreme Court again was called upon to construe an
+international treaty, with equally disturbing results for the opinions of mankind.
+Sale v. Haitian Centers Council, Inc. concerned a challenge by Haitian
+refugees to the U.S. policy of interdicting all Haitians who fled Haiti on the
+high seas and summarily returning them to Haiti, without any inquiry into their
+asylum claims or even their intended destination. Central to the Haitian
+plaintiffs' challenge was Article 33.1 of the United Nations Convention
+Relating to the Status of Refugees. That Article provides: "No Contracting
+State shall expel or return ('refouler') a refugee in any manner whatsoever to
+the frontiers of territories where his life or freedom would be threatened."27
+The principle of nonrefoulement expressed in Article 33.1-that no refugee
+may be returned to a country where he will suffer persecution-guarantees one
+of the most fundamental international rights of refugees. More than 120
+nations, including the United States, have acceded to the binding obligations
+of Article 33. 1.28 In 1980, Congress adopted 243(h) of the Immigration and
+Nationality Act,29 which mirrors the language of Article 33.1, in order to
+bring U.S. law expressly into compliance with the Refugee Convention.
+In construing 243(h) and Article 33.1 in Haitian Centers Council, the
+Court once again failed to respect its first principles of international law.
+Turning first to the statute, the Court remarkably applied a presumption against extraterritoriality to without considering the fact that the statute was enacted pursuant to a multilateral treaty, and without acknowledging the
+primacy of the principle of nonrefoulementin customary international law.
+The Court thus ignored a maxim recognized since Schooner Charming Betsy:
+An Act of Congress-and particularly a statute enacted pursuant to a
+treaty-ought never to be construed to violate a coextensive treaty or otherwise
+to contradict customary international law.
+Having established that 243(h) does not apply beyond U.S. borders, the
+Court then reasoned backwards to construe the language of Article 33.1-a
+global convention-in light of its interpretationof Americani mmigrationl aw.
+The language of Article 33.1 absolutely prohibits the "return" of any refugee
+"in any manner whatsoever," without geographical limitation. The Supreme
+Court nevertheless concluded that the prohibition applies only after a refugee
+successfully enters U.S. territory. Neither the treaty nor the statute,
+therefore, prevents the United States from reaching outside its territory to
+exercise jurisdiction over bona fide refugees in international waters.
+Writing this time for the 8-1 majority, Justice Stevens conceded that "[lt]he
+drafters of the Convention . . . may not have contemplated that any nation
+would gather fleeing refugees and return them to the one country they had
+desperately sought to escape."34" [S]uch actions," the Court acknowledged,
+"may even violate the spirit of Article 33."35 Nevertheless, the Court
+concluded that "[b]ecause the text of Article 33 cannot reasonably be read to
+say anything at all about a nation's actions toward aliens outside its own
+territory, it does not prohibit such actions." The Court thus accomplished
+precisely what Justice Stevens' dissent had so vehemently criticized in Alvarez- Machain the Term before. Once again, the Court interpreted a treaty contrary to its plain meaning, spirit, and purpose, and contrary to the tenets of customary international law.
+
+I was the sole dissenter in Haitian Centers Council. Although I shall not
+belabor the argument, to me the mandate and spirit of the Refugee Convention
+are clear: "Vulnerable refugees shall not be returned." Article 33.1 forbids
+nations from returning any refugee to a territory where he will suffer
+persecution. This, of course, is precisely what the Government did when it
+interdicted and forcibly returned Haitian refugees.
+In the conclusion to my dissent, I noted that Article 33.1 was drafted
+largely in response to the experience of Jewish refugees during World
+War II-refugees the United States and nations of Europe repelled and
+returned to the gas chambers of Nazi Germany. Article 33.1 was meant to
+ensure that this international nightmare would not be repeated. To allow
+nations to skirt their solemn treaty obligations and return vulnerable refugees
+to persecutions imply by intercepting them in international waters is, as the
+district court in Haitian Centers Council noted, to turn the Refugee Convention
+into a "cruel hoax." As in the Alvarez-Machain case, the Haitian Centers Council decision was not the final chapter in domestic compliance with Article 33.1 or in the plight of the Haitian refugees. The political reverberationsh ave been mixed. The decision immediately was invoked in some circles to justify the return of
+undocumented Chinese immigrants interdicted outside U.S. territorial waters,
+and the Justice Department's Office of Legal Counsel recently relied on the
+decision to conclude thatr efugees interdicted in United States waters enjoy no
+protection against refoulement. But the Haitian Centers Council litigation
+also stirred domestic protest and prompted the filing of a petition challenging
+the United States policy before the Inter-American Commission on Human
+Rights. In May 1994, President Clinton finally vindicated the Haitian
+plaintiffs by terminating the policy, conceding that the United States was
+returning bona fide refugees to torture at the hands of the Haitian military.42
+While we may celebrate these positive steps toward reconciling United States
+practice with international law, I regret that they were necessary to counter the Supreme Court's disregard for clear principles of international law.
+Do not the decisions in the Alvarez-Machaina nd Haitian Centers Council
+cases reflect a disturbing disregard on the part of the Supreme Court of its
+obligations when construing international law. Treaties are contracts among
+nations and thus must be interpreted with sensitivity toward the customs of the
+world community. In each of these cases, however, the Court ignored its first
+principles and construed the challenged treaty in a manner directly contrary to
+the opinions of mankind.
+
+III. RESPECT FOR THE LAW OF NATIONS IN CONSTITUTIONAL LAW
+Although questions of international law typically arise before the Court in
+cases involving the construction of international conventions, the law of
+nations is implicated in Supreme Court jurisprudence in other situations as
+well. International law can and should inform the interpretation of various
+clauses of the Constitution, notably the Due Process Clause and the Eighth
+Amendment prohibition against cruel and unusual punishments. I thus turn to
+a second area where the Court has failed to inform its decisions with a "decent
+respect to the opinions of mankind":t he execution of juvenile offenders.
+For nearly half a century, the Supreme Court has acknowledged that the
+Eighth Amendment's Cruel and Unusual Punishments Clause "must draw its
+meaning from evolving standards of decency that mark the progress of a
+maturings ociety."43T he drafterso f the Amendment were concerned, at root
+with "the dignity of man," and understood that "evolving standards of
+decency" should be measured, in part, against international norms. Thus, in
+cases striking down the death penalty as a punishment for rape or for
+unintentional killings, the Court has looked to both domestic custom and the
+"climate of international opinion to determine what punishments are cruel and
+unusual.47
+Taking international law seriously where the death penalty is concerned,
+of course, draws into question the United States' entire capital punishment
+enterprise. According to Amnesty International, more than fifty countries
+(including almost all of Western Europe) have abolished the death penalty
+entirely, and thirty-seven others either have ceased imposing it or have limited
+its imposition to extraordinary crimes. Even those countries that continue
+to impose the death penalty almost universally condemn the execution of
+juvenile offenders. They do so in recognition of the fact that juveniles are
+too young, and too capable of growth and development, to act with the
+culpability necessary to justify society's ultimate punishment. The United
+States, however, persistently has defended its "right" to sentence juvenile
+offenders to death.
+Challenges to the execution of juvenile offenders came to the Court twice
+in the late 1980's. In 1987, the Court considered the constitutionality of the
+death sentence of William Wayne Thompson, imposed by an Oklahoma court
+for a crime Thompson committed at the age of fifteen. A plurality of four,
+Justices Brennan, Marshall, Stevens, and I, concluded that the "civilized
+standards of decency" embodied in the Eighth Amendment prohibited
+Thompson's execution. We observed that states that had considered the
+issue universally liimited capital punishment to defendants age sixteen or older
+at the time of the offense. Writing for the plurality, Justice Stevens noted
+that this conclusion was consistent with international practice, since the
+execution of minors was prohibited by the nations of Western Europe" and
+by the Soviet Union. Both the plurality and Justice O'Connor's concurrence
+found it significant that three major international human rights treaties
+explicitly prohibited juvenile death penalties and that one of these
+instruments-Article 68 of the Geneva Convention-had been ratified by the
+United States.
+In a dissent joined by Chief Justice Rehnquist and Justice White, Justice
+Scalia denounced as "totally inappropriate" the plurality's reliance on
+international practice." [T]he views of other nations,  owever enlightened the
+Justices of this Court may think them to be," Justice Scalia argued, "cannot be
+imposed upon Americans through the Constitution." Justice Scalia's view
+that international practice is irrelevant to construction of the Eighth
+Amendment is ironic for an originalist, given that the drafters of the
+Constitution necessarily referred to foreign, rather than American, norms at the time it was adopted. Justice Scalia's position did not prevail, however, and today Thompson v. Oklahoma stands for the proposition that the Eighth
+Amendment prohibits the execution of fifteen-year-old offenders.
+Two Terms later, the same question returned to the Court in cases
+involving juveniles sentenced to death for crimes they committed at the age of
+sixteen or older. This time a different conception of the Eighth Amendment
+prevailed. In a 5-4 majority opinion, the Supreme Court held in Stanford v.
+Kentucky that the Eighth Amendment does not prohibit the execution of
+juveniles for crimes committed at age sixteen. Now writing for the majority,
+Justice Scalia emphasized that "it is American conceptions of decency that are
+dispositive," and rejected the contention of the petitioners and their amici that the juvenile sentencing practices of other countries were relevant.
+Justice Brennan wrote the dissent for the four members of the Thompson
+plurality. Arguing that the Court consistently has recognized "that objective
+indicators of contemporary standards of decency in the form of legislation in
+other countries is also of relevancet o Eighth Amendment analysis," Justice
+Brennan observed that "[w]ithin the world community, the imposition of the
+death penalty for juvenile crimes appears to be overwhelmingly
+disapproved."
+Justice Brennan was correct. As Amnesty Internationahl as reported, the
+United States "stands almost alone in the world in still executing offenders
+who were under-18a t the time of the crime." There can be no question that
+the law of nations prohibits the execution of juvenile offenders. At least
+seventy-two of the countries that retain the death penalty prohibit the execution
+of persons under eighteen at the time of the offense. Global conventions
+such as the International Covenant on Civil and Political Rights, to which over
+125 nations have acceded, forbid the death penalty for offenses committed
+by juveniles under eighteen. In the decade preceding the Stanford decision,
+only eight juvenile offenders had been executed worldwide. Three of these
+executions occurred in the United States.66 Since 1984, nine juvenile
+offenders have been executed in the United States alone, and, as of October
+1993, at least thirty-one condemned juveniles were on America's death
+rows. These figures have led Amnesty International to conclude that the
+United States has carried out more executions of juvenile offenders and has
+more juvenile offenders on death row than perhaps any other nation. Rather
+than trying to reconcile the dissonance between domestic and international
+practice, however, the Supreme Court's recent decisions have exacerbated it.
+In a 5-4 decision last term, the Supreme Court upheld a law allowing Texas
+courts to sentence juvenile offenders to death without ever instructing the jury to consider the defendant's age as a circumstance mitigating against death. Refusing to consider international practice in construing the Eighth
+Amendment is convenient for a Court that wishes to avoid conflict between the
+death penalty and the Constitution. But it is not consistent with this Court's
+established construction of the Eighth Amendment. If the substance of the
+Eighth Amendment is to turn on the "evolving standards of decency" of the
+civilized world, there can be no justification for limiting judicial inquiry to the
+opinions of the United States. Under the principles set forth in The Paquete
+Habana, interpretation of the Eighth Amendment, no less than interpretations
+of treaties and statutes, should be informed by a decent respect for the global
+opinions of mankind. Professor Henkin poignantly has observed that "almost all nations observe
+almost all principles of international law and almost all of their obligations
+almost all of the time." Unfortunately, as the cases I have discussed
+illustrate, the Supreme Court's own recent record in the area is somewhat more
+qualified. At best, I would say that the present Supreme Court enforces some
+principles of international law and some of its obligationss ome of the time.
+The reasons for the Court's failures in this area are not very clear.
+Concerns about separation of powers and judicial competence often make
+courts reluctant to second-guess other branches of government in areas
+involving international affairs. Modern jurists also are notably lacking in the
+diplomatic experience of early Justices such as John Jay and John Marshall,
+who were familiar with the law of nations and comfortable navigating by it.
+Never before, however, has an understanding of international law been
+more important. During my thirty-foury ears of service on the federal bench,
+the United States has become economically and politically intertwined with the
+rest of the world as never before. International human rights conventions-still
+a relatively new idea when I came to the bench in 1959-have created mutual
+obligations that are accepted throughout the world. As we approacht he 100th
+anniversary of The Paquete Habana, then, it perhaps is appropriate to remind
+ourselves that the United States is part of the global community, that
+"[i]nternational law is part of our law," and that courts should construe our
+statutes, our treaties, and our Constitution, where possible, consistently with
+"the customs and usages of civilized nations." Although the recent decisions
+of the Supreme Court do not offer much hope for the immediate future, I look
+forward to the day when the majority of the Supreme Court will inform almost
+all of its decisions almost all of the time with a decent respect to the opinions of mankind.
+

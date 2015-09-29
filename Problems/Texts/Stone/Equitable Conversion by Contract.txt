@@ -1,0 +1,547 @@
+EQUITABLE CONVERSION BY CONTRACT. 
+
+If A and B enter into a contract for the sale of land, they 
+respectively acquire rights and incur obligations in equity much 
+more extensive than the rights and obligations of the parties at 
+law, and certain consequences flow from the contract which are inconsistent with the rights of the parties at law. So far as these 
+rights and obligations in equity are definitely settled by judicial 
+decision they may be briefly enumerated as follows: 
+
+1. The vendee's heir or devisee may compel specific performance by a conveyance of the title to him 1 whereas the legal title to 
+the contract and the right to recover legal damages thereon vest 
+in the personal representative of the vendee. As a consequence, 
+the personal representatives of the vendor and of the vendee will 
+not be permitted in equity to rescind or release the contract without the consent of the vendee's heir. 2 
+
+2. The vendor's heir or devisee is bound by the contract to the 
+extent that he is bound to convey the property, pursuant to the 
+contract, 3 although the vendor's personal representative is entitled 
+to receive the purchase money. 4 
+
+3. The vendee's widow has dower in the property in jurisdictions where there is dower in an equitable right to land.
+
+4. The assignee of the vendor's contract or the personal 
+representative of the vendor is entitled, as against the vendor or 
+his heir or devisee, to compel the conveyance of the land pursuant 
+to the contract, 6 or to compel its sale and the application of the 
+proceeds in payment of the purchase price. 
+
+5. The vendee can compel husband-like conduct by the vendor 
+pending a conveyance. 
+
+6. In most jurisdictions, in equity, the burden of loss or injury 
+to the property pending conveyance, without the fault of the vendor 
+falls on the vendee, 8 although at law the loss would fall on the 
+vendor as the owner of the legal title. 
+
+These differences in result in courts of law and in the courts 
+of equity have been attributed both by text 10 and by judicial 
+writers 11 to the application of the so-called doctrine of "equitable 
+conversion." This doctrine may be said to have been originated 
+by Lord Eldon, who stated it in its modern form in Seaton v. 
+Slade, 12 as follows :
+
+"The effect of a contract for purchase is very different at Law 
+and in Equity. At Law the estate remains the estate of the vendor ; and the money that of the vendee. It is not so here. The estate from the sealing of the contract is the real property of the 
+vendee. It descends to his heirs. It is devisible by his will; and 
+the question, whose it is, is not to be discussed merely between the 
+vendor and vendee ; but may be to be discussed between the representatives of the vendee." 
+
+The commonly accepted view of this doctrine was stated by 
+Jessel, M. R., in Lysaght v. Edwards™ in commenting on the legal 
+consequences of entering into a contract specifically enforceable, 
+as follows: 
+
+"Being a valid contract, it has this remarkable effect, that it 
+coverts the estate, so to say, in equity; it makes the purchase money a part of the personal estate of the vendor, and it makes 
+the land a part of the real estate of the vendee; and therefore all 
+those cases on the doctrine of constructive conversion are founded 
+simply on this, that a valid contract actually changes the ownership of the estate in equity." 
+
+The continuing influence 6f this doctrine as a basis of judicial 
+decision could not be better illustrated than by the opinion of the 
+court in the recent case of Rockland Company v. Leary. 13 * Judge 
+Vann said in part in discussing this subject: 
+
+"The doctrine of equitable conversion rests on the presumed 
+intention of the owner of the property and on the maxim that equity 
+regards as done what ought to be done. The conversion usually 
+becomes effective at the date of the instrument expressing the intention, if a deed or contract, and if a will, at the date of the testator's death." 
+
+The statement which is so frequently made by writers on 
+the subject that equitable conversion by contract arises from the 
+''presumed intention" of the parties is only another way of saying 
+that it does not rest upon intention at all, but depends rather upon the operation of rules of law, regardless of the intent of the 
+owner. As will sufficiently appear hereafter, a so-called equitable 
+conversion may take place without the actual intent of the owner, 
+and in many cases it will fail, because of defects in or defenses to 
+the contract, the existence of which were unknown to the owner 
+and could not therefore have affected his intent. In this respect 
+the equitable conversion by contract differs from equitable conversion under a will which depends upon the intention of the testator as expressed in the will. 
+ 
+
+It is obvious that all occasions- for the application of the 
+doctrine of equitable conversion by contract will arise in connection with one or two classes of cases, which may be enumerated 
+as follows: 
+
+i. Where the contract is actually being specifically performed. 
+
+2. Where there is no specific performance of the contract, but 
+where the court is called upon to determine what person or class 
+of persons is entitled to the real estate which is the subject of the 
+contract, on the one side, and the purchase money, which is obligated to be paid, on the other. 
+
+In the first class of cases the court is engaged in actually compelling the conversion which by operation of the fiction of equitable conversion is supposed already to have taken place. In 
+this class of cases, therefore, the utility of the fiction, as well as 
+its soundness, may be tested by inquiring whether any different 
+result would be reached by the application of accepted legal principles, without resort to the fiction of equitable conversion. 
+
+The effect of the contract of sale of land has been stated to be 
+that the vendor becomes a trustee of the land for the vendee and 
+the vendee becomes a trustee of the purchase money for the vendor. 14 While this statement contains a germ of truth, it is obviously inaccurate, because the vendor is unlike a trustee in many 
+particulars. He has a personal interest in the land; he is entitled 
+to its rents, issues and profits until the date of performance; 15 
+he holds the title as security for the payment of the purchase 
+price ; 18 the proceeds of the insurance effected by him he holds for 
+his own benefit and not the benefit of the vendee. 17 The vendee, on 
+the other hand, is a mere debtor. He holds no specific property 
+for the vendor, and his sole obligation in law and in equity is to 
+pay the purchase money on the conveyance of the vendor's title. 
+More accurately stated, the obligation of the vendor in equity is 
+to convey land to the vendee. The vendee is the owner of the 
+correlative right in equity to have the vendor convey. Since, 
+therefore, the vendee has an equitable right to the property of 
+the vendor, he has an equitable right to restrain the vendor and 
+those claiming under him from impairing that obligation. Thus 
+he may restrain the conveyance of the land to third persons. 18 He 
+may compel a purchaser from a vendor with notice or a donee 
+without notice to convey the land in performance of the contract. 10 
+He may compel the vendor to account for unhusbandlike conduct 
+pending conveyance and he may restrain injury to the freehold by 
+the vendor pending conveyance. 20 Since the vendee has an equitable right to call for a conveyance of the land, just as in the case 
+of the law affecting the right of a cestui que trust of land, his 
+right for purposes of devolution will be treated as land. The 
+vendee's equitable right, therefore, in equity passes to his heir or 
+devisee 21 and in jurisdictions where there is dower in an equitable 
+right to land his widow is entitled to dower. 22 In each of these 
+cases equity is only disposing of the rights of the parties in accordance with its settled rule with respect to equitable rights in 
+real estate. The right of the beneficiary of a trust of land and 
+the equitable right of the common law mortgagor of land, are 
+for all purposes treated as real estate without resort to any principle of equitable conversion. Upon like principle the equitable right 
+of the vendee to call for the land in the hands of the vendor should 
+pass to the vendee's heirs, regardless of any theory of equitable 
+conversion. 
+
+The result, therefore, is that in the case of a contract for the 
+sale of land, where both the vendor and the vendee are dead, the 
+vendee's equitable right to the performance has descended to the 
+heir, who has the right to specific performance. The obligation 
+to convey, however, rests upon the vendor's heir, not because he 
+is subject to obligations in contract, but because he is in the precise 
+position of a donee of property held subject to an equitable 
+obligation. He will not be permitted to retain the property in 
+violation of that obligation any more than would a donee of trust 
+property be permitted to retain it. 
+
+The right to receive the purchase money, however, has at law 
+vested in the personal representative of the vendor, since the legal 
+ownership of the contract, which is personal property, passes to 
+the personal representative and not the heir; and since the proceeds of the vendor's contract, by specific performance, is money, 
+which is personal property, there is no equitable principle by which 
+the personal representative of the vendor can- or should be deprived of the right to receive the purchase money. The equitable right to have the legal title of the vendor now in the vendor's heir held as security for the payment of the purchase price 
+vests in the vendor's personal representative ^s incidental to the 
+personal claim on the contract which he holds. 23 The vendee's 
+personal representative is bound to pay the contract price for the 
+simple reason that all obligations in contract as a matter of law 
+fall and rest upon the personal representative of the deceased 
+debtor or obligor. 
+
+The final result, therefore, of the specific performance of the 
+contract for the sale of land after the death of the vendor and 
+vendee will be that the vendee's heir will be entitled to the conveyance because he is the heir of the one equitably entitled to 
+real estate. The vendor's heir must convey because he holds property subject to his ancestor's equitable obligation to convey, and he 
+cannot be in a better position than a donee of such property. A 
+conveyance cannot be had without payment of the purchase price 
+to the vendor's personal representative, who is legally entitled 
+thereto, and who is equitably entitled to the security of the legal 
+title. The vendee's personal representative must pay the purchase price, not only because he is the only person obligated to pay, 
+but because payment must be made in order to finally dispose of 
+the equitable rights of the vendee's heir and the obligation of the 
+vendor's legal representative. All four parties are therefore necessary parties to the action for specific performance, the vendor's 
+heir to give title; 24 the vendee's heir to receive the conveyance; 25 
+the vendee's personal representative to pay the purchase price; 28 
+and the vendor's personal representative to receive it. 27 
+
+It is thus apparent that a result is reached commonly explained 
+by the doctrine of equitable conversion, which nevertheless may 
+be reached quite independently of it, and which really bears no 
+relation to the assertion that the "sealing of the contract" renders 
+the land the property of the vendee and the purchase money 
+the property of the vendor. It may be suggested, however, that 
+while the doctrine of equitable conversion serves no useful purpose in the cases under consideration, it at least does no harm and 
+may serve in many cases as a convenient method of explaining the 
+results actually reached. The difficulty with this view is that 
+the test of equitable conversion, viz., the "sealing of a contract" 
+for the sale of land, as will hereafter appear, breaks down wholly 
+in those cases where by reason of defective title, failure to comply with the statute of frauds, hardship or a reserved right to 
+rescind the contract, a defense is interposed to an action for the 
+specific performance of the contract. In such cases, of course, 
+there is never a specific performance and consequently there is 
+no "equitable conversion." 
+
+The inconsistency in which courts become involved by attempting a logical application of the doctrine of equitable conversion 
+is exemplified in the case of option contracts. An option may be 
+in legal effect a contract to enter into a bilateral contract for the 
+sale of land upon the happening of a condition, that is, the exercise of the option, or it may be a unilateral contract to convey 
+land to the option vendee upon the payment of a stipulated sum 
+of money. As Professor Langdell has pointed out, 28 an option 
+to convey on the payment of a sum of money technically does 
+not contemplate the formation of a bilateral contract, but is a 
+promise to convey upon the happening of a condition, viz., the 
+payrnent of the stipulated price which is concurrent with, and 
+given in exchange for, the vendor's obligation to convey. Courts 
+have, however, very generally treated such contracts as conditional 
+offers to enter into a bilateral contract, upon the happening of a 
+stipulated condition evidencing the option vendee's intention to 
+exercise the option. 
+
+In practice, option contracts are usually so drawn as to provide 
+for the creation of a bilateral contract on the happening of the 
+stipulated condition. Thus, the vendor agrees to sell at a stipulated price if the vendee shall give notice of his intention to exercise his option within a stipulated period, and the vendee agrees, 
+in the event of his giving notice to purchase the land and pay the 
+stipulated price therefor. The result is that if the vendee exercises his option there is a binding bilateral contract for the sale 
+of land from the time when the notice is given. 
+
+Since the equitable conversion will result only from a contract for the sale of land it is obvious that the mere giving of an 
+option will not work an equitable conversion. Since the rights 
+of the vendor and vendee are contingent, it will follow that according to the doctrine of conversion the nature of the property, which 
+is dependent upon those rights, will remain uncertain until the 
+option is exercised. If the option is never exercised, then an 
+equitable conversion will never take place. But upon the exercise 
+of the option the obligation of the vendor becomes fixed, and 
+according to the doctrine of equitable conversion the land is then 
+converted into personalty in the hands of the vendor, and into 
+realty in the hands of the vendee. 
+
+The problem, however, is not so simple if the vendor dies 
+pending the exercise of the option. Until the exercise of the 
+option the vendor's heir is of course entitled, both legally and 
+equitably, to the property as land. If, however, the vendee exercises his option, he, because of the principles of specific performance in equity, becomes equitably entitled to the land and 
+can compel a conveyance on payment of the purchase price. 29 The 
+vendor's heir also must convey the property on the exercise of the 
+option, for the same reason that the purchaser with notice, or a 
+donee of property held subject to an option must convey upon the 
+exercise of the option. 30 But what disposition shall be made of 
+the purchase price ? If the doctrine of equitable conversion is controlling, it would seem to follow that since the conversion took 
+place only on the exercise of the option and after the vendor's 
+heir became entitled, that he, and not the personal representative, 
+would be entitled to the proceeds of the sale as personalty. 31 Disregarding this .theory of equitable conversion, the courts have 
+nevertheless generally reached a different conclusion, viz., that 
+the right to receive the purchase money, even in case of option 
+contracts, passes to the personal representative and not to the 
+heir. 32 Not a little embarrassment has been experienced in the 
+effort to harmonize this result with the theory of equitable conversion. The impossible has been attempted by resorting to the 
+convenient fiction of relation. The conversion effected by the 
+exercise of the option is said to relate back to the date of the 
+option and thus entitle the personal representative to the purchase 
+money. 33 The fallacy of such use of a legal fiction has been 
+pointed out. Legal fictions are often relied upon by courts to 
+prevent a failure of justice, but it is believed that no other case 
+will be found in the books where courts have made use of a 
+fiction for the purpose of divesting rights deemed to have been honestly acquired. If, therefore, in the case under consideration, the heir 
+is entitled to receive the purchase money, it is a highly artificial 
+and unjustifiable process of reasoning by which a legal fiction is 
+invoked, for the purpose of destroying an assumed right of the 
+heir to the purchase money. It is believed, however, that this assumption is unwarranted and that the right of the personal representative to receive the purchase money does not rest upon such an 
+unsubstantial foundation. His right is based, not upon the artificial doctrine of equitable conversion, but upon the principles 
+of the devolution of decedent's property. 34 In the case of an 
+option contract resulting in a bilateral contract for the sale of the 
+vendor's property, it could not be successfully denied that the 
+right to receive the purchase money on the exercise of the option 
+vested in the personal representative of the vendor, for the reason that the right to recover on the contract, being personal property, vests in the executor or administrator and not in the heir. 
+But it has been suggested that in the case of an option resulting 
+in a unilateral contract, since the vendor would have no right 
+to an action for the purchase money, his personal representative would likewise have no action to recover the purchase 
+money, and therefore would have no right to receive it if the 
+purchase money were actually paid. 30 In arriving at this conclusion it has been assumed that the right of the executor to receive money or personal property rests upon the existence of enforceable rights vested or contingent in the executor; that therefore, in the case of a contingent bilateral contract for the sale of 
+land, upon the happening of the contingency, after the death of 
+the vendor, the vendor's executor would nevertheless be entitled 
+to enforce the contract and receive the proceeds of sale, whereas 
+in the case of the unilateral contract of sale the vendor's personal 
+representative would not be entitled to receive the proceeds of the 
+contract, because he had no enforceable right against the vendee. 
+This conclusion rests upon an arbitrary distinction between the right of the executor to have vested in him an enforceable claim 
+or chose in action, for the creation of which no obligation exists, 
+and his right to receive or have vested in him, personal property, 
+which is given or tendered pursuant to the terms of the contract, 
+in order to render the vendor's promise obligatory, but for the 
+payment or delivery of which no obligation exists. If the right to 
+enforce the vendee's promise, performance of which must be in 
+equity mutual and concurrent with the performance of the vendor's promise, vests in the personal representative of the vendor 
+because it is personal property, why also should not the purchase 
+money, payment of which in equity must be mutual and concurrent with the performance of the vendor's promise to convey, 
+vest upon its payment in the personal representative of the vendor ? If the vendee tendered the contract price and then brought 
+an action for specific performance, equity would decree a conveyance only on payment of the purchase price to the vendor. 
+
+Further, this suggestion ignores the fact that in both cases 
+the money paid is the proceeds and a legal incident of the contract, 
+which so far as it is property at all, is personal property and therefore passes to the personal representative. If, for example, the 
+vendee brought his action at law for damages for non-performance of the contract, he would be bound to bring it against the personal representative of the vendor. It could hardly be argued that 
+in order thus to establish his legal right to a performance of the 
+contract he should prove a tender of the purchase price to the 
+heir, who is a stranger to the contract, instead of to the personal 
+representative, who is the legal representative and stands in the 
+place of the vendor. The purchase money is tendered to fix the 
+obligation to convey. It is given in exchange for the land to the 
+same extent as the purchase money is given in performance of a 
+bilateral contract, yet in the latter case the tender would not be 
+made to the heir although he would be bound to convey upon 
+equitable principles already mentioned. 
+
+If follows, therefore, that whether an option contract be regarded as a conditional unilateral contract, or 'a conditional contract for the creation of a bilateral contract, the purchase money 
+when paid is personal property, the proceeds of a contract, and 
+as such belongs legally to the personal representatives of the vendor, unless, of course, the contract itself stipulates for the payment 
+to the heir. 
+
+Thus it would seem that both on principle and authority the doctrine of equitable conversion is not controlling in this class of 
+cases when the contract is actually being performed, and tends to 
+confuse rather than to elucidate the principles which should control the disposition of the property involved in a contract for the 
+sale of land in the event of actual performance. 36 
+
+The futility of attempting to base any judicial decision on the 
+doctrine of equitable conversion by contract, could not be better 
+illustrated than by the course of the litigation in Rockland Company v. Leary, lately decided by the New York Court of Appeals. 37 
+In that case A leased his land to the plaintiff, the lease containing 
+an option to the plaintiff to purchase the leased premises upon 
+giving notice to A or his legal representatives and paying the 
+purchase price within a stipulated period thereafter. Before exercise of the option A died, leaving a widow (who was appointed 
+administratrix) and heirs, all of whom were party defendants 
+in the action. Plaintiff gave notice to the administratrix of the 
+exercise of his option and thereafter brought his action for 
+specific performance. The action was twice tried. On the second trial at Special Term, the court found as conclusions of 
+law that the option was properly exercised, that specific performance should be had by the heirs executing a conveyance 
+to plaintiff and by plaintiff paying the purchase money to the 
+administratrix. Each of these conclusions was duly excepted 
+to by the defendants and judgment entered accordingly. On 
+appeal, the Appellate Division affirmed the judgment, doubtless on the basis of its previous opinion in the case, 38 namely 
+that by the exercise of the option there was a conversion of the 
+property which it was held by relation antedated the lessor's 
+death. 39 On appeal to the Court of Appeals, the Court repudiated 
+the doctrine of conversion by relation and severely criticised the 
+doctrine of Lowes v. Bennett, and cases following it. It nevertheless held that the option had been properly exercised on the 
+ground that if the phrase in the contract "legal representatives" 
+meant the administratrix, then notice had been given to her. If the phrase meant heirs, then that requirement was met by a notice 
+which had been given to one of the adult heirs. The Court accordingly affirmed the judgment which awarded the purchase 
+money to the administratrix. Thus, after the case had received 
+the consideration of five courts with the aid of elaborate discussions of the doctrine of equitable conversion, in the course of 
+which different conclusions were reached by different courts, a 
+judgment was finally affirmed which was inconsistent with any one 
+theory of equitable conversion. The actual result, however, which 
+is believed to be sound, must necessarily have been reached by the 
+application of the equitable principles heretofore considered. Notice should have been given to the administratrix because it was 
+given to fix the liability under the contract, and she was the successor to and bound by her intestate's obligation under the contract. 
+She was entitled to proceeds of the contract as personalty. The 
+heir was bound to convey not because he was bound by the contract but because he was in the position of a donee of property 
+held subject to an equitable obligation. 
+
+It remains to inquire what application, if any, may be given to 
+the doctrine of equitable conversion by contract for the sale of 
+land when such contract is never actually performed. Since the 
+very existence of an equitable conversion presupposes a contract 
+which equity will specifically enforce, and since the specific performance of the contract for the sale of land always rests in the 
+sound discretion of the court, it might be supposed that there 
+could never be any equitable conversion apart from an actual decree directing specific performance when, of course, as has already 
+been pointed out, the doctrine of equitable conversion becomes a 
+perfectly useless fiction leading to no results and not even adequately explaining the results which are reached. It is believed 
+that theoretically this is a correct statement of the controlling 
+principle, and that the exceptions to it are more apparent than real 
+and in any event do not rest upon the so-called doctrine of equitable conversion. It is obvious that in the case of an option contract, if the option is never exercised, there can be no equitable 
+conversion, 40 or if the vendor and vendee voluntarily rescind the 
+contract, there could be no equitable conversion. The same result 
+would follow if the rescission took place after the death of the 
+vendor and the vendee. Since, however, the vendee's heir has an 
+equitable right to the performance of the contract, the personal 
+representatives of the vendor and vendee would not in equity be 
+permitted to defeat the right of the vendee's heir without his 
+consent. 41 
+
+In the case of rescission a distinction is to be made when the 
+right of rescission rests upon a new contract between the parties 
+and when the right is inherent in the contract either by its terms 
+or by reason of facts affecting or inducing its execution. Thus if 
+the contract is free from legal or equitable defenses, the right of 
+rescission rests only upon a new contract. Consequently the vendee's heir may claim the purchase money as a condition of his consent to a rescission, or if the rescission is made without his consent, 
+he may claim of the vendee's executor the purchase money in 
+liquidation of his claim for the interference with his equitable 
+right to a specific performance. 42 When, however, the right to 
+rescind is inherent in the contract, either by its terms or because 
+procured or induced by fraud, there should be no conversion if the 
+contract is rescinded. 43 
+
+So also if the vendor's title proves to be defective, there could 
+be no performance and consequently no conversion of the property, 44 unless the vendee waived the defect, in which case there 
+might be a specific performance resulting in an equitable conversion. In the same way a contract not complying with the Statute 
+of Frauds, will not work an equitable conversion and the parties 
+will be left to their rights at law. 45 In each of the cases supposed, 
+it is clear that without a specific performance there is no opportunity for the application of the doctrine of conversion, and in each 
+case the rights of heirs and legal representatives respectively are 
+disposed of in accordance with the rules of law. 
+
+There is, however, a limited class of cases in which there can be 
+no specific performance in which the heir of the vendee is nevertheless held to be entitled to have the purchase money, or the 
+personal representatives of the vendor are entitled to have the 
+vendor's land in the hands of the heir sold, and the proceeds 
+turned over to them as personalty. The reason usually attributed 
+is that the contract of sale has worked a conversion, so that property in the hands of the vendor is personalty. The inadequacy of 
+this explanation is apparent when account is taken of the cases in 
+which a conversion fails because for one reason or another the 
+contract cannot be specifically performed, and one who attempts to 
+apply the doctrine of conversion to them logically, at once becomes 
+involved in inconsistencies. 
+
+In all these cases, however, it will be found that a contract was 
+entered into specifically enforceable in equity, that the contract 
+failed of performance because of the default or laches of the 
+vendor's heir on one hand, or the vendee's personal representatives 
+on the other. Thus where the contract was not specifically performed because of laches, it was nevertheless held that the vendor's next of kin were entitled to have the real estate sold and 
+distributed among them as personalty.* 8 Where the vendee's personal representative was unable to carry out the contract the heir 
+was held to be entitled to the purchase money, or so much of it as 
+was in the hands of the personal representative. 47 
+
+Bearing in mind the legal and equitable right of the vendor's 
+legal representatives to have the contract performed and to receive 
+the benefit thereof, and the equitable right of the vendee's heir 
+to have the contract performed, and to have the land contracted 
+to be sold, it is obvious that their rights in the event that the contract cannot be specifically performed by reason of the default of 
+the vendor's heir on the one hand, or the vendee's personal 
+representatives on the other, do not depend on any theory of 
+equitable conversion, but rather on simple principles of equity of 
+practically universal application. The vendor's personal representative has both a legal and equitable right to have the contract performed by compelling the vendor's heir to convey. In equity he may 
+file a bill to have the property in the hands of the heir treated as security and sold as upon foreclosure. 48 This right, if lost in the 
+case under consideration, is lost by the laches or default of the 
+heir. Thus while the vendee may resist specific performance because of the laches or default of the vendor's heir, this is a personal 
+defense available to him alone. To permit the vendor's heir to 
+defeat the right of the personal representative by his laches, would 
+enable him to enrich himself at the expense of the personal representative, by reason of his own failure to perform an equitable 
+obligation. Equity never permits a defendant to enrich himself 
+at the plaintiff's expense by depriving plaintiff of equitable rights 
+through his, the defendant's own laches or misconduct. The vendee's personal representative cannot enrich himself at the expense 
+of the vendee's heir as a reward for his default, and it is for this 
+reason that the heir may in that case compel payment to him of 
+the purchase price. 49 
+
+It may be suggested that a distinction should be drawn between 
+the case where the contract failed of specific performance, because 
+of the default of a party, and the case where the specific performance failed because the vendor had reserved a right to rescind on 
+the happening of an event. In the latter case the vendor contemplated the possibility that the contract might not be performed 
+and specifically reserved the right to terminate it. The vendee's 
+heir cannot complain of the exercise of this right since it involves 
+no breach of any legal or equitable obligation of contract on the 
+part of the vendee's personal representatives and consequently the 
+vendee's heir should have no claim on the purchase money, although he would have such a claim if performance failed because 
+of the default of the vendee's legal representative. 50 
+
+It is thus apparent that the cases hitherto considered not only 
+do not rest upon any doctrine of equitable conversion, but that 
+it is not a safe or intelligible guide to the results actually reached 
+by the decisions. 
+
+There still remains for consideration the case where, pending 
+performance of the contract for the sale of land, a substantial part 
+of the subject matter of the contract, for example, buildings or 
+improvements, are destroyed without the fault of the vendor. By 
+the weight of authority the "burden of loss" is held to fall on the 
+vendee. 01 Various theories have been advanced as adequately explaining a result which doubtless in many cases is the reverse of 
+the intention of the parties, and in all is contrary to the results 
+reached by courts of law. The explanations which do not frankly 
+rest on fiction are based upon the fundamental notion that since in 
+equity the vendee is for some purposes, dealt with as an owner of 
+the realty he should be so dealt with for all purposes, and that consequently the loss should fall on him, just as the burden of loss 
+of trust property must fall on cestui que trust, that is to say, in 
+equity the vendee's right is treated as an interest in land. 02 
+
+So much has been written on this subject that it is perhaps almost an impertinence to add to the mass of literature dealing with 
+it. 53 It is believed, however, that in the explanation and justification of this doctrine certain principles have been overlooked, which should have had a controlling influence in settling 
+the question. 
+
+To recur to the preceding discussion, we have seen that in 
+every case where we have found a case of so-called equitable conversion, it is either a case where the contract is being actually 
+performed by a court of equity, or the failure to perform it is due 
+to the default of a party to the contract, who would thereby enrich 
+himself at the expense of the person equitably entitled to the land on the one side, or its proceeds on the other, unless in equity he 
+were deprived of the land or the proceeds by reason of his default. It is evident that in the first case, any fact which prevents 
+a specific performance prevents the equitable conversion, and the 
+parties are left wholly to their rights and obligations at law. This 
+principle is subject to the exception of the second case, that one 
+equitably obligated to perform the contract, may not enrich himself by his failure to perform it. It is thus apparent that the 
+theory of equitable ownership of land, subject to a contract of 
+sale, is literally an incident of the right of specific performance, 
+and cannot exist apart from it." A preliminary to the determination of the question whether there is equitable ownership of land 
+must therefore necessarily be the determination of the question 
+whether there is a contract which can be and ought to be specifically performed at the very time when the court is called upon to 
+perform it. This process of reasoning is, however, reversed in 
+those jurisdictions where the "burden of loss" is cast upon the 
+vendee. The question is whether there shall be a specific performance of the contract, thus casting the burden on the vendee, by 
+compelling him to pay the full purchase price for the subject 
+matter of the contract, a substantial part of which has been destroyed. The question is answered somewhat in this wise: equitable ownership of the vendee in the subject matter of the contract can exist only where the contract is one which equity will 
+specifically perform. The vendee of land is equitably entitled to 
+land, therefore the vendee may be compelled to perform, although 
+the vendor is unable to give in return the performance stipulated 
+for by his contract. The non sequitur involved in the proposition 
+that performance may be had because of the equitable ownership 
+of the land by the vendee, which in turn depends upon the right 
+of performance, is evident. The doctrine of equitable conversion, 
+so far as it is exemplified by the authorities hitherto considered, 
+cannot lead to the result of casting the burden of loss on the 
+vendee, since the conversion depends upon the question whether 
+the contract should in equity be performed. In all other cases 
+where the vendee is treated as the equitable owner of the land, it is only because the contract is one which equity first determines 
+should be specifically performed. 
+
+Whether a plaintiff, in breach of his contract by a default which 
+goes to the essence, as in the case of the destruction of a substantial part of the subject matter of the contract, should be entitled 
+to specific performance, is a question which is answered in the 
+negative in every case except that of destruction of the subject 
+matter of the contract. To give a plaintiff specific performance of 
+the contract when he is unable to perform the contract on his own 
+part, violates the fundamental rule of equity that the remedies must 
+be mutual, and that equity will not compel a defendant to perform 
+when it is unable to so frame its decree as to compel the plaintiff 
+to give in return substantially what he has undertaken to give or 
+to do for the defendant. 
+
+The rule of casting the "burden of loss" on the vendee by 
+specific performance if justifiable at all can only be explained and 
+justified upon one of two theories: first, that since equity has 
+for most purposes treated the vendee as the equitable owner, it 
+should do so for all purposes, although this ignores the fact that in 
+all other cases the vendee is so treated only because the contract 
+is either being performed or in equity ought to be performed ; or, 
+second, which is substantially the same proposition in a different 
+form, the specific performance which casts the burden on the vendee 
+is an incident to and a consequence of an equitable conversion, 
+whereas in all other equity relations growing out of- the contract, 
+the equitable conversion, if it exists, is an incident to and consequence of, a specific performance. Certainly nothing could 
+be more illogical than this process of reasoning. The inconvenience of the doctrine is sufficiently attested by the now almost 
+universal practice of stipulating in the contract of sale that the 
+loss, if any, pending conveyance, shall fall on the vendor. 
+
+It has been said that the decisions in the cases relating to equitable conversion cannot be reconciled with any consistent principle, and "the result is that the student is faced with the necessity 
+of committing to memory a long series of complicated rules which 
+are merely arbitrary." 65 A survey of the whole subject in the 
+case of equitable conversion by contract, however, hardly justifies 
+this statement. The decisions are harmonious when considered in 
+the light of fundamental equitable principles, except upon the question of "burden of loss," on which point the authorities are divided. 
+
+Inconsistencies arise only when one attempts a too literal application of the fiction of equitable conversion, as it was stated by 
+Lord Eldon as a substitute for equitable principles which the fiction always imperfectly and usually inaccurately represents. Most 
+of the difficulties and perplexities which attend the disposition of 
+rights arising under contracts from the sale of land would never 
+have risen had this fiction never been invented. The student, 
+therefore, should not attempt to memorize a long series of complicated rules relating to a useless fiction, which are merely arbitrary, but he should seek to ascertain the nature of the rights 
+created by a contract specifically enforceable in equity, and the 
+principles which govern the disposition of those rights when once 
+called into existence. 
+
+Harlan F. Stone. 
+Columbia University. 

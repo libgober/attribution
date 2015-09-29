@@ -1,0 +1,400 @@
+II. 
+Rights of Strangers to the Contract. 
+
+Whatever the technical difficulties were at various periods in 
+history of the law with respect to the transfer of a legal chose 
+in action, equity from an early period in its history treated the 
+equitable chose in action as freely transferable so that the transferee might enforce the claim in his own name. 1 That the assignment of the equitable chose in action operated so as to effect a 
+complete transfer of it is indicated by the fact that courts of 
+equity protected the assignee and enforced such claims in behalf 
+of the assignor when transferred to a volunteer. 2 It has been 
+argued with great force and persuasiveness that the rules of purchase for value should be applicable to the transfer of the equitable chose in action with respect to all collateral equitable claims, but this doctrine has found only a very limited acceptance in judicial decisions. 
+
+The equitable right to the specific performance of a contract 
+is one which, therefore, may be freely assigned unless the contract is interpreted to be one entered into exclusively for the personal benefit of the promisee, in which case, of course, equity will  not do violence to the terms of the contract by enforcing it in behalf of the assignee. Wherever the contract is bilateral and 
+executory and has not been performed by the promisee, the requisites of the mutuality rule must be satisfied. This may be accomplished by joining the assignor promisor as a party to the 
+litigation or by tendering performance by the assignee. A recent decision has denied to the assignee the right to specific performance on the ground that the assignee was not bound by the 
+contract, but this is an obvious misapplication of the mutuality 
+rule since performance of the assignor's contract was insured by 
+the plaintiff's tender of performance in his bill and by subjecting 
+himself to the jurisdiction of the court. 
+
+The assignee does not become bound by the contract merely 
+by acquiring the assignment, 8 but, on the other hand, he may 
+acquire benefits of the contract not directly stipulated for or in 
+terms transferred by the assignment. Thus, the assignment of 
+the right of the vendor upon an executory contract of sale or the 
+endorsement of a note given on account of the purchase money not 
+only transfers to the assignee or endorsee the right to the purchase 
+money, but it gives him the benefit of the res in the hands of the 
+vendor as security for the purchase money. This result follows, 
+even though the assignee may not have known of the existence 
+of the res in the hands of the vendor. This doctrine, just as in 
+the case of the like doctrine of mortgage law that a transfer of the 
+mortgage debt carries with it an equitable claim to the mortgage 
+security, seems to be based on the necessity under which equity 
+often finds itself where it raises a constructive trust of bestowing the trust res on the most meritorious of the several persons 
+concerned. The vendor is equitably entitled to hold the property 
+sold only as security for the purchase price. The vendee is entitled to receive the property only on payment of the purchase 
+price. The vendor cannot retain the property except as security 
+for the purchase price. The vendee has no right to receive the 
+property until he has paid for it. In any case, the assignee receives the benefit of the security, and equity, to prevent a less 
+meritorious party to the transaction from getting the property 
+without payment of the purchase price, will give the assignee relief 
+on his own application. The result is that the assignee may not only 
+have specific performance of the contract, but, when performance 
+is impossible because the vendee is unable or unwilling to perform, equity will retain jurisdiction to foreclose the security and 
+apply the proceeds to the payment of the vendor's assignee.It is upon a similar principle that the executor or administrator of 
+the vendor is given equitable rights to have the contract of the 
+vendee specifically performed or to have the property sold and 
+the proceeds applied in satisfaction of the purchase money. 11 
+
+It is sometimes said that the interest of the vendor or of the 
+mortgagee in the res passes to the assignee of the purchase money 
+as an incident to the assignee's debt. 12 The assignee, however, does 
+not acquire any right in the property which will enable him to 
+maintain an action based either on title or right to possession. 
+His right is purely an equitable one to establish a lien. 13 It is 
+generally superior to that of the attaching creditor, 14 and may be 
+postponed only to the rights of bona fide purchasers for value. 15 
+
+If, however, the vendor sells the property itself, retaining the 
+claim to the purchase money, the rule as commonly stated that the 
+property is a mere incident to the contract, has no application, since the assignor could not be heard to set up an equitable 
+claim to the property which he had sold to his grantee. When, 
+therefore, the purchaser is an innocent purchaser for value, he 
+may retain the property both against the contract vendor and the 
+contract vendee. If, however, he is not an innocent purchaser, 
+he is, upon familiar principles, bound to convey to the vendee, 
+but he is equitably entitled to. the purchase money as proceeds of 
+the land to which he has a better claim in equity than the vendor 
+who by his sale is estopped to claim either the land or its proceeds as against his own grantee. 16 The effect, therefore, of a 
+sale of the land to a third person under an existing contract of 
+sale by the vendor is in its practical operation an equitable assignment of the contract right to receive the purchase money, and the 
+vendee having notice of the transfer of the subject matter of sale 
+will pay the vendor at his peril. Such a payment, although a 
+discharge of the legal obligation, is such a participation by the 
+vendee in the equitable wrong of the vendor as will make the 
+vendee liable as upon a tort for interference with the equitable 
+rights of the vendor's grantee. These rights have their origin in 
+the inequitable conduct of the vendee in attempting to appropriate to himself the proceeds of property which he has transferred to his grantee for consideration. 
+
+The notion that rights in covenant may be annexed to a property right and pass by implication to transferees of the property 
+right is a familiar one in law. Covenants for title are deemed to 
+pass by implication on conveyance of the title by the covenantee. 
+Covenants "touching and concerning" a leasehold estate pass by 
+implication on assignment of the reversion or of the leasehold 
+respectively benefited by the covenant, and notwithstanding the 
+doctrine of Spencer's case that the burden of restrictive covenants does not "run" when there is no relation of landlord and 
+tenant, the law courts found no difficulty in giving to transferees of the dominant estate the benefit of the covenant. There 
+was, therefore, much less scope for equity to expand the law in 
+connection with the running of the benefit of such covenants than 
+with the running of the burden under the doctrine of Talk v. 
+Moxhay. The legal doctrine, however, was hedged in by technical restrictions. The promise to be annexed to the land and 
+transferable with the transfer of the land had to be under seal. 
+It could be annexed only to legal interests. 18 The transferee had 
+to be a true successor to the covenantee. A sub-lessee acquired 
+no interest in the covenant at law. 
+
+As, however, the breach of a restrictive covenant where there is a dominant estate affects the use and enjoyment of the dominant estate, the right of the covenantee has a unique quality 
+similar to the right in a contract for the conveyance of land which 
+equity will specifically perform. Equity, therefore, has jurisdiction to restrain the breach of the covenant regardless of the 
+amount of damage. 10 It is not surprising, therefore, that the law 
+of the subject has been developed in recent times almost wholly 
+in the courts of equity. The rule governing the transfer of the 
+benefit of the restrictive covenant in equity may, therefore, be 
+taken as the rule of the law courts except that, unlike the law, 
+equity" ascribes no magic to the seal, and a simple agreement or 
+indeed an implied agreement affecting the use of the land, may 
+have in equity all the efficacy ascribed by courts of law to the 
+sealed instrument and may be annexed to the dominant estate and 
+pass by implication to the transferee of the land. 20 The restrictive covenant or agreement in equity might be annexed to an 
+equitable interest 21 and the benefit of the restrictive covenant was 
+also held by the court of equity to pass to a lessee 22 or presumably 
+to one acquiring any other legal or equitable interest in the land 
+or in the use and enjoyment of the dominant tenement. 23 
+
+Where the true interpretation of the restrictive covenant is 
+that it is for the personal benefit of the covenantee who has the 
+use and enjoyment of neighboring land, there is no basis for the 
+implication that the benefit of the covenant passes with the transfer of the covenantee's land. 24 Where, however, the enforcement of the covenant necessarily affects the use or enjoyment of 
+the covenantee's land, and the covenant is not by its terms restricted to the personal use and enjoyment of the land by the 
+covenantee, there is basis for the implication that the covenant is 
+intended to benefit the successive owners of the land and that it 
+passes with the land into the hands of subsequent grantees. 
+Courts of equity have generally held that the transferee of the 
+covenantee's land is by operation of law vested with the right to 
+enforce the covenant against the original covenantor and all those 
+claiming under him except those to whom the plea of purchase 
+for value is available. 23 The analogy of the relationship to true 
+easements which pass by implication with the conveyance of the 
+dominant estate is obvious and has given rise to the phrase 
+"equitable easement." Although, as we have seen, this phrase is 
+misleading when applied to the burden of the restrictive covenant, 20 it is much more applicable to the running of the benefit 
+of the restrictive covenant, since the notion of a contractual 
+restriction for the benefit of the dominant estate which passes by 
+implication with the transfer of the land accepts and applies some 
+of the most characteristic features of the law of easements appurtenant. 
+
+Until the decision in Rends v. Cowlishaw 27 the doctrine that 
+the benefit of the restrictive covenant passes by implication with 
+the dominant estate just as a common law easement passes seems 
+to have been fully established. In that case an owner of land 
+conveyed a strip of land bordering on a reserved right of way 
+subject to a covenant against building within a certain distance 
+of the way. All buildings on the land conveyed were to be of a 
+certain type and no trade was to be carried on in them. The 
+deed contained no statement that the restriction was for the 
+benefit of the way or other land retained by the grantor. The 
+reserved plot was conveyed by the covenantee to the plaintiff 
+without any formal assignment of the covenant or any contract 
+that the plaintiff should have the benefit of it. Hall, Vice-Chancellor, held that the plaintiff was not entitled to the benefit of 
+the covenant since there was no formal assignment of it and the 
+covenant had not been formally annexed to the land so that the 
+benefit of it could be deemed transferred to the plaintiff by virtue 
+of the conveyance. The effect of this decision was to introduce a 
+new element into the law on the subject, which was, in effect, a 
+principle of interpretation of restrictive covenants. The mere 
+fact that the covenant if performed would necessarily affect the 
+use and enjoyment of the covenantee's land gives rise to no presumption that the covenant was reserved for the benefit of the 
+covenantee's land, since it is equally consistent with the interpretation that it was reserved for the benefit of the covenantee 
+personally so as to enable him to deal with his property more advantageously. From this it would follow that the 
+grantee of the covenantee would acquire no benefit of the covenant unless it either became the subject of the bargain and was 
+formally assigned to his grantee or was in some way annexed 
+to the covenantee's land and passed with it by implication as in 
+the case of a true easement. A point of difficulty with Hall, ViceChancellor, which was of weight in inducing this conclusion was 
+the fact that the grantee of the covenantee had no knowledge of 
+the covenant and the fact that the grantee under a different 
+interpretation would have acquired the benefit of the covenant 
+which was not the subject of his bargain and the existence of 
+which was unknown to him. The similar consequence in the 
+analogous case of easements and of covenants for title had presented no difficulty and there are many examples in English law 
+of cases where the buyer has acquired the benefit of an easement 
+or covenant for title of which he knew nothing at the time he 
+took his conveyance, and in a later case 28 it was held that when 
+the benefit of the covenant is once annexed to land it passes to 
+subsequent grantees regardless of their knowledge of the existence of the covenant. The effect of Renals v. Cowlishaw, therefore, was to create a middle class of cases between those where, 
+on the one hand, the covenant is purely personal and not in any 
+way affecting the covenantee's land, and those, on the other, 
+where the covenant is deemed to be annexed to the land. In this 
+middle class of cases where the covenant affects the covenantee's 
+land but is deemed not to be annexed to it, its passing with the 
+land to subsequent grantees will depend upon the voluntary act 
+of the covenantee by formally assigning it or in some manner 
+annexing it to the land. Annexation may be effected by a stipulation in the covenant 29 that the covenant shall be for the benefit 
+of the covenantee's land and all of those acquiring the land, and 
+presumably by any other evidence establishing affirmatively that 
+the covenant was intended for the benefit of all subsequent owners. Conceivably, the benefit of a covenant not originally annexed to the land of the covenantee under the doctrine of Renals 
+v. Cowlishaw, but, nevertheless, affecting the use and enjoyment 
+of the covenantee's land, might be annexed to the covenantee's 
+land without formal assignment. In one case 30 the annexation 
+was held to be affected by the covenantor selling the land under 
+a building scheme by reference to a map which embraced the 
+land of the covenantee although there had been no building plan 
+when the covenantee acquired the land. 
+
+The same result is generally reached in the case of 
+building plans where land is divided into plots and offered 
+for sale under a single restrictive covenant. The benefit 
+of the covenant is deemed to be annexed to each plot and 
+passes by implication to all subsequent takers. The practical consequence of the doctrine of Renals v. Cowlishaw is that the covenantee who reserves a restrictive covenant, there being no building plan and there being no formal stipulation that the covenant 
+is for the benefit of the covenantee's land, is presumed not to 
+have taken the covenant for the benefit of the land but rather for 
+his personal benefit. Such a doctrine is violative of the general principle that one is presumed to intend the necessary consequences of the act which he stipulates for in his contract, and 
+has little to commend it except the general doctrine followed in 
+many jurisdictions that new restrictions upon land are not favored. It is likewise contrary to the general principle that a grant 
+shall be construed most strongly against the grantor. Renals v. 
+Cowlishaw has been followed in the English courts 31 but it is 
+doubtful how generally its doctrine has been accepted in the 
+United States. The courts of most states have not recognized the 
+doctrine although the case has often been cited with approval ; 32 
+Massachusetts' 33 seems to have accepted the doctrine; there are 
+some cases in New Jersey resting avowedly upon it. 34 The courts 
+of Michigan and Rhode Island 35 have expressly repudiated the 
+doctrine. 
+
+Where a common grantor conveys several plots of land to 
+different grantees, each conveyance containing the same covenant, it is obvious that the earlier grantees will acquire no rights 
+on the covenants restricting the plots conveyed later, under the 
+doctrine of implied assignment 36 although the later grantees will 
+acquire the benefit of covenants restricting the land conveyed 
+earlier. 37 But in two classes of cases the first grantees are 
+allowed in equity to enforce the covenants affecting the land of 
+the later grantees. Thus, where the common grantor of land 
+subject to restrictions covenants with the earlier grantees that he 
+will make like restrictions in the later conveyances, it is held 
+that the earlier grantees may enforce the covenants in the other 
+later conveyances. 38 The same result is reached where the land 
+is sold subject to a general building plan as shown on a map or 
+defined in the general terms of sale indicating that the entire land 
+included within the plot is to be subject to and benefited by the 
+restrictions. 38 In these cases buyers of the earlier plots cannot 
+be deemed to be assignees of the benefit of covenants embodied 
+Jn deeds of a later date 40 and the easy explanation usually offered 
+is that in these cases of land divided up and sold subject to 
+mutual covenants or subject to a building plan, the earlier grantees are allowed to sue on later covenants made "for their benefit." 
+It has also been suggested that the later covenants were taken 
+by the covenantee in trust for the earlier grantees. Indeed 
+Knight-Bruce, L. J., held that the common grantor was a necessary party to a bill to enforce the covenant in an action brought 
+by an earlier grantee against a later one on the theory that the 
+covenantee was a trustee for the earlier grantees. 41 But this 
+doctrine no longer represents the commonly accepted view and 
+the common grantor cannot maintain a bill to restrain the breach 
+of the covenant after he has sold off his land on the theory that 
+he is a trustee of the covenant for the benefit of earlier grantees. 43 
+The late Professor Ames accounted for this and certain other 
+cases where a grantee is allowed to enforce a covenant of which 
+he cannot be said to be an assignee by likening the person entitled 
+to the benefit of the covenant to the persona designata in the law of 
+negotiable paper. 43 But it may well be doubted whether this 
+analogy will hold in all cases in those jurisdictions where one is 
+not allowed to sue on the contract of strangers made for his 
+benefit. Thus, if the land were divided into plots and sold subject to restrictive covenants entered into avowedly not only for 
+the benefit of the purchasers of the plots but for the benefit of 
+the owners of neighboring land, such neighboring owners would 
+be the persona designate of the covenant. But such authority as 
+there is indicates clearly that in a jurisdiction where third parties 
+are not generally allowed to sue on contracts made for their benefit, 
+such neighboring owners would not be entitled to enforce the 
+restriction. 44 With the present attitude of the courts toward the 
+doctrine of consideration and the disinclination of courts to widen 
+the scope of restrictions on land, it is hardly to be expected that 
+equity will give to the persona designate of a restrictive agreement who is not in privity with the covenantor or covenantee 
+rights in the same way that rights were given to the payee of 
+negotiable paper, in order to give such paper currency and to 
+conform to business usage. 
+
+There is a much simpler explanation of the rule that the 
+earlier grantee is equitably entitled to the benefit of the covenant 
+contained in the later grants made by the common grantor, and 
+one which has the support of authority. If the common grantor 
+after having made one grant containing a restrictive covenant 
+pursuant to the plan, should himself thereafter violate the restriction, he could be enjoined by his grantee from the threatened 
+violation on the basis of his implied promise that the entire plot 
+should be subject to the restriction. 45 Indeed the buyer of a 
+plot sold subject to a building plan is entitled to haVe a conveyance expressly covenanting that any plots not sold shall be subject to the plan. 40 All subsequent grantees having notice of the 
+plan would, under the doctrine of Tulk v. Moxhay," be subject 
+to the like restriction. The grantor is subject to the restriction 
+because he has impliedly undertaken that the land obtained by him should be subject to it. His subsequent grantees are likewise subject to it because they cannot acquire his land with notice 
+of the covenant and repudiate the obligation affecting it. 
+
+Some troublesome questions affecting the running of the 
+benefit of the restrictive covenant have grown out of the subdivision of a single plot held subject to a restrictive covenant. Each 
+purchaser is subject to the covenant in an action brought by the 
+original covenantee or his grantee on principles already considered. But may a covenantor who has conveyed away a part of 
+his land restrain his grantee from violating the restriction, and 
+may the grantor likewise be subjected to the restriction at the 
+suit of his grantee? The doctrine of implied assignment cannot 
+here be invoked since neither the grantor nor his grantee would 
+be deemed to be assignees of the covenant entered into by the 
+grantor, for the grantor cannot be deemed to be both the covenantor and covenantee. 48 And this is the result reached very 
+generally where no building plan is involved.* 9 Even in the case 
+of a building plan, the English courts have held that the grantor 
+cannot enforce his own restrictive covenant against his grantee on 
+a part of the plot originally held by him subject to the covenant 
+where he had reserved no right on the restrictive covenant in his 
+deed of conveyance. 60 To allow the grantor to restrain his 
+grantee under such circumstances would be to allow him to derogate from his own grant, nor would the grantee, as such, acquire 
+corresponding rights against his grantor, merely by virtue of his 
+acquiring grant of a part of the grantor's land. But a new 
+promise by the grantor to the grantee that the land retained by 
+him should be subject to the restrictive covenant may be enforced 
+by the grantee and such a promise may be implied from the conduct of the grantor interpreted in the light of the surrounding 
+circumstances. 
+
+In this country a number of courts have reached the conclusion that, in the case of a building plan where a covenantor 
+has subdivided the plot held by him subject to the restriction, 
+the sub-grantees may enforce the covenant against each other 
+respectively although there is no express renewal of the covenant 
+in the deed. 52 This somewhat startling result really rests on the 
+true interpretation of the covenant when it is the basis of the 
+building plan. If the real meaning of such a covenant is that 
+the restriction is intended to be imposed on every part of the 
+land embraced in the plan for the benefit of every other part of 
+the land in whosever hands it may come, the original grantor 
+who has offered the land subject to the plan may on principles already considered be deemed impliedly to have reserved the covenant for the benefit of all those who may 
+thereafter acquire an interest in any part of the land embraced 
+in the plan. He would then become trustee of the covenant for 
+all subsequent purchasers and each purchaser as he acquired an 
+interest in any part of the restricted property would become entitled to the benefit of the covenant as cestui que trust. In 
+Schrieber v. Creed 53 Shad well, V. C, suggested that the plaintiff 
+in order to enforce restrictions must be either an assignee or a 
+cestui que trust. 
+
+This view has received the support of judicial opinion in 
+some other cases. 54 As a matter of procedure, the original covenantee need not be joined as a party in a suit brought by one 
+grantee against another, 55 but in other respects the notion that the 
+original covenantee under a building plan is a trustee of the restrictive covenant for all subsequent grantees including the grantee 
+of a subdivision of a single plot, conforms to recognized legal 
+doctrine and effectuates the intention of the parties. 
+
+Unless this view be accepted as affording adequate explanation of the doctrine of building plan restrictions, then the law of 
+the subject, at least so far as the rights inter se of the grantee of 
+a single plot subject to the restriction are concerned, must be 
+regarded as sui generis. Reference has already been made to the application of restrictive covenants to personal property 58 and obviously wherever 
+the doctrine is applied with respect to the running of the burden 
+of the covenant or agreement it should be applied to the running 
+of the benefit in an appropriate case. Although the English 
+courts have refused to extend the doctrine to chattels they have in 
+the "tied house" covenants so far regarded the business of the 
+covenantee brewer as equivalent to a dominant estate, that the 
+burden of the covenant to use only the brewer's beer will run 
+against all subsequent takers of the servient tenement. 67 
+
+It would seem to follow that the benefit of the covenant 
+might be annexed to the' business and pass with it by implication 
+to all subsequent takers. This seems to be the result of the American decisions where the question has arisen; restrictive covenants have been taken for the benefit of a business carried on 
+by the covenantee. 
+
+The English cases on the subject give rise to some perplexity. 
+In these cases the question of the running of the benefit has 
+usually been complicated by the fact that the covenantee brewer 
+is also the mortgagee or lessor of the covenantor. 
+
+It seems, however, to be settled that the benefit of such a 
+covenant, *'. e., to buy exclusively the beer brewed at a certain 
+brewery or in connection with a certain business, does not pass 
+to an assignee of the reversion who does not also acquire the 
+brewer's business, since the covenant is not one running with 
+the reversion ; 58 and, as in that case the covenantee retains the 
+benefit of the covenant, 59 he should be allowed to enforce it for 
+the benefit of his business. It has been held that the benefit of 
+the "tied house" covenants will pass by assignment to a purchaser of the business on the theory that the covenant is for the 
+benefit of the business, 80 since if the covenant is not construed 
+to be for the benefit of the business it will not pass with it even by express assignment of the covenant. 41 Thus it would follow 
+that the covenant for the benefit of the business would pass by 
+implication, not to the assignees of the reversion as such but to 
+the transferees of the business. 62 
+
+A study of the "tied house" cases indicates clearly enough 
+that on principle the doctrine of the running of the benefit of 
+restrictions is applicable to personal property generally, and that 
+the benefit of the restriction will pass by implication with the 
+personal property to be benefited. This view, however, is inconsistent with the later English cases which tend to limit the doctrine to real estate, 63 where there is a dominant tenement, 6 * — a 
+tendency which, as already pointed out, has had an unfortunate 
+effect on the development of law. 
+
+It has become the fashion to speak of the decadence of equity 
+in our Anglo-American system of jurisprudence. In matters 
+of procedure there is undoubtedly some justification for such a 
+reference to the equity system, since we no longer are required 
+in most jurisdictions to seek equitable relief before a separate 
+court or by a distinct system of procedure, and we everywhere 
+witness the gradual taking over of equity doctrines by courts of 
+law wherever distinctly legal procedure will- admit of such a 
+process. 
+
+But the history of the development of the law of restrictive 
+covenants and agreements since Ttilk v. Moxhay in 1848 is a 
+typical example of the way in which doctrines developed by courts 
+of equity continue to be a vital force in our law, by which it 
+retains its flexibility and adaptability to new and changing conditions. It shows how these doctrines mould the more rigid and 
+unyielding rules of law so as to make effective the intention of 
+contracting parties and conform those rules to the economic 
+needs and the moral standards of the community. 
+
+Consideration of the ways in which equity has extended the 
+rights and liabilities upon contracting third persons will lead to 
+the conclusion that, as an effective instrumentality for expanding 
+and developing our law, equity is in no proper sense decadent, 
+but is rather a vital force. 

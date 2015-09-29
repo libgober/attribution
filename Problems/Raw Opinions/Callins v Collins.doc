@@ -1,0 +1,3494 @@
+{\rtf1 \ansi 
+{\colortbl;
+\red0\green0\blue0;
+\red255\green255\blue255;
+\red255\green0\blue0;
+\red0\green255\blue0;
+\red0\green0\blue255;
+\red0\green255\blue255;
+\red255\green0\blue255;
+\red255\green255\blue0;
+\red0\green0\blue128;
+\red0\green128\blue128;
+\red0\green128\blue0;
+\red128\green0\blue128;
+\red128\green0\blue0;
+\red128\green128\blue0;
+\red128\green128\blue128;
+\red192\green192\blue192;
+\red170\green170\blue170;
+\red85\green85\blue85;
+\red37\green37\blue37;
+\red254\green254\blue0;
+\red119\green119\blue119;
+\red247\green247\blue247;
+\red203\green203\blue203;
+\red245\green245\blue245;
+\red229\green243\blue255;
+\red179\green218\blue255;
+\red20\green93\blue164;
+\red105\green105\blue105;
+\red227\green227\blue227;
+\red255\green255\blue174;
+\red255\green255\blue204;
+\red255\green204\blue0;
+\red80\green80\blue80;
+\red58\green58\blue58;
+\red120\green162\blue47;
+\red204\green204\blue204;
+\red236\green236\blue236;
+\red223\green223\blue223;
+\red239\green239\blue239;
+\red187\green187\blue187;
+\red190\green190\blue252;
+\red151\green151\blue151;
+\red238\green238\blue238;
+\red240\green248\blue255;
+\red127\green127\blue127;
+\red183\green242\blue206;
+\red182\green231\blue243;
+\red255\green210\blue183;
+\red255\green194\blue211;
+\red243\green243\blue243;
+\red102\green102\blue102;
+\red71\green120\blue194;
+\red221\green195\blue236;
+\red246\green246\blue246;
+\red153\green255\blue102;
+\red204\green255\blue255;
+}
+{\fonttbl {
+\f0 Arial;}{
+\f1 Symbol;}{
+\f2 Times New Roman;}{
+\f3 georgia;}{
+\f4 sans-serif;}{
+\f5 serif;}{
+\f6 Courier New;}
+}
+{\*\generator Apache XML Graphics RTF Library;}
+\fet0 \ftnbj \paperw12240 \paperh15840 \margt1800 \margb1080 \margl1080 \margr1080 \headery720 \footery720 \itap0 \cols1 
+\sectd {\header {
+{\trowd \ltrrow \trleft0 
+\clpadb60 \clpadfb3 \clpadl400 \clpadfl3 \clbrdrt \clbrdrl \clbrdrr \trql \clvertalb \clwWidth9380 \cellx9380 
+\intbl 
+{\li0 \f0 \b0 \ri0 \fs18 \cf1 \qc \i0 
+{\f0 \strike0 \ul0 \b0 \fs18 \cf1 \i0 
+}
+{\f0 \b1 \fs18 \cf1 \i0 
+{\f0 \strike0 \ul0 \b1 \sa0 \sb0 \fs18 \cf1 \i0 
+Libgober, Brian
+}
+}
+{\f0 \strike0 \ul0 \b0 \sa0 \sb0 \fs18 \cf1 \i0 
+ 
+}
+{\f0 \b1 \fs18 \cf1 \i0 
+{\f0 \strike0 \ul0 \b1 \sa0 \sb0 \fs18 \cf1 \i0 
+7/14/2015
+}
+}
+{\f0 \strike0 \ul0 \b0 \fs18 \cf1 \i0 
+\par 
+}
+}
+{\li0 \f0 \b0 \ri0 \fs18 \cf1 \qc \i0 
+{\f0 \strike0 \ul0 \b0 \fs18 \cf1 \i0 
+}
+{\f0 \b1 \fs18 \cf1 \i0 
+{\f0 \strike0 \ul0 \b1 \sa0 \sb0 \fs18 \cf1 \i0 
+For Educational Use Only
+}
+}
+{\f0 \strike0 \ul0 \b0 \fs18 \cf1 \i0 
+}
+}\f0 \li0 \strike0 \ul0 \b0 \sa0 \sb0 \fs18 \ri0 \cf1 \i0 \qc \intbl \cell \row }
+{\trowd \ltrrow \trleft0 
+\clpadb60 \clpadfb3 \clpadl400 \clpadfl3 \clbrdrb \brdrw20 \brdrcf17 \brdrs \clbrdrl \trql \clvertalb \clwWidth9380 \cellx9380 
+\clpadb60 \clpadfb3 \clpadl400 \clpadfl3 \clbrdrb \brdrw20 \brdrcf17 \brdrs \clbrdrr \trql \clwWidth700 \cellx10080 
+\intbl 
+{\li0 \f0 \b0 \ql \ri0 \fs18 \cf1 \i0 
+{\f0 \strike0 \ul0 \b0 \fs18 \cf1 \i0 
+}
+{\f0 \b1 \fs18 \cf18 \i0 
+{\f0 \strike0 \ul0 \b1 \sa0 \sb0 \fs18 \cf18 \i0 
+Callins v. Collins, 510 U.S. 1141 (1994)
+}
+}
+{\f0 \strike0 \ul0 \b0 \fs18 \cf1 \i0 
+}
+}\f0 \li0 \strike0 \ul0 \b0 \sa0 \ql \sb0 \fs18 \ri0 \cf1 \i0 \intbl \cell \intbl 
+{\li0 \f0 \b0 \ri0 \fs18 \cf1 \qr \i0 
+}\f0 \li0 \b0 \fs18 \ri0 \cf1 \i0 \qr \intbl \cell \row }
+{\trowd \lastrow \trleft0 
+\clbrdrb \clbrdrl \trql \clwWidth10080 \cellx10080 
+\intbl 
+{\li0 \f0 \b0 \ql \ri0 \fs18 \cf1 \i0 
+{\f0 \strike0 \ul0 \b0 \sa0 \sb0 \fs18 \cf1 \i0 
+114 S.Ct. 1127, 127 L.Ed.2d 435, 62 USLW 3546
+}
+}\f0 \li0 \strike0 \ul0 \b0 \sa0 \ql \sb0 \fs18 \ri0 \cf1 \i0 \intbl \cell \row }}\par }{\footer {
+{\trowd \lastrow \trleft0 
+\clpadl60 \clpadfl3 \clbrdrt \brdrw20 \brdrcf17 \brdrs \clbrdrb \clbrdrl \trql \clvertalb \clwWidth9300 \cellx9300 
+\clpadl60 \clpadfl3 \clbrdrt \brdrw20 \brdrcf17 \brdrs \clbrdrb \clbrdrr \trql \clwWidth700 \cellx10000 
+\intbl 
+{\li0 \f0 \b0 \ql \ri0 \fs20 \cf17 \i0 
+{\f0 \strike0 \ul0 \b0 \fs20 \cf17 \i0 
+}
+{\*\shppict {\pict \pngblip \picw78 \pich10 \picwgoal1170 \pichgoal150 89504e470d0a1a0a0000000d494844520000004e0000000a08030000002dbd985500000300504c5445fffffffffdfbfffcf9fdfdfdfafafafffffefffcf8f6f6f6f3f3f3fffdfae2e2e2fff5e8fffaf3fff7ecffa631bbbbbb7f7f7f7676766b6b6bffca849e9e9ef8f8f8ffbf6afffefdff9712fcfcfca4a4a4969696ff9202ffb452fff5e6ff970dfefefeffad41e1e1e1ffe9cd949494ffe6c5fff6e96f6f6fffe6c6ffebd0fff1e0d2d2d2ffd399ff950efff9f2ff9f26fff3e3fff9f0ffd092fff2e1ffb555ffe7c7fff3e4ff8500ffe0b8ffb6558b8b8bffce8dffebd1ff9408929292ffddb0ff9c19ff9811ffb95cfff8eeffecd3cccccc8e8e8effeed8ffa42d626262c9c9c9666666ffe2bcddddddfffbf7ffa32aff970eeaeaea686868dadadaffab3a9a9a9a6d6d6effe8c9878787e3e3e3ff9f20f5f5f5b7b7b7efefef868686ffc77cffe4c1ff9912ffc272ff93056c6c6cffeed7ffd296ffab3d818181ff930aff9e1effaf47fffbf5fff0dbff9100cfcfcfff930cffeacf7a7a7affcf90f7f7f7fbfbfbffa835ff9814ffa32effe9cc676767ffc67afff2e2ffb048ff9509ffdbade0e0e0ffa939ffe5c3dcdcdcffc170ffe8cab3b3b3ffb047f1f1f18c8c8cfffefeffecd4feedd7e8e8e8ffb656ffe2bbfff1df898989ff9b17ffcd8affefdac3c3c3bdbdbdffe1baffc06cffa431fff7edf9f9f9ecececffaf44fff0dd787878ff9919d9d9d9ff8f01ffd8a4727272737373e5e5e5ffe2bdffd9a7646464fffaf2ffdbab686b6effc172ffe9caffe3c0ffdcafffc374ffc477ff981dfffdf9f5f4f2ffb34efff3e2ffe4bfff9e22ffa227fefdfdffc578f1eae1ffeccf6a6a6bff9102ff9201ff9101fffcf775797e7c7c7cff9203dedede5d5d5d6b6c6dffbb60ffbc62707070ffa42bffd49bff9f29ffb04affefdcfff7ebf2f2f2ff950af6f2eeffdfb4696969ffd298ffddb2ff9916ffe1bcff9a0bffa128ffa329b0b0b0ff9d20ff9d23bfbfbfb4b4b4ffb24bff9409ffd49c727375ffa62fffe3bedbdbdbb9b9b96a6a6a6e72776e6e6effaa39ffa024ffa324fffefcfff4e5ff9c29ffb351ff9f2bffe3bc919191ff8d03ffa42eff8f02fffaf4fffaf5ff9000ffa22b9843d85d000000097048597300000b1300000b1301009a9c18000002f94944415478da633e95a6ba9b6145fce75b0c8c738f7e674000469effff94ef474d674003a271ebfb81141777f065646196999b9925be30c9143d6260ed71b36060d04fb444960f2b656160adb364c000f5698140d2396b2d8aa8583d83c63757e6edfd8f8eb05c2aaa5af07572e68975da33e57731743dc9f30b5e7f2aaa7a26b7d495df7e29d2e9b7dfae7b739fc159faf93fc67d39cf24d77b5c665067bcf487c39fe9d35fa5ee4d0ca52f1c623803b74ebdc4747dc56606dd4927eee9306cd1fb9af989e9ee62d68d2c3d812bf6b0787c946766906678f274bf5f95fb79a0cf1c1975189ce55e687e137eadc060f6eef732f9a267d9ecca65920c4bf74edc55a9323d7e373343cd8aaf5bb927685c78e2c7fd756b72b7c4cde52fc2d64e79bee2bfc8835d7c375efd4edefb60e7f4af6aff2eb19ee438d12a9075eff6f92d4a93e73a099c3c6a5d2078ad74b7a2dbe55b1322f53608b77e616066d065babd73d7fbfedddedf9cf75dfb15fa826d8d22efcb775ffe4c906afe23f6ebc7ef4382761ef2f14bbb27adcd79b8e0b7f6b1b2a2e2afcf56fdf35862567859239d71fe8be737ecfc03ff7dfcb2ea0b03d0b853bdc7f337ff3ac117579ba8f4496fd59f5b3c17aee60845ef7c789bf7a5e217e1b7d6cf04ef4f17b9bf76eb937ce5ab562a522553eefefcedf38d3175d3aa3dc5ff8b6fdcfdf76163ea7f063ed6770c20e3fe5b4a1dbef35754fe586ad4199949b3167e7ff8f6997d6c6f8cc67df19b7c4b767cf9a3b9e7c9ec2fa72e4eb812de7ff7cccf49cb3453b632dc15fac5cc7d67f12bf7947bffb9ae9b38ec6510fffe196cdcbfcf776c0e00d3c549a34de5ef3ebd60e4fb94f76fbe3aefde93fa4f1ff3eb1dac3a96bc6d91afec8c4dcbf62de08cb8f8f6595154ea4f86bffcb378a630fefc732cf2c674068b1ad675d3755245affe071ac7a0b1f5d01186af162577775c559338eb20bf37fba9e4b4036b3a6ae51edd3eb5a780e3fc5d0fd588fab5ea9783186456dc3c75fb8bc86d0686f7ed2b0e04293cb0d9df59fee5c45bd5363115a309e5071800dbb45cde95f0d3420000000049454e44ae426082}}
+{\f0 \strike0 \ul0 \b0 \sa0 \sb0 \fs20 \cf17 \i0 
+ \u169\'3f 2015 Thomson Reuters. No claim to original U.S. Government Works.
+}
+}\f0 \li0 \strike0 \ul0 \b0 \sa0 \ql \sb0 \fs20 \ri0 \cf17 \i0 \intbl \cell \intbl 
+{\li0 \f0 \b0 \ri0 \fs20 \cf17 \qr \i0 
+{\b0 \i0 \ul0 \fs20 \f0 \chpgn }
+}\f0 \li0 \strike0 \ul0 \b0 \fs20 \ri0 \cf17 \i0 \qr \intbl \cell \row }}\par }
+{\li0 \f2 \qj \b0 \ri0 \fs20 \par}\sect\sbknone\pgncont\cols1{ \cf1 \i0 
+{\*\bkmkstart co_document_1}{\*\bkmkend co_document_1}
+{\f2 \b0 \fs20 \cf1 \i0 
+{\*\bkmkstart I60e7effe9c5011d9bc61beebb95be672_Target}{\*\bkmkend I60e7effe9c5011d9bc61beebb95be672_Target}
+\par 
+}
+{\li0 \f3 \b0 \ri0 \fs20 \cf1 \qc \i0 
+{\f3 \strike0 \ul0 \b0 \sa0 \sb0 \fs20 \cf1 \i0 
+114 S.Ct. 1127
+\par 
+}
+}
+{\li0 \f3 \b0 \ri0 \fs20 \cf1 \qc \i0 
+{\li0 \f3 \b0 \ri0 \fs20 \cf1 \qc \i0 
+{\f3 \strike0 \ul0 \b0 \sa0 \sb0 \fs20 \cf1 \i0 
+Supreme Court of the United States
+\par 
+}
+}
+}
+{\li0 \f3 \b0 \ri0 \fs20 \cf1 \qc \i0 
+}
+{\li100 \f3 \b0 \ri100 \fs20 \cf19 \qc \i0 
+{\li100 \f3 \b0 \ri100 \fs20 \cf19 \qc \i0 
+{\li100 \f3 \b0 \ri100 \fs20 \cf19 \qc \i0 
+{\f3 \strike0 \ul0 \b0 \sa0 \sb200 \fs20 \cf19 \i0 
+Bruce Edwin CALLINS, petitioner,
+\par 
+}
+}
+{\li100 \f3 \b0 \ri100 \fs20 \cf19 \qc \i0 
+{\f3 \strike0 \ul0 \b0 \sa0 \sb0 \fs20 \cf19 \i0 
+v.
+\par 
+}
+}
+{\li100 \f3 \b0 \ri100 \fs20 \cf19 \qc \i0 
+{\f3 \strike0 \ul0 \b0 \sa200 \sb0 \fs20 \cf19 \i0 
+James A. COLLINS, Director, Texas Department of Criminal Justice, Institutional Division.
+\par 
+}
+}
+}
+}
+{\li0 \f2 \b0 \ri0 \fs20 \cf1 \qc \i0 
+{\f2 \b0 \fs20 \cf1 \i0 
+{\f3 \b0 \fs20 \cf1 \i0 
+{\f3 \strike0 \ul0 \b0 \sa0 \sb0 \fs20 \cf1 \i0 
+No. 93\u8211\'3f7054.
+}
+}
+}
+{\f3 \b0 \fs20 \cf1 \i0 
+{\f3 \b0 \fs20 \cf1 \i0 
+{\f3 \strike0 \ul0 \b0 \sa0 \sb0 \fs20 \cf1 \i0 
+ | 
+}
+}
+{\f3 \b0 \fs20 \cf1 \i0 
+{\f3 \strike0 \ul0 \b0 \sa200 \sb0 \fs20 \cf1 \i0 
+Feb. 22, 1994.
+\par 
+}
+}
+}
+}
+{\li0 \f2 \qj \b0 \ri0 \fs20 \cf1 \i0 
+{\li0 \f2 \qj \b0 \ri0 \fs20 \cf1 \i0 
+{\li0 \f2 \qj \b0 \ri0 \fs20 \cf1 \i0 
+{\f2 \strike0 \ul0 \b0 \sa0 \sb0 \fs20 \cf1 \i0 
+Case below, Tex.Cr.App., 
+}
+{\field {\*\fldinst HYPERLINK "http://www.westlaw.com/Link/Document/FullText?findType=Y&serNum=1986134344&pubNum=713&originatingDoc=I60e7effe9c5011d9bc61beebb95be672&refType=RP&originationContext=document&vr=3.0&rs=cblt1.0&transitionType=DocumentItem&contextData=(sc.Search)" }{\fldrslt 
+{\f2 \strike0 \ul0 \b0 \sa0 \sb0 \fs20 \cf5 \i0 
+780 S.W.2d 176;
+}}}
+{\f2 \strike0 \ul0 \b0 \sa0 \sb200 \fs20 \cf1 \i0 
+ 
+}
+{\field {\*\fldinst HYPERLINK "http://www.westlaw.com/Link/Document/FullText?findType=Y&serNum=1993156694&pubNum=350&originatingDoc=I60e7effe9c5011d9bc61beebb95be672&refType=RP&originationContext=document&vr=3.0&rs=cblt1.0&transitionType=DocumentItem&contextData=(sc.Search)" }{\fldrslt 
+{\f2 \strike0 \ul0 \b0 \sa0 \sb0 \fs20 \cf5 \i0 
+998 F.2d 269.
+}}}
+\par 
+}
+}
+{\f2 \strike0 \ul0 \b0 \sa0 \sb0 \fs20 \cf1 \i0 
+\u160\'3f
+\par 
+}
+}
+{\li0 \f2 \qj \b0 \ri0 \fs20 \cf1 \i0 
+{\li0 \f2 \qj \b1 \ri0 \fs20 \cf19 \i0 
+{\*\bkmkstart co_opinion_1}{\*\bkmkend co_opinion_1}
+{\f2 \strike0 \ul0 \b1 \sa0 \sb200 \fs20 \cf19 \i0 
+Opinion
+\par 
+}
+}
+{\li0 \f2 \qj \b0 \ri0 \fs20 \cf1 \i0 
+{\li0 \f2 \qj \b0 \ri0 \fs20 \cf1 \i0 
+{\li0 \f2 \qj \b0 \ri0 \fs20 \cf1 \i0 
+{\li0 \f2 \qj \b0 \ri0 \fs20 \cf1 \i0 
+{\*\bkmkstart co_anchor_I9fcf6f35077411e498db8b09b4f04}{\*\bkmkend co_anchor_I9fcf6f35077411e498db8b09b4f04}
+\par 
+{\li0 \f2 \qj \b0 \ri0 \fs20 \cf1 \i0 
+{\li0 \f2 \qj \b0 \ri0 \fs20 \cf1 \i0 
+{\f2 \strike0 \ul0 \b0 \fs20 \cf1 \i0 
+}
+{\f2 \b1 \fs20 \cf1 \i0 
+{\*\bkmkstart co_pp_sp_780_1141_1}{\*\bkmkend co_pp_sp_780_1141_1}
+{\f2 \strike0 \ul0 \b1 \sa0 \sb0 \fs20 \cf1 \i0 
+*1141
+}
+}
+{\f2 \strike0 \ul0 \b0 \sa0 \sb0 \fs20 \cf1 \i0 
+ On writ of certiorari to the United States Court of Appeals for the Fifth Circuit.
+\par 
+}
+}
+}
+{\f2 \strike0 \ul0 \b0 \sa0 \sb0 \fs20 \cf1 \i0 
+\u160\'3f
+\par 
+}
+{\li0 \f2 \qj \b0 \ri0 \fs20 \cf1 \i0 
+{\li0 \f2 \qj \b0 \ri0 \fs20 \cf1 \i0 
+{\f2 \strike0 \ul0 \b0 \sa0 \sb0 \fs20 \cf1 \i0 
+The petition for a writ of certiorari is denied.
+\par 
+}
+}
+}
+{\f2 \strike0 \ul0 \b0 \sa0 \sb0 \fs20 \cf1 \i0 
+\u160\'3f
+\par 
+}
+}
+}
+}
+}
+}
+{\li0 \f2 \qj \b0 \ri0 \fs20 \cf1 \i0 
+{\li0 \f2 \qj \b1 \ri0 \fs20 \cf19 \i0 
+{\*\bkmkstart co_concurrance_opinion_1}{\*\bkmkend co_concurrance_opinion_1}
+\par 
+}
+{\li0 \f2 \qj \b0 \ri0 \fs20 \cf1 \i0 
+{\li0 \f2 \qj \b0 \ri0 \fs20 \cf1 \i0 
+{\li0 \f2 \qj \b0 \ri0 \fs20 \cf1 \i0 
+{\li0 \f2 \qj \b0 \ri0 \fs20 \cf1 \i0 
+{\f2 \strike0 \ul0 \b0 \sa0 \sb0 \fs20 \cf1 \i0 
+Justice 
+}
+{\field {\*\fldinst HYPERLINK "http://www.westlaw.com/Link/Document/FullText?findType=h&pubNum=176284&cite=0254763301&originatingDoc=I60e7effe9c5011d9bc61beebb95be672&refType=RQ&originationContext=document&vr=3.0&rs=cblt1.0&transitionType=DocumentItem&contextData=(sc.Search)" }{\fldrslt 
+{\f2 \strike0 \ul0 \b0 \sa0 \sb0 \fs20 \cf5 \i0 
+SCALIA
+}}}
+{\f2 \strike0 \ul0 \b0 \sa0 \sb400 \fs20 \cf1 \i0 
+, concurring.
+\par 
+}
+}
+}
+{\li0 \f2 \qj \b0 \ri0 \fs20 \cf1 \i0 
+{\li0 \f2 \qj \b0 \ri0 \fs20 \cf1 \i0 
+{\*\bkmkstart co_anchor_I9fcf6f3a077411e498db8b09b4f04}{\*\bkmkend co_anchor_I9fcf6f3a077411e498db8b09b4f04}
+\par 
+{\li0 \f2 \qj \b0 \ri0 \fs20 \cf1 \i0 
+{\li0 \f2 \qj \b0 \ri0 \fs20 \cf1 \i0 
+{\f2 \strike0 \ul0 \b0 \sa0 \sb0 \fs20 \cf1 \i0 
+Justice BLACKMUN dissents from the denial of certiorari in this case with a statement explaining why the death penalty \u8220\'3fas currently administered,\u8221\'3f 
+}
+{\f2 \b0 \fs20 \cf1 \i1 
+{\f2 \strike0 \ul0 \b0 \sa0 \sb0 \fs20 \cf1 \i1 
+post,
+}
+}
+{\f2 \strike0 \ul0 \b0 \sa0 \sb0 \fs20 \cf1 \i0 
+ at 22, is contrary to the Constitution of the United States. That explanation often refers to \u8220\'3fintellectual, moral and personal\u8221\'3f perceptions, but never to the text and tradition of the Constitution. It is the latter rather than the former that ought to control. The Fifth Amendment provides that \u8220\'3f[n]o person shall be held to answer for a capital ... crime, unless on a presentment or indictment of a Grand Jury, ... nor be deprived of life, ... without due process of law.\u8221\'3f This clearly permits the death penalty to be imposed, and establishes beyond doubt that the death penalty is not one of the \u8220\'3fcruel and unusual punishments\u8221\'3f prohibited by the Eighth Amendment.
+\par 
+}
+}
+}
+{\f2 \strike0 \ul0 \b0 \sa0 \sb0 \fs20 \cf1 \i0 
+\u160\'3f
+\par 
+}
+{\li0 \f2 \qj \b0 \ri0 \fs20 \cf1 \i0 
+{\li0 \f2 \qj \b0 \ri0 \fs20 \cf1 \i0 
+{\f2 \strike0 \ul0 \b0 \sa0 \sb0 \fs20 \cf1 \i0 
+As Justice BLACKMUN describes, however, over the years since 1972 this Court has attached to the imposition of the death penalty two quite incompatible sets of commands: The sentencer\rquote s discretion to impose death must be closely confined, see 
+}
+{\field {\*\fldinst HYPERLINK "http://www.westlaw.com/Link/Document/FullText?findType=Y&serNum=1972127195&pubNum=708&originatingDoc=I60e7effe9c5011d9bc61beebb95be672&refType=RP&originationContext=document&vr=3.0&rs=cblt1.0&transitionType=DocumentItem&contextData=(sc.Search)" }{\fldrslt 
+{\f2 \b0 \fs20 \cf5 \i1 
+{\f2 \strike0 \ul0 \b0 \sa0 \sb0 \fs20 \cf5 \i1 
+Furman v. Georgia,
+}
+}
+{\f2 \strike0 \ul0 \b0 \sa0 \sb0 \fs20 \cf5 \i0 
+ 408 U.S. 238, 92 S.Ct. 2726, 33 L.Ed.2d 346 (1972)
+}}}
+{\f2 \strike0 \ul0 \b0 \sa0 \sb0 \fs20 \cf1 \i0 
+ (
+}
+{\f2 \b0 \fs20 \cf1 \i1 
+{\f2 \strike0 \ul0 \b0 \sa0 \sb0 \fs20 \cf1 \i1 
+per curiam
+}
+}
+{\f2 \strike0 \ul0 \b0 \sa0 \sb0 \fs20 \cf1 \i0 
+ ), but the sentencer\rquote s discretion 
+}
+{\f2 \b0 \fs20 \cf1 \i1 
+{\f2 \strike0 \ul0 \b0 \sa0 \sb0 \fs20 \cf1 \i1 
+not
+}
+}
+{\f2 \strike0 \ul0 \b0 \sa0 \sb0 \fs20 \cf1 \i0 
+ to impose death (to extend mercy) must be unlimited, 
+}
+{\f2 \b1 \fs20 \cf1 \i0 
+{\*\bkmkstart co_pp_sp_780_1142_1}{\*\bkmkend co_pp_sp_780_1142_1}
+{\f2 \strike0 \ul0 \b1 \sa0 \sb0 \fs20 \cf1 \i0 
+*1142
+}
+}
+{\f2 \strike0 \ul0 \b0 \sa0 \sb0 \fs20 \cf1 \i0 
+ see 
+}
+{\field {\*\fldinst HYPERLINK "http://www.westlaw.com/Link/Document/FullText?findType=Y&serNum=1982102682&pubNum=708&originatingDoc=I60e7effe9c5011d9bc61beebb95be672&refType=RP&originationContext=document&vr=3.0&rs=cblt1.0&transitionType=DocumentItem&contextData=(sc.Search)" }{\fldrslt 
+{\f2 \b0 \fs20 \cf5 \i1 
+{\f2 \strike0 \ul0 \b0 \sa0 \sb0 \fs20 \cf5 \i1 
+Eddings v. Oklahoma,
+}
+}
+{\f2 \strike0 \ul0 \b0 \sa0 \sb0 \fs20 \cf5 \i0 
+ 455 U.S. 104, 102 S.Ct. 869, 71 L.Ed.2d 1 (1982)
+}}}
+{\f2 \strike0 \ul0 \b0 \sa0 \sb0 \fs20 \cf1 \i0 
+; 
+}
+{\f2 \b1 \fs20 \cf1 \i0 
+{\*\bkmkstart co_pp_sp_708_1128_1}{\*\bkmkend co_pp_sp_708_1128_1}
+{\f2 \strike0 \ul0 \b1 \sa0 \sb0 \fs20 \cf1 \i0 
+**1128
+}
+}
+{\f2 \strike0 \ul0 \b0 \sa0 \sb0 \fs20 \cf1 \i0 
+ 
+}
+{\field {\*\fldinst HYPERLINK "http://www.westlaw.com/Link/Document/FullText?findType=Y&serNum=1978139513&pubNum=708&originatingDoc=I60e7effe9c5011d9bc61beebb95be672&refType=RP&originationContext=document&vr=3.0&rs=cblt1.0&transitionType=DocumentItem&contextData=(sc.Search)" }{\fldrslt 
+{\f2 \b0 \fs20 \cf5 \i1 
+{\f2 \strike0 \ul0 \b0 \sa0 \sb0 \fs20 \cf5 \i1 
+Lockett v. Ohio,
+}
+}
+{\f2 \strike0 \ul0 \b0 \sa0 \sb0 \fs20 \cf5 \i0 
+ 438 U.S. 586, 98 S.Ct. 2954, 57 L.Ed.2d 973 (1978)
+}}}
+{\f2 \strike0 \ul0 \b0 \sa0 \sb0 \fs20 \cf1 \i0 
+ (plurality opinion). These commands were invented without benefit of any textual or historical support; they are the product of just such \u8220\'3f intellectual, moral, and personal\u8221\'3f perceptions as Justice BLACKMUN expresses today, some of which (viz., those that have been \u8220\'3fperceived\u8221\'3f simultaneously by five Members of the Court) have been made part of what is called \u8220\'3fthe Court\rquote s Eighth Amendment jurisprudence,\u8221\'3f 
+}
+{\f2 \b0 \fs20 \cf1 \i1 
+{\f2 \strike0 \ul0 \b0 \sa0 \sb0 \fs20 \cf1 \i1 
+post,
+}
+}
+{\f2 \strike0 \ul0 \b0 \sa0 \sb0 \fs20 \cf1 \i0 
+ at 1131.
+\par 
+}
+}
+}
+{\f2 \strike0 \ul0 \b0 \sa0 \sb0 \fs20 \cf1 \i0 
+\u160\'3f
+\par 
+}
+{\li0 \f2 \qj \b0 \ri0 \fs20 \cf1 \i0 
+{\li0 \f2 \qj \b0 \ri0 \fs20 \cf1 \i0 
+{\f2 \strike0 \ul0 \b0 \sa0 \sb0 \fs20 \cf1 \i0 
+Though Justice BLACKMUN joins those of us who have acknowledged the incompatibility of the Court\rquote s 
+}
+{\field {\*\fldinst HYPERLINK "http://www.westlaw.com/Link/Document/FullText?findType=Y&serNum=1972127195&originatingDoc=I60e7effe9c5011d9bc61beebb95be672&refType=RP&originationContext=document&vr=3.0&rs=cblt1.0&transitionType=DocumentItem&contextData=(sc.Search)" }{\fldrslt 
+{\f2 \b0 \fs20 \cf5 \i1 
+{\f2 \strike0 \ul0 \b0 \sa0 \sb0 \fs20 \cf5 \i1 
+Furman
+}
+}}}
+{\f2 \strike0 \ul0 \b0 \sa0 \sb0 \fs20 \cf1 \i0 
+ and 
+}
+{\field {\*\fldinst HYPERLINK "http://www.westlaw.com/Link/Document/FullText?findType=Y&serNum=1978139513&originatingDoc=I60e7effe9c5011d9bc61beebb95be672&refType=RP&originationContext=document&vr=3.0&rs=cblt1.0&transitionType=DocumentItem&contextData=(sc.Search)" }{\fldrslt 
+{\f2 \b0 \fs20 \cf5 \i1 
+{\f2 \strike0 \ul0 \b0 \sa0 \sb0 \fs20 \cf5 \i1 
+Lockett
+}
+}}}
+{\f2 \strike0 \ul0 \b0 \sa0 \sb0 \fs20 \cf1 \i0 
+\u8211\'3f
+}
+{\field {\*\fldinst HYPERLINK "http://www.westlaw.com/Link/Document/FullText?findType=Y&serNum=1982102682&originatingDoc=I60e7effe9c5011d9bc61beebb95be672&refType=RP&originationContext=document&vr=3.0&rs=cblt1.0&transitionType=DocumentItem&contextData=(sc.Search)" }{\fldrslt 
+{\f2 \b0 \fs20 \cf5 \i1 
+{\f2 \strike0 \ul0 \b0 \sa0 \sb0 \fs20 \cf5 \i1 
+Eddings
+}
+}}}
+{\f2 \strike0 \ul0 \b0 \sa0 \sb0 \fs20 \cf1 \i0 
+ lines of jurisprudence, see 
+}
+{\field {\*\fldinst HYPERLINK "http://www.westlaw.com/Link/Document/FullText?findType=Y&serNum=1993032776&pubNum=708&originatingDoc=I60e7effe9c5011d9bc61beebb95be672&refType=RP&fi=co_pp_sp_708_903&originationContext=document&vr=3.0&rs=cblt1.0&transitionType=DocumentItem&contextData=(sc.Search)#co_pp_sp_708_903" }{\fldrslt 
+{\f2 \b0 \fs20 \cf5 \i1 
+{\f2 \strike0 \ul0 \b0 \sa0 \sb0 \fs20 \cf5 \i1 
+Graham v. Collins,
+}
+}
+{\f2 \strike0 \ul0 \b0 \sa0 \sb0 \fs20 \cf5 \i0 
+ 506 U.S. 461, 478, 113 S.Ct. 892, 903, 122 L.Ed.2d 260 (1993)
+}}}
+{\f2 \strike0 \ul0 \b0 \sa0 \sb0 \fs20 \cf1 \i0 
+ (THOMAS, J., concurring); 
+}
+{\field {\*\fldinst HYPERLINK "http://www.westlaw.com/Link/Document/FullText?findType=Y&serNum=1990098000&pubNum=708&originatingDoc=I60e7effe9c5011d9bc61beebb95be672&refType=RP&fi=co_pp_sp_708_3058&originationContext=document&vr=3.0&rs=cblt1.0&transitionType=DocumentItem&contextData=(sc.Search)#co_pp_sp_708_3058" }{\fldrslt 
+{\f2 \b0 \fs20 \cf5 \i1 
+{\f2 \strike0 \ul0 \b0 \sa0 \sb0 \fs20 \cf5 \i1 
+Walton v. Arizona,
+}
+}
+{\f2 \strike0 \ul0 \b0 \sa0 \sb0 \fs20 \cf5 \i0 
+ 497 U.S. 639, 656\u8211\'3f673, 110 S.Ct. 3047, 3058\u8211\'3f68, 111 L.Ed.2d 511 (1990)
+}}}
+{\f2 \strike0 \ul0 \b0 \sa0 \sb0 \fs20 \cf1 \i0 
+ (SCALIA, J., concurring in part and concurring in judgment), he unfortunately draws the wrong conclusion from the acknowledgment. He says:
+\par 
+}
+}
+{\li200 \f2 \qj \b0 \ri0 \fs20 \cf1 \i0 
+{\li200 \f2 \qj \b0 \ri0 \fs20 \cf1 \i0 
+{\f2 \strike0 \ul0 \b0 \sa0 \sb0 \fs20 \cf1 \i0 
+\u8220\'3f[T]he proper course when faced with irreconcilable constitutional commands is not to ignore one or the other, nor to pretend that the dilemma does not exist, but to admit the futility of the effort to harmonize them. This means accepting the fact that the death penalty cannot be administered in accord with our Constitution.\u8221\'3f 
+}
+{\f2 \b0 \fs20 \cf1 \i1 
+{\f2 \strike0 \ul0 \b0 \sa0 \sb0 \fs20 \cf1 \i1 
+Post,
+}
+}
+{\f2 \strike0 \ul0 \b0 \sa0 \sb200 \fs20 \cf1 \i0 
+ at 1137.
+\par 
+}
+}
+}
+{\li0 \f2 \qj \b0 \ri0 \fs20 \cf1 \i0 
+{\f2 \strike0 \ul0 \b0 \sa0 \sb200 \fs20 \cf1 \i0 
+Surely a different conclusion commends itself\u8212\'3fto wit, that at least one of these judicially announced irreconcilable commands which cause the Constitution to prohibit what its text explicitly permits must be wrong.
+\par 
+}
+}
+}
+{\f2 \strike0 \ul0 \b0 \sa0 \sb0 \fs20 \cf1 \i0 
+\u160\'3f
+\par 
+}
+{\li0 \f2 \qj \b0 \ri0 \fs20 \cf1 \i0 
+{\li0 \f2 \qj \b0 \ri0 \fs20 \cf1 \i0 
+{\f2 \strike0 \ul0 \b0 \sa0 \sb0 \fs20 \cf1 \i0 
+Convictions in opposition to the death penalty are often passionate and deeply held. That would be no excuse for reading them into a Constitution that does not contain them, even if they represented the convictions of a majority of Americans.
+}
+{\f2 \strike0 \ul0 \b0 \sa0 \sb0 \fs20 \cf1 \i0 
+ Much less is there any excuse for using that course to thrust a minority\rquote s views upon the people. Justice BLACKMUN begins his statement by describing with poignancy the death of a convicted murderer by lethal injection. He chooses, as the case in which to make that statement, one of the less brutal of the murders that regularly come before us\u8212\'3fthe murder of a man ripped by a bullet suddenly and unexpectedly, with no opportunity to prepare himself and his affairs, and left to bleed to death on the floor of a tavern. The death-by-injection which Justice BLACKMUN describes looks pretty desirable next to that. It looks even better 
+}
+{\f2 \b1 \fs20 \cf1 \i0 
+{\*\bkmkstart co_pp_sp_780_1143_1}{\*\bkmkend co_pp_sp_780_1143_1}
+{\f2 \strike0 \ul0 \b1 \sa0 \sb0 \fs20 \cf1 \i0 
+*1143
+}
+}
+{\f2 \strike0 \ul0 \b0 \sa0 \sb0 \fs20 \cf1 \i0 
+ next to some of the other cases currently before us which Justice BLACKMUN did not select as the vehicle for his announcement that the death penalty is always unconstitutional\u8212\'3ffor example, the case of the 11\u8211\'3fyear\u8211\'3fold girl raped by four men and then killed by stuffing her panties down her throat. See 
+}
+{\f2 \b0 \fs20 \cf1 \i1 
+{\f2 \strike0 \ul0 \b0 \sa0 \sb0 \fs20 \cf1 \i1 
+McCollum v. North Carolina,
+}
+}
+{\f2 \strike0 \ul0 \b0 \sa0 \sb0 \fs20 \cf1 \i0 
+ cert. pending, No. 93\u8211\'3f7200. How enviable a quiet death by lethal injection compared with that! If the people conclude that such more brutal deaths may be deterred by capital punishment; indeed, if they merely conclude that justice requires such brutal deaths to be avenged by capital punishment; the creation of false, untextual, and unhistorical contradictions within \u8220\'3fthe Court\rquote s Eighth Amendment jurisprudence\u8221\'3f should not prevent them.
+\par 
+}
+}
+}
+{\f2 \strike0 \ul0 \b0 \sa0 \sb0 \fs20 \cf1 \i0 
+\u160\'3f
+\par 
+}
+}
+}
+}
+}
+}
+{\li0 \f2 \qj \b0 \ri0 \fs20 \cf1 \i0 
+{\li0 \f2 \qj \b1 \ri0 \fs20 \cf19 \i0 
+{\*\bkmkstart co_dissent_opinion_1}{\*\bkmkend co_dissent_opinion_1}
+\par 
+}
+{\li0 \f2 \qj \b0 \ri0 \fs20 \cf1 \i0 
+{\li0 \f2 \qj \b0 \ri0 \fs20 \cf1 \i0 
+{\li0 \f2 \qj \b0 \ri0 \fs20 \cf1 \i0 
+{\li0 \f2 \qj \b0 \ri0 \fs20 \cf1 \i0 
+{\f2 \strike0 \ul0 \b0 \sa0 \sb0 \fs20 \cf1 \i0 
+Justice 
+}
+{\field {\*\fldinst HYPERLINK "http://www.westlaw.com/Link/Document/FullText?findType=h&pubNum=176284&cite=0264439801&originatingDoc=I60e7effe9c5011d9bc61beebb95be672&refType=RQ&originationContext=document&vr=3.0&rs=cblt1.0&transitionType=DocumentItem&contextData=(sc.Search)" }{\fldrslt 
+{\f2 \strike0 \ul0 \b0 \sa0 \sb0 \fs20 \cf5 \i0 
+BLACKMUN
+}}}
+{\f2 \strike0 \ul0 \b0 \sa0 \sb200 \fs20 \cf1 \i0 
+, dissenting.
+\par 
+}
+}
+}
+{\li0 \f2 \qj \b0 \ri0 \fs20 \cf1 \i0 
+{\li0 \f2 \qj \b0 \ri0 \fs20 \cf1 \i0 
+{\*\bkmkstart co_anchor_I9fcf6f3f077411e498db8b09b4f04}{\*\bkmkend co_anchor_I9fcf6f3f077411e498db8b09b4f04}
+\par 
+{\li0 \f2 \qj \b0 \ri0 \fs20 \cf1 \i0 
+{\li0 \f2 \qj \b0 \ri0 \fs20 \cf1 \i0 
+{\f2 \strike0 \ul0 \b0 \sa0 \sb0 \fs20 \cf1 \i0 
+On February 23, 1994, at approximately 1:00 a.m., Bruce Edwin Callins will be executed by the State of Texas. 
+}
+{\field {\*\fldinst HYPERLINK "http://www.westlaw.com/Link/Document/FullText?entityType=mdev&entityId=Ib11bb6ed475411db9765f9243f53508a&originationContext=document&transitionType=DocumentItem&contextData=(sc.Default)&vr=3.0&rs=cblt1.0" }{\fldrslt 
+{\f2 \strike0 \ul0 \b0 \sa0 \sb0 \fs20 \cf5 \i0 
+Intravenous tubes
+}}}
+{\f2 \strike0 \ul0 \b0 \sa0 \sb0 \fs20 \cf1 \i0 
+ attached to his arms will carry the instrument of death, a toxic fluid designed specifically for the purpose of killing human beings. The witnesses, standing a few feet away, will behold Callins, no longer a defendant, an appellant, or a petitioner, but a man, strapped to a gurney, and seconds away from extinction.
+\par 
+}
+}
+}
+{\f2 \strike0 \ul0 \b0 \sa0 \sb0 \fs20 \cf1 \i0 
+\u160\'3f
+\par 
+}
+{\li0 \f2 \qj \b0 \ri0 \fs20 \cf1 \i0 
+{\li0 \f2 \qj \b0 \ri0 \fs20 \cf1 \i0 
+{\f2 \strike0 \ul0 \b0 \sa0 \sb0 \fs20 \cf1 \i0 
+Within days, or perhaps hours, the memory of Callins will begin to fade. The wheels of justice will churn again, and somewhere, another jury or another judge will have the unenviable task of determining whether some human being is to live or die. We hope, of course, that the defendant whose life is at risk will be represented by competent counsel\u8212\'3fsomeone who is inspired by the awareness that a less than vigorous defense truly 
+}
+{\f2 \b1 \fs20 \cf1 \i0 
+{\*\bkmkstart co_pp_sp_708_1129_1}{\*\bkmkend co_pp_sp_708_1129_1}
+{\f2 \strike0 \ul0 \b1 \sa0 \sb0 \fs20 \cf1 \i0 
+**1129
+}
+}
+{\f2 \strike0 \ul0 \b0 \sa0 \sb0 \fs20 \cf1 \i0 
+ could have fatal consequences for the defendant. We hope that the attorney will investigate all aspects of the case, follow all evidentiary and procedural rules, and appear before a judge who is still committed to the protection of defendants\rquote  rights\u8212\'3feven now, as the prospect of meaningful judicial oversight has diminished. In the same vein, we hope that the prosecution, in urging the penalty of death, will have exercised its discretion wisely, free from bias, prejudice, or political motive, and will be humbled, rather than emboldened, by the awesome authority conferred by the State.
+\par 
+}
+}
+}
+{\f2 \strike0 \ul0 \b0 \sa0 \sb0 \fs20 \cf1 \i0 
+\u160\'3f
+\par 
+}
+{\li0 \f2 \qj \b0 \ri0 \fs20 \cf1 \i0 
+{\li0 \f2 \qj \b0 \ri0 \fs20 \cf1 \i0 
+{\f2 \strike0 \ul0 \b0 \sa0 \sb0 \fs20 \cf1 \i0 
+But even if we can feel confident that these actors will fulfill their roles to the best of their human ability, our collective conscience will remain uneasy. Twenty years have passed since this 
+}
+{\f2 \b1 \fs20 \cf1 \i0 
+{\*\bkmkstart co_pp_sp_780_1144_1}{\*\bkmkend co_pp_sp_780_1144_1}
+{\f2 \strike0 \ul0 \b1 \sa0 \sb0 \fs20 \cf1 \i0 
+*1144
+}
+}
+{\f2 \strike0 \ul0 \b0 \sa0 \sb0 \fs20 \cf1 \i0 
+ Court declared that the death penalty must be imposed fairly, and with reasonable consistency, or not at all, see 
+}
+{\field {\*\fldinst HYPERLINK "http://www.westlaw.com/Link/Document/FullText?findType=Y&serNum=1972127195&pubNum=708&originatingDoc=I60e7effe9c5011d9bc61beebb95be672&refType=RP&originationContext=document&vr=3.0&rs=cblt1.0&transitionType=DocumentItem&contextData=(sc.Search)" }{\fldrslt 
+{\f2 \b0 \fs20 \cf5 \i1 
+{\f2 \strike0 \ul0 \b0 \sa0 \sb0 \fs20 \cf5 \i1 
+Furman v. Georgia,
+}
+}
+{\f2 \strike0 \ul0 \b0 \sa0 \sb0 \fs20 \cf5 \i0 
+ 408 U.S. 238, 92 S.Ct. 2726, 33 L.Ed.2d 346 (1972)
+}}}
+{\f2 \strike0 \ul0 \b0 \sa0 \sb0 \fs20 \cf1 \i0 
+, and, despite the effort of the States and courts to devise legal formulas and procedural rules to meet this daunting challenge, the death penalty remains fraught with arbitrariness, discrimination, caprice, and mistake.
+}
+{\f2 \strike0 \ul0 \b0 \sa0 \sb0 \fs20 \cf1 \i0 
+ This is not to say that the problems with the death penalty today are identical to those that were present 20 years ago. Rather, the problems that were pursued down one hole with procedural rules and verbal formulas have come to the surface somewhere else, just as virulent and pernicious as they were in their original form. Experience has taught us that the constitutional goal of eliminating arbitrariness and discrimination from the administration of death, see 
+}
+{\field {\*\fldinst HYPERLINK "http://www.westlaw.com/Link/Document/FullText?findType=Y&serNum=1972127195&originatingDoc=I60e7effe9c5011d9bc61beebb95be672&refType=RP&originationContext=document&vr=3.0&rs=cblt1.0&transitionType=DocumentItem&contextData=(sc.Search)" }{\fldrslt 
+{\f2 \b0 \fs20 \cf5 \i1 
+{\f2 \strike0 \ul0 \b0 \sa0 \sb0 \fs20 \cf5 \i1 
+Furman v. Georgia, supra,
+}
+}}}
+{\f2 \strike0 \ul0 \b0 \sa0 \sb0 \fs20 \cf1 \i0 
+ can never be achieved without compromising an equally essential component of fundamental fairness\u8212\'3findividualized sentencing. See 
+}
+{\field {\*\fldinst HYPERLINK "http://www.westlaw.com/Link/Document/FullText?findType=Y&serNum=1978139513&pubNum=708&originatingDoc=I60e7effe9c5011d9bc61beebb95be672&refType=RP&originationContext=document&vr=3.0&rs=cblt1.0&transitionType=DocumentItem&contextData=(sc.Search)" }{\fldrslt 
+{\f2 \b0 \fs20 \cf5 \i1 
+{\f2 \strike0 \ul0 \b0 \sa0 \sb0 \fs20 \cf5 \i1 
+Lockett v. Ohio,
+}
+}
+{\f2 \strike0 \ul0 \b0 \sa0 \sb0 \fs20 \cf5 \i0 
+ 438 U.S. 586, 98 S.Ct. 2954, 57 L.Ed.2d 973 (1978)
+}}}
+{\f2 \strike0 \ul0 \b0 \sa0 \sb0 \fs20 \cf1 \i0 
+.
+\par 
+}
+}
+}
+{\f2 \strike0 \ul0 \b0 \sa0 \sb0 \fs20 \cf1 \i0 
+\u160\'3f
+\par 
+}
+{\li0 \f2 \qj \b0 \ri0 \fs20 \cf1 \i0 
+{\li0 \f2 \qj \b0 \ri0 \fs20 \cf1 \i0 
+{\f2 \strike0 \ul0 \b0 \sa0 \sb0 \fs20 \cf1 \i0 
+It is tempting, when faced with conflicting constitutional commands, to sacrifice one for the other or to assume that an acceptable balance between them already has been struck. In the context of the death penalty, however, such jurisprudential maneuvers are wholly inappropriate. The death penalty must be imposed \u8220\'3ffairly, and with reasonable consistency, or not at all.\u8221\'3f 
+}
+{\field {\*\fldinst HYPERLINK "http://www.westlaw.com/Link/Document/FullText?findType=Y&serNum=1982102682&pubNum=708&originatingDoc=I60e7effe9c5011d9bc61beebb95be672&refType=RP&fi=co_pp_sp_708_875&originationContext=document&vr=3.0&rs=cblt1.0&transitionType=DocumentItem&contextData=(sc.Search)#co_pp_sp_708_875" }{\fldrslt 
+{\f2 \b0 \fs20 \cf5 \i1 
+{\f2 \strike0 \ul0 \b0 \sa0 \sb0 \fs20 \cf5 \i1 
+Eddings v. Oklahoma,
+}
+}
+{\f2 \strike0 \ul0 \b0 \sa0 \sb0 \fs20 \cf5 \i0 
+ 455 U.S. 104, 112, 102 S.Ct. 869, 875, 71 L.Ed.2d 1 (1982)
+}}}
+{\f2 \strike0 \ul0 \b0 \sa0 \sb0 \fs20 \cf1 \i0 
+.
+\par 
+}
+}
+}
+{\f2 \strike0 \ul0 \b0 \sa0 \sb0 \fs20 \cf1 \i0 
+\u160\'3f
+\par 
+}
+{\li0 \f2 \qj \b0 \ri0 \fs20 \cf1 \i0 
+{\li0 \f2 \qj \b0 \ri0 \fs20 \cf1 \i0 
+{\f2 \strike0 \ul0 \b0 \sa0 \sb0 \fs20 \cf1 \i0 
+To be fair, a capital sentencing scheme must treat each person convicted of a capital offense with that \u8220\'3fdegree of respect due the uniqueness of the individual.\u8221\'3f 
+}
+{\field {\*\fldinst HYPERLINK "http://www.westlaw.com/Link/Document/FullText?findType=Y&serNum=1978139513&pubNum=708&originatingDoc=I60e7effe9c5011d9bc61beebb95be672&refType=RP&fi=co_pp_sp_708_2964&originationContext=document&vr=3.0&rs=cblt1.0&transitionType=DocumentItem&contextData=(sc.Search)#co_pp_sp_708_2964" }{\fldrslt 
+{\f2 \b0 \fs20 \cf5 \i1 
+{\f2 \strike0 \ul0 \b0 \sa0 \sb0 \fs20 \cf5 \i1 
+Lockett v. Ohio,
+}
+}
+{\f2 \strike0 \ul0 \b0 \sa0 \sb0 \fs20 \cf5 \i0 
+ 438 U.S., at 605, 98 S.Ct., at 2964
+}}}
+{\f2 \strike0 \ul0 \b0 \sa0 \sb0 \fs20 \cf1 \i0 
+ (plurality opinion). That means affording the sentencer the power and discretion to grant mercy in a particular case, and providing avenues for the consideration of any and all relevant mitigating evidence that would justify a sentence less than death. Reasonable consistency, on the other hand, requires that the death penalty be inflicted evenhandedly, in accordance with reason and objective standards, rather than by whim, caprice, or prejudice. Finally, because human error is inevitable, and because our criminal justice system is less than perfect, searching appellate review of death sentences and their underlying convictions is a prerequisite to a constitutional death penalty scheme.
+\par 
+}
+}
+}
+{\f2 \strike0 \ul0 \b0 \sa0 \sb0 \fs20 \cf1 \i0 
+\u160\'3f
+\par 
+}
+{\li0 \f2 \qj \b0 \ri0 \fs20 \cf1 \i0 
+{\li0 \f2 \qj \b0 \ri0 \fs20 \cf1 \i0 
+{\f2 \strike0 \ul0 \b0 \sa0 \sb0 \fs20 \cf1 \i0 
+On their face, these goals of individual fairness, reasonable consistency, and absence of error appear to be attainable: Courts are in the very business of erecting procedural devices from which 
+}
+{\f2 \b1 \fs20 \cf1 \i0 
+{\*\bkmkstart co_pp_sp_780_1145_1}{\*\bkmkend co_pp_sp_780_1145_1}
+{\f2 \strike0 \ul0 \b1 \sa0 \sb0 \fs20 \cf1 \i0 
+*1145
+}
+}
+{\f2 \strike0 \ul0 \b0 \sa0 \sb0 \fs20 \cf1 \i0 
+ fair, equitable, and reliable outcomes are presumed to flow. Yet, in the death penalty area, this Court, in my view, has engaged in a futile effort to balance these constitutional demands, and now is retreating not only from the 
+}
+{\f2 \b0 \fs20 \cf1 \i1 
+{\f2 \strike0 \ul0 \b0 \sa0 \sb0 \fs20 \cf1 \i1 
+Furman
+}
+}
+{\f2 \strike0 \ul0 \b0 \sa0 \sb0 \fs20 \cf1 \i0 
+ promise of consistency and rationality, but from the requirement of individualized sentencing as well. Having virtually conceded that both fairness and rationality cannot be achieved in the administration of the death penalty, see 
+}
+{\field {\*\fldinst HYPERLINK "http://www.westlaw.com/Link/Document/FullText?findType=Y&serNum=1987050464&pubNum=708&originatingDoc=I60e7effe9c5011d9bc61beebb95be672&refType=RP&fi=co_pp_sp_708_1778&originationContext=document&vr=3.0&rs=cblt1.0&transitionType=DocumentItem&contextData=(sc.Search)#co_pp_sp_708_1778" }{\fldrslt 
+{\f2 \b0 \fs20 \cf5 \i1 
+{\f2 \strike0 \ul0 \b0 \sa0 \sb0 \fs20 \cf5 \i1 
+McCleskey v. Kemp,
+}
+}
+{\f2 \strike0 \ul0 \b0 \sa0 \sb0 \fs20 \cf5 \i0 
+ 481 U.S. 279, 313, n. 37, 107 S.Ct. 1756, 1778, n. 37, 95 L.Ed.2d 262 (1987)
+}}}
+{\f2 \strike0 \ul0 \b0 \sa0 \sb0 \fs20 \cf1 \i0 
+, the Court has chosen to deregulate the entire enterprise, replacing, it would seem, substantive constitutional requirements with mere esthetics, and abdicating its statutorily and constitutionally imposed duty to provide meaningful judicial oversight to the administration of death by the States.
+\par 
+}
+}
+}
+{\f2 \strike0 \ul0 \b0 \sa0 \sb0 \fs20 \cf1 \i0 
+\u160\'3f
+\par 
+}
+{\li0 \f2 \qj \b0 \ri0 \fs20 \cf1 \i0 
+{\li0 \f2 \qj \b0 \ri0 \fs20 \cf1 \i0 
+{\f2 \strike0 \ul0 \b0 \fs20 \cf1 \i0 
+}
+{\f2 \b1 \fs20 \cf1 \i0 
+{\*\bkmkstart co_pp_sp_708_1130_1}{\*\bkmkend co_pp_sp_708_1130_1}
+{\f2 \strike0 \ul0 \b1 \sa0 \sb0 \fs20 \cf1 \i0 
+**1130
+}
+}
+{\f2 \strike0 \ul0 \b0 \sa0 \sb0 \fs20 \cf1 \i0 
+ From this day forward, I no longer shall tinker with the machinery of death. For more than 20 years I have endeavored\u8212\'3findeed, I have struggled\u8212\'3falong with a majority of this Court, to develop procedural and substantive rules that would lend more than the mere appearance of fairness to the death penalty endeavor.
+}
+{\f2 \b0 \fs16 \cf1 \i0 
+{\*\bkmkstart co_footnoteReference_B00111993241434_ID0}{\*\bkmkend co_footnoteReference_B00111993241434_ID0}
+{\field {\*\fldinst HYPERLINK "#co_footnote_B00111993241434_1" }{\fldrslt 
+{\super \f2 \strike0 \ul0 \b0 \sa0 \sb0 \fs16 \cf5 \i0 
+1
+}}}
+}
+{\f2 \strike0 \ul0 \b0 \sa0 \sb0 \fs20 \cf1 \i0 
+ Rather than continue to coddle the Court\rquote s delusion that the desired level of fairness has been achieved and the need for regulation eviscerated, I feel morally and intellectually obligated simply to concede that the death penalty experiment has failed.
+}
+{\f2 \strike0 \ul0 \b0 \sa0 \sb0 \fs20 \cf1 \i0 
+ It is virtually self-evident to me now that no combination of procedural rules or substantive regulations ever can save the death penalty from its inherent constitutional deficiencies. The basic question\u8212\'3fdoes the system accurately and consistently determine which defendants \u8220\'3fdeserve\u8221\'3f to die?\u8212\'3fcannot be answered in the affirmative. It is not simply that this Court has allowed vague aggravating circumstances to be employed, see, 
+}
+{\f2 \b0 \fs20 \cf1 \i1 
+{\f2 \strike0 \ul0 \b0 \sa0 \sb0 \fs20 \cf1 \i1 
+e.g., 
+}
+}
+{\field {\*\fldinst HYPERLINK "http://www.westlaw.com/Link/Document/FullText?findType=Y&serNum=1993075902&pubNum=708&originatingDoc=I60e7effe9c5011d9bc61beebb95be672&refType=RP&originationContext=document&vr=3.0&rs=cblt1.0&transitionType=DocumentItem&contextData=(sc.Search)" }{\fldrslt 
+{\f2 \b0 \fs20 \cf5 \i1 
+{\f2 \strike0 \ul0 \b0 \sa0 \sb0 \fs20 \cf5 \i1 
+Arave v. Creech,
+}
+}
+{\f2 \strike0 \ul0 \b0 \sa0 \sb0 \fs20 \cf5 \i0 
+ 507 U.S. 463, 113 S.Ct. 1534, 123 L.Ed.2d 188 (1993)
+}}}
+{\f2 \strike0 \ul0 \b0 \sa0 \sb0 \fs20 \cf1 \i0 
+, relevant mitigating evidence to be disregarded, see, 
+}
+{\f2 \b0 \fs20 \cf1 \i1 
+{\f2 \strike0 \ul0 \b0 \sa0 \sb0 \fs20 \cf1 \i1 
+e.g., 
+}
+}
+{\field {\*\fldinst HYPERLINK "http://www.westlaw.com/Link/Document/FullText?findType=Y&serNum=1993129071&pubNum=708&originatingDoc=I60e7effe9c5011d9bc61beebb95be672&refType=RP&originationContext=document&vr=3.0&rs=cblt1.0&transitionType=DocumentItem&contextData=(sc.Search)" }{\fldrslt 
+{\f2 \b0 \fs20 \cf5 \i1 
+{\f2 \strike0 \ul0 \b0 \sa0 \sb0 \fs20 \cf5 \i1 
+Johnson v. Texas,
+}
+}
+{\f2 \strike0 \ul0 \b0 \sa0 \sb0 \fs20 \cf5 \i0 
+ 509 U.S. 350, 113 S.Ct. 2658, 125 L.Ed.2d 290 (1993)
+}}}
+{\f2 \strike0 \ul0 \b0 \sa0 \sb0 \fs20 \cf1 \i0 
+, and vital judicial review to be blocked, see, 
+}
+{\f2 \b0 \fs20 \cf1 \i1 
+{\f2 \strike0 \ul0 \b0 \sa0 \sb0 \fs20 \cf1 \i1 
+e.g., 
+}
+}
+{\field {\*\fldinst HYPERLINK "http://www.westlaw.com/Link/Document/FullText?findType=Y&serNum=1992095993&pubNum=708&originatingDoc=I60e7effe9c5011d9bc61beebb95be672&refType=RP&originationContext=document&vr=3.0&rs=cblt1.0&transitionType=DocumentItem&contextData=(sc.Search)" }{\fldrslt 
+{\f2 \b0 \fs20 \cf5 \i1 
+{\f2 \strike0 \ul0 \b0 \sa0 \sb0 \fs20 \cf5 \i1 
+Coleman v. Thompson,
+}
+}
+{\f2 \strike0 \ul0 \b0 \sa0 \sb0 \fs20 \cf5 \i0 
+ 501 U.S. 722, 111 S.Ct. 2546, 115 L.Ed.2d 640 (1992)
+}}}
+{\f2 \strike0 \ul0 \b0 \sa0 \sb0 \fs20 \cf1 \i0 
+. The problem is that the inevitability of factual, legal, and moral error gives us a system that we know 
+}
+{\f2 \b1 \fs20 \cf1 \i0 
+{\*\bkmkstart co_pp_sp_780_1146_1}{\*\bkmkend co_pp_sp_780_1146_1}
+{\f2 \strike0 \ul0 \b1 \sa0 \sb0 \fs20 \cf1 \i0 
+*1146
+}
+}
+{\f2 \strike0 \ul0 \b0 \sa0 \sb0 \fs20 \cf1 \i0 
+ must wrongly kill some defendants, a system that fails to deliver the fair, consistent, and reliable sentences of death required by the Constitution.
+}
+{\f2 \b0 \fs16 \cf1 \i0 
+{\*\bkmkstart co_footnoteReference_B00221993241434_ID0}{\*\bkmkend co_footnoteReference_B00221993241434_ID0}
+{\field {\*\fldinst HYPERLINK "#co_footnote_B00221993241434_1" }{\fldrslt 
+{\super \f2 \strike0 \ul0 \b0 \sa0 \sb0 \fs16 \cf5 \i0 
+2
+}}}
+\par 
+}
+}
+}
+{\f2 \strike0 \ul0 \b0 \sa0 \sb0 \fs20 \cf1 \i0 
+\u160\'3f
+\par 
+}
+{\li0 \f2 \qj \b0 \ri0 \fs20 \cf1 \i0 {
+{\trowd \lastrow \trleft0 
+\clbrdrt \clbrdrb \clbrdrl \trql \clvertalt \clwWidth600 \cellx600 
+\clpadb90 \clpadfb3 \clpadl90 \clpadfl3 \clbrdrt \clbrdrb \clbrdrr \trql \clwWidth9480 \cellx10080 
+\intbl 
+{\li0 \ri0 
+{\li0 \f2 \b0 \ql \ri0 \fs20 \cf1 \i0 
+{\f2 \b0 \fs20 \cf1 \i0 
+{\*\bkmkstart co_footnote_B00111993241434_1}{\*\bkmkend co_footnote_B00111993241434_1}
+{\field {\*\fldinst HYPERLINK "#co_footnoteReference_B00111993241434_ID0" }{\fldrslt 
+{\super \f2 \strike0 \ul0 \b0 \sa0 \sb0 \fs20 \cf5 \i0 
+1
+}\f2 \super \strike0 \ul0 \b0 \sa0 \sb0 \fs20 \cf5 \i0 }}
+\par 
+}
+}
+}\f2 \li0 \b0 \ql \fs20 \ri0 \cf1 \i0 \intbl \cell \intbl 
+{\li0 \ri0 
+{\li0 \f2 \qj \b0 \ri0 \fs18 \cf1 \i0 
+{\li0 \f2 \qj \b0 \ri0 \fs18 \cf1 \i0 
+{\li0 \f2 \qj \b0 \ri0 \fs18 \cf1 \i0 
+{\f2 \strike0 \ul0 \b0 \sa0 \sb0 \fs18 \cf1 \i0 
+As a member of the United States Court of Appeals, I voted to enforce the death penalty, even as I stated publicly that I doubted its moral, social, and constitutional legitimacy. See 
+}
+{\field {\*\fldinst HYPERLINK "http://www.westlaw.com/Link/Document/FullText?findType=Y&serNum=1962114476&pubNum=350&originatingDoc=I60e7effe9c5011d9bc61beebb95be672&refType=RP&originationContext=document&vr=3.0&rs=cblt1.0&transitionType=DocumentItem&contextData=(sc.Search)" }{\fldrslt 
+{\f2 \b0 \fs18 \cf5 \i1 
+{\f2 \strike0 \ul0 \b0 \sa0 \sb0 \fs18 \cf5 \i1 
+Feguer v. United States,
+}
+}
+{\f2 \strike0 \ul0 \b0 \sa0 \sb0 \fs18 \cf5 \i0 
+ 302 F.2d 214 (CA8),
+}\f2 \strike0 \ul0 \b0 \sa0 \sb0 \fs18 \cf5 \i0 }}
+{\f2 \strike0 \ul0 \b0 \sa0 \sb0 \fs18 \cf1 \i0 
+ cert. denied, 
+}
+{\field {\*\fldinst HYPERLINK "http://www.westlaw.com/Link/Document/FullText?findType=Y&serNum=1962202085&pubNum=708&originatingDoc=I60e7effe9c5011d9bc61beebb95be672&refType=RP&originationContext=document&vr=3.0&rs=cblt1.0&transitionType=DocumentItem&contextData=(sc.Search)" }{\fldrslt 
+{\f2 \strike0 \ul0 \b0 \sa0 \sb0 \fs18 \cf5 \i0 
+371 U.S. 872, 83 S.Ct. 123, 9 L.Ed.2d 110 (1962)
+}\f2 \strike0 \ul0 \b0 \sa0 \sb0 \fs18 \cf5 \i0 }}
+{\f2 \strike0 \ul0 \b0 \sa0 \sb0 \fs18 \cf1 \i0 
+; 
+}
+{\field {\*\fldinst HYPERLINK "http://www.westlaw.com/Link/Document/FullText?findType=Y&serNum=1967115621&pubNum=350&originatingDoc=I60e7effe9c5011d9bc61beebb95be672&refType=RP&originationContext=document&vr=3.0&rs=cblt1.0&transitionType=DocumentItem&contextData=(sc.Search)" }{\fldrslt 
+{\f2 \b0 \fs18 \cf5 \i1 
+{\f2 \strike0 \ul0 \b0 \sa0 \sb0 \fs18 \cf5 \i1 
+Pope v. United States,
+}
+}
+{\f2 \strike0 \ul0 \b0 \sa0 \sb0 \fs18 \cf5 \i0 
+ 372 F.2d 710 (CA8 1967)
+}\f2 \strike0 \ul0 \b0 \sa0 \sb0 \fs18 \cf5 \i0 }}
+{\f2 \strike0 \ul0 \b0 \sa0 \sb0 \fs18 \cf1 \i0 
+ (en banc), vacated and remanded, 
+}
+{\field {\*\fldinst HYPERLINK "http://www.westlaw.com/Link/Document/FullText?findType=Y&serNum=1968131236&pubNum=708&originatingDoc=I60e7effe9c5011d9bc61beebb95be672&refType=RP&originationContext=document&vr=3.0&rs=cblt1.0&transitionType=DocumentItem&contextData=(sc.Search)" }{\fldrslt 
+{\f2 \strike0 \ul0 \b0 \sa0 \sb0 \fs18 \cf5 \i0 
+392 U.S. 651, 88 S.Ct. 2145, 20 L.Ed.2d 1317 (1968)
+}\f2 \strike0 \ul0 \b0 \sa0 \sb0 \fs18 \cf5 \i0 }}
+{\f2 \strike0 \ul0 \b0 \sa0 \sb0 \fs18 \cf1 \i0 
+; 
+}
+{\field {\*\fldinst HYPERLINK "http://www.westlaw.com/Link/Document/FullText?findType=Y&serNum=1968104211&pubNum=350&originatingDoc=I60e7effe9c5011d9bc61beebb95be672&refType=RP&fi=co_pp_sp_350_153&originationContext=document&vr=3.0&rs=cblt1.0&transitionType=DocumentItem&contextData=(sc.Search)#co_pp_sp_350_153" }{\fldrslt 
+{\f2 \b0 \fs18 \cf5 \i1 
+{\f2 \strike0 \ul0 \b0 \sa0 \sb0 \fs18 \cf5 \i1 
+Maxwell v. Bishop,
+}
+}
+{\f2 \strike0 \ul0 \b0 \sa0 \sb0 \fs18 \cf5 \i0 
+ 398 F.2d 138, 153\u8211\'3f154 (CA8 1968)
+}\f2 \strike0 \ul0 \b0 \sa0 \sb0 \fs18 \cf5 \i0 }}
+{\f2 \strike0 \ul0 \b0 \sa0 \sb0 \fs18 \cf1 \i0 
+, vacated and remanded, 
+}
+{\field {\*\fldinst HYPERLINK "http://www.westlaw.com/Link/Document/FullText?findType=Y&serNum=1970134232&pubNum=708&originatingDoc=I60e7effe9c5011d9bc61beebb95be672&refType=RP&originationContext=document&vr=3.0&rs=cblt1.0&transitionType=DocumentItem&contextData=(sc.Search)" }{\fldrslt 
+{\f2 \strike0 \ul0 \b0 \sa0 \sb0 \fs18 \cf5 \i0 
+398 U.S. 262, 90 S.Ct. 1578, 26 L.Ed.2d 221 (1970)
+}\f2 \strike0 \ul0 \b0 \sa0 \sb0 \fs18 \cf5 \i0 }}
+{\f2 \strike0 \ul0 \b0 \sa0 \sb0 \fs18 \cf1 \i0 
+. See 
+}
+{\field {\*\fldinst HYPERLINK "http://www.westlaw.com/Link/Document/FullText?findType=Y&serNum=1972127195&pubNum=708&originatingDoc=I60e7effe9c5011d9bc61beebb95be672&refType=RP&fi=co_pp_sp_708_2812&originationContext=document&vr=3.0&rs=cblt1.0&transitionType=DocumentItem&contextData=(sc.Search)#co_pp_sp_708_2812" }{\fldrslt 
+{\f2 \b0 \fs18 \cf5 \i1 
+{\f2 \strike0 \ul0 \b0 \sa0 \sb0 \fs18 \cf5 \i1 
+Furman v. Georgia,
+}
+}
+{\f2 \strike0 \ul0 \b0 \sa0 \sb0 \fs18 \cf5 \i0 
+ 408 U.S. 238, 405, 92 S.Ct. 2726, 2812, 33 L.Ed.2d 346 (1972)
+}\f2 \strike0 \ul0 \b0 \sa0 \sb0 \fs18 \cf5 \i0 }}
+{\f2 \strike0 \ul0 \b0 \sa0 \sb0 \fs18 \cf1 \i0 
+.
+\par 
+}
+}
+}
+}
+}\f2 \li0 \strike0 \ul0 \b0 \qj \sa0 \sb0 \fs18 \ri0 \cf1 \i0 \intbl \cell \row }}\par 
+}
+{\li0 \f2 \qj \b0 \ri0 \fs20 \cf1 \i0 {
+{\trowd \lastrow \trleft0 
+\clbrdrt \clbrdrb \clbrdrl \trql \clvertalt \clwWidth600 \cellx600 
+\clpadb90 \clpadfb3 \clpadl90 \clpadfl3 \clbrdrt \clbrdrb \clbrdrr \trql \clwWidth9480 \cellx10080 
+\intbl 
+{\li0 \ri0 
+{\li0 \f2 \b0 \ql \ri0 \fs20 \cf1 \i0 
+{\f2 \b0 \fs20 \cf1 \i0 
+{\*\bkmkstart co_footnote_B00221993241434_1}{\*\bkmkend co_footnote_B00221993241434_1}
+{\field {\*\fldinst HYPERLINK "#co_footnoteReference_B00221993241434_ID0" }{\fldrslt 
+{\super \f2 \strike0 \ul0 \b0 \sa0 \sb0 \fs20 \cf5 \i0 
+2
+}\f2 \super \strike0 \ul0 \b0 \sa0 \sb0 \fs20 \cf5 \i0 }}
+\par 
+}
+}
+}\f2 \li0 \b0 \ql \fs20 \ri0 \cf1 \i0 \intbl \cell \intbl 
+{\li0 \ri0 
+{\li0 \f2 \qj \b0 \ri0 \fs18 \cf1 \i0 
+{\li0 \f2 \qj \b0 \ri0 \fs18 \cf1 \i0 
+{\li0 \f2 \qj \b0 \ri0 \fs18 \cf1 \i0 
+{\f2 \strike0 \ul0 \b0 \sa0 \sb0 \fs18 \cf1 \i0 
+Because I conclude that no sentence of death may be constitutionally imposed under our death penalty scheme, I do not address Callins\rquote  individual claims of error. I note, though, that the Court has stripped \u8220\'3fstate prisoners of virtually 
+}
+{\f2 \b0 \fs18 \cf1 \i1 
+{\f2 \strike0 \ul0 \b0 \sa0 \sb0 \fs18 \cf1 \i1 
+any
+}
+}
+{\f2 \strike0 \ul0 \b0 \sa0 \sb0 \fs18 \cf1 \i0 
+ meaningful federal review of the constitutionality of their incarceration.\u8221\'3f 
+}
+{\field {\*\fldinst HYPERLINK "http://www.westlaw.com/Link/Document/FullText?findType=Y&serNum=1990043798&pubNum=708&originatingDoc=I60e7effe9c5011d9bc61beebb95be672&refType=RP&fi=co_pp_sp_708_1219&originationContext=document&vr=3.0&rs=cblt1.0&transitionType=DocumentItem&contextData=(sc.Search)#co_pp_sp_708_1219" }{\fldrslt 
+{\f2 \b0 \fs18 \cf5 \i1 
+{\f2 \strike0 \ul0 \b0 \sa0 \sb0 \fs18 \cf5 \i1 
+Butler v. McKellar,
+}
+}
+{\f2 \strike0 \ul0 \b0 \sa0 \sb0 \fs18 \cf5 \i0 
+ 494 U.S. 407, 417, 110 S.Ct. 1212, 1219, 108 L.Ed.2d 347 (1990)
+}\f2 \strike0 \ul0 \b0 \sa0 \sb0 \fs18 \cf5 \i0 }}
+{\f2 \strike0 \ul0 \b0 \sa0 \sb0 \fs18 \cf1 \i0 
+ (Brennan, J., dissenting) (emphasis in original). Even if Callins had a legitimate claim of constitutional error, this Court would be deaf to it on federal habeas unless \u8220\'3fthe state court\rquote s rejection of the constitutional challenge was 
+}
+{\f2 \b0 \fs18 \cf1 \i1 
+{\f2 \strike0 \ul0 \b0 \sa0 \sb0 \fs18 \cf1 \i1 
+so
+}
+}
+{\f2 \strike0 \ul0 \b0 \sa0 \sb0 \fs18 \cf1 \i0 
+ clearly invalid under then-prevailing legal standards that the decision could not be defended by any reasonable jurist.\u8221\'3f 
+}
+{\field {\*\fldinst HYPERLINK "http://www.westlaw.com/Link/Document/FullText?findType=Y&serNum=1990043798&pubNum=708&originatingDoc=I60e7effe9c5011d9bc61beebb95be672&refType=RP&fi=co_pp_sp_708_1219&originationContext=document&vr=3.0&rs=cblt1.0&transitionType=DocumentItem&contextData=(sc.Search)#co_pp_sp_708_1219" }{\fldrslt 
+{\f2 \b0 \fs18 \cf5 \i1 
+{\f2 \strike0 \ul0 \b0 \sa0 \sb0 \fs18 \cf5 \i1 
+Id.,
+}
+}
+{\f2 \strike0 \ul0 \b0 \sa0 \sb0 \fs18 \cf5 \i0 
+ at 417\u8211\'3f418, 110 S.Ct., at 1219
+}\f2 \strike0 \ul0 \b0 \sa0 \sb0 \fs18 \cf5 \i0 }}
+{\f2 \strike0 \ul0 \b0 \sa0 \sb0 \fs18 \cf1 \i0 
+ (emphasis in original). That a capital defendant facing imminent execution is required to meet such a standard before the Court will remedy constitutional violations is indefensible.
+\par 
+}
+}
+}
+}
+}\f2 \li0 \strike0 \ul0 \b0 \qj \sa0 \sb0 \fs18 \ri0 \cf1 \i0 \intbl \cell \row }}\par 
+}
+}
+{\li0 \f2 \qj \b0 \ri0 \fs20 \cf1 \i0 
+{\*\bkmkstart co_anchor_I9fcf6f40077411e498db8b09b4f04}{\*\bkmkend co_anchor_I9fcf6f40077411e498db8b09b4f04}
+\par 
+{\li0 \f2 \b1 \ri0 \fs20 \cf1 \qc \i0 
+{\f2 \b1 \fs20 \cf1 \i0 
+{\f2 \strike0 \ul0 \b1 \sa200 \sb400 \fs20 \cf1 \i0 
+I
+\par 
+}
+}
+}
+{\li0 \f2 \qj \b0 \ri0 \fs20 \cf1 \i0 
+{\li0 \f2 \qj \b0 \ri0 \fs20 \cf1 \i0 
+{\f2 \strike0 \ul0 \b0 \sa0 \sb0 \fs20 \cf1 \i0 
+In 1971, in an opinion which has proved partly prophetic, the second Justice Harlan, writing for the Court, observed:
+\par 
+}
+}
+{\li200 \f2 \qj \b0 \ri0 \fs20 \cf1 \i0 
+{\li200 \f2 \qj \b0 \ri0 \fs20 \cf1 \i0 
+{\f2 \strike0 \ul0 \b0 \sa0 \sb0 \fs20 \cf1 \i0 
+\u8220\'3fThose who have come to grips with the hard task of actually attempting to draft means of channeling capital sentencing discretion have confirmed the lesson taught by the history recounted above. To identify before the fact those characteristics of criminal homicides and their perpetrators which call for the death penalty, and to express these characteristics in language which can be fairly understood and applied by the sentencing authority, appear to be tasks which are beyond present human ability.... For a court to attempt to catalog the appropriate factors in this elusive area could inhibit rather than expand the scope of consideration, for no list of circumstances would ever be really complete.\u8221\'3f 
+}
+{\field {\*\fldinst HYPERLINK "http://www.westlaw.com/Link/Document/FullText?findType=Y&serNum=1971127065&pubNum=708&originatingDoc=I60e7effe9c5011d9bc61beebb95be672&refType=RP&fi=co_pp_sp_708_1466&originationContext=document&vr=3.0&rs=cblt1.0&transitionType=DocumentItem&contextData=(sc.Search)#co_pp_sp_708_1466" }{\fldrslt 
+{\f2 \b0 \fs20 \cf5 \i1 
+{\f2 \strike0 \ul0 \b0 \sa0 \sb0 \fs20 \cf5 \i1 
+McGautha v. California,
+}
+}
+{\f2 \strike0 \ul0 \b0 \sa0 \sb0 \fs20 \cf5 \i0 
+ 402 U.S. 183, 204, 208, 91 S.Ct. 1454, 1466, 1467, 28 L.Ed.2d 711
+}}}
+{\f2 \strike0 \ul0 \b0 \sa0 \sb200 \fs20 \cf1 \i0 
+.
+\par 
+}
+}
+}
+{\li0 \f2 \qj \b0 \ri0 \fs20 \cf1 \i0 
+{\f2 \strike0 \ul0 \b0 \sa0 \sb0 \fs20 \cf1 \i0 
+In 
+}
+{\field {\*\fldinst HYPERLINK "http://www.westlaw.com/Link/Document/FullText?findType=Y&serNum=1971127065&originatingDoc=I60e7effe9c5011d9bc61beebb95be672&refType=RP&originationContext=document&vr=3.0&rs=cblt1.0&transitionType=DocumentItem&contextData=(sc.Search)" }{\fldrslt 
+{\f2 \b0 \fs20 \cf5 \i1 
+{\f2 \strike0 \ul0 \b0 \sa0 \sb0 \fs20 \cf5 \i1 
+McGautha,
+}
+}}}
+\sb200 
+{\f2 \strike0 \ul0 \b0 \sa0 \sb0 \fs20 \cf1 \i0 
+ the petitioner argued that a statute which left the penalty of death entirely in the jury\rquote s discretion, without any standards to govern its imposition, violated the Fourteenth Amendment. Although the Court did not deny that serious risks were associated with a sentencer\rquote s unbounded discretion, the Court found no remedy in the 
+}
+{\f2 \b1 \fs20 \cf1 \i0 
+{\*\bkmkstart co_pp_sp_708_1131_1}{\*\bkmkend co_pp_sp_708_1131_1}
+{\f2 \strike0 \ul0 \b1 \sa0 \sb0 \fs20 \cf1 \i0 
+**1131
+}
+}
+{\f2 \strike0 \ul0 \b0 \sa0 \sb200 \fs20 \cf1 \i0 
+ Constitution for the inevitable failings of human judgment.
+\par 
+}
+}
+}
+{\f2 \strike0 \ul0 \b0 \sa0 \sb0 \fs20 \cf1 \i0 
+\u160\'3f
+\par 
+}
+{\li0 \f2 \qj \b0 \ri0 \fs20 \cf1 \i0 
+{\li0 \f2 \qj \b0 \ri0 \fs20 \cf1 \i0 
+{\f2 \strike0 \ul0 \b0 \sa0 \sb0 \fs20 \cf1 \i0 
+A year later, the Court reversed its course completely in 
+}
+{\field {\*\fldinst HYPERLINK "http://www.westlaw.com/Link/Document/FullText?findType=Y&serNum=1972127195&pubNum=708&originatingDoc=I60e7effe9c5011d9bc61beebb95be672&refType=RP&originationContext=document&vr=3.0&rs=cblt1.0&transitionType=DocumentItem&contextData=(sc.Search)" }{\fldrslt 
+{\f2 \b0 \fs20 \cf5 \i1 
+{\f2 \strike0 \ul0 \b0 \sa0 \sb0 \fs20 \cf5 \i1 
+Furman v. Georgia,
+}
+}
+{\f2 \strike0 \ul0 \b0 \sa0 \sb0 \fs20 \cf5 \i0 
+ 408 U.S. 238, 92 S.Ct. 2726, 33 L.Ed.2d 346 (1972)
+}}}
+{\f2 \strike0 \ul0 \b0 \sa0 \sb0 \fs20 \cf1 \i0 
+ (
+}
+{\f2 \b0 \fs20 \cf1 \i1 
+{\f2 \strike0 \ul0 \b0 \sa0 \sb0 \fs20 \cf1 \i1 
+per curiam,
+}
+}
+{\f2 \strike0 \ul0 \b0 \sa0 \sb0 \fs20 \cf1 \i0 
+ with each of 
+}
+{\f2 \b1 \fs20 \cf1 \i0 
+{\*\bkmkstart co_pp_sp_780_1147_1}{\*\bkmkend co_pp_sp_780_1147_1}
+{\f2 \strike0 \ul0 \b1 \sa0 \sb0 \fs20 \cf1 \i0 
+*1147
+}
+}
+{\f2 \strike0 \ul0 \b0 \sa0 \sb0 \fs20 \cf1 \i0 
+ the nine Justices writing separately). The concurring Justices argued that the glaring inequities in the administration of death, the standardless discretion wielded by judges and juries, and the pervasive racial and economic discrimination rendered the death penalty, at least as administered, \u8220\'3fcruel and unusual\u8221\'3f within the meaning of the Eighth Amendment. Justice White explained that, out of the hundreds of people convicted of murder every year, only a handful were sent to their deaths, and that there was \u8220\'3fno meaningful basis for distinguishing the few cases in which [the death penalty] is imposed from the many cases in which it is not.\u8221\'3f 
+}
+{\field {\*\fldinst HYPERLINK "http://www.westlaw.com/Link/Document/FullText?findType=Y&serNum=1972127195&pubNum=708&originatingDoc=I60e7effe9c5011d9bc61beebb95be672&refType=RP&fi=co_pp_sp_708_2764&originationContext=document&vr=3.0&rs=cblt1.0&transitionType=DocumentItem&contextData=(sc.Search)#co_pp_sp_708_2764" }{\fldrslt 
+{\f2 \b0 \fs20 \cf5 \i1 
+{\f2 \strike0 \ul0 \b0 \sa0 \sb0 \fs20 \cf5 \i1 
+Id.,
+}
+}
+{\f2 \strike0 \ul0 \b0 \sa0 \sb0 \fs20 \cf5 \i0 
+ at 313, 92 S.Ct., at 2764.
+}}}
+{\f2 \strike0 \ul0 \b0 \sa0 \sb0 \fs20 \cf1 \i0 
+ If any discernible basis could be identified for the selection of those few who were chosen to die, it was \u8220\'3fthe constitutionally impermissible basis of race.\u8221\'3f 
+}
+{\field {\*\fldinst HYPERLINK "http://www.westlaw.com/Link/Document/FullText?findType=Y&serNum=1972127195&pubNum=708&originatingDoc=I60e7effe9c5011d9bc61beebb95be672&refType=RP&fi=co_pp_sp_708_2762&originationContext=document&vr=3.0&rs=cblt1.0&transitionType=DocumentItem&contextData=(sc.Search)#co_pp_sp_708_2762" }{\fldrslt 
+{\f2 \b0 \fs20 \cf5 \i1 
+{\f2 \strike0 \ul0 \b0 \sa0 \sb0 \fs20 \cf5 \i1 
+Id.,
+}
+}
+{\f2 \strike0 \ul0 \b0 \sa0 \sb0 \fs20 \cf5 \i0 
+ at 310, 92 S.Ct., at 2762
+}}}
+{\f2 \strike0 \ul0 \b0 \sa0 \sb0 \fs20 \cf1 \i0 
+ (Stewart, J., concurring).
+\par 
+}
+}
+}
+{\f2 \strike0 \ul0 \b0 \sa0 \sb0 \fs20 \cf1 \i0 
+\u160\'3f
+\par 
+}
+{\li0 \f2 \qj \b0 \ri0 \fs20 \cf1 \i0 
+{\li0 \f2 \qj \b0 \ri0 \fs20 \cf1 \i0 
+{\f2 \strike0 \ul0 \b0 \sa0 \sb0 \fs20 \cf1 \i0 
+I dissented in 
+}
+{\field {\*\fldinst HYPERLINK "http://www.westlaw.com/Link/Document/FullText?findType=Y&serNum=1972127195&originatingDoc=I60e7effe9c5011d9bc61beebb95be672&refType=RP&originationContext=document&vr=3.0&rs=cblt1.0&transitionType=DocumentItem&contextData=(sc.Search)" }{\fldrslt 
+{\f2 \b0 \fs20 \cf5 \i1 
+{\f2 \strike0 \ul0 \b0 \sa0 \sb0 \fs20 \cf5 \i1 
+Furman.
+}
+}}}
+{\f2 \strike0 \ul0 \b0 \sa0 \sb0 \fs20 \cf1 \i0 
+ Despite my intellectual, moral, and personal objections to the death penalty, I refrained from joining the majority because I found objectionable the Court\rquote s abrupt change of position in the single year that had passed since 
+}
+{\field {\*\fldinst HYPERLINK "http://www.westlaw.com/Link/Document/FullText?findType=Y&serNum=1971127065&originatingDoc=I60e7effe9c5011d9bc61beebb95be672&refType=RP&originationContext=document&vr=3.0&rs=cblt1.0&transitionType=DocumentItem&contextData=(sc.Search)" }{\fldrslt 
+{\f2 \b0 \fs20 \cf5 \i1 
+{\f2 \strike0 \ul0 \b0 \sa0 \sb0 \fs20 \cf5 \i1 
+McGautha.
+}
+}}}
+{\f2 \strike0 \ul0 \b0 \sa0 \sb0 \fs20 \cf1 \i0 
+ While I agreed that the Eighth Amendment\rquote s prohibition against cruel and unusual punishments \u8220\'3f \u8216\'3fmay acquire meaning as public opinion becomes enlightened by a humane justice,\u8217\'3f \u8221\'3f 
+}
+{\field {\*\fldinst HYPERLINK "http://www.westlaw.com/Link/Document/FullText?findType=Y&serNum=1972127195&pubNum=708&originatingDoc=I60e7effe9c5011d9bc61beebb95be672&refType=RP&fi=co_pp_sp_708_2814&originationContext=document&vr=3.0&rs=cblt1.0&transitionType=DocumentItem&contextData=(sc.Search)#co_pp_sp_708_2814" }{\fldrslt 
+{\f2 \strike0 \ul0 \b0 \sa0 \sb0 \fs20 \cf5 \i0 
+408 U.S., at 409, 92 S.Ct., at 2814,
+}}}
+{\f2 \strike0 \ul0 \b0 \sa0 \sb0 \fs20 \cf1 \i0 
+ quoting 
+}
+{\field {\*\fldinst HYPERLINK "http://www.westlaw.com/Link/Document/FullText?findType=Y&serNum=1910100401&pubNum=708&originatingDoc=I60e7effe9c5011d9bc61beebb95be672&refType=RP&fi=co_pp_sp_708_553&originationContext=document&vr=3.0&rs=cblt1.0&transitionType=DocumentItem&contextData=(sc.Search)#co_pp_sp_708_553" }{\fldrslt 
+{\f2 \b0 \fs20 \cf5 \i1 
+{\f2 \strike0 \ul0 \b0 \sa0 \sb0 \fs20 \cf5 \i1 
+Weems v. United States,
+}
+}
+{\f2 \strike0 \ul0 \b0 \sa0 \sb0 \fs20 \cf5 \i0 
+ 217 U.S. 349, 378, 30 S.Ct. 544, 553, 54 L.Ed. 793 (1910)
+}}}
+{\f2 \strike0 \ul0 \b0 \sa0 \sb0 \fs20 \cf1 \i0 
+, I objected to the \u8220\'3fsuddenness of the Court\rquote s perception of progress in the human attitude since decisions of only a short while ago.\u8221\'3f 
+}
+{\field {\*\fldinst HYPERLINK "http://www.westlaw.com/Link/Document/FullText?findType=Y&serNum=1972127195&pubNum=708&originatingDoc=I60e7effe9c5011d9bc61beebb95be672&refType=RP&fi=co_pp_sp_708_2814&originationContext=document&vr=3.0&rs=cblt1.0&transitionType=DocumentItem&contextData=(sc.Search)#co_pp_sp_708_2814" }{\fldrslt 
+{\f2 \strike0 \ul0 \b0 \sa0 \sb0 \fs20 \cf5 \i0 
+408 U.S., at 410, 92 S.Ct., at 2814.
+}}}
+{\f2 \strike0 \ul0 \b0 \sa0 \sb0 \fs20 \cf1 \i0 
+ Four years after 
+}
+{\field {\*\fldinst HYPERLINK "http://www.westlaw.com/Link/Document/FullText?findType=Y&serNum=1972127195&originatingDoc=I60e7effe9c5011d9bc61beebb95be672&refType=RP&originationContext=document&vr=3.0&rs=cblt1.0&transitionType=DocumentItem&contextData=(sc.Search)" }{\fldrslt 
+{\f2 \b0 \fs20 \cf5 \i1 
+{\f2 \strike0 \ul0 \b0 \sa0 \sb0 \fs20 \cf5 \i1 
+Furman
+}
+}}}
+{\f2 \strike0 \ul0 \b0 \sa0 \sb0 \fs20 \cf1 \i0 
+ was decided, I concurred in the judgment in 
+}
+{\field {\*\fldinst HYPERLINK "http://www.westlaw.com/Link/Document/FullText?findType=Y&serNum=1976142447&pubNum=708&originatingDoc=I60e7effe9c5011d9bc61beebb95be672&refType=RP&originationContext=document&vr=3.0&rs=cblt1.0&transitionType=DocumentItem&contextData=(sc.Search)" }{\fldrslt 
+{\f2 \b0 \fs20 \cf5 \i1 
+{\f2 \strike0 \ul0 \b0 \sa0 \sb0 \fs20 \cf5 \i1 
+Gregg v. Georgia,
+}
+}
+{\f2 \strike0 \ul0 \b0 \sa0 \sb0 \fs20 \cf5 \i0 
+ 428 U.S. 153, 96 S.Ct. 2909, 49 L.Ed.2d 859 (1976)
+}}}
+{\f2 \strike0 \ul0 \b0 \sa0 \sb0 \fs20 \cf1 \i0 
+, and its companion cases which upheld death sentences rendered under statutes passed after 
+}
+{\field {\*\fldinst HYPERLINK "http://www.westlaw.com/Link/Document/FullText?findType=Y&serNum=1972127195&originatingDoc=I60e7effe9c5011d9bc61beebb95be672&refType=RP&originationContext=document&vr=3.0&rs=cblt1.0&transitionType=DocumentItem&contextData=(sc.Search)" }{\fldrslt 
+{\f2 \b0 \fs20 \cf5 \i1 
+{\f2 \strike0 \ul0 \b0 \sa0 \sb0 \fs20 \cf5 \i1 
+Furman
+}
+}}}
+{\f2 \strike0 \ul0 \b0 \sa0 \sb0 \fs20 \cf1 \i0 
+ was decided. See 
+}
+{\field {\*\fldinst HYPERLINK "http://www.westlaw.com/Link/Document/FullText?findType=Y&serNum=1976142449&pubNum=708&originatingDoc=I60e7effe9c5011d9bc61beebb95be672&refType=RP&fi=co_pp_sp_708_2970&originationContext=document&vr=3.0&rs=cblt1.0&transitionType=DocumentItem&contextData=(sc.Search)#co_pp_sp_708_2970" }{\fldrslt 
+{\f2 \b0 \fs20 \cf5 \i1 
+{\f2 \strike0 \ul0 \b0 \sa0 \sb0 \fs20 \cf5 \i1 
+Proffitt v. Florida,
+}
+}
+{\f2 \strike0 \ul0 \b0 \sa0 \sb0 \fs20 \cf5 \i0 
+ 428 U.S. 242, 261, 96 S.Ct. 2960, 2970, 49 L.Ed.2d 913 (1976)
+}}}
+{\f2 \strike0 \ul0 \b0 \sa0 \sb0 \fs20 \cf1 \i0 
+, and 
+}
+{\field {\*\fldinst HYPERLINK "http://www.westlaw.com/Link/Document/FullText?findType=Y&serNum=1976142448&pubNum=708&originatingDoc=I60e7effe9c5011d9bc61beebb95be672&refType=RP&fi=co_pp_sp_708_2960&originationContext=document&vr=3.0&rs=cblt1.0&transitionType=DocumentItem&contextData=(sc.Search)#co_pp_sp_708_2960" }{\fldrslt 
+{\f2 \b0 \fs20 \cf5 \i1 
+{\f2 \strike0 \ul0 \b0 \sa0 \sb0 \fs20 \cf5 \i1 
+Jurek v. Texas,
+}
+}
+{\f2 \strike0 \ul0 \b0 \sa0 \sb0 \fs20 \cf5 \i0 
+ 428 U.S. 262, 279, 96 S.Ct. 2950, 2960, 49 L.Ed.2d 929 (1976)
+}}}
+{\f2 \strike0 \ul0 \b0 \sa0 \sb0 \fs20 \cf1 \i0 
+. Cf. 
+}
+{\field {\*\fldinst HYPERLINK "http://www.westlaw.com/Link/Document/FullText?findType=Y&serNum=1976141320&pubNum=708&originatingDoc=I60e7effe9c5011d9bc61beebb95be672&refType=RP&fi=co_pp_sp_708_2992&originationContext=document&vr=3.0&rs=cblt1.0&transitionType=DocumentItem&contextData=(sc.Search)#co_pp_sp_708_2992" }{\fldrslt 
+{\f2 \b0 \fs20 \cf5 \i1 
+{\f2 \strike0 \ul0 \b0 \sa0 \sb0 \fs20 \cf5 \i1 
+Woodson v. North Carolina,
+}
+}
+{\f2 \strike0 \ul0 \b0 \sa0 \sb0 \fs20 \cf5 \i0 
+ 428 U.S. 280, 307, 96 S.Ct. 2978, 2992, 49 L.Ed.2d 944 (1976)
+}}}
+{\f2 \strike0 \ul0 \b0 \sa0 \sb0 \fs20 \cf1 \i0 
+, and 
+}
+{\field {\*\fldinst HYPERLINK "http://www.westlaw.com/Link/Document/FullText?findType=Y&serNum=1976142451&pubNum=708&originatingDoc=I60e7effe9c5011d9bc61beebb95be672&refType=RP&fi=co_pp_sp_708_3020&originationContext=document&vr=3.0&rs=cblt1.0&transitionType=DocumentItem&contextData=(sc.Search)#co_pp_sp_708_3020" }{\fldrslt 
+{\f2 \b0 \fs20 \cf5 \i1 
+{\f2 \strike0 \ul0 \b0 \sa0 \sb0 \fs20 \cf5 \i1 
+Roberts v. Louisiana,
+}
+}
+{\f2 \strike0 \ul0 \b0 \sa0 \sb0 \fs20 \cf5 \i0 
+ 428 U.S. 325, 363, 96 S.Ct. 3001, 3020, 49 L.Ed.2d 974 (1976)
+}}}
+{\f2 \strike0 \ul0 \b0 \sa0 \sb0 \fs20 \cf1 \i0 
+.
+\par 
+}
+}
+}
+{\f2 \strike0 \ul0 \b0 \sa0 \sb0 \fs20 \cf1 \i0 
+\u160\'3f
+\par 
+}
+}
+{\li0 \f2 \qj \b0 \ri0 \fs20 \cf1 \i0 
+{\*\bkmkstart co_anchor_I9fcf6f41077411e498db8b09b4f04}{\*\bkmkend co_anchor_I9fcf6f41077411e498db8b09b4f04}
+\par 
+{\li0 \f2 \b1 \ri0 \fs20 \cf1 \qc \i0 
+{\f2 \b1 \fs20 \cf1 \i0 
+{\f2 \strike0 \ul0 \b1 \sa200 \sb400 \fs20 \cf1 \i0 
+A
+\par 
+}
+}
+}
+{\li0 \f2 \qj \b0 \ri0 \fs20 \cf1 \i0 
+{\li0 \f2 \qj \b0 \ri0 \fs20 \cf1 \i0 
+{\f2 \strike0 \ul0 \b0 \sa0 \sb0 \fs20 \cf1 \i0 
+There is little doubt now that 
+}
+{\field {\*\fldinst HYPERLINK "http://www.westlaw.com/Link/Document/FullText?findType=Y&serNum=1972127195&originatingDoc=I60e7effe9c5011d9bc61beebb95be672&refType=RP&originationContext=document&vr=3.0&rs=cblt1.0&transitionType=DocumentItem&contextData=(sc.Search)" }{\fldrslt 
+{\f2 \b0 \fs20 \cf5 \i1 
+{\f2 \strike0 \ul0 \b0 \sa0 \sb0 \fs20 \cf5 \i1 
+Furman\rquote s
+}
+}}}
+{\f2 \strike0 \ul0 \b0 \sa0 \sb0 \fs20 \cf1 \i0 
+ essential holding was correct. Although most of the public seems to desire, and the Constitution appears to permit, the penalty of death, it surely is beyond dispute that if the death penalty cannot be administered consistently and rationally, it may not be administered at all. 
+}
+{\field {\*\fldinst HYPERLINK "http://www.westlaw.com/Link/Document/FullText?findType=Y&serNum=1982102682&pubNum=708&originatingDoc=I60e7effe9c5011d9bc61beebb95be672&refType=RP&fi=co_pp_sp_708_875&originationContext=document&vr=3.0&rs=cblt1.0&transitionType=DocumentItem&contextData=(sc.Search)#co_pp_sp_708_875" }{\fldrslt 
+{\f2 \b0 \fs20 \cf5 \i1 
+{\f2 \strike0 \ul0 \b0 \sa0 \sb0 \fs20 \cf5 \i1 
+Eddings v. Oklahoma,
+}
+}
+{\f2 \strike0 \ul0 \b0 \sa0 \sb0 \fs20 \cf5 \i0 
+ 455 U.S., at 112, 102 S.Ct., at 875.
+}}}
+{\f2 \strike0 \ul0 \b0 \sa0 \sb0 \fs20 \cf1 \i0 
+ I never have quarreled with this principle; in my mind, the real meaning of 
+}
+{\field {\*\fldinst HYPERLINK "http://www.westlaw.com/Link/Document/FullText?findType=Y&serNum=1972127195&originatingDoc=I60e7effe9c5011d9bc61beebb95be672&refType=RP&originationContext=document&vr=3.0&rs=cblt1.0&transitionType=DocumentItem&contextData=(sc.Search)" }{\fldrslt 
+{\f2 \b0 \fs20 \cf5 \i1 
+{\f2 \strike0 \ul0 \b0 \sa0 \sb0 \fs20 \cf5 \i1 
+Furman\rquote s
+}
+}}}
+{\f2 \strike0 \ul0 \b0 \sa0 \sb0 \fs20 \cf1 \i0 
+ diverse concurring opinions did not emerge until some years after 
+}
+{\field {\*\fldinst HYPERLINK "http://www.westlaw.com/Link/Document/FullText?findType=Y&serNum=1972127195&originatingDoc=I60e7effe9c5011d9bc61beebb95be672&refType=RP&originationContext=document&vr=3.0&rs=cblt1.0&transitionType=DocumentItem&contextData=(sc.Search)" }{\fldrslt 
+{\f2 \b0 \fs20 \cf5 \i1 
+{\f2 \strike0 \ul0 \b0 \sa0 \sb0 \fs20 \cf5 \i1 
+ 
+}
+{\f2 \b1 \fs20 \cf1 \i0 
+{\*\bkmkstart co_pp_sp_780_1148_1}{\*\bkmkend co_pp_sp_780_1148_1}
+{\f2 \strike0 \ul0 \b1 \sa0 \sb0 \fs20 \cf1 \i0 
+*1148
+}
+}
+{\f2 \strike0 \ul0 \b0 \sa0 \sb0 \fs20 \cf5 \i1 
+ Furman
+}
+}}}
+{\f2 \strike0 \ul0 \b0 \sa0 \sb0 \fs20 \cf1 \i0 
+ was decided. See 
+}
+{\field {\*\fldinst HYPERLINK "http://www.westlaw.com/Link/Document/FullText?findType=Y&serNum=1976142447&pubNum=708&originatingDoc=I60e7effe9c5011d9bc61beebb95be672&refType=RP&fi=co_pp_sp_708_2932&originationContext=document&vr=3.0&rs=cblt1.0&transitionType=DocumentItem&contextData=(sc.Search)#co_pp_sp_708_2932" }{\fldrslt 
+{\f2 \b0 \fs20 \cf5 \i1 
+{\f2 \strike0 \ul0 \b0 \sa0 \sb0 \fs20 \cf5 \i1 
+Gregg v. Georgia,
+}
+}
+{\f2 \strike0 \ul0 \b0 \sa0 \sb0 \fs20 \cf5 \i0 
+ 428 U.S., at 189, 96 S.Ct., at 2932
+}}}
+{\f2 \strike0 \ul0 \b0 \sa0 \sb0 \fs20 \cf1 \i0 
+ (opinion of Stewart, Powell, and STEVENS, JJ.) 
+}
+{\field {\*\fldinst HYPERLINK "http://www.westlaw.com/Link/Document/FullText?findType=Y&serNum=1972127195&originatingDoc=I60e7effe9c5011d9bc61beebb95be672&refType=RP&originationContext=document&vr=3.0&rs=cblt1.0&transitionType=DocumentItem&contextData=(sc.Search)" }{\fldrslt 
+{\f2 \strike0 \ul0 \b0 \sa0 \sb0 \fs20 \cf5 \i0 
+(\u8220\'3f
+}
+{\f2 \b0 \fs20 \cf5 \i1 
+{\f2 \strike0 \ul0 \b0 \sa0 \sb0 \fs20 \cf5 \i1 
+Furman
+}
+}}}
+{\f2 \strike0 \ul0 \b0 \sa0 \sb0 \fs20 \cf1 \i0 
+ mandates that where discretion is afforded a sentencing body on a matter so grave as the determination of whether a human life should be taken or spared, that discretion must be suitably directed and limited so as to minimize the risk of wholly arbitrary and capricious action\u8221\'3f). Since 
+}
+{\field {\*\fldinst HYPERLINK "http://www.westlaw.com/Link/Document/FullText?findType=Y&serNum=1976142447&originatingDoc=I60e7effe9c5011d9bc61beebb95be672&refType=RP&originationContext=document&vr=3.0&rs=cblt1.0&transitionType=DocumentItem&contextData=(sc.Search)" }{\fldrslt 
+{\f2 \b0 \fs20 \cf5 \i1 
+{\f2 \strike0 \ul0 \b0 \sa0 \sb0 \fs20 \cf5 \i1 
+Gregg,
+}
+}}}
+{\f2 \strike0 \ul0 \b0 \sa0 \sb0 \fs20 \cf1 \i0 
+ I faithfully have adhered to the 
+}
+{\field {\*\fldinst HYPERLINK "http://www.westlaw.com/Link/Document/FullText?findType=Y&serNum=1972127195&originatingDoc=I60e7effe9c5011d9bc61beebb95be672&refType=RP&originationContext=document&vr=3.0&rs=cblt1.0&transitionType=DocumentItem&contextData=(sc.Search)" }{\fldrslt 
+{\f2 \b0 \fs20 \cf5 \i1 
+{\f2 \strike0 \ul0 \b0 \sa0 \sb0 \fs20 \cf5 \i1 
+Furman
+}
+}}}
+{\f2 \strike0 \ul0 \b0 \sa0 \sb0 \fs20 \cf1 \i0 
+ holding and have come to believe that it is indispensable to the Court\rquote s Eighth Amendment jurisprudence.
+\par 
+}
+}
+}
+{\f2 \strike0 \ul0 \b0 \sa0 \sb0 \fs20 \cf1 \i0 
+\u160\'3f
+\par 
+}
+{\li0 \f2 \qj \b0 \ri0 \fs20 \cf1 \i0 
+{\li0 \f2 \qj \b0 \ri0 \fs20 \cf1 \i0 
+{\f2 \strike0 \ul0 \b0 \sa0 \sb0 \fs20 \cf1 \i0 
+Delivering on the 
+}
+{\field {\*\fldinst HYPERLINK "http://www.westlaw.com/Link/Document/FullText?findType=Y&serNum=1972127195&originatingDoc=I60e7effe9c5011d9bc61beebb95be672&refType=RP&originationContext=document&vr=3.0&rs=cblt1.0&transitionType=DocumentItem&contextData=(sc.Search)" }{\fldrslt 
+{\f2 \b0 \fs20 \cf5 \i1 
+{\f2 \strike0 \ul0 \b0 \sa0 \sb0 \fs20 \cf5 \i1 
+Furman
+}
+}}}
+{\f2 \strike0 \ul0 \b0 \sa0 \sb0 \fs20 \cf1 \i0 
+ promise, however, has proved to be another matter. 
+}
+{\field {\*\fldinst HYPERLINK "http://www.westlaw.com/Link/Document/FullText?findType=Y&serNum=1972127195&originatingDoc=I60e7effe9c5011d9bc61beebb95be672&refType=RP&originationContext=document&vr=3.0&rs=cblt1.0&transitionType=DocumentItem&contextData=(sc.Search)" }{\fldrslt 
+{\f2 \b0 \fs20 \cf5 \i1 
+{\f2 \strike0 \ul0 \b0 \sa0 \sb0 \fs20 \cf5 \i1 
+Furman
+}
+}}}
+{\f2 \strike0 \ul0 \b0 \sa0 \sb0 \fs20 \cf1 \i0 
+ aspired to eliminate the vestiges of racism and the effects of poverty in capital sentencing; it deplored the \u8220\'3fwanton\u8221\'3f and \u8220\'3frandom\u8221\'3f infliction of death by a government with constitutionally limited power. 
+}
+{\field {\*\fldinst HYPERLINK "http://www.westlaw.com/Link/Document/FullText?findType=Y&serNum=1972127195&originatingDoc=I60e7effe9c5011d9bc61beebb95be672&refType=RP&originationContext=document&vr=3.0&rs=cblt1.0&transitionType=DocumentItem&contextData=(sc.Search)" }{\fldrslt 
+{\f2 \b0 \fs20 \cf5 \i1 
+{\f2 \strike0 \ul0 \b0 \sa0 \sb0 \fs20 \cf5 \i1 
+Furman
+}
+}}}
+{\f2 \strike0 \ul0 \b0 \sa0 \sb0 \fs20 \cf1 \i0 
+ demanded that the sentencer\rquote s discretion be directed and limited by procedural rules and objective standards in order to minimize the risk of arbitrary and capricious sentences of death.
+\par 
+}
+}
+}
+{\f2 \strike0 \ul0 \b0 \sa0 \sb0 \fs20 \cf1 \i0 
+\u160\'3f
+\par 
+}
+{\li0 \f2 \qj \b0 \ri0 \fs20 \cf1 \i0 
+{\li0 \f2 \qj \b0 \ri0 \fs20 \cf1 \i0 
+{\f2 \strike0 \ul0 \b0 \sa0 \sb0 \fs20 \cf1 \i0 
+In the years following 
+}
+{\field {\*\fldinst HYPERLINK "http://www.westlaw.com/Link/Document/FullText?findType=Y&serNum=1972127195&originatingDoc=I60e7effe9c5011d9bc61beebb95be672&refType=RP&originationContext=document&vr=3.0&rs=cblt1.0&transitionType=DocumentItem&contextData=(sc.Search)" }{\fldrslt 
+{\f2 \b0 \fs20 \cf5 \i1 
+{\f2 \strike0 \ul0 \b0 \sa0 \sb0 \fs20 \cf5 \i1 
+Furman,
+}
+}}}
+{\f2 \strike0 \ul0 \b0 \sa0 \sb0 \fs20 \cf1 \i0 
+ serious efforts were made to comply with its mandate. 
+}
+{\f2 \b1 \fs20 \cf1 \i0 
+{\*\bkmkstart co_pp_sp_708_1132_1}{\*\bkmkend co_pp_sp_708_1132_1}
+{\f2 \strike0 \ul0 \b1 \sa0 \sb0 \fs20 \cf1 \i0 
+**1132
+}
+}
+{\f2 \strike0 \ul0 \b0 \sa0 \sb0 \fs20 \cf1 \i0 
+ State legislatures and appellate courts struggled to provide judges and juries with sensible and objective guidelines for determining who should live and who should die. Some States attempted to define who is \u8220\'3fdeserving\u8221\'3f of the death penalty through the use of carefully chosen adjectives, reserving the death penalty for those who commit crimes that are \u8220\'3fespecially heinous, atrocious, or cruel,\u8221\'3f see 
+}
+{\field {\*\fldinst HYPERLINK "http://www.westlaw.com/Link/Document/FullText?findType=L&pubNum=1000006&cite=FLSTS921.141&originatingDoc=I60e7effe9c5011d9bc61beebb95be672&refType=SP&originationContext=document&vr=3.0&rs=cblt1.0&transitionType=DocumentItem&contextData=(sc.Search)#co_pp_64a40000ca844" }{\fldrslt 
+{\f2 \strike0 \ul0 \b0 \sa0 \sb0 \fs20 \cf5 \i0 
+Fla.Stat. \u167\'3f 921.141(5)(h)
+}}}
+{\f2 \strike0 \ul0 \b0 \sa0 \sb0 \fs20 \cf1 \i0 
+ (1977), or \u8220\'3fwantonly vile, horrible or inhuman,\u8221\'3f see Ga.Code Ann. \u167\'3f 27\u8211\'3f2534.1(b)(7) (1978). Other States enacted mandatory death penalty statutes, reading 
+}
+{\field {\*\fldinst HYPERLINK "http://www.westlaw.com/Link/Document/FullText?findType=Y&serNum=1972127195&originatingDoc=I60e7effe9c5011d9bc61beebb95be672&refType=RP&originationContext=document&vr=3.0&rs=cblt1.0&transitionType=DocumentItem&contextData=(sc.Search)" }{\fldrslt 
+{\f2 \b0 \fs20 \cf5 \i1 
+{\f2 \strike0 \ul0 \b0 \sa0 \sb0 \fs20 \cf5 \i1 
+Furman
+}
+}}}
+{\f2 \strike0 \ul0 \b0 \sa0 \sb0 \fs20 \cf1 \i0 
+ as an invitation to eliminate sentencer discretion altogether. See, 
+}
+{\f2 \b0 \fs20 \cf1 \i1 
+{\f2 \strike0 \ul0 \b0 \sa0 \sb0 \fs20 \cf1 \i1 
+e.g.,
+}
+}
+{\f2 \strike0 \ul0 \b0 \sa0 \sb0 \fs20 \cf1 \i0 
+ 
+}
+{\field {\*\fldinst HYPERLINK "http://www.westlaw.com/Link/Document/FullText?findType=L&pubNum=1000037&cite=NCSTS14-17&originatingDoc=I60e7effe9c5011d9bc61beebb95be672&refType=LQ&originationContext=document&vr=3.0&rs=cblt1.0&transitionType=DocumentItem&contextData=(sc.Search)" }{\fldrslt 
+{\f2 \strike0 \ul0 \b0 \sa0 \sb0 \fs20 \cf5 \i0 
+N.C.Gen.Stat. \u167\'3f 14\u8211\'3f17
+}}}
+{\f2 \strike0 \ul0 \b0 \sa0 \sb0 \fs20 \cf1 \i0 
+ (Supp.1975). But see 
+}
+{\field {\*\fldinst HYPERLINK "http://www.westlaw.com/Link/Document/FullText?findType=Y&serNum=1976141320&pubNum=708&originatingDoc=I60e7effe9c5011d9bc61beebb95be672&refType=RP&originationContext=document&vr=3.0&rs=cblt1.0&transitionType=DocumentItem&contextData=(sc.Search)" }{\fldrslt 
+{\f2 \b0 \fs20 \cf5 \i1 
+{\f2 \strike0 \ul0 \b0 \sa0 \sb0 \fs20 \cf5 \i1 
+Woodson v. North Carolina,
+}
+}
+{\f2 \strike0 \ul0 \b0 \sa0 \sb0 \fs20 \cf5 \i0 
+ 428 U.S. 280, 96 S.Ct. 2978, 49 L.Ed.2d 944 (1976)
+}}}
+{\f2 \strike0 \ul0 \b0 \sa0 \sb0 \fs20 \cf1 \i0 
+ (invalidating mandatory death penalty statutes). Still other States specified aggravating and mitigating factors that were to be considered by the sentencer and weighed against one another in a calculated and rational manner. See, 
+}
+{\f2 \b0 \fs20 \cf1 \i1 
+{\f2 \strike0 \ul0 \b0 \sa0 \sb0 \fs20 \cf1 \i1 
+e.g.,
+}
+}
+{\f2 \strike0 \ul0 \b0 \sa0 \sb0 \fs20 \cf1 \i0 
+ 
+}
+{\field {\*\fldinst HYPERLINK "http://www.westlaw.com/Link/Document/FullText?findType=L&pubNum=1000468&cite=GAST17-10-30&originatingDoc=I60e7effe9c5011d9bc61beebb95be672&refType=SP&originationContext=document&vr=3.0&rs=cblt1.0&transitionType=DocumentItem&contextData=(sc.Search)#co_pp_4b24000003ba5" }{\fldrslt 
+{\f2 \strike0 \ul0 \b0 \sa0 \sb0 \fs20 \cf5 \i0 
+Ga.Code Ann. \u167\'3f 17\u8211\'3f10\u8211\'3f30(c)
+}}}
+{\f2 \strike0 \ul0 \b0 \sa0 \sb0 \fs20 \cf1 \i0 
+ (1982); cf. 
+}
+{\field {\*\fldinst HYPERLINK "http://www.westlaw.com/Link/Document/FullText?findType=L&pubNum=1000172&cite=TXCMART37.071&originatingDoc=I60e7effe9c5011d9bc61beebb95be672&refType=LQ&originationContext=document&vr=3.0&rs=cblt1.0&transitionType=DocumentItem&contextData=(sc.Search)" }{\fldrslt 
+{\f2 \strike0 \ul0 \b0 \sa0 \sb0 \fs20 \cf5 \i0 
+Tex.Code Crim.Proc.Ann., Art. 37.071(c)-(e)
+}}}
+{\f2 \strike0 \ul0 \b0 \sa0 \sb0 \fs20 \cf1 \i0 
+ (Vernon 1981 and Supp.1989) (identifying \u8220\'3fspecial issues\u8221\'3f to be considered by the sentencer when determining the appropriate sentence).
+\par 
+}
+}
+}
+{\f2 \strike0 \ul0 \b0 \sa0 \sb0 \fs20 \cf1 \i0 
+\u160\'3f
+\par 
+}
+{\li0 \f2 \qj \b0 \ri0 \fs20 \cf1 \i0 
+{\li0 \f2 \qj \b0 \ri0 \fs20 \cf1 \i0 
+{\f2 \strike0 \ul0 \b0 \sa0 \sb0 \fs20 \cf1 \i0 
+Unfortunately, all this experimentation and ingenuity yielded little of what 
+}
+{\field {\*\fldinst HYPERLINK "http://www.westlaw.com/Link/Document/FullText?findType=Y&serNum=1972127195&originatingDoc=I60e7effe9c5011d9bc61beebb95be672&refType=RP&originationContext=document&vr=3.0&rs=cblt1.0&transitionType=DocumentItem&contextData=(sc.Search)" }{\fldrslt 
+{\f2 \b0 \fs20 \cf5 \i1 
+{\f2 \strike0 \ul0 \b0 \sa0 \sb0 \fs20 \cf5 \i1 
+Furman
+}
+}}}
+{\f2 \strike0 \ul0 \b0 \sa0 \sb0 \fs20 \cf1 \i0 
+ demanded. It soon became apparent that discretion could not be eliminated from capital sentencing without 
+}
+{\f2 \b1 \fs20 \cf1 \i0 
+{\*\bkmkstart co_pp_sp_780_1149_1}{\*\bkmkend co_pp_sp_780_1149_1}
+{\f2 \strike0 \ul0 \b1 \sa0 \sb0 \fs20 \cf1 \i0 
+*1149
+}
+}
+{\f2 \strike0 \ul0 \b0 \sa0 \sb0 \fs20 \cf1 \i0 
+ threatening the fundamental fairness due a defendant when life is at stake. Just as contemporary society was no longer tolerant of the random or discriminatory infliction of the penalty of death, see 
+}
+{\field {\*\fldinst HYPERLINK "http://www.westlaw.com/Link/Document/FullText?findType=Y&serNum=1972127195&originatingDoc=I60e7effe9c5011d9bc61beebb95be672&refType=RP&originationContext=document&vr=3.0&rs=cblt1.0&transitionType=DocumentItem&contextData=(sc.Search)" }{\fldrslt 
+{\f2 \b0 \fs20 \cf5 \i1 
+{\f2 \strike0 \ul0 \b0 \sa0 \sb0 \fs20 \cf5 \i1 
+Furman, supra,
+}
+}}}
+{\f2 \strike0 \ul0 \b0 \sa0 \sb0 \fs20 \cf1 \i0 
+ evolving standards of decency required due consideration of the uniqueness of each individual defendant when imposing society\rquote s ultimate penalty. See 
+}
+{\field {\*\fldinst HYPERLINK "http://www.westlaw.com/Link/Document/FullText?findType=Y&serNum=1976141320&pubNum=708&originatingDoc=I60e7effe9c5011d9bc61beebb95be672&refType=RP&fi=co_pp_sp_708_2989&originationContext=document&vr=3.0&rs=cblt1.0&transitionType=DocumentItem&contextData=(sc.Search)#co_pp_sp_708_2989" }{\fldrslt 
+{\f2 \b0 \fs20 \cf5 \i1 
+{\f2 \strike0 \ul0 \b0 \sa0 \sb0 \fs20 \cf5 \i1 
+Woodson,
+}
+}
+{\f2 \strike0 \ul0 \b0 \sa0 \sb0 \fs20 \cf5 \i0 
+ 428 U.S., at 301, 96 S.Ct., at 2989
+}}}
+{\f2 \strike0 \ul0 \b0 \sa0 \sb0 \fs20 \cf1 \i0 
+ (opinion of Stewart, Powell, and STEVENS, JJ.), referring to 
+}
+{\field {\*\fldinst HYPERLINK "http://www.westlaw.com/Link/Document/FullText?findType=Y&serNum=1958121425&pubNum=708&originatingDoc=I60e7effe9c5011d9bc61beebb95be672&refType=RP&fi=co_pp_sp_708_598&originationContext=document&vr=3.0&rs=cblt1.0&transitionType=DocumentItem&contextData=(sc.Search)#co_pp_sp_708_598" }{\fldrslt 
+{\f2 \b0 \fs20 \cf5 \i1 
+{\f2 \strike0 \ul0 \b0 \sa0 \sb0 \fs20 \cf5 \i1 
+Trop v. Dulles,
+}
+}
+{\f2 \strike0 \ul0 \b0 \sa0 \sb0 \fs20 \cf5 \i0 
+ 356 U.S. 86, 101, 78 S.Ct. 590, 598, 2 L.Ed.2d 630 (1958)
+}}}
+{\f2 \strike0 \ul0 \b0 \sa0 \sb0 \fs20 \cf1 \i0 
+ (plurality opinion).
+\par 
+}
+}
+}
+{\f2 \strike0 \ul0 \b0 \sa0 \sb0 \fs20 \cf1 \i0 
+\u160\'3f
+\par 
+}
+{\li0 \f2 \qj \b0 \ri0 \fs20 \cf1 \i0 
+{\li0 \f2 \qj \b0 \ri0 \fs20 \cf1 \i0 
+{\f2 \strike0 \ul0 \b0 \sa0 \sb0 \fs20 \cf1 \i0 
+This development in the American conscience would have presented no constitutional dilemma if fairness to the individual could be achieved without sacrificing the consistency and rationality promised in 
+}
+{\field {\*\fldinst HYPERLINK "http://www.westlaw.com/Link/Document/FullText?findType=Y&serNum=1972127195&originatingDoc=I60e7effe9c5011d9bc61beebb95be672&refType=RP&originationContext=document&vr=3.0&rs=cblt1.0&transitionType=DocumentItem&contextData=(sc.Search)" }{\fldrslt 
+{\f2 \b0 \fs20 \cf5 \i1 
+{\f2 \strike0 \ul0 \b0 \sa0 \sb0 \fs20 \cf5 \i1 
+Furman.
+}
+}}}
+{\f2 \strike0 \ul0 \b0 \sa0 \sb0 \fs20 \cf1 \i0 
+ But over the past two decades, efforts to balance these competing constitutional commands have been to no avail. Experience has shown that the consistency and rationality promised in 
+}
+{\field {\*\fldinst HYPERLINK "http://www.westlaw.com/Link/Document/FullText?findType=Y&serNum=1972127195&originatingDoc=I60e7effe9c5011d9bc61beebb95be672&refType=RP&originationContext=document&vr=3.0&rs=cblt1.0&transitionType=DocumentItem&contextData=(sc.Search)" }{\fldrslt 
+{\f2 \b0 \fs20 \cf5 \i1 
+{\f2 \strike0 \ul0 \b0 \sa0 \sb0 \fs20 \cf5 \i1 
+Furman
+}
+}}}
+{\f2 \strike0 \ul0 \b0 \sa0 \sb0 \fs20 \cf1 \i0 
+ are inversely related to the fairness owed the individual when considering a sentence of death. A step toward consistency is a step away from fairness.
+\par 
+}
+}
+}
+{\f2 \strike0 \ul0 \b0 \sa0 \sb0 \fs20 \cf1 \i0 
+\u160\'3f
+\par 
+}
+}
+{\li0 \f2 \qj \b0 \ri0 \fs20 \cf1 \i0 
+{\*\bkmkstart co_anchor_I9fcf6f42077411e498db8b09b4f04}{\*\bkmkend co_anchor_I9fcf6f42077411e498db8b09b4f04}
+\par 
+{\li0 \f2 \b1 \ri0 \fs20 \cf1 \qc \i0 
+{\f2 \b1 \fs20 \cf1 \i0 
+{\f2 \strike0 \ul0 \b1 \sa200 \sb400 \fs20 \cf1 \i0 
+B
+\par 
+}
+}
+}
+{\li0 \f2 \qj \b0 \ri0 \fs20 \cf1 \i0 
+{\li0 \f2 \qj \b0 \ri0 \fs20 \cf1 \i0 
+{\f2 \strike0 \ul0 \b0 \sa0 \sb0 \fs20 \cf1 \i0 
+There is a heightened need for fairness in the administration of death. This unique level of fairness is born of the appreciation that death truly is different from all other punishments a society inflicts upon its citizens. \u8220\'3fDeath, in its finality, differs more from life imprisonment than a 100\u8211\'3fyear prison term differs from one of only a year or two.\u8221\'3f 
+}
+{\field {\*\fldinst HYPERLINK "http://www.westlaw.com/Link/Document/FullText?findType=Y&serNum=1976141320&pubNum=708&originatingDoc=I60e7effe9c5011d9bc61beebb95be672&refType=RP&fi=co_pp_sp_708_2991&originationContext=document&vr=3.0&rs=cblt1.0&transitionType=DocumentItem&contextData=(sc.Search)#co_pp_sp_708_2991" }{\fldrslt 
+{\f2 \b0 \fs20 \cf5 \i1 
+{\f2 \strike0 \ul0 \b0 \sa0 \sb0 \fs20 \cf5 \i1 
+Woodson,
+}
+}
+{\f2 \strike0 \ul0 \b0 \sa0 \sb0 \fs20 \cf5 \i0 
+ 428 U.S., at 305, 96 S.Ct., at 2991
+}}}
+{\f2 \strike0 \ul0 \b0 \sa0 \sb0 \fs20 \cf1 \i0 
+ (opinion of Stewart, Powell, and STEVENS, JJ.). Because of the qualitative difference of the death penalty, \u8220\'3fthere is a corresponding difference in the need for reliability in the determination that death is the appropriate punishment in a specific case.\u8221\'3f 
+}
+{\field {\*\fldinst HYPERLINK "http://www.westlaw.com/Link/Document/FullText?findType=Y&serNum=1976141320&originatingDoc=I60e7effe9c5011d9bc61beebb95be672&refType=RP&originationContext=document&vr=3.0&rs=cblt1.0&transitionType=DocumentItem&contextData=(sc.Search)" }{\fldrslt 
+{\f2 \b0 \fs20 \cf5 \i1 
+{\f2 \strike0 \ul0 \b0 \sa0 \sb0 \fs20 \cf5 \i1 
+Ibid.
+}
+}}}
+{\f2 \strike0 \ul0 \b0 \sa0 \sb0 \fs20 \cf1 \i0 
+ In 
+}
+{\field {\*\fldinst HYPERLINK "http://www.westlaw.com/Link/Document/FullText?findType=Y&serNum=1976141320&originatingDoc=I60e7effe9c5011d9bc61beebb95be672&refType=RP&originationContext=document&vr=3.0&rs=cblt1.0&transitionType=DocumentItem&contextData=(sc.Search)" }{\fldrslt 
+{\f2 \b0 \fs20 \cf5 \i1 
+{\f2 \strike0 \ul0 \b0 \sa0 \sb0 \fs20 \cf5 \i1 
+Woodson,
+}
+}}}
+{\f2 \strike0 \ul0 \b0 \sa0 \sb0 \fs20 \cf1 \i0 
+ a decision striking down mandatory death penalty statutes as unconstitutional, a plurality of the Court explained: \u8220\'3fA process that accords no significance to relevant facets of the character and record of the individual offender or the circumstances of the particular offense excludes from consideration in fixing the ultimate punishment of death the possibility of compassionate or mitigating factors stemming from the diverse frailties of humankind.\u8221\'3f 
+}
+{\field {\*\fldinst HYPERLINK "http://www.westlaw.com/Link/Document/FullText?findType=Y&serNum=1976141320&pubNum=708&originatingDoc=I60e7effe9c5011d9bc61beebb95be672&refType=RP&fi=co_pp_sp_708_2991&originationContext=document&vr=3.0&rs=cblt1.0&transitionType=DocumentItem&contextData=(sc.Search)#co_pp_sp_708_2991" }{\fldrslt 
+{\f2 \b0 \fs20 \cf5 \i1 
+{\f2 \strike0 \ul0 \b0 \sa0 \sb0 \fs20 \cf5 \i1 
+Id.,
+}
+}
+{\f2 \strike0 \ul0 \b0 \sa0 \sb0 \fs20 \cf5 \i0 
+ at 304, 96 S.Ct., at 2991.
+}}}
+\par 
+}
+}
+{\f2 \strike0 \ul0 \b0 \sa0 \sb0 \fs20 \cf1 \i0 
+\u160\'3f
+\par 
+}
+{\li0 \f2 \qj \b0 \ri0 \fs20 \cf1 \i0 
+{\li0 \f2 \qj \b0 \ri0 \fs20 \cf1 \i0 
+{\f2 \strike0 \ul0 \b0 \sa0 \sb0 \fs20 \cf1 \i0 
+While the risk of mistake in the determination of the appropriate penalty may be tolerated in other areas of the criminal law, \u8220\'3fin capital cases the fundamental respect for humanity underlying the Eighth Amendment ... requires consideration of the 
+}
+{\f2 \b1 \fs20 \cf1 \i0 
+{\*\bkmkstart co_pp_sp_780_1150_1}{\*\bkmkend co_pp_sp_780_1150_1}
+{\f2 \strike0 \ul0 \b1 \sa0 \sb0 \fs20 \cf1 \i0 
+*1150
+}
+}
+{\f2 \strike0 \ul0 \b0 \sa0 \sb0 \fs20 \cf1 \i0 
+ character and record of the individual offender and the circumstances of the particular offense as a constitutionally indispensable part of the process of inflicting the penalty of death.\u8221\'3f 
+}
+{\field {\*\fldinst HYPERLINK "http://www.westlaw.com/Link/Document/FullText?findType=Y&serNum=1976141320&originatingDoc=I60e7effe9c5011d9bc61beebb95be672&refType=RP&originationContext=document&vr=3.0&rs=cblt1.0&transitionType=DocumentItem&contextData=(sc.Search)" }{\fldrslt 
+{\f2 \b0 \fs20 \cf5 \i1 
+{\f2 \strike0 \ul0 \b0 \sa0 \sb0 \fs20 \cf5 \i1 
+Ibid.
+}
+}}}
+{\f2 \strike0 \ul0 \b0 \sa0 \sb0 \fs20 \cf1 \i0 
+ Thus, although individualized sentencing in 
+}
+{\f2 \b1 \fs20 \cf1 \i0 
+{\*\bkmkstart co_pp_sp_708_1133_1}{\*\bkmkend co_pp_sp_708_1133_1}
+{\f2 \strike0 \ul0 \b1 \sa0 \sb0 \fs20 \cf1 \i0 
+**1133
+}
+}
+{\f2 \strike0 \ul0 \b0 \sa0 \sb0 \fs20 \cf1 \i0 
+ capital cases was not considered essential at the time the Constitution was adopted, 
+}
+{\field {\*\fldinst HYPERLINK "http://www.westlaw.com/Link/Document/FullText?findType=Y&serNum=1976141320&originatingDoc=I60e7effe9c5011d9bc61beebb95be672&refType=RP&originationContext=document&vr=3.0&rs=cblt1.0&transitionType=DocumentItem&contextData=(sc.Search)" }{\fldrslt 
+{\f2 \b0 \fs20 \cf5 \i1 
+{\f2 \strike0 \ul0 \b0 \sa0 \sb0 \fs20 \cf5 \i1 
+Woodson
+}
+}}}
+{\f2 \strike0 \ul0 \b0 \sa0 \sb0 \fs20 \cf1 \i0 
+ recognized that American standards of decency could no longer tolerate a capital sentencing process that failed to afford a defendant individualized consideration in the determination whether he or she should live or die. 
+}
+{\field {\*\fldinst HYPERLINK "http://www.westlaw.com/Link/Document/FullText?findType=Y&serNum=1976141320&pubNum=708&originatingDoc=I60e7effe9c5011d9bc61beebb95be672&refType=RP&fi=co_pp_sp_708_2989&originationContext=document&vr=3.0&rs=cblt1.0&transitionType=DocumentItem&contextData=(sc.Search)#co_pp_sp_708_2989" }{\fldrslt 
+{\f2 \b0 \fs20 \cf5 \i1 
+{\f2 \strike0 \ul0 \b0 \sa0 \sb0 \fs20 \cf5 \i1 
+Id.,
+}
+}
+{\f2 \strike0 \ul0 \b0 \sa0 \sb0 \fs20 \cf5 \i0 
+ at 301, 96 S.Ct., at 2989.
+}}}
+\par 
+}
+}
+{\f2 \strike0 \ul0 \b0 \sa0 \sb0 \fs20 \cf1 \i0 
+\u160\'3f
+\par 
+}
+{\li0 \f2 \qj \b0 \ri0 \fs20 \cf1 \i0 
+{\li0 \f2 \qj \b0 \ri0 \fs20 \cf1 \i0 
+{\f2 \strike0 \ul0 \b0 \sa0 \sb0 \fs20 \cf1 \i0 
+The Court elaborated on the principle of individualized sentencing in 
+}
+{\field {\*\fldinst HYPERLINK "http://www.westlaw.com/Link/Document/FullText?findType=Y&serNum=1978139513&pubNum=708&originatingDoc=I60e7effe9c5011d9bc61beebb95be672&refType=RP&originationContext=document&vr=3.0&rs=cblt1.0&transitionType=DocumentItem&contextData=(sc.Search)" }{\fldrslt 
+{\f2 \b0 \fs20 \cf5 \i1 
+{\f2 \strike0 \ul0 \b0 \sa0 \sb0 \fs20 \cf5 \i1 
+Lockett v. Ohio,
+}
+}
+{\f2 \strike0 \ul0 \b0 \sa0 \sb0 \fs20 \cf5 \i0 
+ 438 U.S. 586, 98 S.Ct. 2954, 57 L.Ed.2d 973 (1978)
+}}}
+{\f2 \strike0 \ul0 \b0 \sa0 \sb0 \fs20 \cf1 \i0 
+. In that case, a plurality acknowledged that strict restraints on sentencer discretion are necessary to achieve the consistency and rationality promised in 
+}
+{\field {\*\fldinst HYPERLINK "http://www.westlaw.com/Link/Document/FullText?findType=Y&serNum=1972127195&originatingDoc=I60e7effe9c5011d9bc61beebb95be672&refType=RP&originationContext=document&vr=3.0&rs=cblt1.0&transitionType=DocumentItem&contextData=(sc.Search)" }{\fldrslt 
+{\f2 \b0 \fs20 \cf5 \i1 
+{\f2 \strike0 \ul0 \b0 \sa0 \sb0 \fs20 \cf5 \i1 
+Furman,
+}
+}}}
+{\f2 \strike0 \ul0 \b0 \sa0 \sb0 \fs20 \cf1 \i0 
+ but held that, in the end, the sentencer must retain unbridled discretion to afford mercy. Any process or procedure that prevents the sentencer from considering \u8220\'3f
+}
+{\f2 \b0 \fs20 \cf1 \i1 
+{\f2 \strike0 \ul0 \b0 \sa0 \sb0 \fs20 \cf1 \i1 
+as a mitigating factor,
+}
+}
+{\f2 \strike0 \ul0 \b0 \sa0 \sb0 \fs20 \cf1 \i0 
+ any aspect of a defendant\rquote s character or record and any of the circumstances of the offense that the defendant proffers as a basis for a sentence less than death\u8221\'3f creates the constitutionally intolerable risk that \u8220\'3fthe death penalty will be imposed in spite of factors which may call for a less severe penalty.\u8221\'3f 
+}
+{\field {\*\fldinst HYPERLINK "http://www.westlaw.com/Link/Document/FullText?findType=Y&serNum=1972127195&pubNum=708&originatingDoc=I60e7effe9c5011d9bc61beebb95be672&refType=RP&fi=co_pp_sp_708_2964&originationContext=document&vr=3.0&rs=cblt1.0&transitionType=DocumentItem&contextData=(sc.Search)#co_pp_sp_708_2964" }{\fldrslt 
+{\f2 \b0 \fs20 \cf5 \i1 
+{\f2 \strike0 \ul0 \b0 \sa0 \sb0 \fs20 \cf5 \i1 
+Id.,
+}
+}
+{\f2 \strike0 \ul0 \b0 \sa0 \sb0 \fs20 \cf5 \i0 
+ at 604\u8211\'3f605, 98 S.Ct., at 2964\u8211\'3f2965
+}}}
+{\f2 \strike0 \ul0 \b0 \sa0 \sb0 \fs20 \cf1 \i0 
+ (emphasis in original). See also 
+}
+{\field {\*\fldinst HYPERLINK "http://www.westlaw.com/Link/Document/FullText?findType=Y&serNum=1987077900&pubNum=708&originatingDoc=I60e7effe9c5011d9bc61beebb95be672&refType=RP&originationContext=document&vr=3.0&rs=cblt1.0&transitionType=DocumentItem&contextData=(sc.Search)" }{\fldrslt 
+{\f2 \b0 \fs20 \cf5 \i1 
+{\f2 \strike0 \ul0 \b0 \sa0 \sb0 \fs20 \cf5 \i1 
+Sumner v. Shuman,
+}
+}
+{\f2 \strike0 \ul0 \b0 \sa0 \sb0 \fs20 \cf5 \i0 
+ 483 U.S. 66, 107 S.Ct. 2716, 97 L.Ed.2d 56 (1987)
+}}}
+{\f2 \strike0 \ul0 \b0 \sa0 \sb0 \fs20 \cf1 \i0 
+ (invalidating a mandatory death penalty statute reserving the death penalty for life-term inmates convicted of murder). The Court\rquote s duty under the Constitution therefore is to \u8220\'3fdevelop a system of capital punishment at once consistent and principled but also humane and sensible to the uniqueness of the individual.\u8221\'3f 
+}
+{\field {\*\fldinst HYPERLINK "http://www.westlaw.com/Link/Document/FullText?findType=Y&serNum=1982102682&pubNum=708&originatingDoc=I60e7effe9c5011d9bc61beebb95be672&refType=RP&fi=co_pp_sp_708_874&originationContext=document&vr=3.0&rs=cblt1.0&transitionType=DocumentItem&contextData=(sc.Search)#co_pp_sp_708_874" }{\fldrslt 
+{\f2 \b0 \fs20 \cf5 \i1 
+{\f2 \strike0 \ul0 \b0 \sa0 \sb0 \fs20 \cf5 \i1 
+Eddings v. Oklahoma,
+}
+}
+{\f2 \strike0 \ul0 \b0 \sa0 \sb0 \fs20 \cf5 \i0 
+ 455 U.S., at 110, 102 S.Ct., at 874.
+}}}
+\par 
+}
+}
+{\f2 \strike0 \ul0 \b0 \sa0 \sb0 \fs20 \cf1 \i0 
+\u160\'3f
+\par 
+}
+}
+{\li0 \f2 \qj \b0 \ri0 \fs20 \cf1 \i0 
+{\*\bkmkstart co_anchor_I9fcf6f43077411e498db8b09b4f04}{\*\bkmkend co_anchor_I9fcf6f43077411e498db8b09b4f04}
+\par 
+{\li0 \f2 \b1 \ri0 \fs20 \cf1 \qc \i0 
+{\f2 \b1 \fs20 \cf1 \i0 
+{\f2 \strike0 \ul0 \b1 \sa200 \sb400 \fs20 \cf1 \i0 
+C
+\par 
+}
+}
+}
+{\li0 \f2 \qj \b0 \ri0 \fs20 \cf1 \i0 
+{\li0 \f2 \qj \b0 \ri0 \fs20 \cf1 \i0 
+{\f2 \strike0 \ul0 \b0 \sa0 \sb0 \fs20 \cf1 \i0 
+I believe the 
+}
+{\f2 \b0 \fs20 \cf1 \i1 
+{\field {\*\fldinst HYPERLINK "http://www.westlaw.com/Link/Document/FullText?findType=Y&serNum=1976141320&originatingDoc=I60e7effe9c5011d9bc61beebb95be672&refType=RP&originationContext=document&vr=3.0&rs=cblt1.0&transitionType=DocumentItem&contextData=(sc.Search)" }{\fldrslt 
+{\f2 \strike0 \ul0 \b0 \sa0 \sb0 \fs20 \cf5 \i1 
+Woodson
+}}}
+{\f2 \strike0 \ul0 \b0 \sa0 \sb0 \fs20 \cf1 \i1 
+\u8211\'3f
+}
+{\field {\*\fldinst HYPERLINK "http://www.westlaw.com/Link/Document/FullText?findType=Y&serNum=1978139513&originatingDoc=I60e7effe9c5011d9bc61beebb95be672&refType=RP&originationContext=document&vr=3.0&rs=cblt1.0&transitionType=DocumentItem&contextData=(sc.Search)" }{\fldrslt 
+{\f2 \strike0 \ul0 \b0 \sa0 \sb0 \fs20 \cf5 \i1 
+Lockett
+}}}
+}
+{\f2 \strike0 \ul0 \b0 \sa0 \sb0 \fs20 \cf1 \i0 
+ line of cases to be fundamentally sound and rooted in American standards of decency that have evolved over time. The notion of prohibiting a sentencer from exercising its discretion \u8220\'3fto dispense mercy on the basis of factors too intangible to write into a statute,\u8221\'3f 
+}
+{\field {\*\fldinst HYPERLINK "http://www.westlaw.com/Link/Document/FullText?findType=Y&serNum=1976142447&pubNum=708&originatingDoc=I60e7effe9c5011d9bc61beebb95be672&refType=RP&fi=co_pp_sp_708_2947&originationContext=document&vr=3.0&rs=cblt1.0&transitionType=DocumentItem&contextData=(sc.Search)#co_pp_sp_708_2947" }{\fldrslt 
+{\f2 \b0 \fs20 \cf5 \i1 
+{\f2 \strike0 \ul0 \b0 \sa0 \sb0 \fs20 \cf5 \i1 
+Gregg,
+}
+}
+{\f2 \strike0 \ul0 \b0 \sa0 \sb0 \fs20 \cf5 \i0 
+ 428 U.S., at 222, 96 S.Ct., at 2947
+}}}
+{\f2 \strike0 \ul0 \b0 \sa0 \sb0 \fs20 \cf1 \i0 
+ (White, J., concurring), is offensive to our sense of fundamental fairness and respect for the uniqueness of the individual. In 
+}
+{\field {\*\fldinst HYPERLINK "http://www.westlaw.com/Link/Document/FullText?findType=Y&serNum=1987010754&pubNum=708&originatingDoc=I60e7effe9c5011d9bc61beebb95be672&refType=RP&originationContext=document&vr=3.0&rs=cblt1.0&transitionType=DocumentItem&contextData=(sc.Search)" }{\fldrslt 
+{\f2 \b0 \fs20 \cf5 \i1 
+{\f2 \strike0 \ul0 \b0 \sa0 \sb0 \fs20 \cf5 \i1 
+California v. Brown,
+}
+}
+{\f2 \strike0 \ul0 \b0 \sa0 \sb0 \fs20 \cf5 \i0 
+ 479 U.S. 538, 107 S.Ct. 837, 93 L.Ed.2d 934 (1987)
+}}}
+{\f2 \strike0 \ul0 \b0 \sa0 \sb0 \fs20 \cf1 \i0 
+, I said in dissent:
+\par 
+}
+}
+{\li200 \f2 \qj \b0 \ri0 \fs20 \cf1 \i0 
+{\li200 \f2 \qj \b0 \ri0 \fs20 \cf1 \i0 
+{\f2 \strike0 \ul0 \b0 \sa0 \sb0 \fs20 \cf1 \i0 
+\u8220\'3fThe sentencer\rquote s ability to respond with mercy towards a defendant has always struck me as a particularly valuable aspect of the capital sentencing procedure.... [W]e adhere 
+}
+{\f2 \b1 \fs20 \cf1 \i0 
+{\*\bkmkstart co_pp_sp_780_1151_1}{\*\bkmkend co_pp_sp_780_1151_1}
+{\f2 \strike0 \ul0 \b1 \sa0 \sb0 \fs20 \cf1 \i0 
+*1151
+}
+}
+{\f2 \strike0 \ul0 \b0 \sa0 \sb0 \fs20 \cf1 \i0 
+ so strongly to our belief that sentencers should have the opportunity to spare a capital defendant\rquote s life on account of compassion for the individual because, recognizing that the capital sentencing decision must be made in the context of \u8216\'3fcontemporary values,\u8217\'3f 
+}
+{\field {\*\fldinst HYPERLINK "http://www.westlaw.com/Link/Document/FullText?findType=Y&serNum=1976142447&pubNum=708&originatingDoc=I60e7effe9c5011d9bc61beebb95be672&refType=RP&fi=co_pp_sp_708_2928&originationContext=document&vr=3.0&rs=cblt1.0&transitionType=DocumentItem&contextData=(sc.Search)#co_pp_sp_708_2928" }{\fldrslt 
+{\f2 \b0 \fs20 \cf5 \i1 
+{\f2 \strike0 \ul0 \b0 \sa0 \sb0 \fs20 \cf5 \i1 
+Gregg v. Georgia,
+}
+}
+{\f2 \strike0 \ul0 \b0 \sa0 \sb0 \fs20 \cf5 \i0 
+ 428 U.S., at 181 [96 S.Ct., at 2928]
+}}}
+{\f2 \strike0 \ul0 \b0 \sa0 \sb200 \fs20 \cf1 \i0 
+ (opinion of Stewart, POWELL, and STEVENS, JJ.), we see in the sentencer\rquote s expression of mercy a distinctive feature of our society that we deeply value.\u8221\'3f 
+}
+{\field {\*\fldinst HYPERLINK "http://www.westlaw.com/Link/Document/FullText?findType=Y&serNum=1976142447&pubNum=708&originatingDoc=I60e7effe9c5011d9bc61beebb95be672&refType=RP&fi=co_pp_sp_708_850&originationContext=document&vr=3.0&rs=cblt1.0&transitionType=DocumentItem&contextData=(sc.Search)#co_pp_sp_708_850" }{\fldrslt 
+{\f2 \b0 \fs20 \cf5 \i1 
+{\f2 \strike0 \ul0 \b0 \sa0 \sb0 \fs20 \cf5 \i1 
+Id.,
+}
+}
+{\f2 \strike0 \ul0 \b0 \sa0 \sb0 \fs20 \cf5 \i0 
+ at 562\u8211\'3f563, 107 S.Ct., at 850.
+}}}
+\par 
+}
+}
+}
+{\f2 \strike0 \ul0 \b0 \sa0 \sb0 \fs20 \cf1 \i0 
+\u160\'3f
+\par 
+}
+{\li0 \f2 \qj \b0 \ri0 \fs20 \cf1 \i0 
+{\li0 \f2 \qj \b0 \ri0 \fs20 \cf1 \i0 
+{\f2 \strike0 \ul0 \b0 \sa0 \sb0 \fs20 \cf1 \i0 
+Yet, as several Members of the Court have recognized, there is real \u8220\'3ftension\u8221\'3f between the need for fairness to the individual and the consistency promised in 
+}
+{\field {\*\fldinst HYPERLINK "http://www.westlaw.com/Link/Document/FullText?findType=Y&serNum=1972127195&originatingDoc=I60e7effe9c5011d9bc61beebb95be672&refType=RP&originationContext=document&vr=3.0&rs=cblt1.0&transitionType=DocumentItem&contextData=(sc.Search)" }{\fldrslt 
+{\f2 \b0 \fs20 \cf5 \i1 
+{\f2 \strike0 \ul0 \b0 \sa0 \sb0 \fs20 \cf5 \i1 
+Furman.
+}
+}}}
+{\f2 \strike0 \ul0 \b0 \sa0 \sb0 \fs20 \cf1 \i0 
+ See 
+}
+{\field {\*\fldinst HYPERLINK "http://www.westlaw.com/Link/Document/FullText?findType=Y&serNum=1988080757&pubNum=708&originatingDoc=I60e7effe9c5011d9bc61beebb95be672&refType=RP&fi=co_pp_sp_708_2331&originationContext=document&vr=3.0&rs=cblt1.0&transitionType=DocumentItem&contextData=(sc.Search)#co_pp_sp_708_2331" }{\fldrslt 
+{\f2 \b0 \fs20 \cf5 \i1 
+{\f2 \strike0 \ul0 \b0 \sa0 \sb0 \fs20 \cf5 \i1 
+Franklin v. Lynaugh,
+}
+}
+{\f2 \strike0 \ul0 \b0 \sa0 \sb0 \fs20 \cf5 \i0 
+ 487 U.S. 164, 182, 108 S.Ct. 2320, 2331\u8211\'3f2332, 101 L.Ed.2d 155 (1988)
+}}}
+{\f2 \strike0 \ul0 \b0 \sa0 \sb0 \fs20 \cf1 \i0 
+ (plurality opinion); 
+}
+{\field {\*\fldinst HYPERLINK "http://www.westlaw.com/Link/Document/FullText?findType=Y&serNum=1987010754&pubNum=708&originatingDoc=I60e7effe9c5011d9bc61beebb95be672&refType=RP&fi=co_pp_sp_708_840&originationContext=document&vr=3.0&rs=cblt1.0&transitionType=DocumentItem&contextData=(sc.Search)#co_pp_sp_708_840" }{\fldrslt 
+{\f2 \b0 \fs20 \cf5 \i1 
+{\f2 \strike0 \ul0 \b0 \sa0 \sb0 \fs20 \cf5 \i1 
+California v. Brown,
+}
+}
+{\f2 \strike0 \ul0 \b0 \sa0 \sb0 \fs20 \cf5 \i0 
+ 479 U.S., at 544, 107 S.Ct., at 840
+}}}
+{\f2 \strike0 \ul0 \b0 \sa0 \sb0 \fs20 \cf1 \i0 
+ (O\rquote CONNOR, J., concurring); 
+}
+{\field {\*\fldinst HYPERLINK "http://www.westlaw.com/Link/Document/FullText?findType=Y&serNum=1987050464&pubNum=708&originatingDoc=I60e7effe9c5011d9bc61beebb95be672&refType=RP&fi=co_pp_sp_708_1804&originationContext=document&vr=3.0&rs=cblt1.0&transitionType=DocumentItem&contextData=(sc.Search)#co_pp_sp_708_1804" }{\fldrslt 
+{\f2 \b0 \fs20 \cf5 \i1 
+{\f2 \strike0 \ul0 \b0 \sa0 \sb0 \fs20 \cf5 \i1 
+McCleskey v. Kemp,
+}
+}
+{\f2 \strike0 \ul0 \b0 \sa0 \sb0 \fs20 \cf5 \i0 
+ 481 U.S., at 363, 107 S.Ct., at 1804
+}}}
+{\f2 \strike0 \ul0 \b0 \sa0 \sb0 \fs20 \cf1 \i0 
+ (BLACKMUN, J., dissenting); 
+}
+{\field {\*\fldinst HYPERLINK "http://www.westlaw.com/Link/Document/FullText?findType=Y&serNum=1993032776&pubNum=708&originatingDoc=I60e7effe9c5011d9bc61beebb95be672&refType=RP&fi=co_pp_sp_708_903&originationContext=document&vr=3.0&rs=cblt1.0&transitionType=DocumentItem&contextData=(sc.Search)#co_pp_sp_708_903" }{\fldrslt 
+{\f2 \b0 \fs20 \cf5 \i1 
+{\f2 \strike0 \ul0 \b0 \sa0 \sb0 \fs20 \cf5 \i1 
+Graham v. Collins,
+}
+}
+{\f2 \strike0 \ul0 \b0 \sa0 \sb0 \fs20 \cf5 \i0 
+ 506 U.S. 461, 478, 113 S.Ct. 892, 903, 122 L.Ed.2d 260 (1993)
+}}}
+{\f2 \strike0 \ul0 \b0 \sa0 \sb0 \fs20 \cf1 \i0 
+ (THOMAS, J., concurring). On the one hand, discretion in capital sentencing must be \u8220\'3f \u8216\'3fcontrolled by clear and objective standards so as to produce non-discriminatory [and reasoned] application.\u8217\'3f \u8221\'3f 
+}
+{\field {\*\fldinst HYPERLINK "http://www.westlaw.com/Link/Document/FullText?findType=Y&serNum=1976142447&pubNum=708&originatingDoc=I60e7effe9c5011d9bc61beebb95be672&refType=RP&fi=co_pp_sp_708_2936&originationContext=document&vr=3.0&rs=cblt1.0&transitionType=DocumentItem&contextData=(sc.Search)#co_pp_sp_708_2936" }{\fldrslt 
+{\f2 \b0 \fs20 \cf5 \i1 
+{\f2 \strike0 \ul0 \b0 \sa0 \sb0 \fs20 \cf5 \i1 
+Gregg,
+}
+}
+{\f2 \strike0 \ul0 \b0 \sa0 \sb0 \fs20 \cf5 \i0 
+ 428 U.S., at 198, 96 S.Ct., at 2936
+}}}
+{\f2 \strike0 \ul0 \b0 \sa0 \sb0 \fs20 \cf1 \i0 
+ (opinion of Stewart, Powell, and STEVENS, JJ.), quoting 
+}
+{\field {\*\fldinst HYPERLINK "http://www.westlaw.com/Link/Document/FullText?findType=Y&serNum=1974127974&pubNum=711&originatingDoc=I60e7effe9c5011d9bc61beebb95be672&refType=RP&fi=co_pp_sp_711_615&originationContext=document&vr=3.0&rs=cblt1.0&transitionType=DocumentItem&contextData=(sc.Search)#co_pp_sp_711_615" }{\fldrslt 
+{\f2 \b0 \fs20 \cf5 \i1 
+{\f2 \strike0 \ul0 \b0 \sa0 \sb0 \fs20 \cf5 \i1 
+Coley v. State,
+}
+}
+{\f2 \strike0 \ul0 \b0 \sa0 \sb0 \fs20 \cf5 \i0 
+ 231 Ga. 829, 834, 204 S.E.2d 612, 615 (1974)
+}}}
+{\f2 \strike0 \ul0 \b0 \sa0 \sb0 \fs20 \cf1 \i0 
+. On the other hand, the Constitution also requires that the sentencer be able to consider \u8220\'3fany relevant mitigating evidence regarding the defendant\rquote s character or background, and the circumstances of the particular offense.\u8221\'3f 
+}
+{\field {\*\fldinst HYPERLINK "http://www.westlaw.com/Link/Document/FullText?findType=Y&serNum=1987010754&pubNum=708&originatingDoc=I60e7effe9c5011d9bc61beebb95be672&refType=RP&fi=co_pp_sp_708_840&originationContext=document&vr=3.0&rs=cblt1.0&transitionType=DocumentItem&contextData=(sc.Search)#co_pp_sp_708_840" }{\fldrslt 
+{\f2 \b0 \fs20 \cf5 \i1 
+{\f2 \strike0 \ul0 \b0 \sa0 \sb0 \fs20 \cf5 \i1 
+California v. Brown,
+}
+}
+{\f2 \strike0 \ul0 \b0 \sa0 \sb0 \fs20 \cf5 \i0 
+ 479 U.S., at 544, 107 S.Ct., at 840
+}}}
+{\f2 \strike0 \ul0 \b0 \sa0 \sb0 \fs20 \cf1 \i0 
+ (O\rquote CONNOR, J., concurring). 
+}
+{\f2 \b1 \fs20 \cf1 \i0 
+{\*\bkmkstart co_pp_sp_708_1134_1}{\*\bkmkend co_pp_sp_708_1134_1}
+{\f2 \strike0 \ul0 \b1 \sa0 \sb0 \fs20 \cf1 \i0 
+**1134
+}
+}
+{\f2 \strike0 \ul0 \b0 \sa0 \sb0 \fs20 \cf1 \i0 
+ The power to consider mitigating evidence that would warrant a sentence less than death is meaningless unless the sentencer has the discretion and authority to dispense mercy based on that evidence. Thus, the Constitution, by requiring a heightened degree of fairness to the individual, and also a greater degree of equality and rationality in the administration of death, demands sentencer discretion that is at once generously expanded and severely restricted.
+\par 
+}
+}
+}
+{\f2 \strike0 \ul0 \b0 \sa0 \sb0 \fs20 \cf1 \i0 
+\u160\'3f
+\par 
+}
+{\li0 \f2 \qj \b0 \ri0 \fs20 \cf1 \i0 
+{\li0 \f2 \qj \b0 \ri0 \fs20 \cf1 \i0 
+{\f2 \strike0 \ul0 \b0 \sa0 \sb0 \fs20 \cf1 \i0 
+This dilemma was laid bare in 
+}
+{\field {\*\fldinst HYPERLINK "http://www.westlaw.com/Link/Document/FullText?findType=Y&serNum=1989094482&pubNum=708&originatingDoc=I60e7effe9c5011d9bc61beebb95be672&refType=RP&originationContext=document&vr=3.0&rs=cblt1.0&transitionType=DocumentItem&contextData=(sc.Search)" }{\fldrslt 
+{\f2 \b0 \fs20 \cf5 \i1 
+{\f2 \strike0 \ul0 \b0 \sa0 \sb0 \fs20 \cf5 \i1 
+Penry v. Lynaugh,
+}
+}
+{\f2 \strike0 \ul0 \b0 \sa0 \sb0 \fs20 \cf5 \i0 
+ 492 U.S. 302, 109 S.Ct. 2934, 106 L.Ed.2d 256 (1989)
+}}}
+{\f2 \strike0 \ul0 \b0 \sa0 \sb0 \fs20 \cf1 \i0 
+. The defendant in 
+}
+{\field {\*\fldinst HYPERLINK "http://www.westlaw.com/Link/Document/FullText?findType=Y&serNum=1989094482&originatingDoc=I60e7effe9c5011d9bc61beebb95be672&refType=RP&originationContext=document&vr=3.0&rs=cblt1.0&transitionType=DocumentItem&contextData=(sc.Search)" }{\fldrslt 
+{\f2 \b0 \fs20 \cf5 \i1 
+{\f2 \strike0 \ul0 \b0 \sa0 \sb0 \fs20 \cf5 \i1 
+Penry
+}
+}}}
+{\f2 \strike0 \ul0 \b0 \sa0 \sb0 \fs20 \cf1 \i0 
+ challenged the Texas death penalty statute, arguing that it failed to allow the sentencing jury to give full mitigating effect to his evidence of mental retardation and history of child abuse. The Texas statute required the jury, during the penalty phase, to answer three \u8220\'3fspecial issues\u8221\'3f; if the jury unanimously answered \u8220\'3fyes\u8221\'3f to each issue, the trial court was obligated to sentence the defendant to death. 
+}
+{\f2 \b1 \fs20 \cf1 \i0 
+{\*\bkmkstart co_pp_sp_780_1152_1}{\*\bkmkend co_pp_sp_780_1152_1}
+{\f2 \strike0 \ul0 \b1 \sa0 \sb0 \fs20 \cf1 \i0 
+*1152
+}
+}
+{\f2 \strike0 \ul0 \b0 \sa0 \sb0 \fs20 \cf1 \i0 
+ 
+}
+{\field {\*\fldinst HYPERLINK "http://www.westlaw.com/Link/Document/FullText?findType=L&pubNum=1000172&cite=TXCMART37.071&originatingDoc=I60e7effe9c5011d9bc61beebb95be672&refType=LQ&originationContext=document&vr=3.0&rs=cblt1.0&transitionType=DocumentItem&contextData=(sc.Search)" }{\fldrslt 
+{\f2 \strike0 \ul0 \b0 \sa0 \sb0 \fs20 \cf5 \i0 
+Tex.Code Crim.Proc.Ann., Art. 37.071(c)-(e)
+}}}
+{\f2 \strike0 \ul0 \b0 \sa0 \sb0 \fs20 \cf1 \i0 
+ (Vernon 1981 and Supp.1989). Only one of the three issues\u8212\'3fwhether the defendant posed a \u8220\'3fcontinuing threat to society\u8221\'3f\u8212\'3fwas related to the evidence Penry offered in mitigation. But Penry\rquote s evidence of mental retardation and child abuse was a two-edged sword as it related to that special issue: \u8220\'3f[I]t diminish[ed] his blameworthiness for his crime even as it indicate[d] that there [was] a probability that he [would] be dangerous in the future.\u8221\'3f 
+}
+{\field {\*\fldinst HYPERLINK "http://www.westlaw.com/Link/Document/FullText?findType=Y&serNum=1989094482&pubNum=708&originatingDoc=I60e7effe9c5011d9bc61beebb95be672&refType=RP&fi=co_pp_sp_708_2949&originationContext=document&vr=3.0&rs=cblt1.0&transitionType=DocumentItem&contextData=(sc.Search)#co_pp_sp_708_2949" }{\fldrslt 
+{\f2 \strike0 \ul0 \b0 \sa0 \sb0 \fs20 \cf5 \i0 
+492 U.S., at 324, 109 S.Ct., at 2949.
+}}}
+{\f2 \strike0 \ul0 \b0 \sa0 \sb0 \fs20 \cf1 \i0 
+ The Court therefore reversed Penry\rquote s death sentence, explaining that a reasonable juror could have believed that the statute prohibited a sentence less than death based upon his mitigating evidence. 
+}
+{\field {\*\fldinst HYPERLINK "http://www.westlaw.com/Link/Document/FullText?findType=Y&serNum=1989094482&pubNum=708&originatingDoc=I60e7effe9c5011d9bc61beebb95be672&refType=RP&fi=co_pp_sp_708_2950&originationContext=document&vr=3.0&rs=cblt1.0&transitionType=DocumentItem&contextData=(sc.Search)#co_pp_sp_708_2950" }{\fldrslt 
+{\f2 \b0 \fs20 \cf5 \i1 
+{\f2 \strike0 \ul0 \b0 \sa0 \sb0 \fs20 \cf5 \i1 
+Id.,
+}
+}
+{\f2 \strike0 \ul0 \b0 \sa0 \sb0 \fs20 \cf5 \i0 
+ at 326, 109 S.Ct., at 2950.
+}}}
+\par 
+}
+}
+{\f2 \strike0 \ul0 \b0 \sa0 \sb0 \fs20 \cf1 \i0 
+\u160\'3f
+\par 
+}
+{\li0 \f2 \qj \b0 \ri0 \fs20 \cf1 \i0 
+{\li0 \f2 \qj \b0 \ri0 \fs20 \cf1 \i0 
+{\f2 \strike0 \ul0 \b0 \sa0 \sb0 \fs20 \cf1 \i0 
+After 
+}
+{\field {\*\fldinst HYPERLINK "http://www.westlaw.com/Link/Document/FullText?findType=Y&serNum=1989094482&originatingDoc=I60e7effe9c5011d9bc61beebb95be672&refType=RP&originationContext=document&vr=3.0&rs=cblt1.0&transitionType=DocumentItem&contextData=(sc.Search)" }{\fldrslt 
+{\f2 \b0 \fs20 \cf5 \i1 
+{\f2 \strike0 \ul0 \b0 \sa0 \sb0 \fs20 \cf5 \i1 
+Penry,
+}
+}}}
+{\f2 \strike0 \ul0 \b0 \sa0 \sb0 \fs20 \cf1 \i0 
+ the paradox underlying the Court\rquote s post-
+}
+{\field {\*\fldinst HYPERLINK "http://www.westlaw.com/Link/Document/FullText?findType=Y&serNum=1972127195&originatingDoc=I60e7effe9c5011d9bc61beebb95be672&refType=RP&originationContext=document&vr=3.0&rs=cblt1.0&transitionType=DocumentItem&contextData=(sc.Search)" }{\fldrslt 
+{\f2 \b0 \fs20 \cf5 \i1 
+{\f2 \strike0 \ul0 \b0 \sa0 \sb0 \fs20 \cf5 \i1 
+Furman
+}
+}}}
+{\f2 \strike0 \ul0 \b0 \sa0 \sb0 \fs20 \cf1 \i0 
+ jurisprudence was undeniable. Texas had complied with 
+}
+{\field {\*\fldinst HYPERLINK "http://www.westlaw.com/Link/Document/FullText?findType=Y&serNum=1972127195&originatingDoc=I60e7effe9c5011d9bc61beebb95be672&refType=RP&originationContext=document&vr=3.0&rs=cblt1.0&transitionType=DocumentItem&contextData=(sc.Search)" }{\fldrslt 
+{\f2 \b0 \fs20 \cf5 \i1 
+{\f2 \strike0 \ul0 \b0 \sa0 \sb0 \fs20 \cf5 \i1 
+Furman
+}
+}}}
+{\f2 \strike0 \ul0 \b0 \sa0 \sb0 \fs20 \cf1 \i0 
+ by severely limiting the sentencer\rquote s discretion, but those very limitations rendered Penry\rquote s death sentence unconstitutional.
+\par 
+}
+}
+}
+{\f2 \strike0 \ul0 \b0 \sa0 \sb0 \fs20 \cf1 \i0 
+\u160\'3f
+\par 
+}
+}
+{\li0 \f2 \qj \b0 \ri0 \fs20 \cf1 \i0 
+{\*\bkmkstart co_anchor_I9fcf6f44077411e498db8b09b4f04}{\*\bkmkend co_anchor_I9fcf6f44077411e498db8b09b4f04}
+\par 
+{\li0 \f2 \b1 \ri0 \fs20 \cf1 \qc \i0 
+{\f2 \b1 \fs20 \cf1 \i0 
+{\f2 \strike0 \ul0 \b1 \sa200 \sb400 \fs20 \cf1 \i0 
+D
+\par 
+}
+}
+}
+{\li0 \f2 \qj \b0 \ri0 \fs20 \cf1 \i0 
+{\li0 \f2 \qj \b0 \ri0 \fs20 \cf1 \i0 
+{\f2 \strike0 \ul0 \b0 \sa0 \sb0 \fs20 \cf1 \i0 
+The theory underlying 
+}
+{\field {\*\fldinst HYPERLINK "http://www.westlaw.com/Link/Document/FullText?findType=Y&serNum=1989094482&originatingDoc=I60e7effe9c5011d9bc61beebb95be672&refType=RP&originationContext=document&vr=3.0&rs=cblt1.0&transitionType=DocumentItem&contextData=(sc.Search)" }{\fldrslt 
+{\f2 \b0 \fs20 \cf5 \i1 
+{\f2 \strike0 \ul0 \b0 \sa0 \sb0 \fs20 \cf5 \i1 
+Penry
+}
+}}}
+{\f2 \strike0 \ul0 \b0 \sa0 \sb0 \fs20 \cf1 \i0 
+ and 
+}
+{\field {\*\fldinst HYPERLINK "http://www.westlaw.com/Link/Document/FullText?findType=Y&serNum=1978139513&originatingDoc=I60e7effe9c5011d9bc61beebb95be672&refType=RP&originationContext=document&vr=3.0&rs=cblt1.0&transitionType=DocumentItem&contextData=(sc.Search)" }{\fldrslt 
+{\f2 \b0 \fs20 \cf5 \i1 
+{\f2 \strike0 \ul0 \b0 \sa0 \sb0 \fs20 \cf5 \i1 
+Lockett
+}
+}}}
+{\f2 \strike0 \ul0 \b0 \sa0 \sb0 \fs20 \cf1 \i0 
+ is that an appropriate balance can be struck between the 
+}
+{\field {\*\fldinst HYPERLINK "http://www.westlaw.com/Link/Document/FullText?findType=Y&serNum=1972127195&originatingDoc=I60e7effe9c5011d9bc61beebb95be672&refType=RP&originationContext=document&vr=3.0&rs=cblt1.0&transitionType=DocumentItem&contextData=(sc.Search)" }{\fldrslt 
+{\f2 \b0 \fs20 \cf5 \i1 
+{\f2 \strike0 \ul0 \b0 \sa0 \sb0 \fs20 \cf5 \i1 
+Furman
+}
+}}}
+{\f2 \strike0 \ul0 \b0 \sa0 \sb0 \fs20 \cf1 \i0 
+ promise of consistency and the 
+}
+{\field {\*\fldinst HYPERLINK "http://www.westlaw.com/Link/Document/FullText?findType=Y&serNum=1978139513&originatingDoc=I60e7effe9c5011d9bc61beebb95be672&refType=RP&originationContext=document&vr=3.0&rs=cblt1.0&transitionType=DocumentItem&contextData=(sc.Search)" }{\fldrslt 
+{\f2 \b0 \fs20 \cf5 \i1 
+{\f2 \strike0 \ul0 \b0 \sa0 \sb0 \fs20 \cf5 \i1 
+Lockett
+}
+}}}
+{\f2 \strike0 \ul0 \b0 \sa0 \sb0 \fs20 \cf1 \i0 
+ requirement of individualized sentencing if the death penalty is conceptualized as consisting of two distinct stages.
+}
+{\f2 \b0 \fs16 \cf1 \i0 
+{\*\bkmkstart co_footnoteReference_B00331993241434_ID0}{\*\bkmkend co_footnoteReference_B00331993241434_ID0}
+{\field {\*\fldinst HYPERLINK "#co_footnote_B00331993241434_1" }{\fldrslt 
+{\super \f2 \strike0 \ul0 \b0 \sa0 \sb0 \fs16 \cf5 \i0 
+3
+}}}
+}
+{\f2 \strike0 \ul0 \b0 \sa0 \sb0 \fs20 \cf1 \i0 
+ In the first stage of capital sentencing, the demands of 
+}
+{\field {\*\fldinst HYPERLINK "http://www.westlaw.com/Link/Document/FullText?findType=Y&serNum=1972127195&originatingDoc=I60e7effe9c5011d9bc61beebb95be672&refType=RP&originationContext=document&vr=3.0&rs=cblt1.0&transitionType=DocumentItem&contextData=(sc.Search)" }{\fldrslt 
+{\f2 \b0 \fs20 \cf5 \i1 
+{\f2 \strike0 \ul0 \b0 \sa0 \sb0 \fs20 \cf5 \i1 
+Furman
+}
+}}}
+{\f2 \strike0 \ul0 \b0 \sa0 \sb0 \fs20 \cf1 \i0 
+ are met by \u8220\'3fnarrowing\u8221\'3f the class of death-eligible offenders according to objective, fact-bound characteristics of the defendant or the circumstances of the offense. Once the pool of death-eligible defendants has been reduced, the sentencer retains the discretion to consider whatever relevant mitigating evidence the defendant chooses to offer. See 
+}
+{\field {\*\fldinst HYPERLINK "http://www.westlaw.com/Link/Document/FullText?findType=Y&serNum=1993032776&pubNum=708&originatingDoc=I60e7effe9c5011d9bc61beebb95be672&refType=RP&fi=co_pp_sp_708_917&originationContext=document&vr=3.0&rs=cblt1.0&transitionType=DocumentItem&contextData=(sc.Search)#co_pp_sp_708_917" }{\fldrslt 
+{\f2 \b0 \fs20 \cf5 \i1 
+{\f2 \strike0 \ul0 \b0 \sa0 \sb0 \fs20 \cf5 \i1 
+Graham v. Collins,
+}
+}
+{\f2 \strike0 \ul0 \b0 \sa0 \sb0 \fs20 \cf5 \i0 
+ 506 U.S., at 503\u8211\'3f504, 113 S.Ct., at 917
+}}}
+{\f2 \strike0 \ul0 \b0 \sa0 \sb0 \fs20 \cf1 \i0 
+ (STEVENS, J., dissenting) (arguing that providing full discretion to the sentencer is not inconsistent with 
+}
+{\field {\*\fldinst HYPERLINK "http://www.westlaw.com/Link/Document/FullText?findType=Y&serNum=1972127195&originatingDoc=I60e7effe9c5011d9bc61beebb95be672&refType=RP&originationContext=document&vr=3.0&rs=cblt1.0&transitionType=DocumentItem&contextData=(sc.Search)" }{\fldrslt 
+{\f2 \b0 \fs20 \cf5 \i1 
+{\f2 \strike0 \ul0 \b0 \sa0 \sb0 \fs20 \cf5 \i1 
+Furman
+}
+}}}
+{\f2 \strike0 \ul0 \b0 \sa0 \sb0 \fs20 \cf1 \i0 
+ and may actually help to protect against arbitrary and capricious sentencing).
+\par 
+}
+}
+}
+{\f2 \strike0 \ul0 \b0 \sa0 \sb0 \fs20 \cf1 \i0 
+\u160\'3f
+\par 
+}
+{\li0 \f2 \qj \b0 \ri0 \fs20 \cf1 \i0 {
+{\trowd \lastrow \trleft0 
+\clbrdrt \clbrdrb \clbrdrl \trql \clvertalt \clwWidth600 \cellx600 
+\clpadb90 \clpadfb3 \clpadl90 \clpadfl3 \clbrdrt \clbrdrb \clbrdrr \trql \clwWidth9480 \cellx10080 
+\intbl 
+{\li0 \ri0 
+{\li0 \f2 \b0 \ql \ri0 \fs20 \cf1 \i0 
+{\f2 \b0 \fs20 \cf1 \i0 
+{\*\bkmkstart co_footnote_B00331993241434_1}{\*\bkmkend co_footnote_B00331993241434_1}
+{\field {\*\fldinst HYPERLINK "#co_footnoteReference_B00331993241434_ID0" }{\fldrslt 
+{\super \f2 \strike0 \ul0 \b0 \sa0 \sb0 \fs20 \cf5 \i0 
+3
+}\f2 \super \strike0 \ul0 \b0 \sa0 \sb0 \fs20 \cf5 \i0 }}
+\par 
+}
+}
+}\f2 \li0 \b0 \ql \fs20 \ri0 \cf1 \i0 \intbl \cell \intbl 
+{\li0 \ri0 
+{\li0 \f2 \qj \b0 \ri0 \fs18 \cf1 \i0 
+{\li0 \f2 \qj \b0 \ri0 \fs18 \cf1 \i0 
+{\li0 \f2 \qj \b0 \ri0 \fs18 \cf1 \i0 
+{\f2 \strike0 \ul0 \b0 \sa0 \sb0 \fs18 \cf1 \i0 
+See Sundby, The 
+}
+{\f2 \b0 \fs18 \cf1 \i1 
+{\f2 \strike0 \ul0 \b0 \sa0 \sb0 \fs18 \cf1 \i1 
+Lockett
+}
+}
+{\f2 \strike0 \ul0 \b0 \sa0 \sb0 \fs18 \cf1 \i0 
+ Paradox: Reconciling Guided Discretion and Unguided Mitigation in Capital Sentencing, 
+}
+{\field {\*\fldinst HYPERLINK "http://www.westlaw.com/Link/Document/FullText?findType=Y&serNum=0100882150&pubNum=3041&originatingDoc=I60e7effe9c5011d9bc61beebb95be672&refType=LR&fi=co_pp_sp_3041_1162&originationContext=document&vr=3.0&rs=cblt1.0&transitionType=DocumentItem&contextData=(sc.Search)#co_pp_sp_3041_1162" }{\fldrslt 
+{\f2 \strike0 \ul0 \b0 \sa0 \sb0 \fs18 \cf5 \i0 
+38 UCLA L.Rev. 1147, 1162 (1991)
+}\f2 \strike0 \ul0 \b0 \sa0 \sb0 \fs18 \cf5 \i0 }}
+{\f2 \strike0 \ul0 \b0 \sa0 \sb0 \fs18 \cf1 \i0 
+.
+\par 
+}
+}
+}
+}
+}\f2 \li0 \strike0 \ul0 \b0 \qj \sa0 \sb0 \fs18 \ri0 \cf1 \i0 \intbl \cell \row }}\par 
+}
+{\li0 \f2 \qj \b0 \ri0 \fs20 \cf1 \i0 
+{\li0 \f2 \qj \b0 \ri0 \fs20 \cf1 \i0 
+{\f2 \strike0 \ul0 \b0 \sa0 \sb0 \fs20 \cf1 \i0 
+Over time, I have come to conclude that even this approach is unacceptable: It simply reduces, rather than eliminates, the number of people subject to arbitrary sentencing.
+}
+{\f2 \b0 \fs16 \cf1 \i0 
+{\*\bkmkstart co_footnoteReference_B00441993241434_ID0}{\*\bkmkend co_footnoteReference_B00441993241434_ID0}
+{\field {\*\fldinst HYPERLINK "#co_footnote_B00441993241434_1" }{\fldrslt 
+{\super \f2 \strike0 \ul0 \b0 \sa0 \sb0 \fs16 \cf5 \i0 
+4
+}}}
+}
+{\f2 \strike0 \ul0 \b0 \sa0 \sb0 \fs20 \cf1 \i0 
+ It is the decision 
+}
+{\f2 \b1 \fs20 \cf1 \i0 
+{\*\bkmkstart co_pp_sp_780_1153_1}{\*\bkmkend co_pp_sp_780_1153_1}
+{\f2 \strike0 \ul0 \b1 \sa0 \sb0 \fs20 \cf1 \i0 
+*1153
+}
+}
+{\f2 \strike0 \ul0 \b0 \sa0 \sb0 \fs20 \cf1 \i0 
+ to sentence a defendant to death\u8212\'3fnot merely the decision to make a defendant eligible for death\u8212\'3fthat may not be arbitrary. While one might hope that providing the sentencer with as much relevant mitigating evidence as possible will lead to more rational and consistent sentences, experience has taught otherwise. It seems that the decision whether a human being 
+}
+{\f2 \b1 \fs20 \cf1 \i0 
+{\*\bkmkstart co_pp_sp_708_1135_1}{\*\bkmkend co_pp_sp_708_1135_1}
+{\f2 \strike0 \ul0 \b1 \sa0 \sb0 \fs20 \cf1 \i0 
+**1135
+}
+}
+{\f2 \strike0 \ul0 \b0 \sa0 \sb0 \fs20 \cf1 \i0 
+ should live or die is so inherently subjective\u8212\'3frife with all of life\rquote s understandings, experiences, prejudices, and passions\u8212\'3fthat it inevitably defies the rationality and consistency required by the Constitution.
+\par 
+}
+}
+}
+{\f2 \strike0 \ul0 \b0 \sa0 \sb0 \fs20 \cf1 \i0 
+\u160\'3f
+\par 
+}
+{\li0 \f2 \qj \b0 \ri0 \fs20 \cf1 \i0 {
+{\trowd \lastrow \trleft0 
+\clbrdrt \clbrdrb \clbrdrl \trql \clvertalt \clwWidth600 \cellx600 
+\clpadb90 \clpadfb3 \clpadl90 \clpadfl3 \clbrdrt \clbrdrb \clbrdrr \trql \clwWidth9480 \cellx10080 
+\intbl 
+{\li0 \ri0 
+{\li0 \f2 \b0 \ql \ri0 \fs20 \cf1 \i0 
+{\f2 \b0 \fs20 \cf1 \i0 
+{\*\bkmkstart co_footnote_B00441993241434_1}{\*\bkmkend co_footnote_B00441993241434_1}
+{\field {\*\fldinst HYPERLINK "#co_footnoteReference_B00441993241434_ID0" }{\fldrslt 
+{\super \f2 \strike0 \ul0 \b0 \sa0 \sb0 \fs20 \cf5 \i0 
+4
+}\f2 \super \strike0 \ul0 \b0 \sa0 \sb0 \fs20 \cf5 \i0 }}
+\par 
+}
+}
+}\f2 \li0 \b0 \ql \fs20 \ri0 \cf1 \i0 \intbl \cell \intbl 
+{\li0 \ri0 
+{\li0 \f2 \qj \b0 \ri0 \fs18 \cf1 \i0 
+{\li0 \f2 \qj \b0 \ri0 \fs18 \cf1 \i0 
+{\li0 \f2 \qj \b0 \ri0 \fs18 \cf1 \i0 
+{\f2 \strike0 \ul0 \b0 \sa0 \sb0 \fs18 \cf1 \i0 
+The narrowing of death-eligible defendants into a smaller subgroup coupled with the unbridled discretion to pick among them arguably emphasizes rather than ameliorates the inherent arbitrariness of the death penalty. Gillers, 
+}
+{\field {\*\fldinst HYPERLINK "http://www.westlaw.com/Link/Document/FullText?findType=Y&serNum=0284375529&pubNum=1268&originatingDoc=I60e7effe9c5011d9bc61beebb95be672&refType=LR&fi=co_pp_sp_1268_27&originationContext=document&vr=3.0&rs=cblt1.0&transitionType=DocumentItem&contextData=(sc.Search)#co_pp_sp_1268_27" }{\fldrslt 
+{\f2 \strike0 \ul0 \b0 \sa0 \sb0 \fs18 \cf5 \i0 
+Deciding Who Dies, 129 U.Pa.L.Rev. 1, 27\u8211\'3f28 (1980)
+}\f2 \strike0 \ul0 \b0 \sa0 \sb0 \fs18 \cf5 \i0 }}
+{\f2 \strike0 \ul0 \b0 \sa0 \sb0 \fs18 \cf1 \i0 
+ (arguing that the inherent arbitrariness of the death penalty is only magnified by post-
+}
+{\field {\*\fldinst HYPERLINK "http://www.westlaw.com/Link/Document/FullText?findType=Y&serNum=1972127195&originatingDoc=I60e7effe9c5011d9bc61beebb95be672&refType=RP&originationContext=document&vr=3.0&rs=cblt1.0&transitionType=DocumentItem&contextData=(sc.Search)" }{\fldrslt 
+{\f2 \b0 \fs18 \cf5 \i1 
+{\f2 \strike0 \ul0 \b0 \sa0 \sb0 \fs18 \cf5 \i1 
+Furman
+}
+}\f2 \strike0 \ul0 \b0 \sa0 \sb0 \fs18 \cf5 \i1 }}
+{\f2 \strike0 \ul0 \b0 \sa0 \sb0 \fs18 \cf1 \i0 
+ statutes that allow the jury to choose among similarly situated defendants).
+\par 
+}
+}
+}
+}
+}\f2 \li0 \strike0 \ul0 \b0 \qj \sa0 \sb0 \fs18 \ri0 \cf1 \i0 \intbl \cell \row }}\par 
+}
+}
+{\li0 \f2 \qj \b0 \ri0 \fs20 \cf1 \i0 
+{\*\bkmkstart co_anchor_I9fcf6f45077411e498db8b09b4f04}{\*\bkmkend co_anchor_I9fcf6f45077411e498db8b09b4f04}
+\par 
+{\li0 \f2 \b1 \ri0 \fs20 \cf1 \qc \i0 
+{\f2 \b1 \fs20 \cf1 \i0 
+{\f2 \strike0 \ul0 \b1 \sa200 \sb400 \fs20 \cf1 \i0 
+E
+\par 
+}
+}
+}
+{\li0 \f2 \qj \b0 \ri0 \fs20 \cf1 \i0 
+{\li0 \f2 \qj \b0 \ri0 \fs20 \cf1 \i0 
+{\f2 \strike0 \ul0 \b0 \sa0 \sb0 \fs20 \cf1 \i0 
+The arbitrariness inherent in the sentencer\rquote s discretion to afford mercy is exacerbated by the problem of race. Even under the most sophisticated death penalty statutes, race continues to play a major role in determining who shall live and who shall die. Perhaps it should not be surprising that the biases and prejudices that infect society generally would influence the determination of who is sentenced to death, even within the narrower pool of death-eligible defendants selected according to objective standards. No matter how narrowly the pool of death-eligible defendants is drawn according to objective standards, 
+}
+{\field {\*\fldinst HYPERLINK "http://www.westlaw.com/Link/Document/FullText?findType=Y&serNum=1972127195&originatingDoc=I60e7effe9c5011d9bc61beebb95be672&refType=RP&originationContext=document&vr=3.0&rs=cblt1.0&transitionType=DocumentItem&contextData=(sc.Search)" }{\fldrslt 
+{\f2 \b0 \fs20 \cf5 \i1 
+{\f2 \strike0 \ul0 \b0 \sa0 \sb0 \fs20 \cf5 \i1 
+Furman
+}
+}
+{\f2 \strike0 \ul0 \b0 \sa0 \sb0 \fs20 \cf5 \i0 
+ \lquote s
+}}}
+{\f2 \strike0 \ul0 \b0 \sa0 \sb0 \fs20 \cf1 \i0 
+ promise still will go unfulfilled so long as the sentencer is free to exercise unbridled discretion within the smaller group and thereby to discriminate. \u8220\'3f \u8216\'3f[T]he power to be lenient [also] is the power to discriminate.\u8217\'3f \u8221\'3f 
+}
+{\field {\*\fldinst HYPERLINK "http://www.westlaw.com/Link/Document/FullText?findType=Y&serNum=1987050464&pubNum=708&originatingDoc=I60e7effe9c5011d9bc61beebb95be672&refType=RP&fi=co_pp_sp_708_1778&originationContext=document&vr=3.0&rs=cblt1.0&transitionType=DocumentItem&contextData=(sc.Search)#co_pp_sp_708_1778" }{\fldrslt 
+{\f2 \b0 \fs20 \cf5 \i1 
+{\f2 \strike0 \ul0 \b0 \sa0 \sb0 \fs20 \cf5 \i1 
+McCleskey v. Kemp,
+}
+}
+{\f2 \strike0 \ul0 \b0 \sa0 \sb0 \fs20 \cf5 \i0 
+ 481 U.S., at 312, 107 S.Ct., at 1778
+}}}
+{\f2 \strike0 \ul0 \b0 \sa0 \sb0 \fs20 \cf1 \i0 
+ quoting K. Davis, Discretionary Justice 170 (1973).
+\par 
+}
+}
+}
+{\f2 \strike0 \ul0 \b0 \sa0 \sb0 \fs20 \cf1 \i0 
+\u160\'3f
+\par 
+}
+{\li0 \f2 \qj \b0 \ri0 \fs20 \cf1 \i0 
+{\li0 \f2 \qj \b0 \ri0 \fs20 \cf1 \i0 
+{\f2 \strike0 \ul0 \b0 \sa0 \sb0 \fs20 \cf1 \i0 
+A renowned example of racism infecting a capital sentencing scheme is documented in 
+}
+{\field {\*\fldinst HYPERLINK "http://www.westlaw.com/Link/Document/FullText?findType=Y&serNum=1987050464&pubNum=708&originatingDoc=I60e7effe9c5011d9bc61beebb95be672&refType=RP&originationContext=document&vr=3.0&rs=cblt1.0&transitionType=DocumentItem&contextData=(sc.Search)" }{\fldrslt 
+{\f2 \b0 \fs20 \cf5 \i1 
+{\f2 \strike0 \ul0 \b0 \sa0 \sb0 \fs20 \cf5 \i1 
+McCleskey v. Kemp,
+}
+}
+{\f2 \strike0 \ul0 \b0 \sa0 \sb0 \fs20 \cf5 \i0 
+ 481 U.S. 279, 107 S.Ct. 1756, 95 L.Ed.2d 262 (1987)
+}}}
+{\f2 \strike0 \ul0 \b0 \sa0 \sb0 \fs20 \cf1 \i0 
+. Warren McCleskey, an African\u8211\'3fAmerican, argued that the Georgia capital sentencing scheme was administered in a racially discriminatory manner, in violation of the Eighth and Fourteenth Amendments. In support of his claim, he proffered a highly reliable statistical study (the Baldus study) which indicated that, \u8220\'3fafter taking into account some 230 nonracial factors that might legitimately influence a sentencer, the jury 
+}
+{\f2 \b0 \fs20 \cf1 \i1 
+{\f2 \strike0 \ul0 \b0 \sa0 \sb0 \fs20 \cf1 \i1 
+more likely than not
+}
+}
+{\f2 \strike0 \ul0 \b0 \sa0 \sb0 \fs20 \cf1 \i0 
+ would have spared McCleskey\rquote s life had his victim been black.\u8221\'3f 
+}
+{\field {\*\fldinst HYPERLINK "http://www.westlaw.com/Link/Document/FullText?findType=Y&serNum=1987050464&pubNum=708&originatingDoc=I60e7effe9c5011d9bc61beebb95be672&refType=RP&fi=co_pp_sp_708_1784&originationContext=document&vr=3.0&rs=cblt1.0&transitionType=DocumentItem&contextData=(sc.Search)#co_pp_sp_708_1784" }{\fldrslt 
+{\f2 \b0 \fs20 \cf5 \i1 
+{\f2 \strike0 \ul0 \b0 \sa0 \sb0 \fs20 \cf5 \i1 
+Id.,
+}
+}
+{\f2 \strike0 \ul0 \b0 \sa0 \sb0 \fs20 \cf5 \i0 
+ at 325, 107 S.Ct., at 1784
+}}}
+{\f2 \strike0 \ul0 \b0 \sa0 \sb0 \fs20 \cf1 \i0 
+ (emphasis in original) (Brennan, J., dissenting). The Baldus 
+}
+{\f2 \b1 \fs20 \cf1 \i0 
+{\*\bkmkstart co_pp_sp_780_1154_1}{\*\bkmkend co_pp_sp_780_1154_1}
+{\f2 \strike0 \ul0 \b1 \sa0 \sb0 \fs20 \cf1 \i0 
+*1154
+}
+}
+{\f2 \strike0 \ul0 \b0 \sa0 \sb0 \fs20 \cf1 \i0 
+ study further demonstrated that blacks who kill whites are sentenced to death \u8220\'3fat nearly 
+}
+{\f2 \b0 \fs20 \cf1 \i1 
+{\f2 \strike0 \ul0 \b0 \sa0 \sb0 \fs20 \cf1 \i1 
+22 times
+}
+}
+{\f2 \strike0 \ul0 \b0 \sa0 \sb0 \fs20 \cf1 \i0 
+ the rate of blacks who kill blacks, and more than 
+}
+{\f2 \b0 \fs20 \cf1 \i1 
+{\f2 \strike0 \ul0 \b0 \sa0 \sb0 \fs20 \cf1 \i1 
+7 times
+}
+}
+{\f2 \strike0 \ul0 \b0 \sa0 \sb0 \fs20 \cf1 \i0 
+ the rate of whites who kill blacks.\u8221\'3f 
+}
+{\field {\*\fldinst HYPERLINK "http://www.westlaw.com/Link/Document/FullText?findType=Y&serNum=1987050464&pubNum=708&originatingDoc=I60e7effe9c5011d9bc61beebb95be672&refType=RP&fi=co_pp_sp_708_1785&originationContext=document&vr=3.0&rs=cblt1.0&transitionType=DocumentItem&contextData=(sc.Search)#co_pp_sp_708_1785" }{\fldrslt 
+{\f2 \b0 \fs20 \cf5 \i1 
+{\f2 \strike0 \ul0 \b0 \sa0 \sb0 \fs20 \cf5 \i1 
+Id.,
+}
+}
+{\f2 \strike0 \ul0 \b0 \sa0 \sb0 \fs20 \cf5 \i0 
+ at 327, 107 S.Ct., at 1785
+}}}
+{\f2 \strike0 \ul0 \b0 \sa0 \sb0 \fs20 \cf1 \i0 
+ (emphasis in original).
+\par 
+}
+}
+}
+{\f2 \strike0 \ul0 \b0 \sa0 \sb0 \fs20 \cf1 \i0 
+\u160\'3f
+\par 
+}
+{\li0 \f2 \qj \b0 \ri0 \fs20 \cf1 \i0 
+{\li0 \f2 \qj \b0 \ri0 \fs20 \cf1 \i0 
+{\f2 \strike0 \ul0 \b0 \sa0 \sb0 \fs20 \cf1 \i0 
+Despite this staggering evidence of racial prejudice infecting Georgia\rquote s capital sentencing scheme, the majority turned its back on McCleskey\rquote s claims, apparently troubled by the fact that Georgia had instituted more procedural and substantive safeguards than most other States since 
+}
+{\field {\*\fldinst HYPERLINK "http://www.westlaw.com/Link/Document/FullText?findType=Y&serNum=1972127195&originatingDoc=I60e7effe9c5011d9bc61beebb95be672&refType=RP&originationContext=document&vr=3.0&rs=cblt1.0&transitionType=DocumentItem&contextData=(sc.Search)" }{\fldrslt 
+{\f2 \b0 \fs20 \cf5 \i1 
+{\f2 \strike0 \ul0 \b0 \sa0 \sb0 \fs20 \cf5 \i1 
+Furman,
+}
+}}}
+{\f2 \strike0 \ul0 \b0 \sa0 \sb0 \fs20 \cf1 \i0 
+ but was still unable to stamp out the virus of racism. Faced with the apparent failure of traditional legal devices to cure the evils identified in 
+}
+{\field {\*\fldinst HYPERLINK "http://www.westlaw.com/Link/Document/FullText?findType=Y&serNum=1972127195&originatingDoc=I60e7effe9c5011d9bc61beebb95be672&refType=RP&originationContext=document&vr=3.0&rs=cblt1.0&transitionType=DocumentItem&contextData=(sc.Search)" }{\fldrslt 
+{\f2 \b0 \fs20 \cf5 \i1 
+{\f2 \strike0 \ul0 \b0 \sa0 \sb0 \fs20 \cf5 \i1 
+Furman,
+}
+}}}
+{\f2 \strike0 \ul0 \b0 \sa0 \sb0 \fs20 \cf1 \i0 
+ the majority wondered aloud whether the consistency and rationality demanded by the dissent could ever be achieved without sacrificing the discretion which is essential to fair treatment of individual defendants:
+\par 
+}
+}
+{\li200 \f2 \qj \b0 \ri0 \fs20 \cf1 \i0 
+{\li200 \f2 \qj \b0 \ri0 \fs20 \cf1 \i0 
+{\f2 \strike0 \ul0 \b0 \sa0 \sb200 \fs20 \cf1 \i0 
+\u8220\'3f[I]t is difficult to imagine guidelines that would produce the predictability sought by the dissent without sacrificing the discretion essential to a humane and fair system of criminal justice.... The dissent repeatedly emphasizes the need for \u8216\'3fa uniquely high degree of rationality in imposing the death penalty\u8217\'3f.... Again, no suggestion is made as to how greater \u8216\'3frationality\u8217\'3f could be achieved under any type of statute that authorizes capital punishment.... Given these safeguards already inherent in the imposition and review of capital sentences, the dissent\rquote s call for greater rationality is no less than a claim that a capital punishment system cannot be administered in accord with the Constitution.\u8221\'3f 
+}
+{\field {\*\fldinst HYPERLINK "http://www.westlaw.com/Link/Document/FullText?findType=Y&serNum=1987050464&pubNum=708&originatingDoc=I60e7effe9c5011d9bc61beebb95be672&refType=RP&fi=co_pp_sp_708_1778&originationContext=document&vr=3.0&rs=cblt1.0&transitionType=DocumentItem&contextData=(sc.Search)#co_pp_sp_708_1778" }{\fldrslt 
+{\f2 \b0 \fs20 \cf5 \i1 
+{\f2 \strike0 \ul0 \b0 \sa0 \sb0 \fs20 \cf5 \i1 
+Id.,
+}
+}
+{\f2 \strike0 \ul0 \b0 \sa0 \sb0 \fs20 \cf5 \i0 
+ at 314\u8211\'3f315, n. 37, 107 S.Ct., at 1778, n. 37.
+}}}
+\par 
+}
+}
+}
+{\f2 \strike0 \ul0 \b0 \sa0 \sb0 \fs20 \cf1 \i0 
+\u160\'3f
+\par 
+}
+{\li0 \f2 \qj \b0 \ri0 \fs20 \cf1 \i0 
+{\li0 \f2 \qj \b0 \ri0 \fs20 \cf1 \i0 
+{\f2 \strike0 \ul0 \b0 \sa0 \sb0 \fs20 \cf1 \i0 
+I joined most of Justice Brennan\rquote s significant dissent which expounded McCleskey\rquote s Eighth Amendment claim, and I wrote separately, 
+}
+{\field {\*\fldinst HYPERLINK "http://www.westlaw.com/Link/Document/FullText?findType=Y&serNum=1987050464&pubNum=708&originatingDoc=I60e7effe9c5011d9bc61beebb95be672&refType=RP&fi=co_pp_sp_708_1795&originationContext=document&vr=3.0&rs=cblt1.0&transitionType=DocumentItem&contextData=(sc.Search)#co_pp_sp_708_1795" }{\fldrslt 
+{\f2 \b0 \fs20 \cf5 \i1 
+{\f2 \strike0 \ul0 \b0 \sa0 \sb0 \fs20 \cf5 \i1 
+id.,
+}
+}
+{\f2 \strike0 \ul0 \b0 \sa0 \sb0 \fs20 \cf5 \i0 
+ at 345, 107 S.Ct., at 1795,
+}}}
+{\f2 \strike0 \ul0 \b0 \sa0 \sb0 \fs20 \cf1 \i0 
+ to explain that McCleskey also had a solid equal protection argument under the Fourteenth Amendment. I still adhere to the views set forth in both dissents, and, as far as I know, there has been no serious effort to impeach the Baldus study. Nor, for that matter, have 
+}
+{\f2 \b1 \fs20 \cf1 \i0 
+{\*\bkmkstart co_pp_sp_708_1136_1}{\*\bkmkend co_pp_sp_708_1136_1}
+{\f2 \strike0 \ul0 \b1 \sa0 \sb0 \fs20 \cf1 \i0 
+**1136
+}
+}
+{\f2 \strike0 \ul0 \b0 \sa0 \sb0 \fs20 \cf1 \i0 
+ proponents of capital punishment provided any reason to believe that the findings of that study are unique to Georgia.
+\par 
+}
+}
+}
+{\f2 \strike0 \ul0 \b0 \sa0 \sb0 \fs20 \cf1 \i0 
+\u160\'3f
+\par 
+}
+{\li0 \f2 \qj \b0 \ri0 \fs20 \cf1 \i0 
+{\li0 \f2 \qj \b0 \ri0 \fs20 \cf1 \i0 
+{\f2 \strike0 \ul0 \b0 \sa0 \sb0 \fs20 \cf1 \i0 
+The fact that we may not be capable of devising procedural or substantive rules to prevent the more subtle and often unconscious forms of racism from creeping into the system does not 
+}
+{\f2 \b1 \fs20 \cf1 \i0 
+{\*\bkmkstart co_pp_sp_780_1155_1}{\*\bkmkend co_pp_sp_780_1155_1}
+{\f2 \strike0 \ul0 \b1 \sa0 \sb0 \fs20 \cf1 \i0 
+*1155
+}
+}
+{\f2 \strike0 \ul0 \b0 \sa0 \sb0 \fs20 \cf1 \i0 
+ justify the wholesale abandonment of the 
+}
+{\field {\*\fldinst HYPERLINK "http://www.westlaw.com/Link/Document/FullText?findType=Y&serNum=1972127195&originatingDoc=I60e7effe9c5011d9bc61beebb95be672&refType=RP&originationContext=document&vr=3.0&rs=cblt1.0&transitionType=DocumentItem&contextData=(sc.Search)" }{\fldrslt 
+{\f2 \b0 \fs20 \cf5 \i1 
+{\f2 \strike0 \ul0 \b0 \sa0 \sb0 \fs20 \cf5 \i1 
+Furman
+}
+}}}
+{\f2 \strike0 \ul0 \b0 \sa0 \sb0 \fs20 \cf1 \i0 
+ promise. To the contrary, where a morally irrelevant\u8212\'3findeed, a repugnant\u8212\'3fconsideration plays a major role in the determination of who shall live and who shall die, it suggests that the continued enforcement of the death penalty in light of its clear and admitted defects is deserving of a \u8220\'3fsober second thought.\u8221\'3f Justice Brennan explained:
+\par 
+}
+}
+{\li200 \f2 \qj \b0 \ri0 \fs20 \cf1 \i0 
+{\li200 \f2 \qj \b0 \ri0 \fs20 \cf1 \i0 
+{\f2 \strike0 \ul0 \b0 \sa0 \sb0 \fs20 \cf1 \i0 
+\u8220\'3fThose whom we would banish from society or from the human community itself often speak in too faint a voice to be heard above society\rquote s demand for punishment. It is the particular role of courts to hear these voices, for the Constitution declares that the majoritarian chorus may not alone dictate the conditions of social life. The Court thus fulfills, rather than disrupts, the scheme of separation of powers by closely scrutinizing the imposition of the death penalty, for no decision of a society is more deserving of \u8216\'3fsober second thought.\u8217\'3f Stone, The Common Law in the United States, 
+}
+{\field {\*\fldinst HYPERLINK "http://www.westlaw.com/Link/Document/FullText?findType=Y&serNum=0344394353&pubNum=3084&originatingDoc=I60e7effe9c5011d9bc61beebb95be672&refType=LR&fi=co_pp_sp_3084_25&originationContext=document&vr=3.0&rs=cblt1.0&transitionType=DocumentItem&contextData=(sc.Search)#co_pp_sp_3084_25" }{\fldrslt 
+{\f2 \strike0 \ul0 \b0 \sa0 \sb0 \fs20 \cf5 \i0 
+50 Harv.L.Rev. 4, 25 (1936)
+}}}
+{\f2 \strike0 \ul0 \b0 \sa0 \sb200 \fs20 \cf1 \i0 
+.\u8221\'3f 
+}
+{\field {\*\fldinst HYPERLINK "http://www.westlaw.com/Link/Document/FullText?findType=Y&serNum=1987050464&pubNum=708&originatingDoc=I60e7effe9c5011d9bc61beebb95be672&refType=RP&fi=co_pp_sp_708_1793&originationContext=document&vr=3.0&rs=cblt1.0&transitionType=DocumentItem&contextData=(sc.Search)#co_pp_sp_708_1793" }{\fldrslt 
+{\f2 \b0 \fs20 \cf5 \i1 
+{\f2 \strike0 \ul0 \b0 \sa0 \sb0 \fs20 \cf5 \i1 
+Id.,
+}
+}
+{\f2 \strike0 \ul0 \b0 \sa0 \sb0 \fs20 \cf5 \i0 
+ at 343, 107 S.Ct., at 1793\u8211\'3f1794.
+}}}
+\par 
+}
+}
+}
+{\f2 \strike0 \ul0 \b0 \sa0 \sb0 \fs20 \cf1 \i0 
+\u160\'3f
+\par 
+}
+}
+{\li0 \f2 \qj \b0 \ri0 \fs20 \cf1 \i0 
+{\*\bkmkstart co_anchor_I9fcf6f46077411e498db8b09b4f04}{\*\bkmkend co_anchor_I9fcf6f46077411e498db8b09b4f04}
+\par 
+{\li0 \f2 \b1 \ri0 \fs20 \cf1 \qc \i0 
+{\f2 \b1 \fs20 \cf1 \i0 
+{\f2 \strike0 \ul0 \b1 \sa200 \sb400 \fs20 \cf1 \i0 
+F
+\par 
+}
+}
+}
+{\li0 \f2 \qj \b0 \ri0 \fs20 \cf1 \i0 
+{\li0 \f2 \qj \b0 \ri0 \fs20 \cf1 \i0 
+{\f2 \strike0 \ul0 \b0 \sa0 \sb0 \fs20 \cf1 \i0 
+In the years since 
+}
+{\field {\*\fldinst HYPERLINK "http://www.westlaw.com/Link/Document/FullText?findType=Y&serNum=1987050464&originatingDoc=I60e7effe9c5011d9bc61beebb95be672&refType=RP&originationContext=document&vr=3.0&rs=cblt1.0&transitionType=DocumentItem&contextData=(sc.Search)" }{\fldrslt 
+{\f2 \b0 \fs20 \cf5 \i1 
+{\f2 \strike0 \ul0 \b0 \sa0 \sb0 \fs20 \cf5 \i1 
+McCleskey,
+}
+}}}
+{\f2 \strike0 \ul0 \b0 \sa0 \sb0 \fs20 \cf1 \i0 
+ I have come to wonder whether there was truth in the majority\rquote s suggestion that discrimination and arbitrariness could not be purged from the administration of capital punishment without sacrificing the equally essential component of fairness\u8212\'3findividualized sentencing. Viewed in this way, the consistency promised in 
+}
+{\field {\*\fldinst HYPERLINK "http://www.westlaw.com/Link/Document/FullText?findType=Y&serNum=1972127195&originatingDoc=I60e7effe9c5011d9bc61beebb95be672&refType=RP&originationContext=document&vr=3.0&rs=cblt1.0&transitionType=DocumentItem&contextData=(sc.Search)" }{\fldrslt 
+{\f2 \b0 \fs20 \cf5 \i1 
+{\f2 \strike0 \ul0 \b0 \sa0 \sb0 \fs20 \cf5 \i1 
+Furman
+}
+}}}
+{\f2 \strike0 \ul0 \b0 \sa0 \sb0 \fs20 \cf1 \i0 
+ and the fairness to the individual demanded in 
+}
+{\field {\*\fldinst HYPERLINK "http://www.westlaw.com/Link/Document/FullText?findType=Y&serNum=1978139513&originatingDoc=I60e7effe9c5011d9bc61beebb95be672&refType=RP&originationContext=document&vr=3.0&rs=cblt1.0&transitionType=DocumentItem&contextData=(sc.Search)" }{\fldrslt 
+{\f2 \b0 \fs20 \cf5 \i1 
+{\f2 \strike0 \ul0 \b0 \sa0 \sb0 \fs20 \cf5 \i1 
+Lockett
+}
+}}}
+{\f2 \strike0 \ul0 \b0 \sa0 \sb0 \fs20 \cf1 \i0 
+ are not only inversely related, but irreconcilable in the context of capital punishment. Any statute or procedure that could effectively eliminate arbitrariness from the administration of death would also restrict the sentencer\rquote s discretion to such an extent that the sentencer would be unable to give full consideration to the unique characteristics of each defendant and the circumstances of the offense. By the same token, any statute or procedure that would provide the sentencer with sufficient discretion to consider fully and act upon the unique circumstances of each defendant would \u8220\'3fthro[w] open the back door to arbitrary and irrational sentencing.\u8221\'3f 
+}
+{\field {\*\fldinst HYPERLINK "http://www.westlaw.com/Link/Document/FullText?findType=Y&serNum=1993032776&pubNum=708&originatingDoc=I60e7effe9c5011d9bc61beebb95be672&refType=RP&fi=co_pp_sp_708_912&originationContext=document&vr=3.0&rs=cblt1.0&transitionType=DocumentItem&contextData=(sc.Search)#co_pp_sp_708_912" }{\fldrslt 
+{\f2 \b0 \fs20 \cf5 \i1 
+{\f2 \strike0 \ul0 \b0 \sa0 \sb0 \fs20 \cf5 \i1 
+Graham v. Collins,
+}
+}
+{\f2 \strike0 \ul0 \b0 \sa0 \sb0 \fs20 \cf5 \i0 
+ 506 U.S., at 494, 113 S.Ct., at 912
+}}}
+{\f2 \strike0 \ul0 \b0 \sa0 \sb0 \fs20 \cf1 \i0 
+ (THOMAS, J., concurring). All efforts to strike an appropriate balance between these conflicting constitutional commands are futile because there is a heightened need for both in the administration of death.
+\par 
+}
+}
+}
+{\f2 \strike0 \ul0 \b0 \sa0 \sb0 \fs20 \cf1 \i0 
+\u160\'3f
+\par 
+}
+{\li0 \f2 \qj \b0 \ri0 \fs20 \cf1 \i0 
+{\li0 \f2 \qj \b0 \ri0 \fs20 \cf1 \i0 
+{\f2 \strike0 \ul0 \b0 \fs20 \cf1 \i0 
+}
+{\f2 \b1 \fs20 \cf1 \i0 
+{\*\bkmkstart co_pp_sp_780_1156_1}{\*\bkmkend co_pp_sp_780_1156_1}
+{\f2 \strike0 \ul0 \b1 \sa0 \sb0 \fs20 \cf1 \i0 
+*1156
+}
+}
+{\f2 \strike0 \ul0 \b0 \sa0 \sb0 \fs20 \cf1 \i0 
+ But even if the constitutional requirements of consistency and fairness are theoretically reconcilable in the context of capital punishment, it is clear that this Court is not prepared to meet the challenge. In apparent frustration over its inability to strike an appropriate balance between the 
+}
+{\field {\*\fldinst HYPERLINK "http://www.westlaw.com/Link/Document/FullText?findType=Y&serNum=1972127195&originatingDoc=I60e7effe9c5011d9bc61beebb95be672&refType=RP&originationContext=document&vr=3.0&rs=cblt1.0&transitionType=DocumentItem&contextData=(sc.Search)" }{\fldrslt 
+{\f2 \b0 \fs20 \cf5 \i1 
+{\f2 \strike0 \ul0 \b0 \sa0 \sb0 \fs20 \cf5 \i1 
+Furman
+}
+}}}
+{\f2 \strike0 \ul0 \b0 \sa0 \sb0 \fs20 \cf1 \i0 
+ promise of consistency and the 
+}
+{\field {\*\fldinst HYPERLINK "http://www.westlaw.com/Link/Document/FullText?findType=Y&serNum=1978139513&originatingDoc=I60e7effe9c5011d9bc61beebb95be672&refType=RP&originationContext=document&vr=3.0&rs=cblt1.0&transitionType=DocumentItem&contextData=(sc.Search)" }{\fldrslt 
+{\f2 \b0 \fs20 \cf5 \i1 
+{\f2 \strike0 \ul0 \b0 \sa0 \sb0 \fs20 \cf5 \i1 
+Lockett
+}
+}}}
+{\f2 \strike0 \ul0 \b0 \sa0 \sb0 \fs20 \cf1 \i0 
+ requirement of individualized sentencing, the Court has retreated from the field,
+}
+{\f2 \b0 \fs16 \cf1 \i0 
+{\*\bkmkstart co_footnoteReference_B00551993241434_ID0}{\*\bkmkend co_footnoteReference_B00551993241434_ID0}
+{\field {\*\fldinst HYPERLINK "#co_footnote_B00551993241434_1" }{\fldrslt 
+{\super \f2 \strike0 \ul0 \b0 \sa0 \sb0 \fs16 \cf5 \i0 
+5
+}}}
+}
+{\f2 \strike0 \ul0 \b0 \sa0 \sb0 \fs20 \cf1 \i0 
+ allowing relevant mitigating evidence to be discarded,
+}
+{\f2 \b0 \fs16 \cf1 \i0 
+{\*\bkmkstart co_footnoteReference_B00661993241434_ID0}{\*\bkmkend co_footnoteReference_B00661993241434_ID0}
+{\field {\*\fldinst HYPERLINK "#co_footnote_B00661993241434_1" }{\fldrslt 
+{\super \f2 \strike0 \ul0 \b0 \sa0 \sb0 \fs16 \cf5 \i0 
+6
+}}}
+}
+{\f2 \strike0 \ul0 \b0 \sa0 \sb0 \fs20 \cf1 \i0 
+ vague aggravating circumstances to be employed, 
+}
+{\f2 \b1 \fs20 \cf1 \i0 
+{\*\bkmkstart co_pp_sp_708_1137_1}{\*\bkmkend co_pp_sp_708_1137_1}
+{\f2 \strike0 \ul0 \b1 \sa0 \sb0 \fs20 \cf1 \i0 
+**1137
+}
+}
+{\f2 \strike0 \ul0 \b0 \sa0 \sb0 \fs20 \cf1 \i0 
+ 
+}
+{\f2 \b0 \fs16 \cf1 \i0 
+{\*\bkmkstart co_footnoteReference_B00771993241434_ID0}{\*\bkmkend co_footnoteReference_B00771993241434_ID0}
+{\field {\*\fldinst HYPERLINK "#co_footnote_B00771993241434_1" }{\fldrslt 
+{\super \f2 \strike0 \ul0 \b0 \sa0 \sb0 \fs16 \cf5 \i0 
+7
+}}}
+}
+{\f2 \strike0 \ul0 \b0 \sa0 \sb0 \fs20 \cf1 \i0 
+ and providing no indication that the problem of race in the administration of death will ever be addressed. In fact some Members of the Court openly have acknowledged a willingness simply to pick one of the competing constitutional commands and sacrifice the other. See 
+}
+{\field {\*\fldinst HYPERLINK "http://www.westlaw.com/Link/Document/FullText?findType=Y&serNum=1993032776&pubNum=708&originatingDoc=I60e7effe9c5011d9bc61beebb95be672&refType=RP&fi=co_pp_sp_708_903&originationContext=document&vr=3.0&rs=cblt1.0&transitionType=DocumentItem&contextData=(sc.Search)#co_pp_sp_708_903" }{\fldrslt 
+{\f2 \b0 \fs20 \cf5 \i1 
+{\f2 \strike0 \ul0 \b0 \sa0 \sb0 \fs20 \cf5 \i1 
+Graham,
+}
+}
+{\f2 \strike0 \ul0 \b0 \sa0 \sb0 \fs20 \cf5 \i0 
+ 506 U.S., at 478, 113 S.Ct., at 903
+}}}
+{\f2 \strike0 \ul0 \b0 \sa0 \sb0 \fs20 \cf1 \i0 
+ (THOMAS, J., concurring) (calling for the reversal of 
+}
+{\f2 \b0 \fs20 \cf1 \i1 
+{\f2 \strike0 \ul0 \b0 \sa0 \sb0 \fs20 \cf1 \i1 
+Penry
+}
+}
+{\f2 \strike0 \ul0 \b0 \sa0 \sb0 \fs20 \cf1 \i0 
+ ); 
+}
+{\field {\*\fldinst HYPERLINK "http://www.westlaw.com/Link/Document/FullText?findType=Y&serNum=1990098000&pubNum=708&originatingDoc=I60e7effe9c5011d9bc61beebb95be672&refType=RP&fi=co_pp_sp_708_3067&originationContext=document&vr=3.0&rs=cblt1.0&transitionType=DocumentItem&contextData=(sc.Search)#co_pp_sp_708_3067" }{\fldrslt 
+{\f2 \b0 \fs20 \cf5 \i1 
+{\f2 \strike0 \ul0 \b0 \sa0 \sb0 \fs20 \cf5 \i1 
+Walton v. Arizona,
+}
+}
+{\f2 \strike0 \ul0 \b0 \sa0 \sb0 \fs20 \cf5 \i0 
+ 497 U.S. 639, 673, 110 S.Ct. 3047, 3067\u8211\'3f3068, 111 L.Ed.2d 511 (1990)
+}}}
+{\f2 \strike0 \ul0 \b0 \sa0 \sb0 \fs20 \cf1 \i0 
+ (SCALIA, J., concurring 
+}
+{\f2 \b1 \fs20 \cf1 \i0 
+{\*\bkmkstart co_pp_sp_780_1157_1}{\*\bkmkend co_pp_sp_780_1157_1}
+{\f2 \strike0 \ul0 \b1 \sa0 \sb0 \fs20 \cf1 \i0 
+*1157
+}
+}
+{\f2 \strike0 \ul0 \b0 \sa0 \sb0 \fs20 \cf1 \i0 
+ in part and concurring in judgment) (announcing that he will no longer enforce the requirement of individualized sentencing, and reasoning that either 
+}
+{\field {\*\fldinst HYPERLINK "http://www.westlaw.com/Link/Document/FullText?findType=Y&serNum=1972127195&originatingDoc=I60e7effe9c5011d9bc61beebb95be672&refType=RP&originationContext=document&vr=3.0&rs=cblt1.0&transitionType=DocumentItem&contextData=(sc.Search)" }{\fldrslt 
+{\f2 \b0 \fs20 \cf5 \i1 
+{\f2 \strike0 \ul0 \b0 \sa0 \sb0 \fs20 \cf5 \i1 
+Furman
+}
+}}}
+{\f2 \strike0 \ul0 \b0 \sa0 \sb0 \fs20 \cf1 \i0 
+ or 
+}
+{\field {\*\fldinst HYPERLINK "http://www.westlaw.com/Link/Document/FullText?findType=Y&serNum=1978135913&originatingDoc=I60e7effe9c5011d9bc61beebb95be672&refType=RP&originationContext=document&vr=3.0&rs=cblt1.0&transitionType=DocumentItem&contextData=(sc.Search)" }{\fldrslt 
+{\f2 \b0 \fs20 \cf5 \i1 
+{\f2 \strike0 \ul0 \b0 \sa0 \sb0 \fs20 \cf5 \i1 
+Lockett
+}
+}}}
+{\f2 \strike0 \ul0 \b0 \sa0 \sb0 \fs20 \cf1 \i0 
+ is wrong and a choice must be made between the two). These developments are troubling, as they ensure that death will continue to be meted out in this country arbitrarily and discriminatorily, and without that \u8220\'3f degree of respect due the uniqueness of the individual.\u8221\'3f 
+}
+{\field {\*\fldinst HYPERLINK "http://www.westlaw.com/Link/Document/FullText?findType=Y&serNum=1978139513&pubNum=708&originatingDoc=I60e7effe9c5011d9bc61beebb95be672&refType=RP&fi=co_pp_sp_708_2965&originationContext=document&vr=3.0&rs=cblt1.0&transitionType=DocumentItem&contextData=(sc.Search)#co_pp_sp_708_2965" }{\fldrslt 
+{\f2 \b0 \fs20 \cf5 \i1 
+{\f2 \strike0 \ul0 \b0 \sa0 \sb0 \fs20 \cf5 \i1 
+Lockett,
+}
+}
+{\f2 \strike0 \ul0 \b0 \sa0 \sb0 \fs20 \cf5 \i0 
+ 438 U.S., at 605, 98 S.Ct., at 2965.
+}}}
+{\f2 \strike0 \ul0 \b0 \sa0 \sb0 \fs20 \cf1 \i0 
+ In my view, the proper course when faced with irreconcilable constitutional commands is not to ignore one or the other, nor to pretend that the dilemma does not exist, but to admit the futility of the effort to harmonize them. This means accepting the fact that the death penalty cannot be administered in accord with our Constitution.
+\par 
+}
+}
+}
+{\f2 \strike0 \ul0 \b0 \sa0 \sb0 \fs20 \cf1 \i0 
+\u160\'3f
+\par 
+}
+{\li0 \f2 \qj \b0 \ri0 \fs20 \cf1 \i0 {
+{\trowd \lastrow \trleft0 
+\clbrdrt \clbrdrb \clbrdrl \trql \clvertalt \clwWidth600 \cellx600 
+\clpadb90 \clpadfb3 \clpadl90 \clpadfl3 \clbrdrt \clbrdrb \clbrdrr \trql \clwWidth9480 \cellx10080 
+\intbl 
+{\li0 \ri0 
+{\li0 \f2 \b0 \ql \ri0 \fs20 \cf1 \i0 
+{\f2 \b0 \fs20 \cf1 \i0 
+{\*\bkmkstart co_footnote_B00551993241434_1}{\*\bkmkend co_footnote_B00551993241434_1}
+{\field {\*\fldinst HYPERLINK "#co_footnoteReference_B00551993241434_ID0" }{\fldrslt 
+{\super \f2 \strike0 \ul0 \b0 \sa0 \sb0 \fs20 \cf5 \i0 
+5
+}\f2 \super \strike0 \ul0 \b0 \sa0 \sb0 \fs20 \cf5 \i0 }}
+\par 
+}
+}
+}\f2 \li0 \b0 \ql \fs20 \ri0 \cf1 \i0 \intbl \cell \intbl 
+{\li0 \ri0 
+{\li0 \f2 \qj \b0 \ri0 \fs18 \cf1 \i0 
+{\li0 \f2 \qj \b0 \ri0 \fs18 \cf1 \i0 
+{\li0 \f2 \qj \b0 \ri0 \fs18 \cf1 \i0 
+{\f2 \strike0 \ul0 \b0 \sa0 \sb0 \fs18 \cf1 \i0 
+See 
+}
+{\field {\*\fldinst HYPERLINK "http://www.westlaw.com/Link/Document/FullText?findType=Y&serNum=1990055730&pubNum=708&originatingDoc=I60e7effe9c5011d9bc61beebb95be672&refType=RP&originationContext=document&vr=3.0&rs=cblt1.0&transitionType=DocumentItem&contextData=(sc.Search)" }{\fldrslt 
+{\f2 \b0 \fs18 \cf5 \i1 
+{\f2 \strike0 \ul0 \b0 \sa0 \sb0 \fs18 \cf5 \i1 
+Clemons v. Mississippi,
+}
+}
+{\f2 \strike0 \ul0 \b0 \sa0 \sb0 \fs18 \cf5 \i0 
+ 494 U.S. 738, 110 S.Ct. 1441, 108 L.Ed.2d 725 (1990)
+}\f2 \strike0 \ul0 \b0 \sa0 \sb0 \fs18 \cf5 \i0 }}
+{\f2 \strike0 \ul0 \b0 \sa0 \sb0 \fs18 \cf1 \i0 
+ (concluding that appellate courts may engage in a reweighing of aggravating and mitigating circumstances in order to \u8220\'3fcure\u8221\'3f error in capital sentencing); 
+}
+{\field {\*\fldinst HYPERLINK "http://www.westlaw.com/Link/Document/FullText?findType=Y&serNum=1990041693&pubNum=708&originatingDoc=I60e7effe9c5011d9bc61beebb95be672&refType=RP&fi=co_pp_sp_708_1085&originationContext=document&vr=3.0&rs=cblt1.0&transitionType=DocumentItem&contextData=(sc.Search)#co_pp_sp_708_1085" }{\fldrslt 
+{\f2 \b0 \fs18 \cf5 \i1 
+{\f2 \strike0 \ul0 \b0 \sa0 \sb0 \fs18 \cf5 \i1 
+Blystone v. Pennsylvania,
+}
+}
+{\f2 \strike0 \ul0 \b0 \sa0 \sb0 \fs18 \cf5 \i0 
+ 494 U.S. 299, 310, 110 S.Ct. 1078, 1085, 108 L.Ed.2d 255 (1990)
+}\f2 \strike0 \ul0 \b0 \sa0 \sb0 \fs18 \cf5 \i0 }}
+{\f2 \strike0 \ul0 \b0 \sa0 \sb0 \fs18 \cf1 \i0 
+ (upholding a death penalty statute mandating death where aggravating, but no mitigating, circumstances are present, thus divesting the jury of its ability to make an individualized determination that death is the appropriate punishment in a particular case).
+\par 
+}
+}
+}
+}
+}\f2 \li0 \strike0 \ul0 \b0 \qj \sa0 \sb0 \fs18 \ri0 \cf1 \i0 \intbl \cell \row }}\par 
+}
+{\li0 \f2 \qj \b0 \ri0 \fs20 \cf1 \i0 {
+{\trowd \lastrow \trleft0 
+\clbrdrt \clbrdrb \clbrdrl \trql \clvertalt \clwWidth600 \cellx600 
+\clpadb90 \clpadfb3 \clpadl90 \clpadfl3 \clbrdrt \clbrdrb \clbrdrr \trql \clwWidth9480 \cellx10080 
+\intbl 
+{\li0 \ri0 
+{\li0 \f2 \b0 \ql \ri0 \fs20 \cf1 \i0 
+{\f2 \b0 \fs20 \cf1 \i0 
+{\*\bkmkstart co_footnote_B00661993241434_1}{\*\bkmkend co_footnote_B00661993241434_1}
+{\field {\*\fldinst HYPERLINK "#co_footnoteReference_B00661993241434_ID0" }{\fldrslt 
+{\super \f2 \strike0 \ul0 \b0 \sa0 \sb0 \fs20 \cf5 \i0 
+6
+}\f2 \super \strike0 \ul0 \b0 \sa0 \sb0 \fs20 \cf5 \i0 }}
+\par 
+}
+}
+}\f2 \li0 \b0 \ql \fs20 \ri0 \cf1 \i0 \intbl \cell \intbl 
+{\li0 \ri0 
+{\li0 \f2 \qj \b0 \ri0 \fs18 \cf1 \i0 
+{\li0 \f2 \qj \b0 \ri0 \fs18 \cf1 \i0 
+{\li0 \f2 \qj \b0 \ri0 \fs18 \cf1 \i0 
+{\f2 \strike0 \ul0 \b0 \sa0 \sb0 \fs18 \cf1 \i0 
+See 
+}
+{\field {\*\fldinst HYPERLINK "http://www.westlaw.com/Link/Document/FullText?findType=Y&serNum=1993129071&pubNum=708&originatingDoc=I60e7effe9c5011d9bc61beebb95be672&refType=RP&originationContext=document&vr=3.0&rs=cblt1.0&transitionType=DocumentItem&contextData=(sc.Search)" }{\fldrslt 
+{\f2 \b0 \fs18 \cf5 \i1 
+{\f2 \strike0 \ul0 \b0 \sa0 \sb0 \fs18 \cf5 \i1 
+Johnson v. Texas,
+}
+}
+{\f2 \strike0 \ul0 \b0 \sa0 \sb0 \fs18 \cf5 \i0 
+ 509 U.S. 350, 113 S.Ct. 2658, 125 L.Ed.2d 290 (1993)
+}\f2 \strike0 \ul0 \b0 \sa0 \sb0 \fs18 \cf5 \i0 }}
+{\f2 \strike0 \ul0 \b0 \sa0 \sb0 \fs18 \cf1 \i0 
+ (affirming death sentence even though the jurors were not allowed to give full mitigating effect to the defendant\rquote s youth under the Texas death penalty statute); 
+}
+{\field {\*\fldinst HYPERLINK "http://www.westlaw.com/Link/Document/FullText?findType=Y&serNum=1993032776&pubNum=708&originatingDoc=I60e7effe9c5011d9bc61beebb95be672&refType=RP&originationContext=document&vr=3.0&rs=cblt1.0&transitionType=DocumentItem&contextData=(sc.Search)" }{\fldrslt 
+{\f2 \b0 \fs18 \cf5 \i1 
+{\f2 \strike0 \ul0 \b0 \sa0 \sb0 \fs18 \cf5 \i1 
+Graham v. Collins,
+}
+}
+{\f2 \strike0 \ul0 \b0 \sa0 \sb0 \fs18 \cf5 \i0 
+ 506 U.S. 461, 113 S.Ct. 892, 122 L.Ed.2d 260 (1993)
+}\f2 \strike0 \ul0 \b0 \sa0 \sb0 \fs18 \cf5 \i0 }}
+{\f2 \strike0 \ul0 \b0 \sa0 \sb0 \fs18 \cf1 \i0 
+. See also 
+}
+{\field {\*\fldinst HYPERLINK "http://www.westlaw.com/Link/Document/FullText?findType=Y&serNum=1990043806&pubNum=708&originatingDoc=I60e7effe9c5011d9bc61beebb95be672&refType=RP&originationContext=document&vr=3.0&rs=cblt1.0&transitionType=DocumentItem&contextData=(sc.Search)" }{\fldrslt 
+{\f2 \b0 \fs18 \cf5 \i1 
+{\f2 \strike0 \ul0 \b0 \sa0 \sb0 \fs18 \cf5 \i1 
+Saffle v. Parks,
+}
+}
+{\f2 \strike0 \ul0 \b0 \sa0 \sb0 \fs18 \cf5 \i0 
+ 494 U.S. 484, 110 S.Ct. 1257, 108 L.Ed.2d 415 (1990)
+}\f2 \strike0 \ul0 \b0 \sa0 \sb0 \fs18 \cf5 \i0 }}
+{\f2 \strike0 \ul0 \b0 \sa0 \sb0 \fs18 \cf1 \i0 
+ (upholding death sentence where jurors were instructed to avoid \u8220\'3fany influence of sympathy,\u8221\'3f because the claim was raised on federal habeas and a ruling for the petitioner would constitute a \u8220\'3fnew rule\u8221\'3f of constitutional law); 
+}
+{\field {\*\fldinst HYPERLINK "http://www.westlaw.com/Link/Document/FullText?findType=Y&serNum=1990043795&pubNum=708&originatingDoc=I60e7effe9c5011d9bc61beebb95be672&refType=RP&originationContext=document&vr=3.0&rs=cblt1.0&transitionType=DocumentItem&contextData=(sc.Search)" }{\fldrslt 
+{\f2 \b0 \fs18 \cf5 \i1 
+{\f2 \strike0 \ul0 \b0 \sa0 \sb0 \fs18 \cf5 \i1 
+Boyde v. California,
+}
+}
+{\f2 \strike0 \ul0 \b0 \sa0 \sb0 \fs18 \cf5 \i0 
+ 494 U.S. 370, 110 S.Ct. 1190, 108 L.Ed.2d 316 (1990)
+}\f2 \strike0 \ul0 \b0 \sa0 \sb0 \fs18 \cf5 \i0 }}
+{\f2 \strike0 \ul0 \b0 \sa0 \sb0 \fs18 \cf1 \i0 
+ (upholding death sentence where jurors reasonably may have believed that they could not consider the defendant\rquote s mitigating evidence regarding his character and background); 
+}
+{\field {\*\fldinst HYPERLINK "http://www.westlaw.com/Link/Document/FullText?findType=Y&serNum=1990098000&pubNum=708&originatingDoc=I60e7effe9c5011d9bc61beebb95be672&refType=RP&originationContext=document&vr=3.0&rs=cblt1.0&transitionType=DocumentItem&contextData=(sc.Search)" }{\fldrslt 
+{\f2 \b0 \fs18 \cf5 \i1 
+{\f2 \strike0 \ul0 \b0 \sa0 \sb0 \fs18 \cf5 \i1 
+Walton v. Arizona,
+}
+}
+{\f2 \strike0 \ul0 \b0 \sa0 \sb0 \fs18 \cf5 \i0 
+ 497 U.S. 639, 110 S.Ct. 3047, 111 L.Ed.2d 511 (1990)
+}\f2 \strike0 \ul0 \b0 \sa0 \sb0 \fs18 \cf5 \i0 }}
+{\f2 \strike0 \ul0 \b0 \sa0 \sb0 \fs18 \cf1 \i0 
+ (affirming placement upon the defendant of the burden to establish mitigating circumstances sufficient to call for leniency).
+\par 
+}
+}
+{\li0 \f2 \qj \b0 \ri0 \fs18 \cf1 \i0 
+{\li180 \f2 \qj \b0 \ri0 \fs18 \cf1 \i0 
+{\f2 \strike0 \ul0 \b0 \sa0 \sb0 \fs18 \cf1 \i0 
+The Court has also refused to hold the death penalty unconstitutional 
+}
+{\f2 \b0 \fs18 \cf1 \i1 
+{\f2 \strike0 \ul0 \b0 \sa0 \sb0 \fs18 \cf1 \i1 
+per se
+}
+}
+{\f2 \strike0 \ul0 \b0 \sa0 \sb0 \fs18 \cf1 \i0 
+ for juveniles, see 
+}
+{\field {\*\fldinst HYPERLINK "http://www.westlaw.com/Link/Document/FullText?findType=Y&serNum=1989094485&pubNum=708&originatingDoc=I60e7effe9c5011d9bc61beebb95be672&refType=RP&originationContext=document&vr=3.0&rs=cblt1.0&transitionType=DocumentItem&contextData=(sc.Search)" }{\fldrslt 
+{\f2 \b0 \fs18 \cf5 \i1 
+{\f2 \strike0 \ul0 \b0 \sa0 \sb0 \fs18 \cf5 \i1 
+Stanford v. Kentucky,
+}
+}
+{\f2 \strike0 \ul0 \b0 \sa0 \sb0 \fs18 \cf5 \i0 
+ 492 U.S. 361, 109 S.Ct. 2969, 106 L.Ed.2d 306 (1989)
+}\f2 \strike0 \ul0 \b0 \sa0 \sb0 \fs18 \cf5 \i0 }}
+{\f2 \strike0 \ul0 \b0 \sa0 \sb0 \fs18 \cf1 \i0 
+, and the mentally retarded, see 
+}
+{\field {\*\fldinst HYPERLINK "http://www.westlaw.com/Link/Document/FullText?findType=Y&serNum=1989094482&pubNum=708&originatingDoc=I60e7effe9c5011d9bc61beebb95be672&refType=RP&originationContext=document&vr=3.0&rs=cblt1.0&transitionType=DocumentItem&contextData=(sc.Search)" }{\fldrslt 
+{\f2 \b0 \fs18 \cf5 \i1 
+{\f2 \strike0 \ul0 \b0 \sa0 \sb0 \fs18 \cf5 \i1 
+Penry v. Lynaugh,
+}
+}
+{\f2 \strike0 \ul0 \b0 \sa0 \sb0 \fs18 \cf5 \i0 
+ 492 U.S. 302, 109 S.Ct. 2934, 106 L.Ed.2d 256 (1989)
+}\f2 \strike0 \ul0 \b0 \sa0 \sb0 \fs18 \cf5 \i0 }}
+{\f2 \strike0 \ul0 \b0 \sa0 \sb0 \fs18 \cf1 \i0 
+.
+\par 
+}
+}
+}
+}
+}
+}\f2 \li180 \strike0 \ul0 \b0 \qj \sa0 \sb0 \fs18 \ri0 \cf1 \i0 \intbl \cell \row }}\par 
+}
+{\li0 \f2 \qj \b0 \ri0 \fs20 \cf1 \i0 {
+{\trowd \lastrow \trleft0 
+\clbrdrt \clbrdrb \clbrdrl \trql \clvertalt \clwWidth600 \cellx600 
+\clpadb90 \clpadfb3 \clpadl90 \clpadfl3 \clbrdrt \clbrdrb \clbrdrr \trql \clwWidth9480 \cellx10080 
+\intbl 
+{\li0 \ri0 
+{\li0 \f2 \b0 \ql \ri0 \fs20 \cf1 \i0 
+{\f2 \b0 \fs20 \cf1 \i0 
+{\*\bkmkstart co_footnote_B00771993241434_1}{\*\bkmkend co_footnote_B00771993241434_1}
+{\field {\*\fldinst HYPERLINK "#co_footnoteReference_B00771993241434_ID0" }{\fldrslt 
+{\super \f2 \strike0 \ul0 \b0 \sa0 \sb0 \fs20 \cf5 \i0 
+7
+}\f2 \super \strike0 \ul0 \b0 \sa0 \sb0 \fs20 \cf5 \i0 }}
+\par 
+}
+}
+}\f2 \li0 \b0 \ql \fs20 \ri0 \cf1 \i0 \intbl \cell \intbl 
+{\li0 \ri0 
+{\li0 \f2 \qj \b0 \ri0 \fs18 \cf1 \i0 
+{\li0 \f2 \qj \b0 \ri0 \fs18 \cf1 \i0 
+{\li0 \f2 \qj \b0 \ri0 \fs18 \cf1 \i0 
+{\f2 \strike0 \ul0 \b0 \sa0 \sb0 \fs18 \cf1 \i0 
+See 
+}
+{\field {\*\fldinst HYPERLINK "http://www.westlaw.com/Link/Document/FullText?findType=Y&serNum=1993075902&pubNum=708&originatingDoc=I60e7effe9c5011d9bc61beebb95be672&refType=RP&originationContext=document&vr=3.0&rs=cblt1.0&transitionType=DocumentItem&contextData=(sc.Search)" }{\fldrslt 
+{\f2 \b0 \fs18 \cf5 \i1 
+{\f2 \strike0 \ul0 \b0 \sa0 \sb0 \fs18 \cf5 \i1 
+Arave v. Creech,
+}
+}
+{\f2 \strike0 \ul0 \b0 \sa0 \sb0 \fs18 \cf5 \i0 
+ 507 U.S. 463, 113 S.Ct. 1534, 123 L.Ed.2d 188 (1993)
+}\f2 \strike0 \ul0 \b0 \sa0 \sb0 \fs18 \cf5 \i0 }}
+{\f2 \strike0 \ul0 \b0 \sa0 \sb0 \fs18 \cf1 \i0 
+ (holding that an Idaho statute, as interpreted by the Idaho Supreme Court, which authorizes the death penalty for those murderers who have displayed \u8220\'3futter disregard for human life,\u8221\'3f genuinely narrows the class of death-eligible defendants); 
+}
+{\field {\*\fldinst HYPERLINK "http://www.westlaw.com/Link/Document/FullText?findType=Y&serNum=1990098103&pubNum=708&originatingDoc=I60e7effe9c5011d9bc61beebb95be672&refType=RP&originationContext=document&vr=3.0&rs=cblt1.0&transitionType=DocumentItem&contextData=(sc.Search)" }{\fldrslt 
+{\f2 \b0 \fs18 \cf5 \i1 
+{\f2 \strike0 \ul0 \b0 \sa0 \sb0 \fs18 \cf5 \i1 
+Lewis v. Jeffers,
+}
+}
+{\f2 \strike0 \ul0 \b0 \sa0 \sb0 \fs18 \cf5 \i0 
+ 497 U.S. 764, 110 S.Ct. 3092, 111 L.Ed.2d 606 (1990)
+}\f2 \strike0 \ul0 \b0 \sa0 \sb0 \fs18 \cf5 \i0 }}
+{\f2 \strike0 \ul0 \b0 \sa0 \sb0 \fs18 \cf1 \i0 
+ (affirming lenient standard for the review of the constitutional adequacy of aggravating circumstances).
+\par 
+}
+}
+}
+}
+}\f2 \li0 \strike0 \ul0 \b0 \qj \sa0 \sb0 \fs18 \ri0 \cf1 \i0 \intbl \cell \row }}\par 
+}
+}
+{\li0 \f2 \qj \b0 \ri0 \fs20 \cf1 \i0 
+{\*\bkmkstart co_anchor_I9fcf6f47077411e498db8b09b4f04}{\*\bkmkend co_anchor_I9fcf6f47077411e498db8b09b4f04}
+\par 
+{\li0 \f2 \b1 \ri0 \fs20 \cf1 \qc \i0 
+{\f2 \b1 \fs20 \cf1 \i0 
+{\f2 \strike0 \ul0 \b1 \sa200 \sb400 \fs20 \cf1 \i0 
+II
+\par 
+}
+}
+}
+{\li0 \f2 \qj \b0 \ri0 \fs20 \cf1 \i0 
+{\li0 \f2 \qj \b0 \ri0 \fs20 \cf1 \i0 
+{\f2 \strike0 \ul0 \b0 \sa0 \sb0 \fs20 \cf1 \i0 
+My belief that this Court would not enforce the death penalty (even if it could) in accordance with the Constitution is buttressed by the Court\rquote s \u8220\'3fobvious eagerness to do away with any restriction on the States\rquote  power to execute whomever and however they please.\u8221\'3f 
+}
+{\field {\*\fldinst HYPERLINK "http://www.westlaw.com/Link/Document/FullText?findType=Y&serNum=1993032784&pubNum=708&originatingDoc=I60e7effe9c5011d9bc61beebb95be672&refType=RP&fi=co_pp_sp_708_884&originationContext=document&vr=3.0&rs=cblt1.0&transitionType=DocumentItem&contextData=(sc.Search)#co_pp_sp_708_884" }{\fldrslt 
+{\f2 \b0 \fs20 \cf5 \i1 
+{\f2 \strike0 \ul0 \b0 \sa0 \sb0 \fs20 \cf5 \i1 
+Herrera v. Collins,
+}
+}
+{\f2 \strike0 \ul0 \b0 \sa0 \sb0 \fs20 \cf5 \i0 
+ 506 U.S. 390, 446, 113 S.Ct. 853, 884, 122 L.Ed.2d 203
+}}}
+{\f2 \strike0 \ul0 \b0 \sa0 \sb0 \fs20 \cf1 \i0 
+ (BLACKMUN, J., dissenting). I have explained at length on numerous occasions that my willingness to enforce the capital punishment statutes enacted by the States and the Federal Government, \u8220\'3fnotwithstanding my own deep moral reservations ... has always rested on an understanding that certain procedural safeguards, chief among them the Federal Judiciary\rquote s power to reach and correct claims of constitutional error on federal habeas review, would ensure that death sentences are fairly imposed.\u8221\'3f 
+}
+{\field {\*\fldinst HYPERLINK "http://www.westlaw.com/Link/Document/FullText?findType=Y&serNum=1992111891&pubNum=708&originatingDoc=I60e7effe9c5011d9bc61beebb95be672&refType=RP&fi=co_pp_sp_708_2529&originationContext=document&vr=3.0&rs=cblt1.0&transitionType=DocumentItem&contextData=(sc.Search)#co_pp_sp_708_2529" }{\fldrslt 
+{\f2 \b0 \fs20 \cf5 \i1 
+{\f2 \strike0 \ul0 \b0 \sa0 \sb0 \fs20 \cf5 \i1 
+Sawyer v. Whitley,
+}
+}
+{\f2 \strike0 \ul0 \b0 \sa0 \sb0 \fs20 \cf5 \i0 
+ 505 U.S. 333, 358, 112 S.Ct. 2514, 2529, 120 L.Ed.2d 269 (1992)
+}}}
+{\f2 \strike0 \ul0 \b0 \sa0 \sb0 \fs20 \cf1 \i0 
+ (BLACKMUN, J., concurring in judgment). See also 
+}
+{\field {\*\fldinst HYPERLINK "http://www.westlaw.com/Link/Document/FullText?findType=Y&serNum=1993032784&pubNum=708&originatingDoc=I60e7effe9c5011d9bc61beebb95be672&refType=RP&fi=co_pp_sp_708_880&originationContext=document&vr=3.0&rs=cblt1.0&transitionType=DocumentItem&contextData=(sc.Search)#co_pp_sp_708_880" }{\fldrslt 
+{\f2 \b0 \fs20 \cf5 \i1 
+{\f2 \strike0 \ul0 \b0 \sa0 \sb0 \fs20 \cf5 \i1 
+Herrera,
+}
+}
+{\f2 \strike0 \ul0 \b0 \sa0 \sb0 \fs20 \cf5 \i0 
+ 506 U.S., at 438\u8211\'3f439, 113 S.Ct., at 880\u8211\'3f881
+}}}
+{\f2 \strike0 \ul0 \b0 \sa0 \sb0 \fs20 \cf1 \i0 
+ (BLACKMUN, J., dissenting). In recent years, I have grown increasingly skeptical that \u8220\'3fthe death penalty really can be imposed fairly and in accordance with the requirements of the Eighth Amendment,\u8221\'3f given the now limited ability of the federal courts to remedy constitutional errors. 
+}
+{\field {\*\fldinst HYPERLINK "http://www.westlaw.com/Link/Document/FullText?findType=Y&serNum=1992111891&pubNum=708&originatingDoc=I60e7effe9c5011d9bc61beebb95be672&refType=RP&fi=co_pp_sp_708_2525&originationContext=document&vr=3.0&rs=cblt1.0&transitionType=DocumentItem&contextData=(sc.Search)#co_pp_sp_708_2525" }{\fldrslt 
+{\f2 \b0 \fs20 \cf5 \i1 
+{\f2 \strike0 \ul0 \b0 \sa0 \sb0 \fs20 \cf5 \i1 
+Sawyer,
+}
+}
+{\f2 \strike0 \ul0 \b0 \sa0 \sb0 \fs20 \cf5 \i0 
+ 505 U.S., at 351, 112 S.Ct., at 2525
+}}}
+{\f2 \strike0 \ul0 \b0 \sa0 \sb0 \fs20 \cf1 \i0 
+ (BLACKMUN, J., concurring in judgment).
+\par 
+}
+}
+}
+{\f2 \strike0 \ul0 \b0 \sa0 \sb0 \fs20 \cf1 \i0 
+\u160\'3f
+\par 
+}
+{\li0 \f2 \qj \b0 \ri0 \fs20 \cf1 \i0 
+{\li0 \f2 \qj \b0 \ri0 \fs20 \cf1 \i0 
+{\f2 \strike0 \ul0 \b0 \sa0 \sb0 \fs20 \cf1 \i0 
+Federal courts are required by statute to entertain petitions from state prisoners who allege that they are held \u8220\'3fin violation of the Constitution or laws or the treaties of the United States.\u8221\'3f 
+}
+{\field {\*\fldinst HYPERLINK "http://www.westlaw.com/Link/Document/FullText?findType=L&pubNum=1000546&cite=28USCAS2254&originatingDoc=I60e7effe9c5011d9bc61beebb95be672&refType=RB&originationContext=document&vr=3.0&rs=cblt1.0&transitionType=DocumentItem&contextData=(sc.Search)#co_pp_8b3b0000958a4" }{\fldrslt 
+{\f2 \strike0 \ul0 \b0 \sa0 \sb0 \fs20 \cf5 \i0 
+28 U.S.C. \u167\'3f 2254(a)
+}}}
+{\f2 \strike0 \ul0 \b0 \sa0 \sb0 \fs20 \cf1 \i0 
+. Serious review of these claims helps to ensure 
+}
+{\f2 \b1 \fs20 \cf1 \i0 
+{\*\bkmkstart co_pp_sp_708_1138_1}{\*\bkmkend co_pp_sp_708_1138_1}
+{\f2 \strike0 \ul0 \b1 \sa0 \sb0 \fs20 \cf1 \i0 
+**1138
+}
+}
+{\f2 \strike0 \ul0 \b0 \sa0 \sb0 \fs20 \cf1 \i0 
+ that government does not secure the penalty of death by 
+}
+{\f2 \b1 \fs20 \cf1 \i0 
+{\*\bkmkstart co_pp_sp_780_1158_1}{\*\bkmkend co_pp_sp_780_1158_1}
+{\f2 \strike0 \ul0 \b1 \sa0 \sb0 \fs20 \cf1 \i0 
+*1158
+}
+}
+{\f2 \strike0 \ul0 \b0 \sa0 \sb0 \fs20 \cf1 \i0 
+ depriving a defendant of his or her constitutional rights. At the time I voted with the majority to uphold the constitutionality of the death penalty in 
+}
+{\field {\*\fldinst HYPERLINK "http://www.westlaw.com/Link/Document/FullText?findType=Y&serNum=1976142447&pubNum=708&originatingDoc=I60e7effe9c5011d9bc61beebb95be672&refType=RP&fi=co_pp_sp_708_2950&originationContext=document&vr=3.0&rs=cblt1.0&transitionType=DocumentItem&contextData=(sc.Search)#co_pp_sp_708_2950" }{\fldrslt 
+{\f2 \b0 \fs20 \cf5 \i1 
+{\f2 \strike0 \ul0 \b0 \sa0 \sb0 \fs20 \cf5 \i1 
+Gregg v. Georgia,
+}
+}
+{\f2 \strike0 \ul0 \b0 \sa0 \sb0 \fs20 \cf5 \i0 
+ 428 U.S., at 227, 96 S.Ct., at 2950,
+}}}
+{\f2 \strike0 \ul0 \b0 \sa0 \sb0 \fs20 \cf1 \i0 
+ federal courts possessed much broader authority than they do today to address claims of constitutional error on habeas review. In 1976, there were few procedural barriers to the Federal Judiciary\rquote s review of a State\rquote s capital sentencing scheme, or the fairness and reliability of a State\rquote s decision to impose death in a particular case. Since then, however, the Court has \u8220\'3ferected unprecedented and unwarranted barriers\u8221\'3f to the Federal Judiciary\rquote s review of the constitutional claims of capital defendants. 
+}
+{\field {\*\fldinst HYPERLINK "http://www.westlaw.com/Link/Document/FullText?findType=Y&serNum=1992111891&pubNum=708&originatingDoc=I60e7effe9c5011d9bc61beebb95be672&refType=RP&fi=co_pp_sp_708_2525&originationContext=document&vr=3.0&rs=cblt1.0&transitionType=DocumentItem&contextData=(sc.Search)#co_pp_sp_708_2525" }{\fldrslt 
+{\f2 \b0 \fs20 \cf5 \i1 
+{\f2 \strike0 \ul0 \b0 \sa0 \sb0 \fs20 \cf5 \i1 
+Sawyer,
+}
+}
+{\f2 \strike0 \ul0 \b0 \sa0 \sb0 \fs20 \cf5 \i0 
+ 505 U.S., at 351, 112 S.Ct., at 2525
+}}}
+{\f2 \strike0 \ul0 \b0 \sa0 \sb0 \fs20 \cf1 \i0 
+ (BLACKMUN, J., concurring in judgment). See, 
+}
+{\f2 \b0 \fs20 \cf1 \i1 
+{\f2 \strike0 \ul0 \b0 \sa0 \sb0 \fs20 \cf1 \i1 
+e.g., Herrera v. Collins, supra; 
+}
+}
+{\field {\*\fldinst HYPERLINK "http://www.westlaw.com/Link/Document/FullText?findType=Y&serNum=1991113585&pubNum=708&originatingDoc=I60e7effe9c5011d9bc61beebb95be672&refType=RP&originationContext=document&vr=3.0&rs=cblt1.0&transitionType=DocumentItem&contextData=(sc.Search)" }{\fldrslt 
+{\f2 \b0 \fs20 \cf5 \i1 
+{\f2 \strike0 \ul0 \b0 \sa0 \sb0 \fs20 \cf5 \i1 
+Coleman v. Thompson,
+}
+}
+{\f2 \strike0 \ul0 \b0 \sa0 \sb0 \fs20 \cf5 \i0 
+ 501 U.S. 722, 111 S.Ct. 2546, 115 L.Ed.2d 640 (1991)
+}}}
+{\f2 \strike0 \ul0 \b0 \sa0 \sb0 \fs20 \cf1 \i0 
+; 
+}
+{\field {\*\fldinst HYPERLINK "http://www.westlaw.com/Link/Document/FullText?findType=Y&serNum=1991074185&pubNum=708&originatingDoc=I60e7effe9c5011d9bc61beebb95be672&refType=RP&originationContext=document&vr=3.0&rs=cblt1.0&transitionType=DocumentItem&contextData=(sc.Search)" }{\fldrslt 
+{\f2 \b0 \fs20 \cf5 \i1 
+{\f2 \strike0 \ul0 \b0 \sa0 \sb0 \fs20 \cf5 \i1 
+McCleskey v. Zant,
+}
+}
+{\f2 \strike0 \ul0 \b0 \sa0 \sb0 \fs20 \cf5 \i0 
+ 499 U.S. 467, 111 S.Ct. 1454, 113 L.Ed.2d 517 (1991)
+}}}
+{\f2 \strike0 \ul0 \b0 \sa0 \sb0 \fs20 \cf1 \i0 
+; 
+}
+{\field {\*\fldinst HYPERLINK "http://www.westlaw.com/Link/Document/FullText?findType=Y&serNum=1992083250&pubNum=708&originatingDoc=I60e7effe9c5011d9bc61beebb95be672&refType=RP&originationContext=document&vr=3.0&rs=cblt1.0&transitionType=DocumentItem&contextData=(sc.Search)" }{\fldrslt 
+{\f2 \b0 \fs20 \cf5 \i1 
+{\f2 \strike0 \ul0 \b0 \sa0 \sb0 \fs20 \cf5 \i1 
+Keeney v. Tamayo\u8211\'3fReyes,
+}
+}
+{\f2 \strike0 \ul0 \b0 \sa0 \sb0 \fs20 \cf5 \i0 
+ 504 U.S. 1, 112 S.Ct. 1715, 118 L.Ed.2d 318 (1992)
+}}}
+{\f2 \strike0 \ul0 \b0 \sa0 \sb0 \fs20 \cf1 \i0 
+ (overruling 
+}
+{\field {\*\fldinst HYPERLINK "http://www.westlaw.com/Link/Document/FullText?findType=Y&serNum=1963125309&pubNum=708&originatingDoc=I60e7effe9c5011d9bc61beebb95be672&refType=RP&originationContext=document&vr=3.0&rs=cblt1.0&transitionType=DocumentItem&contextData=(sc.Search)" }{\fldrslt 
+{\f2 \b0 \fs20 \cf5 \i1 
+{\f2 \strike0 \ul0 \b0 \sa0 \sb0 \fs20 \cf5 \i1 
+Townsend v. Sain,
+}
+}
+{\f2 \strike0 \ul0 \b0 \sa0 \sb0 \fs20 \cf5 \i0 
+ 372 U.S. 293, 83 S.Ct. 745, 9 L.Ed.2d 770 (1963)
+}}}
+{\f2 \strike0 \ul0 \b0 \sa0 \sb0 \fs20 \cf1 \i0 
+, in part); 
+}
+{\field {\*\fldinst HYPERLINK "http://www.westlaw.com/Link/Document/FullText?findType=Y&serNum=1989027119&pubNum=708&originatingDoc=I60e7effe9c5011d9bc61beebb95be672&refType=RP&originationContext=document&vr=3.0&rs=cblt1.0&transitionType=DocumentItem&contextData=(sc.Search)" }{\fldrslt 
+{\f2 \b0 \fs20 \cf5 \i1 
+{\f2 \strike0 \ul0 \b0 \sa0 \sb0 \fs20 \cf5 \i1 
+Teague v. Lane,
+}
+}
+{\f2 \strike0 \ul0 \b0 \sa0 \sb0 \fs20 \cf5 \i0 
+ 489 U.S. 288, 109 S.Ct. 1060, 103 L.Ed.2d 334 (1989)
+}}}
+{\f2 \strike0 \ul0 \b0 \sa0 \sb0 \fs20 \cf1 \i0 
+; 
+}
+{\field {\*\fldinst HYPERLINK "http://www.westlaw.com/Link/Document/FullText?findType=Y&serNum=1990043798&pubNum=708&originatingDoc=I60e7effe9c5011d9bc61beebb95be672&refType=RP&originationContext=document&vr=3.0&rs=cblt1.0&transitionType=DocumentItem&contextData=(sc.Search)" }{\fldrslt 
+{\f2 \b0 \fs20 \cf5 \i1 
+{\f2 \strike0 \ul0 \b0 \sa0 \sb0 \fs20 \cf5 \i1 
+Butler v. McKellar,
+}
+}
+{\f2 \strike0 \ul0 \b0 \sa0 \sb0 \fs20 \cf5 \i0 
+ 494 U.S. 407, 110 S.Ct. 1212, 108 L.Ed.2d 347 (1990)
+}}}
+{\f2 \strike0 \ul0 \b0 \sa0 \sb0 \fs20 \cf1 \i0 
+.
+\par 
+}
+}
+}
+{\f2 \strike0 \ul0 \b0 \sa0 \sb0 \fs20 \cf1 \i0 
+\u160\'3f
+\par 
+}
+{\li0 \f2 \qj \b0 \ri0 \fs20 \cf1 \i0 
+{\li0 \f2 \qj \b0 \ri0 \fs20 \cf1 \i0 
+{\f2 \strike0 \ul0 \b0 \sa0 \sb0 \fs20 \cf1 \i0 
+The Court\rquote s refusal last Term to afford Leonel Torres Herrera an evidentiary hearing, despite his colorable showing of actual innocence, demonstrates just how far afield the Court has strayed from its statutorily and constitutionally imposed obligations. See 
+}
+{\field {\*\fldinst HYPERLINK "http://www.westlaw.com/Link/Document/FullText?findType=Y&serNum=1993032784&originatingDoc=I60e7effe9c5011d9bc61beebb95be672&refType=RP&originationContext=document&vr=3.0&rs=cblt1.0&transitionType=DocumentItem&contextData=(sc.Search)" }{\fldrslt 
+{\f2 \b0 \fs20 \cf5 \i1 
+{\f2 \strike0 \ul0 \b0 \sa0 \sb0 \fs20 \cf5 \i1 
+Herrera v. Collins, supra.
+}
+}}}
+{\f2 \strike0 \ul0 \b0 \sa0 \sb0 \fs20 \cf1 \i0 
+ In 
+}
+{\field {\*\fldinst HYPERLINK "http://www.westlaw.com/Link/Document/FullText?findType=Y&serNum=1993032784&originatingDoc=I60e7effe9c5011d9bc61beebb95be672&refType=RP&originationContext=document&vr=3.0&rs=cblt1.0&transitionType=DocumentItem&contextData=(sc.Search)" }{\fldrslt 
+{\f2 \b0 \fs20 \cf5 \i1 
+{\f2 \strike0 \ul0 \b0 \sa0 \sb0 \fs20 \cf5 \i1 
+Herrera,
+}
+}}}
+{\f2 \strike0 \ul0 \b0 \sa0 \sb0 \fs20 \cf1 \i0 
+ only a bare majority of this Court could bring itself to state forthrightly that the execution of an actually innocent person violates the Eighth Amendment. This concession was made only in the course of erecting nearly insurmountable barriers to a defendant\rquote s ability to get a hearing on a claim of actual innocence. 
+}
+{\field {\*\fldinst HYPERLINK "http://www.westlaw.com/Link/Document/FullText?findType=Y&serNum=1993032784&originatingDoc=I60e7effe9c5011d9bc61beebb95be672&refType=RP&originationContext=document&vr=3.0&rs=cblt1.0&transitionType=DocumentItem&contextData=(sc.Search)" }{\fldrslt 
+{\f2 \b0 \fs20 \cf5 \i1 
+{\f2 \strike0 \ul0 \b0 \sa0 \sb0 \fs20 \cf5 \i1 
+Ibid.
+}
+}}}
+{\f2 \strike0 \ul0 \b0 \sa0 \sb0 \fs20 \cf1 \i0 
+ Certainly there will be individuals who are actually innocent who will be unable to make a better showing than what was made by Herrera without the benefit of an evidentiary hearing.
+}
+{\f2 \b0 \fs16 \cf1 \i0 
+{\*\bkmkstart co_footnoteReference_B00881993241434_ID0}{\*\bkmkend co_footnoteReference_B00881993241434_ID0}
+{\field {\*\fldinst HYPERLINK "#co_footnote_B00881993241434_1" }{\fldrslt 
+{\super \f2 \strike0 \ul0 \b0 \sa0 \sb0 \fs16 \cf5 \i0 
+8
+}}}
+}
+{\f2 \strike0 \ul0 \b0 \sa0 \sb0 \fs20 \cf1 \i0 
+ The Court is unmoved by this dilemma, however; it prefers \u8220\'3ffinality\u8221\'3f in death sentences to reliable determinations of a capital defendant\rquote s guilt. Because I no longer can state with any confidence that this Court is able to reconcile the Eighth Amendment\rquote s competing constitutional commands, or that the Federal Judiciary will provide meaningful 
+}
+{\f2 \b1 \fs20 \cf1 \i0 
+{\*\bkmkstart co_pp_sp_780_1159_1}{\*\bkmkend co_pp_sp_780_1159_1}
+{\f2 \strike0 \ul0 \b1 \sa0 \sb0 \fs20 \cf1 \i0 
+*1159
+}
+}
+{\f2 \strike0 \ul0 \b0 \sa0 \sb0 \fs20 \cf1 \i0 
+ oversight to the state courts as they exercise their authority to inflict the penalty of death, I believe that the death penalty, as currently administered, is unconstitutional.
+\par 
+}
+}
+}
+{\f2 \strike0 \ul0 \b0 \sa0 \sb0 \fs20 \cf1 \i0 
+\u160\'3f
+\par 
+}
+{\li0 \f2 \qj \b0 \ri0 \fs20 \cf1 \i0 {
+{\trowd \lastrow \trleft0 
+\clbrdrt \clbrdrb \clbrdrl \trql \clvertalt \clwWidth600 \cellx600 
+\clpadb90 \clpadfb3 \clpadl90 \clpadfl3 \clbrdrt \clbrdrb \clbrdrr \trql \clwWidth9480 \cellx10080 
+\intbl 
+{\li0 \ri0 
+{\li0 \f2 \b0 \ql \ri0 \fs20 \cf1 \i0 
+{\f2 \b0 \fs20 \cf1 \i0 
+{\*\bkmkstart co_footnote_B00881993241434_1}{\*\bkmkend co_footnote_B00881993241434_1}
+{\field {\*\fldinst HYPERLINK "#co_footnoteReference_B00881993241434_ID0" }{\fldrslt 
+{\super \f2 \strike0 \ul0 \b0 \sa0 \sb0 \fs20 \cf5 \i0 
+8
+}\f2 \super \strike0 \ul0 \b0 \sa0 \sb0 \fs20 \cf5 \i0 }}
+\par 
+}
+}
+}\f2 \li0 \b0 \ql \fs20 \ri0 \cf1 \i0 \intbl \cell \intbl 
+{\li0 \ri0 
+{\li0 \f2 \qj \b0 \ri0 \fs18 \cf1 \i0 
+{\li0 \f2 \qj \b0 \ri0 \fs18 \cf1 \i0 
+{\li0 \f2 \qj \b0 \ri0 \fs18 \cf1 \i0 
+{\f2 \strike0 \ul0 \b0 \sa0 \sb0 \fs18 \cf1 \i0 
+Even the most sophisticated death penalty schemes are unable to prevent human error from condemning the innocent. Innocent persons 
+}
+{\f2 \b0 \fs18 \cf1 \i1 
+{\f2 \strike0 \ul0 \b0 \sa0 \sb0 \fs18 \cf1 \i1 
+have
+}
+}
+{\f2 \strike0 \ul0 \b0 \sa0 \sb0 \fs18 \cf1 \i0 
+ been executed, see 
+}
+{\field {\*\fldinst HYPERLINK "http://www.westlaw.com/Link/Document/FullText?findType=Y&serNum=0103580990&pubNum=1239&originatingDoc=I60e7effe9c5011d9bc61beebb95be672&refType=LR&fi=co_pp_sp_1239_36&originationContext=document&vr=3.0&rs=cblt1.0&transitionType=DocumentItem&contextData=(sc.Search)#co_pp_sp_1239_36" }{\fldrslt 
+{\f2 \strike0 \ul0 \b0 \sa0 \sb0 \fs18 \cf5 \i0 
+Bedau & Radelet, Miscarriages of Justice in Potentially Capital Cases, 40 Stan.L.Rev. 21, 36, 173\u8211\'3f179 (1987)
+}\f2 \strike0 \ul0 \b0 \sa0 \sb0 \fs18 \cf5 \i0 }}
+{\f2 \strike0 \ul0 \b0 \sa0 \sb0 \fs18 \cf1 \i0 
+, perhaps recently, see 
+}
+{\field {\*\fldinst HYPERLINK "http://www.westlaw.com/Link/Document/FullText?findType=Y&serNum=1993032784&pubNum=708&originatingDoc=I60e7effe9c5011d9bc61beebb95be672&refType=RP&originationContext=document&vr=3.0&rs=cblt1.0&transitionType=DocumentItem&contextData=(sc.Search)" }{\fldrslt 
+{\f2 \b0 \fs18 \cf5 \i1 
+{\f2 \strike0 \ul0 \b0 \sa0 \sb0 \fs18 \cf5 \i1 
+Herrera v. Collins,
+}
+}
+{\f2 \strike0 \ul0 \b0 \sa0 \sb0 \fs18 \cf5 \i0 
+ 506 U.S. 390, 113 S.Ct. 853, 122 L.Ed.2d 203 (1993),
+}\f2 \strike0 \ul0 \b0 \sa0 \sb0 \fs18 \cf5 \i0 }}
+{\f2 \strike0 \ul0 \b0 \sa0 \sb0 \fs18 \cf1 \i0 
+ and will continue to be executed under our death penalty scheme.
+\par 
+}
+}
+}
+}
+}\f2 \li0 \strike0 \ul0 \b0 \qj \sa0 \sb0 \fs18 \ri0 \cf1 \i0 \intbl \cell \row }}\par 
+}
+}
+{\li0 \f2 \qj \b0 \ri0 \fs20 \cf1 \i0 
+{\*\bkmkstart co_anchor_I9fcf6f48077411e498db8b09b4f04}{\*\bkmkend co_anchor_I9fcf6f48077411e498db8b09b4f04}
+\par 
+{\li0 \f2 \b1 \ri0 \fs20 \cf1 \qc \i0 
+{\f2 \b1 \fs20 \cf1 \i0 
+{\f2 \strike0 \ul0 \b1 \sa200 \sb400 \fs20 \cf1 \i0 
+III
+\par 
+}
+}
+}
+{\li0 \f2 \qj \b0 \ri0 \fs20 \cf1 \i0 
+{\li0 \f2 \qj \b0 \ri0 \fs20 \cf1 \i0 
+{\f2 \strike0 \ul0 \b0 \sa0 \sb0 \fs20 \cf1 \i0 
+Perhaps one day this Court will develop procedural rules or verbal formulas that actually will provide consistency, fairness, and reliability in a capital sentencing scheme. I am not optimistic that such a day will come. I am more optimistic, though, that this Court eventually will conclude that the effort to eliminate arbitrariness while preserving fairness \u8220\'3fin the infliction of [death] is so plainly doomed to failure that it\u8212\'3fand the death penalty\u8212\'3fmust be abandoned altogether.\u8221\'3f 
+}
+{\field {\*\fldinst HYPERLINK "http://www.westlaw.com/Link/Document/FullText?findType=Y&serNum=1980116745&pubNum=708&originatingDoc=I60e7effe9c5011d9bc61beebb95be672&refType=RP&fi=co_pp_sp_708_1772&originationContext=document&vr=3.0&rs=cblt1.0&transitionType=DocumentItem&contextData=(sc.Search)#co_pp_sp_708_1772" }{\fldrslt 
+{\f2 \b0 \fs20 \cf5 \i1 
+{\f2 \strike0 \ul0 \b0 \sa0 \sb0 \fs20 \cf5 \i1 
+Godfrey v. Georgia,
+}
+}
+{\f2 \strike0 \ul0 \b0 \sa0 \sb0 \fs20 \cf5 \i0 
+ 446 U.S. 420, 442, 100 S.Ct. 1759, 1772, 64 L.Ed.2d 398 (1980)
+}}}
+{\f2 \strike0 \ul0 \b0 \sa0 \sb0 \fs20 \cf1 \i0 
+ (Marshall, J., concurring in judgment). I may not live to see that day, but I have faith that eventually it will arrive. The path the Court has chosen lessens us all. I dissent.
+\par 
+}
+}
+}
+{\f2 \strike0 \ul0 \b0 \sa0 \sb0 \fs20 \cf1 \i0 
+\u160\'3f
+\par 
+}
+}
+}
+}
+}
+}
+{\li0 \f2 \qj \b0 \ri0 \fs20 \cf1 \i0 
+{\li0 \f2 \qj \b1 \ri0 \fs20 \cf19 \i0 
+{\*\bkmkstart co_allCitations_1}{\*\bkmkend co_allCitations_1}
+{\f2 \strike0 \ul0 \b1 \sa200 \sb400 \fs20 \cf19 \i0 
+All Citations
+\par 
+}
+}
+{\f2 \strike0 \ul0 \b0 \sa0 \sb0 \fs20 \cf1 \i0 
+510 U.S. 1141, 114 S.Ct. 1127 (Mem), 127 L.Ed.2d 435, 62 USLW 3546
+\par 
+}
+}
+{\li0 \f2 \qj \b0 \ri0 \fs20 \cf1 \i0 {
+{\trowd \lastrow \trleft0 
+\clpadt24 \clpadft3 \clpadl100 \clpadfl3 \clpadr24 \clpadfr3 \clbrdrt \brdrw10 \brdrcf21 \brdrs \clbrdrb \clbrdrl \trql \clwWidth4320 \cellx4320 
+\clpadt24 \clpadft3 \clpadl100 \clpadfl3 \clpadr24 \clpadfr3 \clbrdrt \brdrw10 \brdrcf21 \brdrs \clbrdrb \clbrdrr \trql \clwWidth5760 \cellx10080 
+\intbl 
+{\li24 \ri24 
+{\li24 \f2 \b1 \ql \ri24 \fs16 \cf21 \i0 
+{\f2 \strike0 \ul0 \b1 \sa0 \sb0 \fs16 \cf21 \i0 
+End of Document
+\par 
+}
+}
+}\f2 \li24 \strike0 \ul0 \b1 \sa0 \ql \sb0 \fs16 \ri24 \cf21 \i0 \intbl \cell \intbl 
+{\li24 \ri24 
+{\li24 \f2 \b0 \ri24 \fs16 \cf21 \qr \i0 
+{\f2 \strike0 \ul0 \b0 \sa0 \sb0 \fs16 \cf21 \i0 
+\u169\'3f 2015 Thomson Reuters. No claim to original U.S. Government Works.
+\par 
+}
+}
+}\f2 \li24 \strike0 \ul0 \b0 \sa0 \sb0 \fs16 \ri24 \cf21 \i0 \qr \intbl \cell \row }}\par 
+}
+}\sect }
